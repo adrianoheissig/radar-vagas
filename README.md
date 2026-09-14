@@ -199,4 +199,4 @@ Só entram vagas com **score ≥ 30**. Os pesos ficam em `collector/config.py`, 
 
 - **Gupy:** o endpoint `portal.api.gupy.io/api/job` responde 404. O coletor usa `employability-portal.gupy.io/api/v1/jobs`, o mesmo que o portal usa hoje. Não é uma API documentada; se quebrar, veja no DevTools (aba Network) qual URL o portal chama.
 - **InfoJobs:** o HTML da busca vem renderizado do servidor, então a fonte está ativa. Se passar a exigir JavaScript, desative-a em `FONTES_ATIVAS` e siga as instruções no topo de `collector/sources/infojobs.py` para migrar para Playwright.
-- O `docs/data/vagas.json` inicial tem **5 vagas fictícias** (links para `example.com`) só para o painel funcionar antes da primeira coleta. A primeira execução real mistura essas vagas com as reais, e as fictícias expiram sozinhas. Se preferir, apague o arquivo antes de rodar a primeira coleta.
+- O `docs/data/vagas.json` é gerado pelo coletor. Se o arquivo não existir, a próxima coleta cria um novo do zero.

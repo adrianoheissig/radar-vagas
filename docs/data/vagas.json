@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-14T20:33:08Z",
-  "total": 142,
+  "atualizado_em": "2026-09-14T20:38:47Z",
+  "total": 137,
   "vagas": [
     {
       "id": "20cd07ab2ae0db87807665be8e500daca584e40d",
@@ -29,36 +29,6 @@
       "descricao": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Responsabilidades e atribuiçõesConheça o nosso time: O time entrega valor diretamente para os usuários da VDI, especialmente assistentes comerciais dentro do Espaço do Revendedor do Grupo Boticário e de franqueados.Como será o seu dia a dia:Proponha e construa soluções contemplando as diferentes disciplinas do ciclo de desenvolvimento com foco em atender requisitos não funcionais e otimizar custos;Envolvimento em discussões técnicas, apontando fatos e dados e na execução das arquiteturas desenhadas conforme priorização do time, usando sua opinião e experiência com critério;Crie ADRs / design docs para soluções do time;Garanta monitoramento ativo do ambiente…",
       "score": 90,
       "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "dd98baaa3a28c96330ce6cb7c8dbd44736e51de7",
-      "titulo": "Desenvolvedora Frontend Júnior (React + TypeScript)",
-      "empresa": "Empresa Fictícia Alfa",
-      "url": "https://example.com/vagas/ficticia-1",
-      "fonte": "exemplo",
-      "local": "Guarulhos, SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-13T12:00:00Z",
-      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Buscamos pessoa desenvolvedora frontend júnior para atuar em Guarulhos. Requisitos: React, TypeScript, HTML5, CSS e Git. Desejável: Figma e Firebase. Benefícios: VR, VT, plano de saúde.",
-      "score": 85,
-      "data_coleta": "2026-09-13T12:00:00Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "024544d89ebd09be52bb05a5f26d0265f5fcd32c",
-      "titulo": "Desenvolvedor Fullstack Pleno",
-      "empresa": "Empresa Fictícia Beta",
-      "url": "https://example.com/vagas/ficticia-2",
-      "fonte": "exemplo",
-      "local": "São Paulo, SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-12T15:30:00Z",
-      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Modelo híbrido (3x por semana na Av. Paulista). Stack: Angular, Node.js, TypeScript e MySQL. Você vai trabalhar em um produto B2B com squads ágeis.",
-      "score": 80,
-      "data_coleta": "2026-09-12T15:30:00Z",
       "ultima_vista": "2026-09-14",
       "expirada": false
     },
@@ -633,21 +603,6 @@
       "expirada": false
     },
     {
-      "id": "fd0cad66ccd7a722141251f677b2b3f7b8169ec1",
-      "titulo": "Desenvolvedora Web React",
-      "empresa": "Empresa Fictícia Épsilon",
-      "url": "https://example.com/vagas/ficticia-5",
-      "fonte": "exemplo",
-      "local": "São Paulo, SP",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-20T10:00:00Z",
-      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Vaga remota com React e Node. Esta vaga está marcada como expirada para demonstrar o filtro.",
-      "score": 55,
-      "data_coleta": "2026-08-20T10:00:00Z",
-      "ultima_vista": "2026-08-25",
-      "expirada": true
-    },
-    {
       "id": "ca69bf95e9f915012fb9795759f953758bdb519b",
       "titulo": "Desenvolvedor(a) .NET/Angular Pleno | IA & Spec-Driven - Exclusiva São Paulo",
       "empresa": "Confitec",
@@ -824,21 +779,6 @@
       "descricao": "Description Venha fazer a diferença com a gente! Estamos em busca de um(a) Desenvolvedor de Sistemas para fortalecer ainda mais o nosso time! Se você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você! Aqui na Cresol, crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e que…",
       "score": 50,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "74b51241f6e25933557bb9689c40f3b4677c2ac8",
-      "titulo": "Pessoa Desenvolvedora Fullstack",
-      "empresa": "Empresa Fictícia Gama",
-      "url": "https://example.com/vagas/ficticia-3",
-      "fonte": "exemplo",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-10T09:00:00Z",
-      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] 100% remoto. Buscamos alguém com experiência em Java e React, conhecimento em bancos relacionais e versionamento com Git.",
-      "score": 50,
-      "data_coleta": "2026-09-10T09:00:00Z",
       "ultima_vista": "2026-09-14",
       "expirada": false
     },
@@ -1379,21 +1319,6 @@
       "descricao": "Desenvolvedor.Net - NET | React | AWS?? Atuação 100% remota?? Modelo de contratação: CLT Benefícios Estamos em busca de um(a) Desenvolvedor(a) Full Stack para fazer parte de um time de alta performance no desenvolvimento de produtos inovadores para o setor bancário. Atividades a serem executadas:Desenvolver e manter aplicações web utilizando React, C# e . NETProjetar e implementar integrações com bancos de dados PostgreSQLConstruir e manter serviços em ambientes cloud (preferencialmente AWS), …",
       "score": 40,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "e33bdf747701d09bf5759e513a9b78295d939d30",
-      "titulo": "Desenvolvedor Angular Jr",
-      "empresa": "Empresa Fictícia Delta",
-      "url": "https://example.com/vagas/ficticia-4",
-      "fonte": "exemplo",
-      "local": "Campinas, SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-08T18:00:00Z",
-      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Atuação com Angular e consumo de APIs REST. Diferencial: noções de Firebase.",
-      "score": 40,
-      "data_coleta": "2026-09-08T18:00:00Z",
       "ultima_vista": "2026-09-14",
       "expirada": false
     },
