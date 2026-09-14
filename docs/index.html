@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f766e">
+  <meta name="robots" content="noindex">
+  <title>Radar de Vagas TI</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+  <!-- Vue 3 via CDN (build completa, com compilador de templates). Versão fixa. -->
+  <script src="https://unpkg.com/vue@3.5.13/dist/vue.global.prod.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div id="app" v-cloak>
+    <header class="topo">
+      <div class="topo__linha">
+        <h1 class="topo__titulo">📡 Radar de Vagas TI</h1>
+        <button class="btn-icone" type="button" @click="menuAberto = !menuAberto"
+                :aria-expanded="menuAberto" aria-label="Backup do status">⋯</button>
+      </div>
+      <p class="topo__meta" v-if="atualizadoEm">
+        Atualizado {{ formatarRelativo(atualizadoEm) }}
+        <span class="topo__data">({{ formatarDataHora(atualizadoEm) }})</span>
+        · {{ vagas.length }} vagas
+      </p>
+
+      <div class="menu" v-if="menuAberto">
+        <p class="menu__texto">
+          O status das vagas fica salvo só neste navegador.
+          Exporte para levar a outro dispositivo.
+        </p>
+        <div class="menu__acoes">
+          <button type="button" class="btn btn--secundario" @click="exportarStatus">⬇ Exportar status</button>
+          <label class="btn btn--secundario">
+            ⬆ Importar status
+            <input type="file" accept="application/json,.json" hidden @change="importarStatus">
+          </label>
+        </div>
+        <p class="menu__aviso" v-if="mensagemMenu">{{ mensagemMenu }}</p>
+      </div>
+    </header>
+
+    <!-- Abas por status -->
+    <nav class="abas" aria-label="Filtrar por status">
+      <button v-for="aba in abas" :key="aba.valor" type="button"
+              class="aba" :class="{ 'aba--ativa': filtros.status === aba.valor }"
+              @click="filtros.status = aba.valor">
+        {{ aba.rotulo }} <span class="aba__contador">{{ contadores[aba.valor] }}</span>
+      </button>
+    </nav>
+
+    <!-- Filtros -->
+    <section class="filtros">
+      <input v-model.trim="filtros.texto" type="search" class="campo campo--busca"
+             placeholder="Buscar por título, empresa, local, descrição…" aria-label="Busca">
+      <button type="button" class="btn-filtros" @click="filtrosAbertos = !filtrosAbertos"
+              :aria-expanded="filtrosAbertos">
+        Filtros<span v-if="filtrosAtivos" class="btn-filtros__ponto">{{ filtrosAtivos }}</span>
+      </button>
+
+      <div class="filtros__painel" v-show="filtrosAbertos">
+        <label class="filtro">
+          <span>Modalidade</span>
+          <select v-model="filtros.modalidade" class="campo">
+            <option value="">Todas</option>
+            <option v-for="(rotulo, valor) in MODALIDADES" :key="valor" :value="valor">{{ rotulo }}</option>
+          </select>
+        </label>
+        <label class="filtro">
+          <span>Fonte</span>
+          <select v-model="filtros.fonte" class="campo">
+            <option value="">Todas</option>
+            <option v-for="f in fontes" :key="f" :value="f">{{ f }}</option>
+          </select>
+        </label>
+        <label class="filtro">
+          <span>Ordenar</span>
+          <select v-model="filtros.ordem" class="campo">
+            <option value="score">Maior score</option>
+            <option value="data">Mais recentes</option>
+          </select>
+        </label>
+        <label class="filtro filtro--largo">
+          <span>Score mínimo: <strong>{{ filtros.scoreMinimo }}</strong></span>
+          <input v-model.number="filtros.scoreMinimo" type="range" min="0" max="100" step="5">
+        </label>
+        <label class="filtro filtro--check">
+          <input v-model="filtros.ocultarExpiradas" type="checkbox">
+          <span>Ocultar expiradas</span>
+        </label>
+        <button type="button" class="link" @click="limparFiltros">Limpar filtros</button>
+      </div>
+    </section>
+
+    <main class="lista">
+      <p v-if="carregando" class="estado">Carregando vagas…</p>
+      <p v-else-if="erro" class="estado estado--erro">{{ erro }}</p>
+      <p v-else-if="!vagasFiltradas.length" class="estado">Nenhuma vaga com esses filtros.</p>
+
+      <article v-for="vaga in vagasVisiveis" :key="vaga.id" class="card"
+               :class="['card--' + statusDe(vaga.id), { 'card--expirada': vaga.expirada }]">
+        <div class="card__topo">
+          <div class="card__cabecalho">
+            <h2 class="card__titulo">{{ vaga.titulo }}</h2>
+            <p class="card__empresa">
+              {{ vaga.empresa || 'Empresa não informada' }}<template v-if="vaga.local"> · {{ vaga.local }}</template>
+            </p>
+          </div>
+          <div class="score" :class="classeScore(vaga.score)" :title="'Score ' + vaga.score + '/100'">
+            <strong>{{ vaga.score }}</strong>
+            <span class="score__barra"><span :style="{ width: vaga.score + '%' }"></span></span>
+          </div>
+        </div>
+
+        <div class="card__badges">
+          <span class="badge" :class="'badge--' + vaga.modalidade">{{ MODALIDADES[vaga.modalidade] || vaga.modalidade }}</span>
+          <span class="badge badge--fonte">{{ vaga.fonte }}</span>
+          <span v-if="vaga.expirada" class="badge badge--expirada">expirada</span>
+          <span class="card__data" v-if="vaga.data_publicacao" :title="formatarDataHora(vaga.data_publicacao)">
+            publicada {{ formatarRelativo(vaga.data_publicacao) }}
+          </span>
+        </div>
+
+        <div v-if="vaga.descricao" class="card__descricao"
+             :class="{ 'card__descricao--aberta': expandidas[vaga.id] }">
+          {{ vaga.descricao }}
+        </div>
+        <button v-if="vaga.descricao && vaga.descricao.length > 180" type="button" class="link"
+                @click="expandidas[vaga.id] = !expandidas[vaga.id]">
+          {{ expandidas[vaga.id] ? 'Ver menos' : 'Ver mais' }}
+        </button>
+
+        <div class="card__rodape">
+          <div class="status" role="group" aria-label="Status da vaga">
+            <button v-for="s in STATUS" :key="s.valor" type="button"
+                    class="status__btn" :class="['status__btn--' + s.valor, { 'status__btn--ativo': statusDe(vaga.id) === s.valor }]"
+                    :aria-pressed="statusDe(vaga.id) === s.valor"
+                    @click="definirStatus(vaga.id, s.valor)">
+              {{ s.icone }} <span>{{ s.rotulo }}</span>
+            </button>
+          </div>
+          <a class="btn btn--principal" :href="vaga.url" target="_blank" rel="noopener noreferrer">
+            Ver vaga ↗
+          </a>
+        </div>
+      </article>
+
+      <button v-if="vagasVisiveis.length < vagasFiltradas.length" type="button"
+              class="btn btn--secundario btn--mais" @click="limite += TAMANHO_PAGINA">
+        Mostrar mais ({{ vagasFiltradas.length - vagasVisiveis.length }} restantes)
+      </button>
+    </main>
+
+    <footer class="rodape">
+      O painel só lista vagas e leva ao link oficial. Candidate-se sempre pelo site de origem.
+    </footer>
+  </div>
+
+  <noscript>Este painel precisa de JavaScript habilitado.</noscript>
+</body>
+</html>

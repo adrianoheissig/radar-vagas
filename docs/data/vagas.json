@@ -1,0 +1,81 @@
+{
+  "atualizado_em": "2026-09-14T13:00:00Z",
+  "total": 5,
+  "vagas": [
+    {
+      "id": "dd98baaa3a28c96330ce6cb7c8dbd44736e51de7",
+      "titulo": "Desenvolvedora Frontend Júnior (React + TypeScript)",
+      "empresa": "Empresa Fictícia Alfa",
+      "url": "https://example.com/vagas/ficticia-1",
+      "fonte": "exemplo",
+      "local": "Guarulhos, SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-13T12:00:00Z",
+      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Buscamos pessoa desenvolvedora frontend júnior para atuar em Guarulhos. Requisitos: React, TypeScript, HTML5, CSS e Git. Desejável: Figma e Firebase. Benefícios: VR, VT, plano de saúde.",
+      "score": 85,
+      "data_coleta": "2026-09-13T12:00:00Z",
+      "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "024544d89ebd09be52bb05a5f26d0265f5fcd32c",
+      "titulo": "Desenvolvedor Fullstack Pleno",
+      "empresa": "Empresa Fictícia Beta",
+      "url": "https://example.com/vagas/ficticia-2",
+      "fonte": "exemplo",
+      "local": "São Paulo, SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-12T15:30:00Z",
+      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Modelo híbrido (3x por semana na Av. Paulista). Stack: Angular, Node.js, TypeScript e MySQL. Você vai trabalhar em um produto B2B com squads ágeis.",
+      "score": 80,
+      "data_coleta": "2026-09-12T15:30:00Z",
+      "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "fd0cad66ccd7a722141251f677b2b3f7b8169ec1",
+      "titulo": "Desenvolvedora Web React",
+      "empresa": "Empresa Fictícia Épsilon",
+      "url": "https://example.com/vagas/ficticia-5",
+      "fonte": "exemplo",
+      "local": "São Paulo, SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-20T10:00:00Z",
+      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Vaga remota com React e Node. Esta vaga está marcada como expirada para demonstrar o filtro.",
+      "score": 55,
+      "data_coleta": "2026-08-20T10:00:00Z",
+      "ultima_vista": "2026-08-25",
+      "expirada": true
+    },
+    {
+      "id": "74b51241f6e25933557bb9689c40f3b4677c2ac8",
+      "titulo": "Pessoa Desenvolvedora Fullstack",
+      "empresa": "Empresa Fictícia Gama",
+      "url": "https://example.com/vagas/ficticia-3",
+      "fonte": "exemplo",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-10T09:00:00Z",
+      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] 100% remoto. Buscamos alguém com experiência em Java e React, conhecimento em bancos relacionais e versionamento com Git.",
+      "score": 50,
+      "data_coleta": "2026-09-10T09:00:00Z",
+      "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "e33bdf747701d09bf5759e513a9b78295d939d30",
+      "titulo": "Desenvolvedor Angular Jr",
+      "empresa": "Empresa Fictícia Delta",
+      "url": "https://example.com/vagas/ficticia-4",
+      "fonte": "exemplo",
+      "local": "Campinas, SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-08T18:00:00Z",
+      "descricao": "[VAGA FICTÍCIA — exemplo para o painel] Atuação com Angular e consumo de APIs REST. Diferencial: noções de Firebase.",
+      "score": 40,
+      "data_coleta": "2026-09-08T18:00:00Z",
+      "ultima_vista": "2026-09-14",
+      "expirada": false
+    }
+  ]
+}

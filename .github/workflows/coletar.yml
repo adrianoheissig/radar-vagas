@@ -1,0 +1,60 @@
+name: Coletar vagas
+
+on:
+  schedule:
+    # Horários em UTC: 10h, 15h e 21h UTC = 7h, 12h e 18h em Brasília (UTC-3).
+    # O GitHub pode atrasar execuções agendadas em alguns minutos.
+    - cron: "0 10,15,21 * * *"
+  workflow_dispatch: # botão "Run workflow" na aba Actions
+
+# Necessário para o GITHUB_TOKEN conseguir fazer push do vagas.json.
+permissions:
+  contents: write
+
+# Evita duas coletas simultâneas brigando pelo mesmo arquivo.
+concurrency:
+  group: coletar-vagas
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements*.txt
+
+      - name: Instalar dependências
+        run: pip install -r requirements-dev.txt
+
+      - name: Testes
+        run: pytest -q
+
+      - name: Coletar vagas
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python -m collector.main
+
+      - name: Commit e push (somente se houver mudança)
+        run: |
+          if git diff --quiet -- docs/data/vagas.json; then
+            echo "Nenhuma mudança em docs/data/vagas.json — nada a commitar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/vagas.json
+          git commit -m "chore(dados): atualiza vagas $(date -u +'%Y-%m-%d %H:%M') UTC"
+          # Caso alguém tenha feito push durante a coleta.
+          git pull --rebase
+          git push

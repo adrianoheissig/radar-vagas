@@ -1,0 +1,25 @@
+# Desenvolvimento local.
+#
+#   docker compose up -d painel          # painel em http://localhost:8080
+#   docker compose run --rm coletor      # roda uma coleta e atualiza docs/data/vagas.json
+#   docker compose down                  # para tudo
+
+services:
+  coletor:
+    build: .
+    env_file:
+      - path: .env
+        required: false   # sem .env, só Gupy e InfoJobs rodam
+    volumes:
+      # Grava o JSON direto na pasta do projeto, que o painel lê.
+      - ./docs/data:/app/docs/data
+    # Não sobe junto com `docker compose up`; rode com `docker compose run`.
+    profiles: ["coleta"]
+
+  painel:
+    image: nginx:1.27-alpine
+    ports:
+      # Porta configurável: PAINEL_PORTA=8090 docker compose up -d painel
+      - "${PAINEL_PORTA:-8080}:80"
+    volumes:
+      - ./docs:/usr/share/nginx/html:ro
