@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-15T14:50:37Z",
-  "total": 165,
+  "atualizado_em": "2026-09-15T18:53:05Z",
+  "total": 168,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -166,38 +166,6 @@
       "local": "Remoto",
       "modalidade": "remoto",
       "data_publicacao": "2026-08-14T22:17:19Z",
-      "descricao": "Venha fazer parte de uma empresa que ama transformar com tecnologia e abraça a diversidade em todas as suas formas!Responsabilidades e atribuiçõesEstamos em busca de um(a) Analista Desenvolvedor React Native Sênior para atuar no desenvolvimento e evolução de aplicativos móveis de alta performance.Você fará parte de projetos estratégicos, contribuindo com decisões técnicas, boas práticas de desenvolvimento e garantindo qualidade, performance e excelente experiência ao usuário.Se você é apaixonado(a) por desenvolvimento mobile, gosta de desafios técnicos e busca atuar em um ambiente colaborativo e ágil, essa vaga é para você!Principais AtividadesDesenvolver e manter aplicativos mobile utilizando React NativeAtuar no desenvolvimento de aplicações Android, integrando com APIs RESTful e WebServices SOAPParticipar da análise e detalhamento de requisitos funcionais e não funcionaisDesenvolver interfaces responsivas, com foco em usabilidade e experiência do usuário (UX)Implementar integrações com serviços externos e bancos de dados (SQL-Lite e SQL)Aplicar boas práticas de arquitetura, versionamento e organização de códigoExecutar e automatizar testes (unidade, integração, carga e desempenho)Atuar em ambiente ágil (Scrum, Kanban, XP, TDD)Apoiar processos de publicação e manutenção de aplicativos na Google PlayContribuir com melhorias contínuas de performance, segurança e qualidadeRequisitos e qualificaçõesRequisitos TécnicosGraduação em TI ou curso superior com pós-graduação na área…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-15",
-      "expirada": false
-    },
-    {
-      "id": "ec5586774ce159e1daaec43f00efc0f4f67157b7",
-      "titulo": "DESENVOLVEDOR REACT NATIVE - RHA3319",
-      "empresa": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIwOTQzNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-14T22:12:56Z",
       "descricao": "Venha fazer parte de uma empresa que ama transformar com tecnologia e abraça a diversidade em todas as suas formas!Responsabilidades e atribuiçõesEstamos em busca de um(a) Analista Desenvolvedor React Native Sênior para atuar no desenvolvimento e evolução de aplicativos móveis de alta performance.Você fará parte de projetos estratégicos, contribuindo com decisões técnicas, boas práticas de desenvolvimento e garantindo qualidade, performance e excelente experiência ao usuário.Se você é apaixonado(a) por desenvolvimento mobile, gosta de desafios técnicos e busca atuar em um ambiente colaborativo e ágil, essa vaga é para você!Principais AtividadesDesenvolver e manter aplicativos mobile utilizando React NativeAtuar no desenvolvimento de aplicações Android, integrando com APIs RESTful e WebServices SOAPParticipar da análise e detalhamento de requisitos funcionais e não funcionaisDesenvolver interfaces responsivas, com foco em usabilidade e experiência do usuário (UX)Implementar integrações com serviços externos e bancos de dados (SQL-Lite e SQL)Aplicar boas práticas de arquitetura, versionamento e organização de códigoExecutar e automatizar testes (unidade, integração, carga e desempenho)Atuar em ambiente ágil (Scrum, Kanban, XP, TDD)Apoiar processos de publicação e manutenção de aplicativos na Google PlayContribuir com melhorias contínuas de performance, segurança e qualidadeRequisitos e qualificaçõesRequisitos TécnicosGraduação em TI ou curso superior com pós-graduação na área…",
       "score": 80,
       "skills_match": [
@@ -1021,6 +989,37 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "9f0d1fe699f229943372a55dd1c741d9efdacefc",
+      "titulo": "ANALISTA DESENVOLVEDOR PL (Java+Angular)",
+      "empresa": "Stefanini Group",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTIzOTY1OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Brasília, Distrito Federal",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-03T19:27:13Z",
+      "descricao": "No Grupo Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!Junte-se a nós e seja parte da mudança!#LI-ONSITE#LI-AR1Responsabilidades e atribuiçõesRequisitos e qualificaçõesVersionamento de Codigo: Git, GitflowMetodologias Ágeis: Scrum e KanbanDesenvolvimento Front-end: HTML + CSSAngular (8+): JavaScript/TypeScript, conceitos do Angular, configuração do ambiente de desenvolvimento, componentes e templates, serviços e injeção de dependência, roteamento, comunicação com servidor, gerenciamento de estado, testes, ciclo de vida, código limpo, JSON, diretivas e KarmaArquitetura e APIs: MVC, RESTful APIs e microserviçosDesenvolvimento Back-end: Java (sintaxe, tipos de dados, operadores, estruturas de controle, tratamento de exceções, entrada e saída, coleções, threads, interfaces e enums, Quarkus, JUnit, Kotlin, Spring MVC)Programação Orientada a Objetos (POO)Design PatternsDocker e DevOpsInform…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "Java",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Spring",
+        "Kotlin",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T18:52:45Z",
       "ultima_vista": "2026-09-15",
       "expirada": false
     },
@@ -1919,20 +1918,9 @@
       "score": 55,
       "skills_match": [
         "React",
-        "Java",
-        "Git",
-        "Metodologias ágeis"
+        "Java"
       ],
-      "lacunas": [
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-15",
@@ -2397,6 +2385,36 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "2b35c0c6be9919310eddbd0db8e45ce29e9add36",
+      "titulo": "Pessoa Desenvolvedora Frontend",
+      "empresa": "Instituto de Pesquisas ELDORADO",
+      "url": "https://institutoeldorado.gupy.io/job/eyJqb2JJZCI6MTI0MzU4MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Campinas, São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-15T17:40:34Z",
+      "descricao": "PcDs são sempre bem-vindas.Buscamos pessoas apaixonadas por tecnologia. Alguém que se motive por desafios e atue com autonomia. Precisa gostar de trabalhar em equipe e possuir espírito colaborativo.Responsabilidades e atribuiçõesAtuar no entendimento dos problemas e desafios junto ao usuário e propor soluções eficazes Desenvolver interfaces web para portais internos de apoio à plataforma de dados. Colaborar com o(a) especialista de Power BI na integração de dashboards embutidos (embedded analytics). Construir componentes de interface reutilizáveis, seguindo boas práticas de usabilidade. Trabalhar próximo ao backend para consumir APIs REST. Construir testes automatizados das soluções desenvolvidas com base em ferramentas existentes. Contribuir para a experiência de usuário de páginas de apoio (ex.: portal de status de integrações, páginas de treinamento de usuários).Requisitos e qualificaçõesFormação superior em Engenharia/Ciência da Computação, Sistemas de Informação ou similar; Experiência com desenvolvimento frontend em React; Experiência com ferramentas de teste automatizado; Conhecimento de HTML, CSS, JavaScript/TypeScript. Experiência consumindo APIs REST. Boa noção de usabilidade e boas práticas de design de interface Experiência com CI/CD com Jenkins; Git; etc. Diferencial: experiência com Power BI Embedded ou incorporação de relatórios de BI em telas customizadas.Diferencial: interesse ou experiência prévia em projetos de dados/analytics. Inglês técnico.Informações a…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T18:52:42Z",
       "ultima_vista": "2026-09-15",
       "expirada": false
     },
@@ -3455,6 +3473,31 @@
       "expirada": false
     },
     {
+      "id": "ec5586774ce159e1daaec43f00efc0f4f67157b7",
+      "titulo": "DESENVOLVEDOR REACT NATIVE - RHA3319",
+      "empresa": "Spread Tecnologia",
+      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIwOTQzNTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-14T22:12:56Z",
+      "descricao": "Venha fazer parte de uma empresa que ama transformar com tecnologia e abraça a diversidade em todas as suas formas!Responsabilidades e atribuiçõesEstamos em busca de um(a) Analista Desenvolvedor React Native Sênior para atuar no desenvolvimento e evolução de aplicativos móveis de alta performance.Você fará parte de projetos estratégicos, contribuindo com decisões técnicas, boas práticas de desenvolvimento e garantindo qualidade, performance e excelente experiência ao usuário.Se você é apaixonado(a) por desenvolvimento mobile, gosta de desafios técnicos e busca atuar em um ambiente colaborativo e ágil, essa vaga é para você!Principais AtividadesDesenvolver e manter aplicativos mobile utilizando React NativeAtuar no desenvolvimento de aplicações Android, integrando com APIs RESTful e WebServices SOAPParticipar da análise e detalhamento de requisitos funcionais e não funcionaisDesenvolver interfaces responsivas, com foco em usabilidade e experiência do usuário (UX)Implementar integrações com serviços externos e bancos de dados (SQL-Lite e SQL)Aplicar boas práticas de arquitetura, versionamento e organização de códigoExecutar e automatizar testes (unidade, integração, carga e desempenho)Atuar em ambiente ágil (Scrum, Kanban, XP, TDD)Apoiar processos de publicação e manutenção de aplicativos na Google PlayContribuir com melhorias contínuas de performance, segurança e qualidadeRequisitos e qualificaçõesRequisitos TécnicosGraduação em TI ou curso superior com pós-graduação na área…",
+      "score": 40,
+      "skills_match": [
+        "APIs REST",
+        "SQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
       "id": "941f5eb9a48f8295812532bec4f6b63e49c81929",
       "titulo": "Analista de Desenvolvimento Full Stack Pleno (PHP & React)",
       "empresa": "Finnet",
@@ -3786,6 +3829,28 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
+      "titulo": "Desenvolvedor Mobile - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5884901074?utm_medium=api&utm_source=267e525f&v=ABEF6E61CC47A065EEA96C16D274BD71F737D51D",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-15T13:23:56Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T18:52:23Z",
       "ultima_vista": "2026-09-15",
       "expirada": false
     },
