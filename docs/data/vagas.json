@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-15T11:11:45Z",
-  "total": 164,
+  "atualizado_em": "2026-09-15T14:50:37Z",
+  "total": 165,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2738,6 +2738,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "b3f1bb9fa0936383033a193a9cd7a2067430fd07",
+      "titulo": "Software Engineer FullStack (.NET CORE/React)",
+      "empresa": "SoftDesign",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI0Nzg3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-15T13:53:12Z",
+      "descricao": "O que buscamos?Buscamos Software Fullstack Engineer .NET Core/React, que goste de trabalhar em ambiente de cooperação e tecnologia de ponta.Esta oportunidade é para um projeto internacional, de longa duração e o inglês avançado ou fluente é essencial.Responsabilidades e atribuiçõesO que você irá fazer:Desenvolver, evoluir e manter aplicações utilizando .NET Core, seguindo boas práticas de desenvolvimento e arquitetura;Implementar e manter APIs REST, garantindo performance, segurança e qualidade das integrações;Desenvolver aplicações em React;Desenvolver funcionalidades e melhorias alinhadas às necessidades do produto e às histórias de usuário da Sprint;Participar da análise técnica, refinamento e estimativa de demandas junto ao time;Utilizar Git para versionamento de código seguindo os padrões e processos definidos pela equipe;Documentar APIs e serviços utilizando Swagger;Realizar modelagem, consultas e manutenção de dados em SQL Server ou PostgreSQL;Colaborar com Product Owner, Designer e demais integrantes do time na construção de soluções aderentes aos requisitos de negócio;Participar ativamente das cerimônias ágeis (planning, refinamento, review e retrospectiva);Realizar code reviews e contribuir para disseminação de boas práticas entre os membros da equipe;Identificar oportunidades de melhoria técnica, refatoração e redução de débito técnico;Desenvolver e manter testes automatizados, contribuindo para a qualidade e estabilidade do produto;Trabalhar com integrações em se…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        ".NET",
+        "PostgreSQL",
+        "SQL Server",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T14:50:16Z",
       "ultima_vista": "2026-09-15",
       "expirada": false
     },
