@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-15T18:53:05Z",
-  "total": 168,
+  "atualizado_em": "2026-09-15T23:30:17Z",
+  "total": 171,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -643,6 +643,44 @@
       "expirada": false
     },
     {
+      "id": "b4fa2242facbaaf30cc0dbef5da266d473b3c367",
+      "titulo": "Desenvolvedor Fullstack .NET / BackEnd - Pleno",
+      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI0OTE0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-15T20:35:06Z",
+      "descricao": "A FCamara está em busca de um Desenvolvedor Fullstack | IT Capital Markets - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.Responsabilidades e atribuiçõesParticipar ativamente da concepção e estruturação de novos produtos em parceria direta com a área de negócios de Capital Markets.Desenvolver e sustentar a plataforma de pós-negociação de renda variável, criando soluções de integração robustas.Trabalhar em um ambiente colaborativo e democrático, com autonomia para propor ideias que impactem a evolução dos produtos.Desenvolver sistemas utilizando tecnologias de ponta, garantindo excelência técnica e alinhamento com a Clearing e o mercado de renda variável brasileiro.Contribuir para a transformação digital do maior banco de investimentos da América Latina através de soluções escaláveis.Requisitos e qualificaçõesBackend* Experiência sólida com: • C# • .NET 6+ (.NET 8 será considerado diferencial) • ASP.NET Core • Entity Framework • APIs REST • Arquitetura em camadas • Clean Architecture • SOLID • Design PatternsMensageria e Arquitetura Orientada a Eventos* Experiência prática com: • RabbitMQ • AWS SNS • AWS SQS • Arquitetura orientada a eventos • Processamento assíncrono • Integração entre sistemas através de filas e eventos • Tratamento de falhas, retry e dead-letter queues (DLQ)Banco de Dados* Experiência com bancos relacionais: • SQL…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST",
+        "MySQL",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Next.js",
+        "C#",
+        ".NET",
+        "GraphQL",
+        "PostgreSQL",
+        "SQL Server",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:52Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
       "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
       "titulo": "DESENVOLVEDOR .NET",
       "empresa": "",
@@ -774,6 +812,35 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "515f28447d3b7cf52ad2ce14d00e2e5344c6dd95",
+      "titulo": "Hitss | Desenvolvedor Front-End (Angular)",
+      "empresa": "Hitss Brasil",
+      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTIxNDM0MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-17T15:09:03Z",
+      "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesDesenvolver e manter interfaces de aplicações web com foco em performance, escalabilidade e usabilidade;Traduzir layouts e protótipos de alta fidelidade em código funcional e otimizado;Trabalhar em colaboração com designers, desenvolvedores back-end e demais membros do time;Garantir a c…",
+      "score": 65,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Figma",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:57Z",
       "ultima_vista": "2026-09-15",
       "expirada": false
     },
@@ -967,7 +1034,7 @@
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/land/ad/5880145607?utm_medium=api&utm_source=267e525f&v=79FC848CA375E1D204D0A15E3E17C95592842AA0",
+      "url": "https://www.adzuna.com.br/details/5880145607?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1941,10 +2008,7 @@
         "React",
         "TypeScript",
         "JavaScript",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
+        "Microsserviços"
       ],
       "lacunas": [
         "Python",
@@ -3757,6 +3821,28 @@
       "expirada": false
     },
     {
+      "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
+      "titulo": "Líder Técnico Iii - Diversos Benefícios",
+      "empresa": "Caderno Nacional",
+      "url": "https://www.adzuna.com.br/details/5885204691?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-15T19:30:02Z",
+      "descricao": "Líder Técnico III - Oportunidade | Líder Técnico III (React Native / Node.js) Estamos buscando um Líder Técnico III para atuar em um projeto desafiador, com foco em React Native e Node.js. 100% remoto Atuação com liderança técnica e desenvolvimento",
+      "score": 35,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:36Z",
+      "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
       "id": "aa4e51e2bdeb1bc431e3b34ea9b59786589f6ddd",
       "titulo": "Pessoa Desenvolvedora Mobile - Júnior",
       "empresa": "Franq",
@@ -3836,7 +3922,7 @@
       "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
       "titulo": "Desenvolvedor Mobile - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5884901074?utm_medium=api&utm_source=267e525f&v=ABEF6E61CC47A065EEA96C16D274BD71F737D51D",
+      "url": "https://www.adzuna.com.br/details/5884901074?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
