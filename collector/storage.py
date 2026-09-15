@@ -67,10 +67,14 @@ def mesclar(existentes: list[Vaga], novas: list[Vaga], hoje: date | None = None)
     por_id: dict[str, Vaga] = {v.id: v for v in existentes}
 
     # 1) Deduplica dentro da própria coleta.
+    # A mesma vaga pode vir mais de uma vez (duas fontes, ou a empresa publicou
+    # em várias cidades). Fica a de maior score; no empate, a de menor URL.
+    # O desempate precisa ser determinístico: a ordem dos resultados das APIs
+    # muda entre chamadas, e "ficar com a primeira" regravaria o JSON à toa.
     unicas: dict[str, Vaga] = {}
     for vaga in novas:
         atual = unicas.get(vaga.id)
-        if atual is None or vaga.score > atual.score:
+        if atual is None or (vaga.score, atual.url) > (atual.score, vaga.url):
             unicas[vaga.id] = vaga
 
     # 2) Aplica sobre o histórico.

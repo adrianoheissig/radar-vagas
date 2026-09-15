@@ -12,7 +12,6 @@ portal no navegador, busque uma vaga e veja na aba Network do DevTools
 qual URL ele chama.
 """
 
-from collector import config
 from collector.models import Vaga
 from collector.sources.base import Fonte
 from collector.utils import limpar_html, para_iso_utc
@@ -33,7 +32,7 @@ class GupyFonte(Fonte):
 
     def fetch(self) -> list[Vaga]:
         vagas: list[Vaga] = []
-        for termo in config.TERMOS_BUSCA:
+        for termo in self.perfil.termos_busca:
             vagas.extend(self._buscar_termo(termo))
         return vagas
 

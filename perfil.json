@@ -1,0 +1,55 @@
+{
+  "_leia_me": "Perfil gerado a partir do currículo. Revise à vontade. skills_*: ids de collector/skills.py (ex.: react, node, mysql). Principais valem +15 cada (máx. 45), secundárias +10 (máx. 20); skills_conhecidas servem para mostrar 'combina/falta' no painel. niveis_aceitos: estagio, junior, pleno, senior (títulos com outros níveis são descartados). termos_busca: no máximo 5 (cota da Adzuna). consultas_jsearch: no máximo 2 (cota do JSearch).",
+  "anos_experiencia": 3,
+  "niveis_aceitos": [
+    "junior",
+    "pleno"
+  ],
+  "skills_principais": [
+    "react",
+    "angular",
+    "typescript",
+    "java"
+  ],
+  "skills_secundarias": [
+    "figma",
+    "node",
+    "mysql",
+    "firebase"
+  ],
+  "skills_conhecidas": [
+    "react",
+    "angular",
+    "typescript",
+    "html",
+    "css",
+    "figma",
+    "node",
+    "java",
+    "rest",
+    "microsservicos",
+    "mysql",
+    "firebase",
+    "git",
+    "agil",
+    "clean_code"
+  ],
+  "cidades_presencial": [
+    "Guarulhos"
+  ],
+  "cidades_hibrido": [
+    "São Paulo"
+  ],
+  "aceita_remoto": true,
+  "termos_busca": [
+    "desenvolvedor fullstack",
+    "desenvolvedor frontend",
+    "react",
+    "angular",
+    "typescript"
+  ],
+  "consultas_jsearch": [
+    "desenvolvedor fullstack react angular em São Paulo",
+    "desenvolvedor fullstack júnior remoto Brasil"
+  ]
+}

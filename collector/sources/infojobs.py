@@ -37,7 +37,6 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup, Tag
 
-from collector import config
 from collector.models import Vaga
 from collector.sources.base import Fonte
 from collector.utils import FUSO_BRASILIA, detectar_modalidade, limpar_espacos, para_iso_utc
@@ -60,7 +59,7 @@ class InfoJobsFonte(Fonte):
 
     def fetch(self) -> list[Vaga]:
         vagas: list[Vaga] = []
-        for termo in config.TERMOS_BUSCA:
+        for termo in self.perfil.termos_busca:
             # Tupla de tuplas: (url, termo usado na busca)
             buscas = (
                 (URL_BUSCA_SP, termo),

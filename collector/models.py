@@ -53,6 +53,10 @@ class Vaga:
     data_publicacao: str | None = None
     descricao: str = ""
     score: int = 0
+    # Preenchidos por scoring.analisar() a partir do perfil do currículo.
+    skills_match: list[str] = field(default_factory=list)   # a vaga pede e a candidata tem
+    lacunas: list[str] = field(default_factory=list)        # a vaga pede e o currículo não cita
+    experiencia_exigida: int | None = None                  # anos pedidos na descrição
     # field(default_factory=...) chama a função a cada nova instância.
     # Se usássemos `= formatar_iso(agora_utc())` direto, o valor seria
     # calculado UMA vez só, quando o módulo fosse importado.

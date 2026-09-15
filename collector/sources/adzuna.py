@@ -5,14 +5,13 @@ Documentação: https://developer.adzuna.com/docs/search
 Endpoint:     GET https://api.adzuna.com/v1/api/jobs/br/search/{pagina}
 
 Cota do plano gratuito (padrão): ~250 chamadas/dia e ~1000/semana.
-Esta fonte faz len(TERMOS_BUSCA) x (len(LOCALIDADES) + 1) chamadas por
+Esta fonte faz termos_busca x (cidades do perfil + 1) chamadas por
 execução = 5 x 3 = 15. Com 3 execuções/dia: 45/dia, 315/semana.
 """
 
 import os
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-from collector import config
 from collector.models import Vaga
 from collector.sources.base import Fonte
 from collector.utils import detectar_modalidade, limpar_html, para_iso_utc
@@ -48,15 +47,16 @@ class AdzunaFonte(Fonte):
         return True
 
     def _consultas(self) -> list[dict]:
-        """Monta a lista de combinações termo x localidade.
+        """Monta a lista de combinações termo x cidade, a partir do perfil.
 
         Para vagas remotas não filtramos local e acrescentamos "remoto" ao termo.
         """
         consultas = []
-        for termo in config.TERMOS_BUSCA:
-            for local in config.LOCALIDADES:
+        for termo in self.perfil.termos_busca:
+            for local in self.perfil.localidades_busca():
                 consultas.append({"what": termo, "where": local})
-            consultas.append({"what": f"{termo} remoto"})
+            if self.perfil.aceita_remoto:
+                consultas.append({"what": f"{termo} remoto"})
         return consultas
 
     def fetch(self) -> list[Vaga]:

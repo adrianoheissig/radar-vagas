@@ -13,6 +13,8 @@ services:
     volumes:
       # Grava o JSON direto na pasta do projeto, que o painel lê.
       - ./docs/data:/app/docs/data
+      # Perfil gerado a partir do currículo (termos de busca, skills, cidades).
+      - ./perfil.json:/app/perfil.json:ro
     # Não sobe junto com `docker compose up`; rode com `docker compose run`.
     profiles: ["coleta"]
 

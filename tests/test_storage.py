@@ -124,3 +124,12 @@ def test_url_adzuna_sem_parametro_de_sessao():
     from collector.sources.adzuna import limpar_url
     url = "https://www.adzuna.com.br/land/ad/588?se=AbC123&utm_medium=api&v=40C6"
     assert limpar_url(url) == "https://www.adzuna.com.br/land/ad/588?utm_medium=api&v=40C6"
+
+
+def test_empate_de_score_escolhe_sempre_a_mesma_vaga():
+    # Mesma vaga publicada em duas cidades: a ordem de chegada não pode mudar o resultado.
+    a = criar_vaga(url="https://exemplo.com/b", local="Belo Horizonte")
+    b = criar_vaga(url="https://exemplo.com/a", local="São Paulo")
+    r1 = storage.mesclar([], [a, b], hoje=HOJE)
+    r2 = storage.mesclar([], [b, a], hoje=HOJE)
+    assert r1[0].url == r2[0].url == "https://exemplo.com/a"

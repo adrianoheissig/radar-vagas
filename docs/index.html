@@ -76,10 +76,20 @@
           </select>
         </label>
         <label class="filtro">
+          <span>O que falta</span>
+          <select v-model="filtros.maxLacunas" class="campo">
+            <option value="">Qualquer quantidade</option>
+            <option value="0">Nada (combina 100%)</option>
+            <option value="2">Até 2 skills</option>
+            <option value="4">Até 4 skills</option>
+          </select>
+        </label>
+        <label class="filtro">
           <span>Ordenar</span>
           <select v-model="filtros.ordem" class="campo">
             <option value="score">Maior score</option>
             <option value="data">Mais recentes</option>
+            <option value="compatibilidade">Maior compatibilidade</option>
           </select>
         </label>
         <label class="filtro filtro--largo">
@@ -118,9 +128,29 @@
           <span class="badge" :class="'badge--' + vaga.modalidade">{{ MODALIDADES[vaga.modalidade] || vaga.modalidade }}</span>
           <span class="badge badge--fonte">{{ vaga.fonte }}</span>
           <span v-if="vaga.expirada" class="badge badge--expirada">expirada</span>
+          <span v-if="compatibilidade(vaga) !== null" class="badge badge--compat"
+                :title="'Das skills que a vaga cita, ' + compatibilidade(vaga) + '% estão no currículo'">
+            {{ compatibilidade(vaga) }}% compatível
+          </span>
+          <span v-if="vaga.experiencia_exigida" class="badge badge--experiencia"
+                :title="'A descrição pede ' + vaga.experiencia_exigida + ' ano(s) de experiência'">
+            pede {{ vaga.experiencia_exigida }} {{ vaga.experiencia_exigida === 1 ? 'ano' : 'anos' }}
+          </span>
           <span class="card__data" v-if="vaga.data_publicacao" :title="formatarDataHora(vaga.data_publicacao)">
             publicada {{ formatarRelativo(vaga.data_publicacao) }}
           </span>
+        </div>
+
+        <div v-if="(vaga.skills_match && vaga.skills_match.length) || (vaga.lacunas && vaga.lacunas.length)"
+             class="skills">
+          <p v-if="vaga.skills_match && vaga.skills_match.length" class="skills__linha">
+            <span class="skills__rotulo skills__rotulo--ok">✓ Combina</span>
+            <span v-for="s in vaga.skills_match" :key="'ok-' + s" class="chip chip--ok">{{ s }}</span>
+          </p>
+          <p v-if="vaga.lacunas && vaga.lacunas.length" class="skills__linha">
+            <span class="skills__rotulo skills__rotulo--falta">✗ Falta</span>
+            <span v-for="s in vaga.lacunas" :key="'falta-' + s" class="chip chip--falta">{{ s }}</span>
+          </p>
         </div>
 
         <div v-if="vaga.descricao" class="card__descricao"

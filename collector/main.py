@@ -13,8 +13,10 @@ import sys
 import time
 
 from collector import config, storage
+from collector import perfil as perfil_mod
 from collector.models import Vaga
-from collector.scoring import aprovada, calcular_score
+from collector.perfil import Perfil
+from collector.scoring import analisar, aprovada
 from collector.sources import TODAS_AS_FONTES
 
 log = logging.getLogger("collector")
@@ -32,7 +34,7 @@ def configurar_log() -> None:
     logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 
-def coletar() -> tuple[list[Vaga], dict[str, dict]]:
+def coletar(perfil: Perfil) -> tuple[list[Vaga], dict[str, dict]]:
     """Executa todas as fontes ativas. Retorna (vagas aprovadas, estatísticas)."""
     aprovadas: list[Vaga] = []
     estatisticas: dict[str, dict] = {}
@@ -43,7 +45,7 @@ def coletar() -> tuple[list[Vaga], dict[str, dict]]:
             log.info("fonte_desativada fonte=%s", nome)
             continue
 
-        fonte = classe_fonte()
+        fonte = classe_fonte(perfil)
         if not fonte.disponivel():
             estatisticas[nome] = {"status": "pulada"}
             continue
@@ -58,8 +60,8 @@ def coletar() -> tuple[list[Vaga], dict[str, dict]]:
             continue
 
         for vaga in brutas:
-            vaga.score = calcular_score(vaga)
-        ok = [v for v in brutas if aprovada(v)]
+            analisar(vaga, perfil)
+        ok = [v for v in brutas if aprovada(v, perfil)]
         aprovadas.extend(ok)
 
         estatisticas[nome] = {
@@ -78,8 +80,14 @@ def main() -> int:
     configurar_log()
     log.info("coleta_iniciada arquivo=%s", config.ARQUIVO_VAGAS)
 
+    perfil = perfil_mod.carregar(config.ARQUIVO_PERFIL)
     existentes = storage.carregar(config.ARQUIVO_VAGAS)
-    novas, estatisticas = coletar()
+    # Reanalisa as vagas já conhecidas: se o perfil mudou, score e
+    # "combina/falta" ficam coerentes também nas vagas antigas.
+    for vaga in existentes:
+        analisar(vaga, perfil)
+
+    novas, estatisticas = coletar(perfil)
 
     # Proteção: se TODAS as fontes falharam, não mexe no arquivo.
     # Sem isso, uma queda geral de rede faria as vagas "envelhecerem" à toa.

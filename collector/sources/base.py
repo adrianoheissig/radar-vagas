@@ -14,6 +14,7 @@ import requests
 
 from collector import config
 from collector.models import Vaga
+from collector.perfil import Perfil
 from collector.utils import criar_sessao
 
 
@@ -22,7 +23,9 @@ class Fonte(ABC):
     # É o nome usado em config.FONTES_ATIVAS e no campo `fonte` da vaga.
     nome: str = "base"
 
-    def __init__(self, sessao: requests.Session | None = None) -> None:
+    def __init__(self, perfil: Perfil | None = None, sessao: requests.Session | None = None) -> None:
+        # O perfil diz O QUE buscar (termos, cidades). Sem perfil, usa o padrão do config.py.
+        self.perfil = perfil or Perfil.padrao()
         self.sessao = sessao or criar_sessao()
         # Logger com nome da fonte: aparece como "fonte.adzuna" no log.
         self.log = logging.getLogger(f"fonte.{self.nome}")

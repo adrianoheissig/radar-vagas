@@ -1,2 +1,4 @@
 -r requirements.txt
 pytest>=8,<9
+# Só para gerar o perfil a partir do currículo em PDF (python -m collector.perfil gerar ...)
+pypdf>=5,<7

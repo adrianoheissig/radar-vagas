@@ -1,6 +1,12 @@
 # Credenciais — NUNCA commitar
 .env
 
+# Currículos têm dados pessoais (telefone, e-mail): nunca commitar.
+# Só o perfil.json (dados técnicos) vai para o repositório.
+*.pdf
+*.docx
+curriculo*
+
 # Python
 __pycache__/
 *.py[cod]

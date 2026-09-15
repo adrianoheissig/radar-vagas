@@ -35,6 +35,7 @@ const FILTROS_PADRAO = {
   fonte: "",
   scoreMinimo: 0,
   ocultarExpiradas: true,
+  maxLacunas: "",
   ordem: "score",
 };
 
@@ -59,7 +60,7 @@ function gravarStorage(chave, valor) {
 
 /* Busca sem acento e sem diferenciar maiúsculas. */
 function normalizar(texto) {
-  return (texto || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  return (texto || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
 createApp({
@@ -124,8 +125,10 @@ createApp({
         if (filtros.modalidade && v.modalidade !== filtros.modalidade) return false;
         if (filtros.fonte && v.fonte !== filtros.fonte) return false;
         if (v.score < filtros.scoreMinimo) return false;
+        if (filtros.maxLacunas !== "" && (v.lacunas || []).length > Number(filtros.maxLacunas)) return false;
         if (termo) {
-          const alvo = normalizar(`${v.titulo} ${v.empresa} ${v.local} ${v.descricao}`);
+          const skills = [...(v.skills_match || []), ...(v.lacunas || [])].join(" ");
+          const alvo = normalizar(`${v.titulo} ${v.empresa} ${v.local} ${skills} ${v.descricao}`);
           if (!alvo.includes(termo)) return false;
         }
         return true;
@@ -148,6 +151,11 @@ createApp({
         // "Todas" esconde as descartadas; elas só aparecem na aba própria.
         return filtros.status === "todas" ? s !== "descartada" : s === filtros.status;
       });
+      if (filtros.ordem === "compatibilidade") {
+        // Sem skills identificadas vai para o fim; empate desempata pelo score.
+        return [...lista].sort((a, b) =>
+          (compatibilidade(b) ?? -1) - (compatibilidade(a) ?? -1) || b.score - a.score);
+      }
       if (filtros.ordem === "data") {
         return [...lista].sort((a, b) =>
           (b.data_publicacao || b.data_coleta || "").localeCompare(a.data_publicacao || a.data_coleta || ""));
@@ -158,7 +166,7 @@ createApp({
     const vagasVisiveis = computed(() => vagasFiltradas.value.slice(0, limite.value));
 
     const filtrosAtivos = computed(() =>
-      ["modalidade", "fonte", "scoreMinimo"].filter((k) => filtros[k] !== FILTROS_PADRAO[k]).length
+      ["modalidade", "fonte", "scoreMinimo", "maxLacunas"].filter((k) => filtros[k] !== FILTROS_PADRAO[k]).length
       + (filtros.ocultarExpiradas !== FILTROS_PADRAO.ocultarExpiradas ? 1 : 0)
       + (filtros.ordem !== FILTROS_PADRAO.ordem ? 1 : 0));
 
@@ -233,6 +241,13 @@ createApp({
       return data.toLocaleString("pt-BR", { dateStyle: "short", timeStyle: "short" });
     }
 
+    /* % das skills citadas na vaga que estão no currículo (null se a vaga não cita nenhuma). */
+    function compatibilidade(vaga) {
+      const ok = (vaga.skills_match || []).length;
+      const total = ok + (vaga.lacunas || []).length;
+      return total ? Math.round((ok / total) * 100) : null;
+    }
+
     function classeScore(score) {
       if (score >= 70) return "score--alto";
       if (score >= 50) return "score--medio";
@@ -249,7 +264,7 @@ createApp({
       fontes, contadores, vagasFiltradas, vagasVisiveis, filtrosAtivos,
       // ações
       statusDe, definirStatus, limparFiltros, exportarStatus, importarStatus,
-      formatarRelativo, formatarDataHora, classeScore,
+      formatarRelativo, formatarDataHora, classeScore, compatibilidade,
     };
   },
 }).mount("#app");

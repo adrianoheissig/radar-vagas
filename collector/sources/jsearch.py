@@ -5,13 +5,12 @@ Documentação: https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
 Endpoint:     GET https://jsearch.p.rapidapi.com/search
 
 OPCIONAL: se RAPIDAPI_KEY não estiver definida, a fonte é pulada.
-Atenção à cota do plano gratuito (~200 requisições/mês) — veja
-config.JSEARCH_CONSULTAS.
+Atenção à cota do plano gratuito (~200 requisições/mês) — as consultas
+vêm de consultas_jsearch no perfil.json (máx. config.MAX_CONSULTAS_JSEARCH).
 """
 
 import os
 
-from collector import config
 from collector.models import Vaga
 from collector.sources.base import Fonte
 from collector.utils import detectar_modalidade, limpar_html, para_iso_utc
@@ -37,7 +36,7 @@ class JSearchFonte(Fonte):
         headers = {"X-RapidAPI-Key": self.api_key, "X-RapidAPI-Host": HOST}
         vagas: list[Vaga] = []
 
-        for consulta in config.JSEARCH_CONSULTAS:
+        for consulta in self.perfil.consultas_jsearch:
             params = {
                 "query": consulta,
                 "page": 1,
