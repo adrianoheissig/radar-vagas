@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-16T11:24:07Z",
-  "total": 208,
+  "atualizado_em": "2026-09-16T14:48:49Z",
+  "total": 210,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1587,6 +1587,67 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "1268455f0e36907f3e50bea4dfcd9eb9e6bcf3dc",
+      "titulo": "Desenvolvedor Jr",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-jr-em-sao-paulo__11352750.aspx",
+      "fonte": "infojobs",
+      "local": "Botucatu - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T14:39:00Z",
+      "descricao": "Estamos em busca de uma pessoa desenvolvedora focada em eficiência, que domine o ecossistema moderno de TypeScript e saiba utilizar ferramentas de IA e Automação para escalar a produtividade e a qualidade das nossas entregas.\r\nStack Tecnológica\r\n\r\nLinguagens: TypeScript & Node.js\r\nFrontend: React (Next.js)\r\nBanco de Dados: Supabase (PostgreSQL)\r\nComunicação: Integração e consumo de APIs REST\r\nVersionamento: GitHub (Gitflow)\r\nDevOps: Familiaridade com CLI e fluxos de CI/CD\r\nDiferenciais\r\nAutomação: Experiência com n8n ou ferramentas de workflow.\r\nInfraestrutura: Conhecimentos em VPS, Docker ou Cloud.\r\nIA-Powered Development: Domínio de ferramentas como Claude Code, Copilot ou Cursor para aceleração de escrita de código.\r\nLow-code: Integração de ferramentas low-code para soluções rápidas e prototipagem.\r\nPerfil Desejado\r\nAgilidade: Foco em entregas que geram valor imediato (MVP mindset).\r\nAutonomia: Capacidade de navegar por problemas de infraestrutura, frontend e backend de forma independente.\r\nCuriosidade: Interesse constante em novas tecnologias de IA e tendências de desenvolvimento moderno.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nAnalista em Informática, TI, Telecomunicações - TI\nExigências\nEscolaridade Mínima:  Ensino Superior",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T14:47:36Z",
+      "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "adb4e0de786866263fbffc438e80ffbd482bac97",
+      "titulo": "Desenvolvedor Front-End",
+      "empresa": "Life Participações",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__12021959.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-16T13:50:00Z",
+      "descricao": "Descrição das atividades:\nIntegrar nossa equipe de desenvolvimento de soluções para o mercado financeiro.\nAtuar na construção e evolução de aplicações web com React, Next.js e TypeScript, integradas a uma arquitetura baseada em microsserviços.\nBuscamos uma pessoa com boa autonomia no desenvolvimento de funcionalidades.\nQualidade de código e capacidade de colaborar nas decisões técnicas do time. ## Stack tecnológica.\n React com Hooks.\n Next.js com App Router.\n TypeScript e JavaScript moderno. \n Tailwind CSS.\nTanStack Query (React Query). \n React Hook Form.\n Git.\nDocke.\n- Requisitos necessários: \nDesenvolver e evoluir interfaces para plataformas do mercado financeiro; Implementar componentes reutilizáveis seguindo o Design System da empresa.\nIntegrar aplicações front-end com APIs REST e microsserviços.\nGarantir qualidade, legibilidade e manutenibilidade do código.\nCriar e manter testes de componentes e funcionalidades.\nParticipar de code reviews e discussões técnicas.\nInvestigar e solucionar problemas em aplicações existentes.\nTrabalhar em conjunto com desenvolvedores back-end e demais integrantes do time.\nExperiência 3+ anos profissional com React e seu ecossistema compatível com nível Pleno.\nExperiência com Next.js e App Router;aa.\nDomínio de TypeScript e JavaScript moderno.\nExperiência com componentização e gerenciamento de estado e dados assíncronos.\nExperiência com consumo e integração de APIs REST.\nConhecimento de testes de aplicações front-end.\nExperiência com Git e flu…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "CSS",
+        "APIs REST",
+        "Microsserviços",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Tailwind",
+        "C#",
+        "Docker",
+        "CI/CD"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T14:47:40Z",
       "ultima_vista": "2026-09-16",
       "expirada": false
     },
@@ -4640,17 +4701,13 @@
       "skills_match": [
         "TypeScript",
         "Node.js",
-        "APIs REST",
-        "SQL"
+        "APIs REST"
       ],
       "lacunas": [
         "Python",
-        "C#",
-        "AWS",
-        "Azure",
-        "Google Cloud"
+        "C#"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-16",
       "expirada": false
