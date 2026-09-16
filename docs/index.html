@@ -51,6 +51,16 @@
       </button>
     </nav>
 
+    <!-- Filtro rápido por fonte -->
+    <nav class="fontes" aria-label="Filtrar por fonte">
+      <button v-for="b in botoesFonte" :key="b.valor || 'todas'" type="button"
+              class="fonte-btn" :class="{ 'fonte-btn--ativo': filtros.fonte === b.valor }"
+              :aria-pressed="filtros.fonte === b.valor"
+              @click="filtros.fonte = b.valor">
+        {{ b.rotulo }} <span class="fonte-btn__contador">{{ b.total }}</span>
+      </button>
+    </nav>
+
     <!-- Filtros -->
     <section class="filtros">
       <input v-model.trim="filtros.texto" type="search" class="campo campo--busca"
@@ -66,13 +76,6 @@
           <select v-model="filtros.modalidade" class="campo">
             <option value="">Todas</option>
             <option v-for="(rotulo, valor) in MODALIDADES" :key="valor" :value="valor">{{ rotulo }}</option>
-          </select>
-        </label>
-        <label class="filtro">
-          <span>Fonte</span>
-          <select v-model="filtros.fonte" class="campo">
-            <option value="">Todas</option>
-            <option v-for="f in fontes" :key="f" :value="f">{{ f }}</option>
           </select>
         </label>
         <label class="filtro">
@@ -126,7 +129,7 @@
 
         <div class="card__badges">
           <span class="badge" :class="'badge--' + vaga.modalidade">{{ MODALIDADES[vaga.modalidade] || vaga.modalidade }}</span>
-          <span class="badge badge--fonte">{{ vaga.fonte }}</span>
+          <span class="badge badge--fonte">{{ nomeFonte(vaga.fonte) }}</span>
           <span v-if="vaga.expirada" class="badge badge--expirada">expirada</span>
           <span v-if="compatibilidade(vaga) !== null" class="badge badge--compat"
                 :title="'Das skills que a vaga cita, ' + compatibilidade(vaga) + '% estão no currículo'">

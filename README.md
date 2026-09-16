@@ -94,7 +94,8 @@ A pasta `docs/` tem um arquivo `.nojekyll` para o Pages servir os arquivos como 
 
 - **Abas** por status, cada uma com contador: Todas (sem as descartadas), Novas, Interessantes, Aplicadas, Descartadas.
 - **Cada card** mostra o que combina (verde), o que falta (vermelho), a % de compatibilidade e os anos de experiência pedidos.
-- **Filtros:** texto livre (inclui skills), modalidade, fonte, quanto falta (nada / até 2 / até 4 skills), score mínimo, ocultar expiradas e ordenação (score, data ou compatibilidade). Os filtros ficam salvos no navegador.
+- **Botões de fonte** (abaixo das abas): Todas as fontes, Adzuna, Gupy, InfoJobs, cada um com a contagem de vagas na aba atual. Um toque filtra só aquela fonte.
+- **Filtros:** texto livre (inclui skills), modalidade, quanto falta (nada / até 2 / até 4 skills), score mínimo, ocultar expiradas e ordenação (score, data ou compatibilidade). Os filtros ficam salvos no navegador.
 - **Menu ⋯ → Exportar/Importar status:** gera um JSON para levar seus status do computador para o celular (ou vice-versa).
 
 ---
@@ -248,7 +249,7 @@ A cada execução, todas as vagas do JSON são reanalisadas com o perfil atual. 
 ### Observações sobre as fontes
 
 - **Gupy:** o endpoint `portal.api.gupy.io/api/job` responde 404. O coletor usa `employability-portal.gupy.io/api/v1/jobs`, o mesmo que o portal usa hoje. Não é uma API documentada; se quebrar, veja no DevTools (aba Network) qual URL o portal chama.
-- **InfoJobs:** o HTML da busca vem renderizado do servidor, então a fonte está ativa. Se passar a exigir JavaScript, desative-a em `FONTES_ATIVAS` e siga as instruções no topo de `collector/sources/infojobs.py` para migrar para Playwright.
-- A descrição da Adzuna vem resumida e a do InfoJobs é só um trecho, então o "combina/falta" dessas fontes é menos completo que o da Gupy, que traz a descrição inteira.
+- **InfoJobs:** o HTML da busca vem renderizado do servidor, então a fonte está ativa. A busca mostra só um resumo de ~150 caracteres por vaga, curto demais para achar skills: por isso o coletor abre a **página de cada vaga** para ler a descrição completa, com a lista de habilidades e a experiência pedida. Vagas já descartadas pelo título (sênior, estágio...) não são abertas. Limite: `INFOJOBS_MAX_DETALHES = 60` páginas por execução (~1,5 min). Se passar a exigir JavaScript, desative-a em `FONTES_ATIVAS` e siga as instruções no topo de `collector/sources/infojobs.py` para migrar para Playwright.
+- A descrição da Adzuna vem resumida, então o "combina/falta" dela é menos completo que o da Gupy e do InfoJobs, que trazem a descrição inteira.
 - Quando a mesma vaga (mesmo título e empresa) aparece mais de uma vez com o mesmo score, fica a de menor URL. O desempate é fixo para o JSON não mudar à toa entre execuções.
 - O `docs/data/vagas.json` é gerado pelo coletor. Se o arquivo não existir, a próxima coleta cria um novo do zero.

@@ -45,6 +45,11 @@ FONTES_ATIVAS = {
     "infojobs": True,
 }
 
+# O InfoJobs só mostra um resumo na busca; o coletor abre a página de cada
+# vaga para ler a descrição completa. Limite de páginas abertas por execução
+# (com a pausa de 1,5 s, 60 páginas = ~1,5 min).
+INFOJOBS_MAX_DETALHES = 60
+
 # ---------------------------------------------------------------------------
 # Valores padrão do perfil
 # ---------------------------------------------------------------------------

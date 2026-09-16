@@ -8,6 +8,12 @@ Páginas usadas:
 Hoje (set/2026) o HTML da busca vem renderizado do servidor, então não
 precisamos de navegador. Cada vaga é um <div class="... js_vacancyLoad ...">.
 
+A busca mostra só um RESUMO de ~150 caracteres por vaga — curto demais para
+achar as skills, e quase toda vaga ficava abaixo do score mínimo. Por isso,
+depois da busca, abrimos a página de cada vaga para ler a descrição completa
+(<div class="js_vacancyDataPanels">). Vagas já descartadas pelo título
+(sênior, estágio...) não são abertas, para não fazer requisições à toa.
+
 Scraping é frágil: se o InfoJobs mudar o HTML, os seletores abaixo quebram
 e a fonte passa a retornar 0 vagas (o log mostra). Não há login nem
 candidatura aqui — apenas leitura da busca pública.
@@ -37,7 +43,9 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup, Tag
 
+from collector import config
 from collector.models import Vaga
+from collector.scoring import deve_descartar
 from collector.sources.base import Fonte
 from collector.utils import FUSO_BRASILIA, detectar_modalidade, limpar_espacos, para_iso_utc
 
@@ -58,6 +66,12 @@ class InfoJobsFonte(Fonte):
     nome = "infojobs"
 
     def fetch(self) -> list[Vaga]:
+        vagas = self._buscar()
+        self._completar_descricoes(vagas)
+        return vagas
+
+    def _buscar(self) -> list[Vaga]:
+        """Lê as páginas de busca e devolve as vagas com o resumo do card."""
         vagas: list[Vaga] = []
         for termo in self.perfil.termos_busca:
             # Tupla de tuplas: (url, termo usado na busca)
@@ -83,9 +97,59 @@ class InfoJobsFonte(Fonte):
     def _baixar_html(self, url: str, palavra: str) -> str:
         return self._get(url, params={"palabra": palavra}).text
 
+    def _baixar_detalhe(self, url: str) -> str:
+        return self._get(url).text
+
+    def _completar_descricoes(self, vagas: list[Vaga]) -> None:
+        """Troca o resumo do card pela descrição completa da página da vaga.
+
+        A mesma vaga aparece em várias buscas: cada URL é aberta uma vez só.
+        Se o detalhe falhar, a vaga continua com o resumo do card.
+        """
+        por_url: dict[str, list[Vaga]] = {}
+        for vaga in vagas:
+            if not deve_descartar(vaga.titulo, self.perfil):
+                por_url.setdefault(vaga.url, []).append(vaga)
+
+        urls = list(por_url)[: config.INFOJOBS_MAX_DETALHES]
+        completadas = 0
+        for url in urls:
+            try:
+                descricao = self._extrair_detalhe(self._baixar_detalhe(url))
+            except Exception as erro:  # noqa: BLE001
+                self.log.warning("detalhe_falhou url=%s erro=%s", url, erro)
+                continue
+            finally:
+                self._pausa()
+            if not descricao:
+                continue
+            completadas += 1
+            for vaga in por_url[url]:
+                vaga.descricao = descricao
+                if vaga.modalidade == "indefinido":
+                    vaga.modalidade = detectar_modalidade(vaga.titulo, descricao)
+
+        self.log.info("detalhes_lidos abertos=%d com_descricao=%d ignorados_por_limite=%d",
+                      len(urls), completadas, len(por_url) - len(urls))
+
     # ------------------------------------------------------------------
     # Parsing — separado do download para ser testável com HTML salvo.
     # ------------------------------------------------------------------
+
+    def _extrair_detalhe(self, html: str) -> str:
+        """Descrição completa da página da vaga (texto, com quebras de linha).
+
+        Inclui a descrição, as "Exigências" (ex.: "Experiência desejada: Entre
+        3 e 5 anos") e a lista de "Habilidades" que a empresa marcou.
+        """
+        painel = BeautifulSoup(html, "html.parser").select_one(".js_vacancyDataPanels")
+        if not painel:
+            return ""
+        for lixo in painel.select("form, script, style"):  # "Denunciar vaga" etc.
+            lixo.decompose()
+        texto = painel.get_text("\n", strip=True)
+        # O rodapé "Habilidades Necessárias: Habilidade" é só um cabeçalho vazio.
+        return texto.replace("Habilidades Necessárias:\nHabilidade", "").strip()
 
     def _extrair_vagas(self, html: str) -> list[Vaga]:
         sopa = BeautifulSoup(html, "html.parser")

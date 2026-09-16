@@ -118,6 +118,20 @@ button { cursor: pointer; }
 }
 .aba--ativa .aba__contador { background: rgb(255 255 255 / 20%); color: inherit; }
 
+/* ---------- Filtro rápido por fonte ---------- */
+/* Poucas fontes: quebra a linha em vez de rolar de lado, para todas ficarem visíveis. */
+.fontes { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 0; }
+.fonte-btn {
+  flex: 0 0 auto; min-height: 34px;
+  border: 1px dashed var(--borda); background: transparent;
+  border-radius: 8px; padding: 4px 10px; font-size: 0.85rem; color: var(--texto-2);
+}
+.fonte-btn--ativo {
+  border-style: solid; border-color: var(--primaria);
+  background: var(--superficie); color: var(--primaria); font-weight: 600;
+}
+.fonte-btn__contador { font-size: 0.75rem; opacity: 0.8; margin-left: 2px; }
+
 /* ---------- Filtros ---------- */
 .filtros {
   display: grid; grid-template-columns: 1fr auto; gap: 8px;

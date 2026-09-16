@@ -129,6 +129,8 @@ def test_outro_nivel_nao_ganha_bonus_de_senioridade():
     "Arquiteto de Software",
     "Estágio em Desenvolvimento",
     "Estagiário Frontend",
+    "Bolsista Graduado [Ciência da Computação]",
+    "Jovem Aprendiz TI",
     "Desenvolvedor Pleno/Sênior",
 ])
 def test_titulos_descartados(titulo):

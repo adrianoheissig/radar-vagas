@@ -13,6 +13,15 @@ const MODALIDADES = {
   indefinido: "Não informado",
 };
 
+/* Nome bonito de cada fonte (o JSON guarda o id em minúsculas). */
+const NOMES_FONTES = {
+  gupy: "Gupy",
+  adzuna: "Adzuna",
+  infojobs: "InfoJobs",
+  jsearch: "JSearch",
+};
+const nomeFonte = (id) => NOMES_FONTES[id] || id;
+
 const STATUS = [
   { valor: "nova", rotulo: "Nova", icone: "🆕" },
   { valor: "interessante", rotulo: "Interessante", icone: "⭐" },
@@ -115,15 +124,13 @@ createApp({
     // ------------------------------------------------------------------
     // Filtros
     // ------------------------------------------------------------------
-    const fontes = computed(() => [...new Set(vagas.value.map((v) => v.fonte))].sort());
-
-    // Todos os filtros, exceto o de status (usado para os contadores das abas).
-    const vagasSemFiltroStatus = computed(() => {
+    // Filtros do painel (texto, modalidade, score...), SEM fonte e SEM status.
+    // Base para os contadores dos botões de fonte e das abas.
+    const vagasBase = computed(() => {
       const termo = normalizar(filtros.texto);
       return vagas.value.filter((v) => {
         if (filtros.ocultarExpiradas && v.expirada) return false;
         if (filtros.modalidade && v.modalidade !== filtros.modalidade) return false;
-        if (filtros.fonte && v.fonte !== filtros.fonte) return false;
         if (v.score < filtros.scoreMinimo) return false;
         if (filtros.maxLacunas !== "" && (v.lacunas || []).length > Number(filtros.maxLacunas)) return false;
         if (termo) {
@@ -134,6 +141,30 @@ createApp({
         return true;
       });
     });
+
+    const passaNaAba = (v) => {
+      const s = statusDe(v.id);
+      // "Todas" esconde as descartadas; elas só aparecem na aba própria.
+      return filtros.status === "todas" ? s !== "descartada" : s === filtros.status;
+    };
+
+    // Botões de fonte: quantas vagas cada fonte tem na aba e nos filtros atuais.
+    const botoesFonte = computed(() => {
+      const naAba = vagasBase.value.filter(passaNaAba);
+      const porFonte = {};
+      for (const v of naAba) porFonte[v.fonte] = (porFonte[v.fonte] || 0) + 1;
+      // Mostra também a fonte escolhida mesmo que esteja com 0, para dar para desmarcar.
+      const ids = new Set([...vagas.value.map((v) => v.fonte)]);
+      return [
+        { valor: "", rotulo: "Todas as fontes", total: naAba.length },
+        ...[...ids].sort((a, b) => nomeFonte(a).localeCompare(nomeFonte(b)))
+          .map((id) => ({ valor: id, rotulo: nomeFonte(id), total: porFonte[id] || 0 })),
+      ];
+    });
+
+    // Todos os filtros, exceto o de status (usado para os contadores das abas).
+    const vagasSemFiltroStatus = computed(() =>
+      vagasBase.value.filter((v) => !filtros.fonte || v.fonte === filtros.fonte));
 
     const contadores = computed(() => {
       const c = { todas: 0, nova: 0, interessante: 0, aplicada: 0, descartada: 0 };
@@ -146,11 +177,7 @@ createApp({
     });
 
     const vagasFiltradas = computed(() => {
-      const lista = vagasSemFiltroStatus.value.filter((v) => {
-        const s = statusDe(v.id);
-        // "Todas" esconde as descartadas; elas só aparecem na aba própria.
-        return filtros.status === "todas" ? s !== "descartada" : s === filtros.status;
-      });
+      const lista = vagasSemFiltroStatus.value.filter(passaNaAba);
       if (filtros.ordem === "compatibilidade") {
         // Sem skills identificadas vai para o fim; empate desempata pelo score.
         return [...lista].sort((a, b) =>
@@ -166,12 +193,12 @@ createApp({
     const vagasVisiveis = computed(() => vagasFiltradas.value.slice(0, limite.value));
 
     const filtrosAtivos = computed(() =>
-      ["modalidade", "fonte", "scoreMinimo", "maxLacunas"].filter((k) => filtros[k] !== FILTROS_PADRAO[k]).length
+      ["modalidade", "scoreMinimo", "maxLacunas"].filter((k) => filtros[k] !== FILTROS_PADRAO[k]).length
       + (filtros.ocultarExpiradas !== FILTROS_PADRAO.ocultarExpiradas ? 1 : 0)
       + (filtros.ordem !== FILTROS_PADRAO.ordem ? 1 : 0));
 
     function limparFiltros() {
-      Object.assign(filtros, { ...FILTROS_PADRAO, status: filtros.status });
+      Object.assign(filtros, { ...FILTROS_PADRAO, status: filtros.status, fonte: filtros.fonte });
     }
 
     // ------------------------------------------------------------------
@@ -256,12 +283,12 @@ createApp({
 
     return {
       // constantes
-      MODALIDADES, STATUS, TAMANHO_PAGINA, abas: ABAS,
+      MODALIDADES, STATUS, TAMANHO_PAGINA, abas: ABAS, nomeFonte,
       // estado
       vagas, atualizadoEm, carregando, erro, filtros, expandidas,
       filtrosAbertos, menuAberto, mensagemMenu, limite,
       // derivados
-      fontes, contadores, vagasFiltradas, vagasVisiveis, filtrosAtivos,
+      botoesFonte, contadores, vagasFiltradas, vagasVisiveis, filtrosAtivos,
       // ações
       statusDe, definirStatus, limparFiltros, exportarStatus, importarStatus,
       formatarRelativo, formatarDataHora, classeScore, compatibilidade,

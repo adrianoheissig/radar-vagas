@@ -30,7 +30,7 @@ from collector.utils import normalizar
 # Menções de nível no TÍTULO. Especialista, tech lead e arquiteto contam
 # como "senior" (são cargos acima de pleno).
 PADROES_NIVEL = {
-    "estagio": [r"\bestagio\b", r"\bestagiari[oa]\b"],
+    "estagio": [r"\bestagio\b", r"\bestagiari[oa]\b", r"\bbolsista\b", r"\baprendiz\b"],
     "junior": [r"\bjunior\b", r"\bjr\b"],
     "pleno": [r"\bpleno\b", r"\bpl\b(?! sql)"],
     "senior": [r"\bsenior\b", r"\bsr\b", r"\bespecialista\b", r"\btech lead\b", r"\barquitet[oa]\b"],
