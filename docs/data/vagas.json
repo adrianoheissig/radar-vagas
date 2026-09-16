@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-16T14:48:49Z",
-  "total": 210,
+  "atualizado_em": "2026-09-16T18:50:13Z",
+  "total": 212,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1293,7 +1293,7 @@
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/land/ad/5880145607?utm_medium=api&utm_source=267e525f&v=79FC848CA375E1D204D0A15E3E17C95592842AA0",
+      "url": "https://www.adzuna.com.br/details/5880145607?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3097,6 +3097,52 @@
       "expirada": false
     },
     {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5886460686?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T13:52:47Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos , e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contí…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "a18e4cb88846712609c2de839f7986e29598ee13",
+      "titulo": "Analista Desenvolvedor Angular | BTG Investimentos",
+      "empresa": "BTG Pactual",
+      "url": "https://www.adzuna.com.br/details/5886346275?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T12:14:43Z",
+      "descricao": "Hard Skills Angular 15-18, TypeScript, RxJS. Microfrontends: single-spa, Module Federation, SystemJS. Gerenciamento de estado: NgRx Store, Effects, Router Store, Signals. Design system SCSS, Stylelint, padrões BEM. Testes unitários: Jasmine, Karma, cobertura mínima. Qualidade: ESLint, Angular ESLint, SonarJS, Husky, Commitlint. Build/release: Webpack, Angular CLI, semantic-release, pacotes npm. Documentação: Compodoc, Storybook. Integração com APIs: Angular HttpClient, BaseService compartilhado…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Sass",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:32Z",
+      "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
@@ -3432,23 +3478,10 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
+        "APIs REST"
       ],
       "lacunas": [
-        "Tailwind",
-        "C#",
         ".NET",
-        "Go",
-        "SQL Server",
-        "Redis",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "CI/CD",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
