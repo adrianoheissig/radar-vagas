@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-17T18:57:28Z",
-  "total": 231,
+  "atualizado_em": "2026-09-17T23:31:11Z",
+  "total": 236,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1007,6 +1007,45 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-17",
+      "expirada": false
+    },
+    {
+      "id": "c06927f418397ab570dd7854bc6d9b68b0ce2d01",
+      "titulo": "PDI SW - Pessoa Desenvolvedora Fullstack I (React/ Node)",
+      "empresa": "Inatel",
+      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Santa Rita do Sapucaí, Minas Gerais",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-08-20T19:32:40Z",
+      "descricao": "O Inatel está recrutando especialista para atuar em projetos de desenvolvimento de software, no PDI SW. Responsabilidades e atribuiçõesDesenvolver e manter aplicações web e APIs utilizando Node.js/NestJS, com apoio do time técnico;Apoiar o desenvolvimento e a evolução de soluções em ambientes de cloud (AWS, Azure ou GCP);Desenvolver e realizar ajustes em webservices e APIs RESTful e GraphQL;Trabalhar com bancos de dados relacionais e não relacionais, realizando consultas e operações de persistência de dados;Apoiar atividades relacionadas a DevOps, como CI/CD, configuração de ambientes e monitoramento de serviços;Desenvolver e executar testes automatizados, contribuindo para a qualidade e confiabilidade do software;Documentar APIs, serviços e funcionalidades desenvolvidas;Realizar correções, ajustes e melhorias nas soluções, seguindo orientações e padrões definidos pelo time;Participar de revisões de código e contribuir para a adoção de boas práticas de desenvolvimento e engenharia de software. Requisitos e qualificaçõesEnsino Superior Completo na área de Tecnologia, preferencialmente em Engenharia de Computação, Sistemas de Informação, Ciência da Computação ou correlatos;Conhecimentos em: Backend Node.js/NestJS,Frontend React;Cloud (AWS, Azure ou GCP), incluindo deploys, gerenciamento de serviços e escalabilidade,Arquitetura de microserviços e mensageria (RabbitMQ, Kafka, etc.),Implementação de CI/CD e práticas de DevOps,Testes automatizados e qualidade de código,Metodologia…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "MySQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:48Z",
       "ultima_vista": "2026-09-17",
       "expirada": false
     },
@@ -2820,6 +2859,31 @@
       "expirada": false
     },
     {
+      "id": "e7e5236919314856036644fb916d627204ed88b8",
+      "titulo": "Principal Full Stack Developer with React (Remote)",
+      "empresa": "Teramind",
+      "url": "https://www.adzuna.com.br/details/5888278211?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Rondônia, Norte",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-17T19:32:28Z",
+      "descricao": "About the Role We are looking for a Principal Full-Stack Engineer to provide technical leadership across our product and engineering teams. This role is a combination of hands-on coding and architectural guidance. You’ll work across the stack — from building intuitive, performant front-end experiences to optimizing back-end services, APIs, and data models. We’re using React, Node.js, TypeScript, GraphQL, PostgreSQL, CQRS, and event sourcing. As a Principal Engineer, you’ll drive complex feature…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "GraphQL",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:36Z",
+      "ultima_vista": "2026-09-17",
+      "expirada": false
+    },
+    {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
       "titulo": "Desenvolvedor Mobile (React Native E Node.Js)",
       "empresa": "",
@@ -3135,6 +3199,29 @@
       "expirada": false
     },
     {
+      "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
+      "titulo": "Programador Jr",
+      "empresa": "Buscar Vagas - Empregos Brasil",
+      "url": "https://www.adzuna.com.br/details/5888282809?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-17T19:33:11Z",
+      "descricao": "Irá atuar como programador front end C#, na tecnologia.net core e angular. Trabalhará com aplicativo Mobile. A combinar Necessário superior completo ou cursando em áreas afins. Carga Horária: A combinar Sem informação Necessário superior completo ou cursando em áreas afins.",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:38Z",
+      "ultima_vista": "2026-09-17",
+      "expirada": false
+    },
+    {
       "id": "9156d9b1d01eac27025affbc4d7dcd2616697b0e",
       "titulo": "IT Analyst II (Angular)",
       "empresa": "Banco Santander",
@@ -3193,6 +3280,43 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
+      "ultima_vista": "2026-09-17",
+      "expirada": false
+    },
+    {
+      "id": "23f609ba8b71eace8e0d7f9c904b1486de5a7647",
+      "titulo": "Desenvolvedor Full Stack .Net Core",
+      "empresa": "Prysmo",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-net-core-em-sao-paulo__12029874.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-17T08:44:00Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno altamente qualificado(a) para integrar nosso time de tecnologia. Procuramos um profissional com ampla experiência em desenvolvimento de software, capaz de atuar com excelência tanto no back-end quanto no front-end. Nossa stack principal é composta por: Back-end: .NET Core e Front-end: React .\nO(a) candidato(a) ideal será um desenvolvedor versátil, com sólida capacidade analítica, domínio técnico, atenção aos detalhes e foco em entregar soluções eficazes, escaláveis e de alta qualidade. Conduzir revisões de código, orientações técnicas e decisões arquiteturais. Valorizamos profissionais com autonomia, responsabilidade, visão sistêmica e comprometimento com a qualidade do código e com os prazos dos projetos. Se você é um desenvolvedor experiente com habilidades de liderança e paixão por tecnologia, gostaríamos de conhecê-lo.\n\nRequisitos\nDesenvolver e manter APIs REST utilizando .NET Core \nDesenvolver e manter interfaces de usuário responsivas utilizando React e TypeScript\nExperiência com gerenciamento de estado usando Redux e Redux-Saga\nFamiliaridade com Material-UI e desenvolvimento de interfaces responsivas\nConhecimento de HTML5, CSS3 e pré-processadores (SASS)\nImplementar e otimizar consultas de banco de dados SQL Server usando Entity Framework Core e Dapper\nImplementar testes unitários \nParticipar de code review e seguir as melhores práticas de desenvolvimento\nColaborar com a equipe para resolver problemas técnico…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Redux",
+        "Sass",
+        "Python",
+        ".NET",
+        "SQL Server",
+        "Redis",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:30:06Z",
       "ultima_vista": "2026-09-17",
       "expirada": false
     },
@@ -3708,6 +3832,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-17",
+      "expirada": false
+    },
+    {
+      "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
+      "titulo": "Desenvolvedor Back End Jr",
+      "empresa": "Inovation IT",
+      "url": "https://www.adzuna.com.br/details/5888284793?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-17T19:33:29Z",
+      "descricao": "A Hyst é uma agencia digital e fábrica de software, atende diferentes cliente. O Dev irá trabalhar em projetos e atividades diversas. Cargo: Desenvolvedor Back End Jr Tipo de Contrato: Prestador de serviço (PJ) Área profissional: Informática/T.I. Carga-horária: Número de vagas: 1 Benefícios: Mil reais para alimentação e transporte. Experiências e qualificações: Desenvolvedor Back End Jr Habilidades necessárias: - Node.js; - PHP; - SQL; - Github Habilidades que são diferenciais: - React.JS e/ou …",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:32Z",
       "ultima_vista": "2026-09-17",
       "expirada": false
     },
@@ -4840,20 +4989,10 @@
       "descricao": "Inovar para simplificar. Todo dia, quando chegamos à Finnet, não queremos apenas trabalhar. Queremos fazer coisas inovadoras para facilitar o processo de gestão de nossos clientes. Mais do que isso, somos clientocêntricos!Trabalhamos incessantemente para entender suas necessidades e seu comportamento, para criarmos uma experiência incrível de uso. Nós fazemos isso porque acreditamos que podemos contribuir para o sucesso de nossos clientes. E queremos que todas as empresas usem os nossos sistemas.Agora, criar algo extraordinário não é nada fácil. As melhores ideias surgem quando as pessoas estão se divertindo e trabalhando para um propósito maior. Você será desafiado, aprenderá e se divertirá!Somos o complemento do ERP de muitas empresas em todos Brasil, com soluções para:CONTAS A RECEBER ● CONTAS A PAGAR ● GESTÃO FINANCEIRA ● GATEWAY DE PAGAMENTOS ● MARKETPLACE DE ANTECIPAÇÃO ● Open BankingQuer saber mais? Acesse https://finnet.com.br/Estamos Crescendo! Venha ser um #Finneter 🚀Responsabilidades e atribuições Buscamos um(a) Analista de Desenvolvimento Full Stack Pleno (PHP e React) para atuar na sustentação, manutenção evolutiva e desenvolvimento de sistemas críticos de negócio. Esse profissional será responsável por atuar tanto no backend quanto no frontend das aplicações, participando da resolução de incidentes, implementação de melhorias, desenvolvimento de novas funcionalidades e evolução técnica das soluções. Procuramos alguém com sólida experiência em PHP, bons conhecim…",
       "score": 40,
       "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "SQL"
+        "React"
       ],
       "lacunas": [
-        "PHP",
-        "Docker",
-        "CI/CD",
-        "Linux",
-        "Testes automatizados"
+        "PHP"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
@@ -5004,17 +5143,13 @@
       "skills_match": [
         "TypeScript",
         "Node.js",
-        "APIs REST",
-        "SQL"
+        "APIs REST"
       ],
       "lacunas": [
         "Python",
-        "C#",
-        "AWS",
-        "Azure",
-        "Google Cloud"
+        "C#"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-17",
       "expirada": false
