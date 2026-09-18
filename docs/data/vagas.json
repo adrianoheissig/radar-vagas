@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-18T14:21:41Z",
-  "total": 244,
+  "atualizado_em": "2026-09-18T15:02:33Z",
+  "total": 245,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1677,6 +1677,35 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-18",
+      "expirada": false
+    },
+    {
+      "id": "c4720c5b14c963ff9b8a535224a2b18b8e466a44",
+      "titulo": "Desenvolvedor de Software Pleno (FrontEnd)",
+      "empresa": "Montreal | Tecnologia e Inovação",
+      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI0NjcxMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-18T14:34:45Z",
+      "descricao": "Como Desenvolvedor de Software Pleno (FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecn…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Redux",
+        "Tailwind",
+        "GraphQL",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-18",
       "expirada": false
     },
