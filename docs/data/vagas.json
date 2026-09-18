@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-18T13:02:45Z",
-  "total": 243,
+  "atualizado_em": "2026-09-18T14:21:41Z",
+  "total": 244,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -3286,6 +3286,32 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-18",
+      "expirada": false
+    },
+    {
+      "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
+      "titulo": "Desenvolvedor .NET Pleno",
+      "empresa": "Região Sudeste - PM",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-18T13:12:00Z",
+      "descricao": "Desenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server",
+        "Redis",
+        "Azure"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-18",
       "expirada": false
     },
