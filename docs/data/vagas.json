@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-18T23:02:33Z",
-  "total": 257,
+  "atualizado_em": "2026-09-18T23:12:57Z",
+  "total": 258,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1365,6 +1365,28 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-18",
+      "expirada": false
+    },
+    {
+      "id": "43d3610f2e117898c97e4158b4a8a7dbb35a2623",
+      "titulo": "Desenvolvedor Java Pleno",
+      "empresa": "Luxfacta Soluções de TI",
+      "url": "https://www.adzuna.com.br/details/5889832140?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-18T19:34:07Z",
+      "descricao": "Descrição da empresa Luxfacta é uma fábrica de software que possui uma história de quase 2 décadas desenvolvendo produtos digitais. Trabalhamos com os mais complexos projetos nos mais diversos setores da economia, de forma ágil e com alta qualidade. Atualmente, a empresa cria aplicativos e sistemas customizados, oferecendo atendimento exclusivo aos clientes. Atividades e Responsabilidades - Desenvolvimento utilizando linguagem Java - Haverá desenvolvimento utilizando linguagem Angular - Conheci…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:11:22Z",
       "ultima_vista": "2026-09-18",
       "expirada": false
     },
