@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-19T21:02:53Z",
-  "total": 275,
+  "atualizado_em": "2026-09-19T22:53:29Z",
+  "total": 276,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -6092,6 +6092,26 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "d61708b05f945a23666f45b7fb95928ab9c8dc49",
+      "titulo": "Desenvolvedor Front End Pleno",
+      "empresa": "AgileEngine",
+      "url": "https://www.adzuna.com.br/details/5891045127?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-19T19:33:38Z",
+      "descricao": "Join the squad of experienced software experts and pump up your skills by building off-the-wall software solutions for Fortune 500 and Future 50 brands. We have opportunities in 90 projects you can contribute to. About our projects A data-driven e-commerce/fashion group that partners with Rihanna engaged our React experts to fully rebuild its digital properties with a focus on long-term growth. We’ve provided the company with component libraries to simplify the creation of new digital brands an…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T22:51:47Z",
       "ultima_vista": "2026-09-19",
       "expirada": false
     },
