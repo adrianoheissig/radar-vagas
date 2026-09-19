@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-19T07:02:33Z",
-  "total": 261,
+  "atualizado_em": "2026-09-19T09:02:40Z",
+  "total": 265,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -3101,6 +3101,30 @@
       "expirada": false
     },
     {
+      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
+      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5888751197?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-18T02:28:54Z",
+      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
+      "score": 50,
+      "skills_match": [
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
       "id": "e7e5236919314856036644fb916d627204ed88b8",
       "titulo": "Principal Full Stack Developer with React (Remote)",
       "empresa": "Teramind",
@@ -3467,12 +3491,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Desenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -3480,11 +3504,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-19",
       "expirada": false
@@ -3597,28 +3619,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-19",
-      "expirada": false
-    },
-    {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C# Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5889443894?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T12:10:29Z",
-      "descricao": "IT Analyst III (C# Angular) Country: Brazil Descrição do cargo A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Busca…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-09-19",
       "expirada": false
     },
@@ -3811,6 +3811,28 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:15Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5886460686?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T13:52:47Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos , e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contí…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-09-19",
       "expirada": false
     },
@@ -4238,6 +4260,56 @@
       "expirada": false
     },
     {
+      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
+      "titulo": "Desenvolvedor Back-end Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5889911435?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-18T21:19:48Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "Redis",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:01:10Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "ca48ba2c5b6acde817152d2c69e4e349d051af55",
+      "titulo": "Desenvolvedor(a) React",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5889835411?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-18T19:34:28Z",
+      "descricao": "PYTHON REACT Localização Joinville, SC Remoto Faixa Salarial R$ 9.500,00 - 9.800,00 (CLT) - R$ 12.000,00 - 13.900,00 (PJ)Senioridade Júnior/Pleno - (2-4 anos de experiência)Curtiu a vaga? Demonstre interesse e seja encontrado pela empresa - Joinville - SC_ - Hardware, Eletrônicos e Telecomunicações_ O Grupo Pixida converte transformação digital em sucesso sustentável ao integrar as capacidades de suas empresas. Oferece consultoria estratégica, serviços profissionais, soluções e produtos end2end…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": 4,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
       "id": "ef21a3a34d81ea7860f2803ffe458800c5d8a3c9",
       "titulo": "Fullstack Developer Pleno - Remoto",
       "empresa": "Verity",
@@ -4257,6 +4329,26 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
+      "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
+      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5889085042?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-18T07:43:36Z",
+      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
       "ultima_vista": "2026-09-19",
       "expirada": false
     },
