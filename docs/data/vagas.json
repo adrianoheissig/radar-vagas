@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-20T09:02:29Z",
+  "atualizado_em": "2026-09-20T11:02:30Z",
   "total": 284,
   "vagas": [
     {
@@ -3930,6 +3930,31 @@
       "expirada": false
     },
     {
+      "id": "d9e7cd9d87a0b88b6f79c3d298de073a2f595647",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Lifetime",
+      "url": "https://www.adzuna.com.br/details/5889481048?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-18T12:40:24Z",
+      "descricao": "Descrição das atividades: Integrar nossa equipe de desenvolvimento de soluções para o mercado financeiro. Atuar na construção e evolução de aplicações web com React, Next.js e TypeScript, integradas a uma arquitetura baseada em microsserviços. Buscamos uma pessoa com boa autonomia no desenvolvimento de funcionalidades. Qualidade de código e capacidade de colaborar nas decisões técnicas do time. Stack tecnológica. React com Hooks. Next.js com App Router. TypeScript e JavaScript moderno. Tailwin…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:54Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "bb1edbb9732eadd61a537a8b7700f0653f826f71",
       "titulo": "Desenvolvedor .NET Angular",
       "empresa": "Gusmão & Labrunie Advogados",
@@ -4157,31 +4182,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:36:54Z",
       "ultima_vista": "2026-09-17",
-      "expirada": false
-    },
-    {
-      "id": "d9e7cd9d87a0b88b6f79c3d298de073a2f595647",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "Lifetime",
-      "url": "https://www.adzuna.com.br/details/5886685428?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:06:16Z",
-      "descricao": "Descrição das atividades: Integrar nossa equipe de desenvolvimento de soluções para o mercado financeiro. Atuar na construção e evolução de aplicações web com React, Next.js e TypeScript, integradas a uma arquitetura baseada em microsserviços. Buscamos uma pessoa com boa autonomia no desenvolvimento de funcionalidades. Qualidade de código e capacidade de colaborar nas decisões técnicas do time. Stack tecnológica. React com Hooks. Next.js com App Router. TypeScript e JavaScript moderno. Tailwin…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:54Z",
-      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
