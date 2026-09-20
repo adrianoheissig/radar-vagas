@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-20T17:02:36Z",
-  "total": 286,
+  "atualizado_em": "2026-09-20T18:12:00Z",
+  "total": 287,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -3860,12 +3860,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Desenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -3873,11 +3873,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
@@ -3926,6 +3924,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:03Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "d9e7cd9d87a0b88b6f79c3d298de073a2f595647",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Lifetime",
+      "url": "https://www.adzuna.com.br/details/5889481048?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-18T12:40:24Z",
+      "descricao": "Descrição das atividades: Integrar nossa equipe de desenvolvimento de soluções para o mercado financeiro. Atuar na construção e evolução de aplicações web com React, Next.js e TypeScript, integradas a uma arquitetura baseada em microsserviços. Buscamos uma pessoa com boa autonomia no desenvolvimento de funcionalidades. Qualidade de código e capacidade de colaborar nas decisões técnicas do time. Stack tecnológica. React com Hooks. Next.js com App Router. TypeScript e JavaScript moderno. Tailwin…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:54Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -3990,28 +4013,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C# Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5889443894?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T12:10:29Z",
-      "descricao": "IT Analyst III (C# Angular) Country: Brazil Descrição do cargo A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Busca…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -4160,31 +4161,6 @@
       "expirada": false
     },
     {
-      "id": "d9e7cd9d87a0b88b6f79c3d298de073a2f595647",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "Lifetime",
-      "url": "https://www.adzuna.com.br/details/5886685428?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:06:16Z",
-      "descricao": "Descrição das atividades: Integrar nossa equipe de desenvolvimento de soluções para o mercado financeiro. Atuar na construção e evolução de aplicações web com React, Next.js e TypeScript, integradas a uma arquitetura baseada em microsserviços. Buscamos uma pessoa com boa autonomia no desenvolvimento de funcionalidades. Qualidade de código e capacidade de colaborar nas decisões técnicas do time. Stack tecnológica. React com Hooks. Next.js com App Router. TypeScript e JavaScript moderno. Tailwin…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:54Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
       "id": "5d00217ea0c0573cc40141157cff002f7c0d772a",
       "titulo": "Desenvolvedor VTEX",
       "empresa": "Blend It Consultoria",
@@ -4205,6 +4181,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:15Z",
       "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5886460686?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T13:52:47Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos , e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contí…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
@@ -6263,6 +6261,32 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
+      "titulo": "Desenvolvedor .NET – Foco em Mercado Financeiro/ Meios de Pagamento",
+      "empresa": "IEBT Innovation",
+      "url": "https://www.adzuna.com.br/details/5891894478?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T13:16:20Z",
+      "descricao": "Buscamos um(a) Desenvolvedor(a) .NET para atuar no desenvolvimento e evolução de aplicações voltadas ao mercado financeiro e meios de pagamento. Procuramos uma pessoa com sólida experiência em C#/.NET, arquitetura de microsserviços, APIs e bancos de dados, além de vivência com React, RabbitMQ, Azure e práticas de DevOps. É importante ter experiência em ambientes ágeis e atenção a qualidade, segurança, performance e boas práticas de desenvolvimento. Principais atividades: Desenvolvimento e evolu…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Microsserviços",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T18:10:18Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
