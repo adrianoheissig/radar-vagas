@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-20T05:02:24Z",
-  "total": 276,
+  "atualizado_em": "2026-09-20T07:02:44Z",
+  "total": 284,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -501,6 +501,34 @@
       "expirada": false
     },
     {
+      "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
+      "titulo": "Desenvolvedor(a) Frontend React",
+      "empresa": "HUNTINGTI",
+      "url": "https://www.adzuna.com.br/details/5891045592?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-19T19:33:43Z",
+      "descricao": "São Paulo: Pequena ou média empresa: PJ CLT: Remoto: Pleno: Formação necessária: Descrição da Empresa: É uma Venture Builder com plataformas em operação e mais de 14 milhões de clientes. Pré-Requisitos: Requisitos - HTML, CSS e JS - React - Responsive design - Metodologias ágeis - Git - Conhecimentos em SEO - Styled Components Diferenciais - Experiência profissional com desenvolvimento web - Conhecimento em frameworks js como AngularJS, Vue, Next js - Conhecimento em pré processadores como LESS…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Vue.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:00:50Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "858e6e53b92c365d8864cd14bfeb0248761d6431",
       "titulo": "Analista Desenvolvedor Full Stack JR (Java | Cloud | Angular) - REMOTO",
       "empresa": "FOURSYS",
@@ -906,6 +934,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
+      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5891385077?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-20T02:30:32Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:03Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -1808,6 +1860,32 @@
       "expirada": false
     },
     {
+      "id": "b7ce40588eac3578f12f38f7bb32d919c58e913b",
+      "titulo": "Desenvolvedor Angular (Remoto/brasil)",
+      "empresa": "Programmer’s",
+      "url": "https://www.adzuna.com.br/details/5891046523?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-19T19:33:50Z",
+      "descricao": "Nosso negócio Especialistas em desenvolvimento de software e inteligência de dados, temos uma relação de transparência, confiança, credibilidade e reconhecimento neste mercado. Nosso maior sonho? Impactar empresas e pessoas. Buscamos alguém que - Tenha experiência com desenvolvimento em Angular (HTML, CSS e TypeScript) - Conheça testes unitários em Angular - Entenda o uso de design systems (Angular Material) - Conhecimentos essenciais em Cloud Provider (Azure) - Experiência com Metodologias Áge…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "Azure",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:01Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "26b0430424f781b3185ebd4cf220206ce0600441",
       "titulo": "ANALISTA DE SISTEMAS",
       "empresa": "",
@@ -1837,7 +1915,7 @@
       "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
       "titulo": "Analista de Testes - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453892?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453892?utm_medium=api&utm_source=267e525f&v=3757B7A4C8E31C0432DD71DFB9F1FE2F33DC5055",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3199,10 +3277,37 @@
       "expirada": false
     },
     {
+      "id": "ed0a35f875da043c83aed9ed6b23bc5331d8e5b1",
+      "titulo": "Desenvolvedor Back-end - São Paulo, Sp - Híbrido",
+      "empresa": "DECISION TECNOLOGIA E INOVAÇÃO",
+      "url": "https://www.adzuna.com.br/details/5891044234?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-19T19:33:29Z",
+      "descricao": "Vaga - Desenvolvedor Back - End - São Paulo, SP - Híbrido Experiência em: - NodeJS* Rest* Docker* Github* Stencil JS* React J5, JavaScript será bem-vindo. Ensino Superior Completo IDIOMA: Inglês Avançado a Fluente para conversação Inicio: Junho Contrato de Trabalho: Tempo indeterminado. Local: Híbrido (3 dias no cliente e 2 dias remoto) São Paulo, SP Obs: Fundamental residir em São Paulo e região. Estamos trabalhando com Pretensão Salarial, favor informar. Tipo de vaga: Efetivo CLT Salário: R$3…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Docker",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:00:50Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "cd3663049e1db8e8b1653a9edc415f49ab5f15ff",
       "titulo": "Desenvolvedor React Pleno - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5890454285?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890454285?utm_medium=api&utm_source=267e525f&v=DDD3B2A7DF70295E2E8C60054D76752B6E72256F",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -3223,7 +3328,7 @@
       "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
       "titulo": "Desenvolvedor Backend Pleno - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5890430279?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890430279?utm_medium=api&utm_source=267e525f&v=D4EC717037F54E2A20FF1FB0C9696481D55F506C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -3584,11 +3689,11 @@
       "id": "172bd023e973d09021a5da7cfe52a89fc30fc2ec",
       "titulo": "Desenvolvedor NET Pleno - SP",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5890947273?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5891439701?utm_medium=api&utm_source=267e525f&v=E53C1581868BC7F13A2EF3A728E9491F067C71EC",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-19T17:19:48Z",
+      "data_publicacao": "2026-09-20T03:22:00Z",
       "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
@@ -3601,6 +3706,57 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:01:06Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "8a0a18398fe525aee110bae53fcbc92cf6a924d9",
+      "titulo": "Desenvolvedor(a) Front-end Angular 10",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5891046136?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-19T19:33:47Z",
+      "descricao": "ATIVIDADES: O que você irá fazer?: - Realizar levantamento de requisitos do sistema e priorizar tarefas; - Desenvolver novas funcionalidades, manter e otimizar os projetos de frontend; - Criar interfaces e novas experiências de usuário; - Propor soluções de UX/UI; - Escrever código limpo e testável usando TypeScript; - Teste e debug da aplicação; - Revisar e refatorar código; - Apoiar o trabalho dos desenvolvedores juniores; - Desenvolvimento de documentação operacional; - Participação de todo …",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:01Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "f874bcb22b428ea9cff9dc301585b95786c41363",
+      "titulo": "Desenvolvedor Angular Junior/ Pleno",
+      "empresa": "Insti Inovação em Sol de Projetos",
+      "url": "https://www.adzuna.com.br/details/5891045278?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-19T19:33:39Z",
+      "descricao": "Experiência com tecnologias da Web, como JavaScript, HTML e CSS - Experiência com Angular 8 ou superior; - Habilidades em PHP - PHP Preferencial Framework Laravel - PHP estruturado Orientado a Objetos - Experiência com SQL Server ou Similar; - Desejável Conhecimentos / experiência em negócio e ERP - Conhecimentos em.NET e C# considerada um diferencial Principais funções do trabalho: - Colaborar com a equipe de liderança ágil e outros desenvolvedores de software para definir, construir e fornece…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PHP",
+        "Laravel",
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:01Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -3632,7 +3788,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5890470809?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890470809?utm_medium=api&utm_source=267e525f&v=3C9D3EC7E09957608242F4E78B198600899E5595",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3654,7 +3810,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453863?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453863?utm_medium=api&utm_source=267e525f&v=17E3C1311F411581294728F88A6D9BF667F07AED",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3704,12 +3860,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Desenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -3717,11 +3873,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
@@ -3834,28 +3988,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C# Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5889443894?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T12:10:29Z",
-      "descricao": "IT Analyst III (C# Angular) Country: Brazil Descrição do cargo A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Busca…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -4049,6 +4181,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:15Z",
       "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5886460686?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T13:52:47Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos , e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contí…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
@@ -4478,7 +4632,7 @@
       "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
       "titulo": "Desenvolvedor Back-end Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453871?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453871?utm_medium=api&utm_source=267e525f&v=10A9D523B4D807BE463ED073D712B2FBBC32DA7C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6091,6 +6245,28 @@
       "expirada": false
     },
     {
+      "id": "d2ccd096839d706c12d5c401448d38f8318a40a3",
+      "titulo": "Programador React",
+      "empresa": "MoveEdu",
+      "url": "https://www.adzuna.com.br/details/5891045880?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-19T19:33:45Z",
+      "descricao": "Você tem perfil analista, curte trabalhar com grandes projetos e tem espírito de cooperação? Conhece e já trabalhou com React Native? Se identifica em atuar como programador e quer fazer parte de um time incrível? Se sua resposta foi sim para todas as perguntas, essa vaga pode ser sua! O profissional será responsável por: - Desenvolvimento e manutenção em nossas aplicações web. Queremos em nosso time gente com espírito de família, apaixonada por inovação, que assume responsabilidades, tem senso…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:00:50Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "d61708b05f945a23666f45b7fb95928ab9c8dc49",
       "titulo": "Desenvolvedor Front End Pleno",
       "empresa": "AgileEngine",
@@ -6107,6 +6283,28 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T22:51:47Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "996a02fa079cfc7920bfd827c45e6f726015e018",
+      "titulo": "Desenvolvedor Full Stack .Net Core - Pleno",
+      "empresa": "Prysmo",
+      "url": "https://www.adzuna.com.br/details/5890736927?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-19T12:19:04Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno altamente qualificado(a) para integrar nosso time de tecnologia. Procuramos um profissional com ampla experiência em desenvolvimento de software, capaz de atuar com excelência tanto no back-end quanto no front-end. Nossa stack principal é composta por: Back-end: .NET Core e Front-end: React . O(a) candidato(a) ideal será um desenvolvedor versátil, com sólida capacidade analítica, domínio técnico, atenção aos detalhes e foco em entregar…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:00:50Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -6136,7 +6334,7 @@
       "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
       "titulo": "Desenvolvedor Mobile - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453882?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453882?utm_medium=api&utm_source=267e525f&v=A078055714A0BB78D88635607FD641E9D3C9FA3F",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
