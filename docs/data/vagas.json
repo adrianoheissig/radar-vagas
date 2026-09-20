@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-20T21:02:37Z",
-  "total": 287,
+  "atualizado_em": "2026-09-20T23:02:41Z",
+  "total": 293,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -3277,6 +3277,28 @@
       "expirada": false
     },
     {
+      "id": "a1588889a6345a5d2a9e62564db4236e877fdb7b",
+      "titulo": "Desenvolvedor Web",
+      "empresa": "Atitude Serviços Empresariais LTDA",
+      "url": "https://www.adzuna.com.br/details/5892081803?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:33:04Z",
+      "descricao": "Nível: Especialista Área: Tecnologia da Informação Escolaridade: Graduação - Tecnologia da Informação - Completo Tipo de contrato: CLT Jornada de trabalho: Segunda a sexta horário comercial Benefícios: Vale refeição, Vale transporte Responsabilidades e Experiências desejáveis: Atividades: Irá prestar serviços para empresa da área de energia, automação industrial, necessita desenvolver aplicações Web com experiência em Node.js, React e banco de dados ( MySql, Progress ). Aplicações voltadas para…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "MySQL"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "ed0a35f875da043c83aed9ed6b23bc5331d8e5b1",
       "titulo": "Desenvolvedor Back-end - São Paulo, Sp - Híbrido",
       "empresa": "DECISION TECNOLOGIA E INOVAÇÃO",
@@ -3686,6 +3708,53 @@
       "expirada": false
     },
     {
+      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
+      "titulo": "Desenvolvedor",
+      "empresa": "Fisacorp -",
+      "url": "https://www.adzuna.com.br/details/5892079958?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:32:53Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "342247ca713963809d8a0e214be6f14df165b64b",
+      "titulo": "Desenvolvedor Front End Angular",
+      "empresa": "KEEP SIMPLE",
+      "url": "https://www.adzuna.com.br/details/5892079392?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-20T19:32:50Z",
+      "descricao": "Desenvolvedor Front End Angular: - Presencial- KEEP SIMPLESão Paulo-SP A combinar 1 - vaga- | publicada hoje Informações da Vaga: Descrição: - Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação. Forma de Contratação: - A Combinar Sobre a Empresa: Nome: - KEEP SIMPLERamo: - Informática/ Tecnologia",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:01:02Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
       "id": "172bd023e973d09021a5da7cfe52a89fc30fc2ec",
       "titulo": "Desenvolvedor NET Pleno - SP",
       "empresa": "Rhf talentos",
@@ -4017,28 +4086,6 @@
       "expirada": false
     },
     {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C# Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5889443894?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T12:10:29Z",
-      "descricao": "IT Analyst III (C# Angular) Country: Brazil Descrição do cargo A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Busca…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
       "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
       "titulo": "Programador Jr",
       "empresa": "Buscar Vagas - Empregos Brasil",
@@ -4203,6 +4250,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:15Z",
       "ultima_vista": "2026-09-19",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5886460686?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-16T13:52:47Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos , e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contí…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
@@ -4625,6 +4694,77 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "5c783204d35728444bc570dd2e2c29950f2d61c8",
+      "titulo": "Desenvolvedor Front End Jr",
+      "empresa": "Forever Liss",
+      "url": "https://www.adzuna.com.br/details/5892082014?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:33:05Z",
+      "descricao": "Sobre a Vaga Buscamos pessoas curiosas, apaixonadas pelo que fazem e com uma variedade de habilidades, que consigam enxergar os desafios mais difíceis de nossos clientes de todas as perspectivas. O que você precisa ter? - Superior Completo em Engenharia, Administração de Empresas ou Ciência da Computação. - Conhecimentos em HTML, CSS, Node.js e React. O que esperamos de você? - Trabalhar com desenvolvimento e manutenção de lojas virtuais em diversas plataformas (VTEX); - Criação de landing page…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "99fb9ad1cebf4faa4f577f8db5c0f127abfe2ab3",
+      "titulo": "Desenvolvedor Full Stack - Programação",
+      "empresa": "Presença Bank",
+      "url": "https://www.adzuna.com.br/details/5892072625?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:31:58Z",
+      "descricao": "Sobre a vaga O Grupo Presença está em busca de um Desenvolvedor com sólida experiência em automação de processos, integrações e otimização da eficiência operacional, atuando no desenvolvimento de fluxos inteligentes e escaláveis Requisitos técnicos - Experiência sólida com Node.js: - Experiência com frontend moderno (React, Vue ou similar): - Domínio de SQL Server: - Experiência com APIs REST: - Conhecimento em arquitetura de sistemas e boas práticas (Clean Code, SOLID): - Experiência com versi…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "cc797f2c17d05f5aed2900fe73495d9d838385f9",
+      "titulo": "Full Stack Developer (.NET React) Remote Contract",
+      "empresa": "EZ Marketing",
+      "url": "https://www.adzuna.com.br/details/5892071074?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-20T19:31:43Z",
+      "descricao": "About Us EZ Marketing is a U.S.based company focused on the insurance industry. We build marketing technology and digital products for insurance agency owners across the country, helping them grow, scale, and operate more efficiently. We're small, fast-moving, and shipping tools our clients actually use. What You'll Do We're looking for a Full Stack Developer to help us build out a killer set of products for our insurance agency clients. You'll work across the full stack, from API design to UI,…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:56Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
