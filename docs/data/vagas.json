@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T07:02:51Z",
-  "total": 298,
+  "atualizado_em": "2026-09-21T09:02:55Z",
+  "total": 299,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -535,6 +535,36 @@
       "expirada": false
     },
     {
+      "id": "b0d6eb3b9b6090ab6b08c77a05e0b6445fca0d9e",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "HrSoul - Hunting Relationship Soul",
+      "url": "https://www.adzuna.com.br/details/5892080788?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-20T19:32:57Z",
+      "descricao": "Experience in JavaScript (Angular or React) development, including concepts of Closures, Types, and ES6; Experience with HTML, CSS, microservices, REST APIs, and GraphQL; Familiarity with UI paradigms, Agile methodology, CI/CD, and automated testing patterns; Essential Advanced English skills; Home Office.",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "GraphQL",
+        "CI/CD",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T09:01:09Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
       "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
       "titulo": "Desenvolvedor(a) Frontend React",
       "empresa": "HUNTINGTI",
@@ -972,6 +1002,30 @@
       "expirada": false
     },
     {
+      "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
+      "titulo": "DESENVOLVEDOR .NET",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5891586385?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-20T07:44:49Z",
+      "descricao": "Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP.",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:36Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
       "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
       "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
       "empresa": "",
@@ -1097,30 +1151,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:52Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
-    },
-    {
-      "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
-      "titulo": "DESENVOLVEDOR .NET",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5882490915?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-13T07:41:27Z",
-      "descricao": "Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP.",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:36Z",
-      "ultima_vista": "2026-09-15",
       "expirada": false
     },
     {
@@ -3863,7 +3893,7 @@
       "id": "172bd023e973d09021a5da7cfe52a89fc30fc2ec",
       "titulo": "Desenvolvedor NET Pleno - SP",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5891439701?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5891439701?utm_medium=api&utm_source=267e525f&v=E53C1581868BC7F13A2EF3A728E9491F067C71EC",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3962,7 +3992,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5890470809?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890470809?utm_medium=api&utm_source=267e525f&v=3C9D3EC7E09957608242F4E78B198600899E5595",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
