@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T15:03:01Z",
-  "total": 301,
+  "atualizado_em": "2026-09-21T19:02:54Z",
+  "total": 302,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -4801,6 +4801,33 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "8b2f8215062edca65ec129f09109b773f0803014",
+      "titulo": "Engenharia de Software - Angular",
+      "empresa": "Itaú Unibanco",
+      "url": "https://vemproitau.gupy.io/job/eyJqb2JJZCI6MTEzMTU3MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-05-20T13:01:40Z",
+      "descricao": "O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.Construir e evoluir as interfaces e APIs que tornam a plataforma cognitiva acessível — do portal web às integrações externas. Responsabilidades e atribuiçõesVocê fará parte da equipe de Engenharia da Plataforma Cognitiva de Finanças, responsável por construir e evoluir soluções de inteligência artificial que apoiam decisões financeiras em escala no Itaú Unibanco. Atuamos na fronteira entre dados, IA generativa e produtos financeiros, desenvolvendo soluções que processam grandes volumes de informação e entregam insights para áreas de negcio em nossos parceiros. Nosso time é multidisciplinar, reúne engenheiros de dados, engenheiros de software e especialistas em IA. Trabalhamos em um ambiente colaborativo, com forte cultura de inovação, autonomia e foco em impacto real para o cliente. Você terá contato direto com tecnologias modernas de cloud e LLMs, em um contexto que combina a robustez de uma das maiores instituições financeiras da América Latina com a agilidade de um ambiente orientado a produto.De…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "GraphQL",
+        "AWS",
+        "Azure",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T19:01:27Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
