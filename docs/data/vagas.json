@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T19:02:54Z",
-  "total": 302,
+  "atualizado_em": "2026-09-21T21:02:46Z",
+  "total": 305,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -501,6 +501,32 @@
       "expirada": false
     },
     {
+      "id": "26c7c5e024e2684c0bda35648294218359cd764e",
+      "titulo": "Desenvolvedor Fullstack | Python + Java ou .NET + Angular ou React (SP ou DF)",
+      "empresa": "Keggo Tech",
+      "url": "https://keeggotech.gupy.io/job/eyJqb2JJZCI6MTI1NDU3NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-21T19:43:38Z",
+      "descricao": "Você é uma pessoa que atua em Desenvolvimento de Software que não se limita e busca sempre ir além? Então, queremos você!Aqui na keeggo, estamos em busca de pessoas que têm a coragem de enfrentar desafios e subir a régua.Colocamos as pessoas no centro de tudo que fazemos, possuímos um ambiente colaborativo e somos comprometidos com a diversidade. Imagine fazer parte de um time que tem sede de conhecimento, onde a tecnologia e a inovação fazem parte da nossa essência. Juntos, vamos além em uma jornada de evolução contínua!Se você está pronto para fazer parte de uma equipe que está sempre em busca de novas conquistas, então esta vaga é para você. Responsabilidades e atribuições Desenvolvimento e manutenção/sustentação de código seguindo as especificações, normas, padrões e prazos estabelecidos, utilizando linguagem de programação de baixa plataforma. Requisitos e qualificaçõesPythonJava ou .NETAngular ou ReactIntegração por APIs RESTBanco SQLGit e práticas CI/CDFastAPI / Spring BootJUnitScrum / KanbanFramerworks de automação de testes como Robot, Playwright, Appium, Selenium, etcConhecimento DesejávelIA Generativa, LLMs e Engenharia de Prompt;Arquiteturas RAG e recuperação semântica de informações.Embeddings e Bancos vetoriais.Ferramentas de gestão de testes RQM, Test Plans Informações adicionais🍽️ Cartão Flex para suas Refeições: Use o Cartão Flex para comer onde quiser, sem preocupações.🏥 Saúde Completa, Sorriso em Dia: Tenha cobertura completa para saúde e dentes, sem dores…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring",
+        "Python",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:18Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
       "id": "7d859f2222cfd6c7535cb15e9bf958846f6a6027",
       "titulo": "Desenvolvedor Front End React",
       "empresa": "Moot It Consulting",
@@ -768,6 +794,40 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "9a01dd85639765c8e0191955557aaabc0e30f85e",
+      "titulo": "Pessoa Desenvolvedora Fullstack | Inteligência Artificial (Home Office)",
+      "empresa": "Somos BHS 💚",
+      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0NDIxNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-09T12:25:25Z",
+      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Participar ativamente de cerimônias ágeis, code reviews e refinamentos técnicos de tarefas. Requisitos e qualificações📋 Buscamos uma pessoa que possua experiências com: · Graduação completa ou em andamento em Ciência da Computação, Análise e Desenvolvimento ou áreas afins;…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "APIs REST",
+        "SQL",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server",
+        "Docker",
+        "Azure",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:18Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
@@ -1845,19 +1905,14 @@
         "React",
         "Angular",
         "TypeScript",
-        "JavaScript",
         "HTML",
         "CSS",
         "APIs REST",
-        "Git",
-        "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
         "Vue.js",
-        "Sass",
-        "GraphQL",
-        "Testes automatizados"
+        "GraphQL"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
@@ -4854,6 +4909,37 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
+      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
+      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T07:07:00Z",
+      "descricao": "H&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs e serviços externos, incluindo soluções de Inteligência…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Vue.js",
+        "Python",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:30Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
