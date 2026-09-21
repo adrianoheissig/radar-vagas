@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-21T11:02:49Z",
+  "atualizado_em": "2026-09-21T13:02:50Z",
   "total": 300,
   "vagas": [
     {
@@ -773,7 +773,7 @@
     },
     {
       "id": "4d36c57bbc13ac2a31a0f2d996656fca304b556f",
-      "titulo": "Pessoa Desenvolvedora FullStack (HomeOffice)",
+      "titulo": "Pessoa Desenvolvedora Fullstack (HomeOffice)",
       "empresa": "Somos BHS 💚",
       "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
@@ -2856,17 +2856,10 @@
         "React",
         "Java",
         "APIs REST",
-        "SQL",
-        "Git"
+        "SQL"
       ],
       "lacunas": [
-        "Redux",
         "Spring",
-        "PHP",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "CI/CD",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
