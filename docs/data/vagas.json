@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T13:02:50Z",
-  "total": 300,
+  "atualizado_em": "2026-09-21T15:03:01Z",
+  "total": 301,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -772,8 +772,8 @@
       "expirada": false
     },
     {
-      "id": "4d36c57bbc13ac2a31a0f2d996656fca304b556f",
-      "titulo": "Pessoa Desenvolvedora Fullstack (HomeOffice)",
+      "id": "f26041cd093f2906a6d1caf2a01172eb3a797102",
+      "titulo": "Pessoa Desenvolvedora Fullstack (Home Office)",
       "empresa": "Somos BHS 💚",
       "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
@@ -801,7 +801,7 @@
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
+      "data_coleta": "2026-09-21T15:01:34Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
@@ -1531,7 +1531,7 @@
       "id": "32a787032ddd04399f39ca683c4c75cde4d16bd0",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/land/ad/5890424805?utm_medium=api&utm_source=267e525f&v=1E8025F6E8F0973BFA714680CEF3CC8F0249BB9C",
+      "url": "https://www.adzuna.com.br/details/5890424805?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3913,7 +3913,7 @@
       "id": "172bd023e973d09021a5da7cfe52a89fc30fc2ec",
       "titulo": "Desenvolvedor NET Pleno - SP",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/land/ad/5891439701?utm_medium=api&utm_source=267e525f&v=E53C1581868BC7F13A2EF3A728E9491F067C71EC",
+      "url": "https://www.adzuna.com.br/details/5891439701?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4012,7 +4012,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/land/ad/5890470809?utm_medium=api&utm_source=267e525f&v=3C9D3EC7E09957608242F4E78B198600899E5595",
+      "url": "https://www.adzuna.com.br/details/5890470809?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4034,7 +4034,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5890453863?utm_medium=api&utm_source=267e525f&v=17E3C1311F411581294728F88A6D9BF667F07AED",
+      "url": "https://www.adzuna.com.br/details/5890453863?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6874,7 +6874,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/land/ad/5890458829?utm_medium=api&utm_source=267e525f&v=3E8CAB3FB622833BF921EDE3C7D0111639A1E63C",
+      "url": "https://www.adzuna.com.br/details/5890458829?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -7584,6 +7584,29 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "4d36c57bbc13ac2a31a0f2d996656fca304b556f",
+      "titulo": "Pessoa Desenvolvedora Fullstack (HomeOffice)",
+      "empresa": "Somos BHS 💚",
+      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-09T11:05:48Z",
+      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Utilizar ativamente ferramentas modernas de apoio por IA (Claude Code, Antigravity, Copilot) para acelerar a codificação, refatoração, geração de testes e resolução de bugs;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Apoiar os colegas de time no aprendizado e uso eficiente das ferramentas de IA no dia a dia, promov…",
+      "score": 25,
+      "skills_match": [],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-21",
       "expirada": false
     },
     {
