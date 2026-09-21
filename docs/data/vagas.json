@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T09:02:55Z",
-  "total": 299,
+  "atualizado_em": "2026-09-21T11:02:49Z",
+  "total": 300,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1920,6 +1920,33 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
+      "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5892685723?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-21T07:43:49Z",
+      "descricao": "Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compatibilidade cr…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T11:01:03Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
@@ -6325,17 +6352,13 @@
       "skills_match": [
         "TypeScript",
         "Node.js",
-        "APIs REST",
-        "SQL"
+        "APIs REST"
       ],
       "lacunas": [
         "Python",
-        "C#",
-        "AWS",
-        "Azure",
-        "Google Cloud"
+        "C#"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
