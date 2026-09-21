@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-21T01:02:43Z",
+  "atualizado_em": "2026-09-21T05:02:53Z",
   "total": 293,
   "vagas": [
     {
@@ -1467,7 +1467,7 @@
       "id": "32a787032ddd04399f39ca683c4c75cde4d16bd0",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/details/5890424805?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890424805?utm_medium=api&utm_source=267e525f&v=1E8025F6E8F0973BFA714680CEF3CC8F0249BB9C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1936,7 +1936,7 @@
       "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
       "titulo": "Analista de Testes - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453892?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453892?utm_medium=api&utm_source=267e525f&v=3757B7A4C8E31C0432DD71DFB9F1FE2F33DC5055",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3903,7 +3903,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453863?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453863?utm_medium=api&utm_source=267e525f&v=17E3C1311F411581294728F88A6D9BF667F07AED",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3953,12 +3953,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T19:31:30Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "data_publicacao": "2026-09-18T13:12:00Z",
+      "descricao": "Desenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -3966,9 +3966,11 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server"
+        "SQL Server",
+        "Redis",
+        "Azure"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
@@ -5007,7 +5009,7 @@
       "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
       "titulo": "Desenvolvedor Back-end Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453871?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890453871?utm_medium=api&utm_source=267e525f&v=10A9D523B4D807BE463ED073D712B2FBBC32DA7C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6700,7 +6702,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5890458829?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890458829?utm_medium=api&utm_source=267e525f&v=3E8CAB3FB622833BF921EDE3C7D0111639A1E63C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
