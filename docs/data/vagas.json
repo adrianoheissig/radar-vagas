@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-21T05:02:53Z",
-  "total": 293,
+  "atualizado_em": "2026-09-21T07:02:51Z",
+  "total": 298,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -497,6 +497,40 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "7d859f2222cfd6c7535cb15e9bf958846f6a6027",
+      "titulo": "Desenvolvedor Front End React",
+      "empresa": "Moot It Consulting",
+      "url": "https://www.adzuna.com.br/details/5892080992?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:32:59Z",
+      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT O que realmente procuramos são pessoas com as seguintes características: - Linguagem principal no frontend: Typescript; - React; - HTML na última versão; - CSS na última versão; - GraphQL (com Apollo Client); - Node.ts (com Express) e Kotlin (com Spring boot) no backend; - Ferramentas de entrega contínua (GitHub, Jenkins); - Kubernetes e Docker; - Linux;",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Express",
+        "Spring",
+        "Kotlin",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:01:12Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
@@ -1860,6 +1894,26 @@
       "expirada": false
     },
     {
+      "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
+      "titulo": "Remote Angular Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5892101404?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-20T20:47:45Z",
+      "descricao": "Remote Angular Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to p…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
       "id": "f024511a8469dac79f5dfcaff7cdae79561f05e6",
       "titulo": "Analista Desenvolvedor Java Pl",
       "empresa": "",
@@ -2218,26 +2272,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:34Z",
       "ultima_vista": "2026-09-16",
-      "expirada": false
-    },
-    {
-      "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
-      "titulo": "Remote Angular Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5885247489?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-15T20:44:52Z",
-      "descricao": "Remote Angular Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to p…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-09-19",
       "expirada": false
     },
     {
@@ -3342,6 +3376,30 @@
       "expirada": false
     },
     {
+      "id": "4c27bedf777c8f5d70f3e72de362213f2a0d83c7",
+      "titulo": "Desenvolvedor Front-end Mobile React Remoto",
+      "empresa": "Tecla T",
+      "url": "https://www.adzuna.com.br/details/5892081859?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-20T19:33:04Z",
+      "descricao": "Vaga Remota - Contratação PJ Benefícios - Experiência comprovada - React native; - Javascript; - Firebase crashlytics; - Firebase Cloud messaging; - Realizar deploy das aplicações para as lojas virtuais Google play e App Store. - Plano de Saúde - Cartão Flash R$ 330,00 - Gympass - Folgas Remuneradas - Auxílio Certificação - Plataforma Alura - Descontos em parcerias",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Firebase"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:56Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
       "id": "ed0a35f875da043c83aed9ed6b23bc5331d8e5b1",
       "titulo": "Desenvolvedor Back-end - São Paulo, Sp - Híbrido",
       "empresa": "DECISION TECNOLOGIA E INOVAÇÃO",
@@ -3704,6 +3762,29 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "260819340d104ed95652f9fd84c03f91e72b8060",
+      "titulo": "Full Stack Developer | .NET & Angular (English required)",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5892396891?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T02:49:30Z",
+      "descricao": "As a Full Stack Developer, you will join international projects, collaborating with global teams to develop and enhance modern enterprise applications. This role is essential for building end-to-end solutions, contributing to both back-end and front-end development, as well as API integrations and automation initiatives that support our clients' digital transformation journeys.We are looking for professionals with a strong software engineering background, a passion for technology, and an intere…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:01:12Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
@@ -4641,7 +4722,7 @@
       "lacunas": [],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-09-16",
+      "ultima_vista": "2026-09-21",
       "expirada": false
     },
     {
@@ -6582,6 +6663,51 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "f07680e55108aa1a5d6ea7887103c0866349b546",
+      "titulo": "Desenvolvedor(a) Web",
+      "empresa": "Agência Upper",
+      "url": "https://www.adzuna.com.br/details/5892081645?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:33:03Z",
+      "descricao": "A Upper é uma AGÊNCIA DIGITAL, com um ótimo ambiente de trabalho e que preza pelo bem estar e qualidade de vida de nossos colaboradores. Há mais de 14 anos no mercado, nos envolvemos em Projetos desafiadores e que proporcionam prazer e orgulho ao nosso time. Venha fazer parte da nossa equipe! Procuramos profissionais para trabalhar em projetos desenvolvidos em PHP, React Native, JS, CSS, Laravel e HTML. O que entregamos? Aplicativos, E-commerce, Sites, Sistemas Web, E-learning, SEO & Adwords e …",
+      "score": 30,
+      "skills_match": [
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "React Native",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:56Z",
+      "ultima_vista": "2026-09-21",
+      "expirada": false
+    },
+    {
+      "id": "d5a4b1e0d17d7b2081878c78ef15e2c4babcb2ce",
+      "titulo": "Desenvolvedor Frontend Web React",
+      "empresa": "Grupo TEAGA",
+      "url": "https://www.adzuna.com.br/details/5892080990?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-20T19:32:59Z",
+      "descricao": "Posição aberta no Teagá Bank para quem está começando a carreira com desenvolvimento frontend Web React. Um pouco sobre nós Somos uma fintech em fase de construção com espírito de startup! Nascemos como um Corporate Venture Builder do Grupo Teagá, formada por um grupo de empresas de engenharia especializada em desenvolver soluções criativas e inovadoras que transformam empresas, cidades e pessoas. Em um ambiente que proporciona o desenvolvimento pessoal e profissional de nossa equipe, buscamos …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:43Z",
       "ultima_vista": "2026-09-21",
       "expirada": false
     },
