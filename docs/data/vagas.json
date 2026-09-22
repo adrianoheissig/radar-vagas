@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-22T18:45:23Z",
-  "total": 319,
+  "atualizado_em": "2026-09-22T21:02:32Z",
+  "total": 320,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1373,8 +1373,7 @@
         "HTML",
         "CSS",
         "Node.js",
-        "Git",
-        "Metodologias ágeis"
+        "Git"
       ],
       "lacunas": [
         "AWS",
@@ -2120,6 +2119,45 @@
       "expirada": false
     },
     {
+      "id": "b0e157c7cb578ab30c9cb2af02b316cde2b6ffe9",
+      "titulo": "Desenvolvedor Full Stack - Pleno (Banco De Talento)",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-pleno-banco-talento-em-sao-paulo__11623433.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-22T06:50:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional para projetar e desenvolver soluções robustas, seguras e de alta qualidade, desde o frontend até o backend.\nResponsabilidades:\nAtuar com foco principal em Node.js para o backend e React para o frontend;\nParticipar tecnicamente junto à equipe, definindo e implementando boas práticas de desenvolvimento, padrões de arquitetura e qualidade de código;\nParticipar ativamente da definição da arquitetura de sistemas e da tomada de decisões estratégicas;\nTrabalhar em um ambiente ágil (Scrum/Kanban), colaborando com outras equipes para garantir a estabilidade e a evolução das nossas aplicações;\nRealizar revisões de código (code reviews) e orientar desenvolvedores(as) mais juniores;\nGarantir a performance da aplicação e a documentação técnica atualizada.\nQualificações:\nExperiência sólida em desenvolvimento FullStack;\nDomínio avançado de JavaScript/TypeScript com forte experiência em Node.js;\nProficiência em React e seus ecossistemas (componentes, hooks, gerenciamento de estado, etc.);\nConhecimento sólido nos princípios SOLID e Design Patterns, com habilidade comprovada na sua aplicabilidade no código para garantir manutenibilidade e escalabilidade;\nExperiência com APIs RESTful e/ou GraphQL;\nConhecimento em bancos de dados relacionais e/ou não-relacionais (ex: PostgreSQL, MongoDB)\nExperiência com controle de versão (Git);\nHabilidade para atuar com autonomia, proatividade e capacidade de propor s…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "React Native",
+        "GraphQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:50Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
       "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2681,45 +2719,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-09-16",
-      "expirada": false
-    },
-    {
-      "id": "b0e157c7cb578ab30c9cb2af02b316cde2b6ffe9",
-      "titulo": "Desenvolvedor Full Stack - Pleno (Banco De Talento)",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-pleno-banco-talento-em-sao-paulo__11623433.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-15T09:04:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional para projetar e desenvolver soluções robustas, seguras e de alta qualidade, desde o frontend até o backend.\nResponsabilidades:\nAtuar com foco principal em Node.js para o backend e React para o frontend;\nParticipar tecnicamente junto à equipe, definindo e implementando boas práticas de desenvolvimento, padrões de arquitetura e qualidade de código;\nParticipar ativamente da definição da arquitetura de sistemas e da tomada de decisões estratégicas;\nTrabalhar em um ambiente ágil (Scrum/Kanban), colaborando com outras equipes para garantir a estabilidade e a evolução das nossas aplicações;\nRealizar revisões de código (code reviews) e orientar desenvolvedores(as) mais juniores;\nGarantir a performance da aplicação e a documentação técnica atualizada.\nQualificações:\nExperiência sólida em desenvolvimento FullStack;\nDomínio avançado de JavaScript/TypeScript com forte experiência em Node.js;\nProficiência em React e seus ecossistemas (componentes, hooks, gerenciamento de estado, etc.);\nConhecimento sólido nos princípios SOLID e Design Patterns, com habilidade comprovada na sua aplicabilidade no código para garantir manutenibilidade e escalabilidade;\nExperiência com APIs RESTful e/ou GraphQL;\nConhecimento em bancos de dados relacionais e/ou não-relacionais (ex: PostgreSQL, MongoDB)\nExperiência com controle de versão (Git);\nHabilidade para atuar com autonomia, proatividade e capacidade de propor s…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "React Native",
-        "GraphQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
@@ -5173,6 +5172,32 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "2f47780af40b06f3a996948b615ad8066f9f479f",
+      "titulo": "Pessoa desenvolvedora Desenvolvedor .NET / React - Pleno",
+      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI1NjE2OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-22T20:15:34Z",
+      "descricao": "A FCamara está em busca de uma Pessoa Desenvolvedora .NET - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. Responsabilidades e atribuiçõesModelar arquiteturas de software em nuvem;Ter conhecimento das tecnologias utilizadas pela equipe;Ter capacidade de medir esforços e definir prazos de implementação;Saber lidar com pressão de prazos;Solucionar problemas que surgem durante os projetos;Habilidade de gerenciar conflitos e expectativas;Proatividade.Requisitos e qualificações Hard Skills:Conhecimentos em Cloud (AWS)Conhecimentos em Mensageria (Fila e tópico)Orientação a objetoInjeção de dependência .NETReact e TypeScriptDesign PatternsBanco de dados relacional (PostgreSQL e SQL Server)Micro serviços RabbitMQCapacidade de escrever código robusto, testável e validado;Conhecimento em aplicações que precisem responder em alta disponibilidade e alta performance.Soft Skills:Boa comunicação Raciocínio lógico e capacidade analítica;Autonomia, resolução de problemas. Espírito de equipe e capacidade de resolução de conflitos;Criatividade e Proatividade para imaginar diferentes cenários de uso das aplicações;Organização e Protagonismo. Atua de forma efetiva para cumprir prazos.",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        ".NET",
+        "PostgreSQL",
+        "SQL Server",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T21:01:09Z",
       "ultima_vista": "2026-09-22",
       "expirada": false
     },
