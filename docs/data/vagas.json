@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-22T23:02:43Z",
-  "total": 322,
+  "atualizado_em": "2026-09-22T23:35:33Z",
+  "total": 325,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -5251,10 +5251,38 @@
       "expirada": false
     },
     {
+      "id": "46d8f8b236bf84c84ca3d0cdf04dd61db111cabd",
+      "titulo": "Desenvolvedor Full Stack Pleno (.NET React) - Diversos Benefícios",
+      "empresa": "Caderno Nacional",
+      "url": "https://www.adzuna.com.br/details/5894361698?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-22T19:42:23Z",
+      "descricao": "Desenvolvedor Full Stack Pleno (.NET | React) - São Paulo/SP | Híbrido (3x por semana na Av. Paulista) Modelo de Contratação: Prestador de Serviços. Estamos buscando um(a) Full Stack Pleno (.NET | React ou Blazor) para integrar um time de engenharia que atua em produtos estratégicos. Tem experiência em empresas do segmento bancário, meios de pagamento ou mercado financeiro? Esse é um grande diferencial para a posição! Stack da vaga C# /.NET React e/ou Blazor APIs REST SQL HTML, CSS, JavaScript/…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:44Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "56dcfa102f27a6192fe184544fcc61961daaf762",
       "titulo": "UXUI Designer",
       "empresa": "Blend It Consultoria",
-      "url": "https://www.adzuna.com.br/land/ad/5893208947?utm_medium=api&utm_source=267e525f&v=ABA276FAA9B3BA912899E92981B865C626107DB3",
+      "url": "https://www.adzuna.com.br/details/5893208947?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6988,10 +7016,57 @@
       "expirada": false
     },
     {
+      "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "SUPER ENSINO",
+      "url": "https://www.adzuna.com.br/details/5894381251?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T19:44:40Z",
+      "descricao": "Descrição do trabalho Estamos buscando por desenvolvedores front-end qualificados para se juntar ao nosso time de desenvolvimento. Você será responsável por construir o cliente-side para as nossas aplicações React JS e React JS native. Você deve ser capaz de traduzir as necessidades de nossos clientes e colaboradores em aplicações funcionais e atraentes. Esperamos que você seja um profissional experiente em tecnologia, que seja curioso sobre novas tecnologias digitais e aspire combinar usabilid…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:44Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "85866562549a341818fc9bd0485dd101ad0cf8f2",
+      "titulo": "Staff Software Engineer, Search Content Platforms",
+      "empresa": "Google",
+      "url": "https://www.adzuna.com.br/details/5894361765?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T19:42:23Z",
+      "descricao": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development. - 5 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent. - 3 years of experience with software design and architecture. - Experience with extract, transform, and load (ETL), data architecture, and system integration. Preferr…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Python",
+        "Go"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:55Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "93d001097a80861d9091880bc7bffc533e8c113e",
       "titulo": "Desenvolvedor Mobile",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5894239337?utm_medium=api&utm_source=267e525f&v=9842950161C8E8AE842EF1C815C9641D9796A459",
+      "url": "https://www.adzuna.com.br/details/5894239337?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -7108,7 +7183,7 @@
       "id": "71a0306672d30d9718f0c7a0a6a883680de7ef78",
       "titulo": "Analista de QA Automação",
       "empresa": "Blend It Consultoria",
-      "url": "https://www.adzuna.com.br/land/ad/5893208954?utm_medium=api&utm_source=267e525f&v=72A98459662164AE9A0841B363B1E90493F35EF4",
+      "url": "https://www.adzuna.com.br/details/5893208954?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
