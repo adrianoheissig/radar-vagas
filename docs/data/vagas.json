@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-22T05:02:50Z",
-  "total": 307,
+  "atualizado_em": "2026-09-22T07:02:46Z",
+  "total": 317,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1588,6 +1588,37 @@
       "expirada": false
     },
     {
+      "id": "6e2fa5725ca2ac71933db7898c8970e609e5345f",
+      "titulo": "Programação Front-end",
+      "empresa": "PRAVY",
+      "url": "https://www.adzuna.com.br/details/5893234633?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:31Z",
+      "descricao": "Se você gosta de tecnologia, é apaixonado(a) por entregar a melhor experiência pro usuário, gosta de fazer um código limpo e organizado, é curioso(a) por novas ferramentas e conhecimentos e gosta de participar de conversas para melhorar as entregas, temos um lugar pra você. Requisitos Domínio em HTML, CSS, JavaScript Vanilla e Typescript; Domínio em Angular; Domínio de WordPress; Domínio em Git e versionamento de projetos; SASS, Less e Bootstrap; Noções de React e Vue.js; Conhecimento de PHP; N…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Sass",
+        "Bootstrap",
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "32a787032ddd04399f39ca683c4c75cde4d16bd0",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Plus-It Consulting",
@@ -1979,6 +2010,77 @@
       "expirada": false
     },
     {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5893612009?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-22T02:30:00Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
+      "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5893233983?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-21T19:42:25Z",
+      "descricao": "ATIVIDADES: O que você irá fazer?: Atuará em um time global, em um importante cliente da Stefanini, com atuação front-end.REQUISITOS: O que você precisa?: - Tecnologias Necessárias- React TypeScript- React/JS - TypeScript - MobX - Jest - postCss Cumpre os requisitos?: Que tal demonstrar interesse nessa vaga? - Criar Perfil para Demonstrar Interesse EMPRESA: Onde você vai trabalhar?: - Cidade São Paulo - SP - Endereço - Porte Grande Porte Entregamos soluções digitais inovadoras e eficazes, que a…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
+      "titulo": "Desenvolvedores Mobile",
+      "empresa": "HrSoul",
+      "url": "https://www.adzuna.com.br/details/5893233336?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-21T19:42:20Z",
+      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
       "titulo": "Desenvolvedor Full Stack Node.js",
       "empresa": "Innolevels",
@@ -2034,6 +2136,33 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T11:01:03Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
+      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5892372456?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-21T02:29:33Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:10:58Z",
       "ultima_vista": "2026-09-22",
       "expirada": false
     },
@@ -2559,30 +2688,6 @@
       "expirada": false
     },
     {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5884347530?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-15T02:28:26Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": false
-    },
-    {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2648,33 +2753,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:13Z",
       "ultima_vista": "2026-09-15",
-      "expirada": false
-    },
-    {
-      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
-      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5883253622?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T02:28:38Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:10:58Z",
-      "ultima_vista": "2026-09-16",
       "expirada": false
     },
     {
@@ -3445,6 +3523,53 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "5c66f8bd3ad027b552ac33ae563f39548214edab",
+      "titulo": "Desenvolvedor Front-end - Idook",
+      "empresa": "BURH",
+      "url": "https://www.adzuna.com.br/details/5893235283?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:37Z",
+      "descricao": "Precisamos de uma pessoa que domine os frameworks React JS e React Native. O Back-end do MVP está feito em Node e o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando identidade digital e a tecnologia de Blockchain. Tem…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Figma",
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "bb54adf4270bf96c61490fd57dd8e3dcbff11099",
+      "titulo": "Assistente de UX Design - Idook",
+      "empresa": "BURH",
+      "url": "https://www.adzuna.com.br/details/5893235339?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:37Z",
+      "descricao": "Precisamos de uma pessoa que domine metodologias ágil, saiba usar o Figma, organizar o Notion e fazer boas apresentações no Canvas, O MVP está feito em Node e React, o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando …",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Figma",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
@@ -6602,6 +6727,31 @@
       "expirada": false
     },
     {
+      "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
+      "titulo": "Desenvolvedor Full Stack Pj",
+      "empresa": "Adonai rh",
+      "url": "https://www.adzuna.com.br/details/5893233170?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-21T19:42:19Z",
+      "descricao": "DESENVOLVEDOR FULLSTACK Adonai RH em parceria com Fintech, está com 1 vaga(s) em aberto. RESPONSABILIDADES: Responsável por todo o desenvolvido da ferramenta, back end e front end; Responsável pela arquitetura do sistema e contato direto com o CEO da empresa. REQUISITOS: Imprescindível experiência com as tecnologias JavaScript, Vue.JS, Node.JS, Nuxt.JS e cloud AWS. Faixa salarial de: 15.000,00 a 18.000,00 Observações: Contratação modalidade PJ; Vaga home office nível BRASIL Tipo de vaga: Tempo …",
+      "score": 35,
+      "skills_match": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Nuxt",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:37Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -6696,6 +6846,101 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "057161f3e294b821f8b4869e1db8315a3f70dc8d",
+      "titulo": "Desenvolvedor React Native",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5893235311?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:37Z",
+      "descricao": "Superior completo ou cursando Ciência da Computação, Análise de Sistemas, Banco de Dados, e áreas afins; Experiência como Desenvolvedor React Native e React JS; Conhecimento em modelos ágeis utilizando Scrum, SCP e API's; Desenvolvimento com Webservices (SOAP e REST); Vivência com desenvolvimento Front end em geral (JavaScript, HTML, LESS e CSS; Desejável experiência em práticas DevOps; Desenvolvimento com testes automatizados, design de arquitetura voltadas à cenários de alta escalabilidade e …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5893235289?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:37Z",
+      "descricao": "Experiências e qualificações: - Mínimo de 02 anos de experiência ou mais - Junior ou Pleno - Frontend HTML5, CSS3, React, Java Script e Type Script - Formação (Engenharia de software, Ciências da computação e Sistema de Informação) - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos - Contratação pr…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": 2,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
+      "titulo": "Pessoa Desenvolvedora Full Stack Pl",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5893235046?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:35Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora JAVA Full Stack PL para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a Pessoa Desenvolvedora JAVA Full Stack PL é responsável por: Desenvolver soluções com foco na monitoração de infraestrutura e negócio; Desenvolver voltado a testes (TDD); Participar de projetos de softwares escaláveis; Escrever códigos limpos e funcionais back end; Diagnosticar, depurar e atualizar softwares; Fazer análise de códigos, construir e sustentar micr…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:01:04Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
+      "id": "87ef3a25d32156f220815f8208c0fa6e850e2ac0",
+      "titulo": "Desenvolvedor Web Front End - React",
+      "empresa": "Moot It Consulting",
+      "url": "https://www.adzuna.com.br/details/5893234993?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T19:42:34Z",
+      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT Requisitos necessários para esse novo desafio: - Atuar com desenvolvimento de sistemas Web na área de logística e transportes;: - Programação front-end com React;: - Atuação principal nas áreas de desenvolvimento Front-End: - Experiência em desenvolvimento de sistemas Web utilizando Framework Javascript React: - Familiaridade com os princípios e metodologias ágeis (Scrum, Kanban): - Algoritmos; técnicas de p…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-09-22",
       "expirada": false
     },
@@ -7065,7 +7310,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5890458829?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890458829?utm_medium=api&utm_source=267e525f&v=3E8CAB3FB622833BF921EDE3C7D0111639A1E63C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
