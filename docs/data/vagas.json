@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-22T13:03:00Z",
-  "total": 318,
+  "atualizado_em": "2026-09-22T18:45:23Z",
+  "total": 319,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -4111,6 +4111,30 @@
       "expirada": false
     },
     {
+      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
+      "titulo": "Desenvolvedor NET Pleno",
+      "empresa": "Rhf talentos",
+      "url": "https://www.adzuna.com.br/details/5894236625?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T15:23:26Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T18:43:43Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
       "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
       "empresa": "",
@@ -4140,7 +4164,7 @@
       "id": "5d00217ea0c0573cc40141157cff002f7c0d772a",
       "titulo": "Desenvolvedor VTEX",
       "empresa": "Blend It Consultoria",
-      "url": "https://www.adzuna.com.br/land/ad/5893208936?utm_medium=api&utm_source=267e525f&v=25A1367DB823A058BD00773345DDBF61C343FAD7",
+      "url": "https://www.adzuna.com.br/details/5893208936?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6890,6 +6914,28 @@
       "expirada": false
     },
     {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5894239337?utm_medium=api&utm_source=267e525f&v=9842950161C8E8AE842EF1C815C9641D9796A459",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T15:24:50Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "057161f3e294b821f8b4869e1db8315a3f70dc8d",
       "titulo": "Desenvolvedor React Native",
       "empresa": "Curriculum.com.br",
@@ -7735,28 +7781,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5880758485?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-12T05:08:37Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-09-15",
       "expirada": false
     },
     {
