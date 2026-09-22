@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-22T11:03:01Z",
-  "total": 317,
+  "atualizado_em": "2026-09-22T13:03:00Z",
+  "total": 318,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1062,6 +1062,37 @@
       "expirada": false
     },
     {
+      "id": "fe6c636143bec39d70236801e9499c5d56c5a3dc",
+      "titulo": "Desenvolvedor Full Stack — React, Next.js, Node.js e IA",
+      "empresa": "Empresa Confidencial",
+      "url": "https://vaga-ja.com/vagas/c/JNF6N9QNC3?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Curitiba, Paraná",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-22T00:00:00Z",
+      "descricao": "Faixa salarial: R$ 4.000,00 a R$ 5.000,00 Sobre a vaga A empresa está em busca de uma pessoa Desenvolvedora Full Stack para transformar ideias e requisitos em aplicações funcionais, rápidas e escaláveis. Essa posição participará de ponta a ponta do ciclo de desenvolvimento, atuando desde o planejamento técnico até a publicação e manutenção das soluções. Procuramos alguém com autonomia, visão de produto e capacidade de usar Inteligência Artificial de forma estruturada para elevar a qualidade e a velocidade das entregas. Principais responsabilidades Desenvolver novas plataformas, landing pages, dashboards e funcionalidades. Manter e evoluir aplicações já existentes. Atuar no front-end e no back-end, da modelagem de dados à interface. Implementar autenticação, autorização, regras de negócio e integrações entre serviços. Transformar layouts e protótipos em interfaces responsivas e fiéis ao design. Desenvolver com foco em performance, SEO, acessibilidade e conversão. Criar e manter aplicações com React, Next.js, Node.js e TypeScript. Trabalhar com bancos de dados relacionais, não relacionais e soluções BaaS. Desenvolver, consumir e documentar APIs. Implementar Google Tag Manager, pixels de conversão e outras ferramentas de mensuração. Escrever código limpo, seguro, testável e preparado para crescer. Participar de code reviews, testes automatizados e processos de CI/CD. Utilizar IA em etapas como análise, especificação, arquitetura, implementação, testes, documentação e manutenção…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Firebase",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Tailwind",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T13:01:25Z",
+      "ultima_vista": "2026-09-22",
+      "expirada": false
+    },
+    {
       "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
       "titulo": "DESENVOLVEDOR .NET",
       "empresa": "",
@@ -1260,6 +1291,37 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "474149a9ddb0d44b4f509c1f887a9af7963bd769",
+      "titulo": "Pessoa Desenvolvedora Fullstack PHP/React Pl (Remoto) - 0336",
+      "empresa": "Starian",
+      "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIxNTAzMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-27T21:05:31Z",
+      "descricao": "Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance. Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro. Essa vaga é para atuar no produto eCustos.Responsabilidades e atribuiçõesManter as bases de referência de engenharia do eCustos atualizadas: entender como cada estado disponibiliza suas tabelas de preços, composições e insumos e trazer esses dados para o nosso padrão da forma mais rápida e confiável possível;Desenvolver e manter os conectores e rotinas de ETL que extraem dados de origens muito diferentes entre si (bancos relacionais, APIs, planilhas, arquivos), com rastreabilidade, tratamento de falhas e reprocessamento;Estruturar e modelar os dados para consumo pela aplicação: formatos, chaves de relacionamento e critérios de qualidade, investigando divergências entre as bases de origem;Trabalhar no back-end de processamento em PHP, incluindo as rotinas que rodam em background, e dar apoio nas interfaces de consulta e acompanhamento das cargas;Propor melhorias nos processos de extração usando IA (matching de composições e insumos, leitura de documentos não estruturados,…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "SQL",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "PHP",
+        "Oracle",
+        "SQL Server",
+        "MongoDB",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:26Z",
+      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
@@ -6274,28 +6336,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-22",
-      "expirada": false
-    },
-    {
-      "id": "474149a9ddb0d44b4f509c1f887a9af7963bd769",
-      "titulo": "Pessoa Desenvolvedora Fullstack PHP/React Pl (Remoto) - 0336",
-      "empresa": "Starian",
-      "url": "https://www.adzuna.com.br/details/5861212732?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-29T12:01:18Z",
-      "descricao": "Description Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance . Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guia…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "PHP"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:26Z",
-      "ultima_vista": "2026-09-17",
       "expirada": false
     },
     {
