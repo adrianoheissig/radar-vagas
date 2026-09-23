@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-23T21:02:43Z",
+  "atualizado_em": "2026-09-23T23:02:35Z",
   "total": 334,
   "vagas": [
     {
@@ -5378,6 +5378,33 @@
       "expirada": false
     },
     {
+      "id": "506ee98619759642db5d10163d48a7374968890d",
+      "titulo": "Software Engineer FrontEnd (React)",
+      "empresa": "SoftDesign",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI1Nzc3NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-23T22:15:07Z",
+      "descricao": "O que buscamos? Buscamos uma Software Engineer FrontEnd (React) para trabalhar em nosso parceiro. Nossa área de Gestão de Outsourcing estará próxima a você, realizando reuniões 1:1 para garantir o alinhamento estratégico, absorção da nossa cultura e a evolução da sua carreira. Responsabilidades e atribuiçõesO que você irá fazer: Desenvolver aplicações web responsivas e de alta performance utilizando Angular4+ e ReactJS;Colaborar com equipes multidisciplinares para definir, projetar e implementar novas funcionalidades;Realizar a manutenção e otimização de sistemas existentes, garantindo a melhor experiência para o usuário;Participar ativamente de revisões de código e promover boas práticas de desenvolvimento;Contribuir para a documentação técnica dos projetos e processos;Auxiliar na identificação e resolução de problemas técnicos, propondo soluções eficazes. Requisitos e qualificaçõesO que você precisa ter: Experiência sólida em desenvolvimento FrontEnd com Angular4+ e ReactJS;Conhecimento em HTML, CSS e JavaScript;Familiaridade com ferramentas de controle de versão, como Git;Capacidade de trabalhar em equipe, com boa comunicação e colaboração;Proatividade e interesse em aprender novas tecnologias e metodologias. Experiências desejáveis: Vivência em metodologias ágeis de desenvolvimento, como Scrum ou Kanban.Conhecimento em testes automatizados e práticas de integração contínua.Experiência com design responsivo e acessibilidade em aplicações web. Formação e engajamento desejá…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "760b1e8d30aa6593b17a4345b57754b3a6c795cd",
       "titulo": "Pessoa Desenvolvedora Full Stack Pleno (.NET/React) | IA Generativa (Remoto)",
       "empresa": "Pitang",
@@ -6717,31 +6744,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:18Z",
       "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "506ee98619759642db5d10163d48a7374968890d",
-      "titulo": "Software Engineer FrontEnd (React)",
-      "empresa": "SoftDesign",
-      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTIxOTkxMzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-20T18:36:50Z",
-      "descricao": "O que buscamos? Buscamos uma Software Engineer FrontEnd (React) para trabalhar em nosso parceiro. Nossa área de Gestão de Outsourcing estará próxima a você, realizando reuniões 1:1 para garantir o alinhamento estratégico, absorção da nossa cultura e a evolução da sua carreira. Responsabilidades e atribuiçõesO que você irá fazer:Desenvolver e implementar interfaces ricas e responsivas utilizando Javascript e ReactJS;Colaborar com equipes de design e backend para garantir a integração perfeita entre as diversas camadas do sistema;Participar ativamente de revisões de código e contribuir para a melhoria contínua dos processos de desenvolvimento;Identificar e resolver problemas de performance e usabilidade nas aplicações existentes;Manter-se atualizado sobre as tendências e melhores práticas de desenvolvimento FrontEnd, propondo inovações que possam ser aplicadas aos nossos projetos.Requisitos e qualificaçõesO que você precisa ter:Sólidos conhecimentos em Javascript e ReactJS, com experiência prática em desenvolvimento de aplicações web;Experiência em metodologias ágeis, como Scrum ou Kanban;Capacidade de trabalhar de forma independente e em equipe, com boa comunicação e habilidades de colaboração;Familiaridade com ferramentas de versionamento de código, como Git;Conhecimento em testes automatizados e boas práticas de desenvolvimento. Experiências desejáveis:Experiência prévia em empresas do setor financeiro ou cooperativas de crédito;Conhecimento em outras tecnologias e framewor…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-16",
       "expirada": false
     },
     {
