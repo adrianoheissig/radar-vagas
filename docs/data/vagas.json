@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-23T05:02:35Z",
-  "total": 325,
+  "atualizado_em": "2026-09-23T07:03:00Z",
+  "total": 330,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1649,6 +1649,36 @@
       "expirada": false
     },
     {
+      "id": "c826d66c502fa2584abf60b59ec46a969ba5f74a",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Conquest One",
+      "url": "https://www.adzuna.com.br/details/5894380529?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T19:44:35Z",
+      "descricao": "Atividades: Pesquisar, analisar, projetar, programar, depurar e modificar software, assim como realizar melhorias contínuas em sistemas; Desenvolver sistemas web, focado na camada de front-end; Participar de reuniões com clientes e time de projetos para identificar necessidades e entendimento dos requisitos. Requisitos Mandatóios: Experiência com Angular 2 e React; Conhecimento em HTML, CSS, JavaScript, C#, APIs REST e Git; Conhecimento na utilização de ambiente Cloud (Azure e AWS); Conheciment…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        "AWS",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "6e2fa5725ca2ac71933db7898c8970e609e5345f",
       "titulo": "Programação Front-end",
       "empresa": "PRAVY",
@@ -1683,7 +1713,7 @@
       "id": "32a787032ddd04399f39ca683c4c75cde4d16bd0",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/details/5890424805?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5890424805?utm_medium=api&utm_source=267e525f&v=1E8025F6E8F0973BFA714680CEF3CC8F0249BB9C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2071,6 +2101,31 @@
       "expirada": false
     },
     {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5894818878?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-23T02:30:41Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "c534313f631fa48887b3cf33f5db69d00d6b7257",
       "titulo": "Typescript/nextjs Frontend Developer - Remote, Latin America",
       "empresa": "Bluelight Consulting",
@@ -2207,6 +2262,57 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5893612007?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-22T02:30:00Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
+      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5893609632?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-22T02:29:42Z",
+      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:36Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -2743,57 +2849,6 @@
         "Node.js",
         "APIs REST",
         "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": false
-    },
-    {
-      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
-      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5884350001?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-15T02:29:02Z",
-      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5884347499?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-15T02:28:25Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
       ],
       "lacunas": [],
       "experiencia_exigida": null,
@@ -3616,6 +3671,29 @@
       "expirada": false
     },
     {
+      "id": "ea372eae402898341607ec2b0a7b1f648f4aaf95",
+      "titulo": "Desenvolvedor Node.js Júnior",
+      "empresa": "Bluecore",
+      "url": "https://www.adzuna.com.br/details/5894382256?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-22T19:44:47Z",
+      "descricao": "Precisamos de um desenvolvedor com experiência em Node.JS. Desejável também experiência com Vue.JS e React Native. - A vaga é home office. - Salário a combinar. Tipo de vaga: Autônomo / PJ Salário: R$2.000,00 - R$2.500,00 por mês Horário de trabalho: - De segunda à sexta-feira - Turno de 8 horas Experiência: - Node.js (obrigatório) - Vue.js (preferencial) - React Native (preferencial)",
+      "score": 50,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native",
+        "Vue.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "5c66f8bd3ad027b552ac33ae563f39548214edab",
       "titulo": "Desenvolvedor Front-end - Idook",
       "empresa": "BURH",
@@ -4212,7 +4290,7 @@
       "id": "5d00217ea0c0573cc40141157cff002f7c0d772a",
       "titulo": "Desenvolvedor VTEX",
       "empresa": "Blend It Consultoria",
-      "url": "https://www.adzuna.com.br/details/5893208936?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5893208936?utm_medium=api&utm_source=267e525f&v=25A1367DB823A058BD00773345DDBF61C343FAD7",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5247,6 +5325,64 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T21:01:09Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "b25a75a471e1099313b29dca8c9c5c63bc6f7c55",
+      "titulo": "Desenvolvedor Front End Jr - Superior Completo",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5894382102?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-22T19:44:46Z",
+      "descricao": "Requisitos: Escolaridade Ensino superior completo. Necessária experiência comprovada em carteira. Conhecimento em Javascript; (React, Styled Components;). Conhecimento em REST API. Conhecimento em CSS3. Conhecimento em HTML5. Desejável.Conhecimento em Node.JS. Conhecimento em Portal Azure. Conhecimento em Azure DevOps. Conhecimento em Módulos/Bibliotecas. Conhecimento em Micro-serviços. Conhecimento em Gestão de dependência. Conhecimento em Git. Conhecimento em SCRUM. Inglês técnico. Atividades…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Azure",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "5424edc638a1bb8c4f8b0b570c2aaee8622b29b4",
+      "titulo": "C# / Dotnet Developer with React Experience - Remote, Latin America",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5894371166?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Goiânia, Goiás",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-22T19:43:28Z",
+      "descricao": "What we are looking for: - Working experience with C# (8),.NET(or.NET Framework), and RESTful API. - Development experience with JavaScript-related technologies: React, NextJS - Familiarity with HighCharts and building geospatial map interactions on the front-end. - Ability to understand business requirements and translate them into technical requirements. - Knowledge of AWS-related technologies such as Lambda, S3, DynamoDB, SQS. - Self-starter with the ability to work independently. - Strong w…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:01:02Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
