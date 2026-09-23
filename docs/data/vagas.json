@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-23T14:53:21Z",
+  "atualizado_em": "2026-09-23T17:01:38Z",
   "total": 332,
   "vagas": [
     {
@@ -188,33 +188,6 @@
       "expirada": false
     },
     {
-      "id": "c7d84ae400303ebd3f5de3b5212ad5dc8ee7b4fd",
-      "titulo": "Desenvolvedor(A) Typescript · Fullstack",
-      "empresa": "Kikos Fitness",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-typescript-fullstack-em-__11863440.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-07-29T08:39:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) TypeScript · Fullstack — Kikos · 100% Remoto\nEstamos construindo do zero a nova plataforma de tecnologia da Kikos — uma das maiores redes de equipamentos de fitness do Brasil, com 20 lojas físicas. Você vai ajudar a definir arquitetura, padrões e cultura de engenharia desde a primeira linha.\nNossa Stack\n TypeScript ponta a ponta, com Effect-TS como fundação. Trabalhamos com programação funcional de forma pragmática — tipos como contratos, efeitos como descrições, DI resolvido pelo compilador. Backend em Node, front em React, infra em AWS/Kubernetes.\nO que buscamos\n Não exigimos experiência prévia com Effect-TS. O que importa:\nTypeScript sólido: você entende o sistema de tipos, não só sobrevive a ele (generics, tipos de união/interseção, inferência)\nAfinidade com programação funcional — seja por experiência (fp-ts, Scala, Haskell, Elixir, F#) ou por curiosidade real de aprender\nGosto por código correto por construção: imutabilidade, composição, tratamento explícito de erros\nAutonomia e maturidade para trabalhar 100% remoto, num ambiente onde muita coisa ainda não existe\nSenioridade\n Estamos contratando todas as senioridades — de júnior a sênior. O nível é definido no processo, conforme sua experiência.\nFormato: 100% remoto (Brasil).\r\n Benefícios:\r\n -. Convênio odontológico (Sulamerica)\r\n -. Seguro de vida\r\n -. Convênio médico (Sulamerica)\r\n -. TotalPass\r\n -. Vale Refeição\nNúmero de vagas:\n1\nTipo de contra…",
-      "score": 80,
-      "skills_match": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Kubernetes",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:56Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
       "id": "0b79294684e5302a4ad3188d5e185f7967f8fcb3",
       "titulo": "Desenvolvedor Java",
       "empresa": "WORK ON",
@@ -248,7 +221,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:43Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -431,38 +404,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
-      "titulo": "Desenvolvedor(A) Full Stack",
-      "empresa": "Empresa confidencial",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-17T09:11:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -1533,37 +1474,27 @@
       "expirada": false
     },
     {
-      "id": "3d84e344525ac71c3518222214465b9e27c5b6d9",
-      "titulo": "Desenvolvedor Full Stack #1288",
-      "empresa": "RHF Valinhos /Centro-SP",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-1288-em-sao-paulo__11792301.aspx",
+      "id": "c7d84ae400303ebd3f5de3b5212ad5dc8ee7b4fd",
+      "titulo": "Desenvolvedor(A) Typescript · Fullstack",
+      "empresa": "Kikos Fitness",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-typescript-fullstack-em-__11863440.aspx",
       "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-07-07T08:56:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Full Stack Júnior – Sustentação e Suporte à Produção #1288\n?? Presencial | (Segunda a Sexta-feira | 10h às 19h)\n?? Remuneração: R$ 8.000,00 (Prestador de Serviços)\nBenefícios:\n? Assistência Médica\n? Vale Refeição de R$ 54,00 por dia\n? Vale Alimentação \nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Full Stack Júnior para atuar na sustentação e suporte de aplicações em produção, garantindo a estabilidade dos sistemas, investigando incidentes e implementando correções e melhorias.\nSe você possui perfil analítico, gosta de investigar problemas e atuar em conjunto com diferentes equipes para garantir a continuidade dos serviços, essa oportunidade é para você!\nPrincipais responsabilidades\nInvestigar, diagnosticar e corrigir incidentes em ambiente de produção;\nAnalisar logs e rastrear erros em aplicações Front-end e Back-end;\nDesenvolver correções (hotfixes) e pequenas evoluções em sistemas existentes;\nExecutar consultas e análises em banco de dados para investigação de problemas;\nAtuar no suporte técnico de aplicações críticas, garantindo disponibilidade e estabilidade;\nValidar correções por meio de testes e acompanhar implantações em produção;\nDocumentar incidentes, causas raiz e soluções aplicadas;\nTrabalhar em conjunto com equipes de desenvolvimento, infraestrutura e negócio.\nRequisitos\nConhecimento em JavaScript e TypeScript;\nExperiência com React.js;\nConhecimento em Node.js (Express ou F…",
+      "local": "Todo Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-07-29T08:39:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) TypeScript · Fullstack — Kikos · 100% Remoto\nEstamos construindo do zero a nova plataforma de tecnologia da Kikos — uma das maiores redes de equipamentos de fitness do Brasil, com 20 lojas físicas. Você vai ajudar a definir arquitetura, padrões e cultura de engenharia desde a primeira linha.\nNossa Stack\n TypeScript ponta a ponta, com Effect-TS como fundação. Trabalhamos com programação funcional de forma pragmática — tipos como contratos, efeitos como descrições, DI resolvido pelo compilador. Backend em Node, front em React, infra em AWS/Kubernetes.\nO que buscamos\n Não exigimos experiência prévia com Effect-TS. O que importa:\nTypeScript sólido: você entende o sistema de tipos, não só sobrevive a ele (generics, tipos de união/interseção, inferência)\nAfinidade com programação funcional — seja por experiência (fp-ts, Scala, Haskell, Elixir, F#) ou por curiosidade real de aprender\nGosto por código correto por construção: imutabilidade, composição, tratamento explícito de erros\nAutonomia e maturidade para trabalhar 100% remoto, num ambiente onde muita coisa ainda não existe\nSenioridade\n Estamos contratando todas as senioridades — de júnior a sênior. O nível é definido no processo, conforme sua experiência.\nFormato: 100% remoto (Brasil).\r\n Benefícios:\r\n -. Convênio odontológico (Sulamerica)\r\n -. Seguro de vida\r\n -. Convênio médico (Sulamerica)\r\n -. TotalPass\r\n -. Vale Refeição\nNúmero de vagas:\n1\nTipo de contra…",
       "score": 65,
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL",
-        "Git"
+        "Node.js"
       ],
       "lacunas": [
-        "Express",
-        "PostgreSQL",
-        "Docker",
-        "AWS",
-        "CI/CD",
-        "Testes automatizados"
+        "Kubernetes",
+        "AWS"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:23:04Z",
+      "data_coleta": "2026-09-14T20:32:56Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -1979,40 +1910,6 @@
       "expirada": false
     },
     {
-      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
-      "titulo": "Desenvolvedor Back-End Pleno",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T07:51:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "PHP",
-        "C#",
-        ".NET",
-        "Redis",
-        "Docker",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
       "id": "348625d068d95649f29fe453bf468cc671d5598b",
       "titulo": "Desenvolvedor(a) de Sistemas | FRONTEND",
       "empresa": "Brisanet",
@@ -2244,24 +2141,16 @@
         "JavaScript",
         "Node.js",
         "APIs REST",
-        "Microsserviços",
         "Git",
         "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
-        "React Native",
         "GraphQL",
         "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
+        "MongoDB"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:50Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -2392,7 +2281,7 @@
       "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
       "titulo": "Desenvolvedor Full Stack Node.js",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5893196646?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5893196646?utm_medium=api&utm_source=267e525f&v=68E975B94DEEFE3FB3BCDC17D75BBE9532F83FE1",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2796,10 +2685,7 @@
       ],
       "lacunas": [
         "Next.js",
-        "Tailwind",
-        "C#",
-        "Docker",
-        "CI/CD"
+        "Tailwind"
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T14:47:40Z",
@@ -3337,35 +3223,6 @@
       "expirada": false
     },
     {
-      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T09:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Figma",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
       "id": "98dc521cce67b41d0b6401796badce9bd9878135",
       "titulo": "Desenvolvedor(a) Full Stack Pleno (JavaScript/PHP/React)",
       "empresa": "Carreiras SoftExpert",
@@ -3445,6 +3302,31 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-15",
+      "expirada": false
+    },
+    {
+      "id": "3d84e344525ac71c3518222214465b9e27c5b6d9",
+      "titulo": "Desenvolvedor Full Stack #1288",
+      "empresa": "RHF Valinhos /Centro-SP",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-1288-em-sao-paulo__11792301.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-07-07T08:56:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Full Stack Júnior – Sustentação e Suporte à Produção #1288\n?? Presencial | (Segunda a Sexta-feira | 10h às 19h)\n?? Remuneração: R$ 8.000,00 (Prestador de Serviços)\nBenefícios:\n? Assistência Médica\n? Vale Refeição de R$ 54,00 por dia\n? Vale Alimentação \nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Full Stack Júnior para atuar na sustentação e suporte de aplicações em produção, garantindo a estabilidade dos sistemas, investigando incidentes e implementando correções e melhorias.\nSe você possui perfil analítico, gosta de investigar problemas e atuar em conjunto com diferentes equipes para garantir a continuidade dos serviços, essa oportunidade é para você!\nPrincipais responsabilidades\nInvestigar, diagnosticar e corrigir incidentes em ambiente de produção;\nAnalisar logs e rastrear erros em aplicações Front-end e Back-end;\nDesenvolver correções (hotfixes) e pequenas evoluções em sistemas existentes;\nExecutar consultas e análises em banco de dados para investigação de problemas;\nAtuar no suporte técnico de aplicações críticas, garantindo disponibilidade e estabilidade;\nValidar correções por meio de testes e acompanhar implantações em produção;\nDocumentar incidentes, causas raiz e soluções aplicadas;\nTrabalhar em conjunto com equipes de desenvolvimento, infraestrutura e negócio.\nRequisitos\nConhecimento em JavaScript e TypeScript;\nExperiência com React.js;\nConhecimento em Node.js (Express ou F…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Express"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:23:04Z",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
@@ -3984,11 +3866,9 @@
         "SQL"
       ],
       "lacunas": [
-        "Express",
-        "PostgreSQL",
-        "Redis"
+        "Express"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:06Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -4341,7 +4221,7 @@
       "id": "5d00217ea0c0573cc40141157cff002f7c0d772a",
       "titulo": "Desenvolvedor VTEX",
       "empresa": "Blend It Consultoria",
-      "url": "https://www.adzuna.com.br/land/ad/5893208936?utm_medium=api&utm_source=267e525f&v=25A1367DB823A058BD00773345DDBF61C343FAD7",
+      "url": "https://www.adzuna.com.br/details/5893208936?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4910,21 +4790,14 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Clean Code"
+        "APIs REST"
       ],
       "lacunas": [
         "Redux",
         "Sass",
-        "Python",
         ".NET",
         "SQL Server",
-        "Redis",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
@@ -5134,70 +5007,6 @@
       "expirada": false
     },
     {
-      "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
-      "titulo": "Desenvolvedor Full Stack - Foco Em QA / Testes | Voluntário",
-      "empresa": "RHRecruiter",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-foco-qa-testes-voluntario-em-paraiba__12005661.aspx",
-      "fonte": "infojobs",
-      "local": "João Pessoa - PB",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T10:56:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack com foco em QA / Testes para integrar nosso time de tecnologia em uma oportunidade voluntária.\r\n\r\nA atuação será direcionada principalmente para a qualidade dos nossos produtos, apoiando a identificação de falhas, validação de funcionalidades, testes de APIs RESTful e criação e evolução de testes automatizados.\r\n\r\nBuscamos alguém com perfil investigativo, que goste de entender como as aplicações funcionam, identificar comportamentos inesperados e investigar a causa raiz dos problemas encontrados.\r\n\r\nA oportunidade também permitirá contato com projetos reais, trabalhando de forma colaborativa com desenvolvedores Frontend e Backend e participando do ciclo de desenvolvimento e validação das aplicações.\r\n\r\nPrincipais Responsabilidades\r\n\r\nRealizar testes funcionais nas aplicações desenvolvidas pelo time;\r\n\r\nValidar funcionalidades e fluxos antes das entregas;\r\n\r\nTestar APIs RESTful e seus respectivos endpoints;\r\n\r\nUtilizar Postman ou Insomnia para consumo, validação e testes de APIs;\r\n\r\nCriar e executar testes unitários utilizando PHPUnit;\r\n\r\nIdentificar, documentar e reportar bugs encontrados;\r\n\r\nReproduzir erros e investigar possíveis causas;\r\n\r\nApoiar o time de desenvolvimento na validação de correções;\r\n\r\nRealizar testes de regressão após alterações no sistema;\r\n\r\nColaborar com desenvolvedores Frontend e Backend para melhoria contínua da qualidade das aplicações;\r\n\r\nCon…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Tailwind",
-        "PHP",
-        "Laravel",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "129663c8398a2f75a0e18fad10667107d1052f3f",
-      "titulo": "Analista De Sistemas Júnior",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-junior-em-minas-gerais__11990089.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-04T10:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \nATIVIDADES \nEstamos em busca de um(a) Analista de Sistemas Júnior para atuar no desenvolvimento, sustentação e evolução de soluções tecnológicas, contribuindo para a melhoria contínua dos sistemas e processos da empresa. A oportunidade é ideal para profissionais que desejam ampliar sua atuação em um ambiente colaborativo, inovador e orientado à tecnologia. \nDesenvolver e sustentar aplicações e sistemas corporativos;\nAdministrar ambientes de TI automatizados e monitorados;\nRealizar manutenção corretiva e evolutiva em sistemas e bancos de dados;\nElaborar documentação técnica e apoiar a definição de padrões tecnológicos;\nParticipar da implantação, testes, acompanhamento e evolução de soluções;\nAtuar no levantamento de requisitos e análise de demandas de negócio;\nGarantir a atualização dos repositórios de código e ambientes de desenvolvimento;\nContribuir para a performance, estabilidade e me…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "MongoDB",
-        "Docker",
-        "Azure",
-        "Inglês"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-09-16T11:22:59Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
       "id": "43487719b6458ed40a8260f21c59951986f71e7d",
       "titulo": "PDI SW - Líder Técnico III (React / NodeJS)",
       "empresa": "Inatel",
@@ -5249,6 +5058,30 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T09:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:43Z",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
@@ -5485,37 +5318,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
-      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
-      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T07:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Vue.js",
-        "Python",
-        "PostgreSQL",
-        "Docker"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T21:01:30Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -6573,7 +6375,7 @@
         "Vue.js",
         "PHP"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -6734,23 +6536,13 @@
       "score": 40,
       "skills_match": [
         "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "Node.js"
       ],
       "lacunas": [
         "Python",
-        "C#",
-        ".NET",
-        "PostgreSQL",
-        "SQL Server",
-        "Docker",
-        "Kubernetes",
-        "Azure",
-        "CI/CD"
+        ".NET"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -8269,30 +8061,6 @@
       "expirada": false
     },
     {
-      "id": "2b739e141e58f6ef8be71a01f574b53888655c63",
-      "titulo": "Grupo Product Manager",
-      "empresa": "TotalPass",
-      "url": "https://www.infojobs.com.br/vaga-de-grupo-product-manager-em-sao-paulo__11951618.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-08-25T07:17:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nO que buscamos?\nBuscamos uma pessoa com forte capacidade estratégica, visão sistêmica e experiência consolidada em liderança de Product Managers. Esta posição é responsável por orquestrar múltiplos produtos ou squads focados em aplicativos móveis B2C e na experiência do usuário final, garantindo alinhamento estratégico, crescimento de engajamento, excelência na execução e evolução contínua da maturidade do time de Produto. \nComo será o seu dia a dia?\nDefinir e sustentar a visão estratégica de um grupo de produtos focados no app mobile e apps parceiros, alinhada aos objetivos corporativos de crescimento e uso contínuo;\nIdentificar oportunidades de mercado, tendências em experiência B2C, alavancas de ativação, frequência de uso e retenção de usuários;\nGarantir coerência estratégica entre os roadmaps das diferentes squads, otimizando as principais jornadas da plataforma (descoberta, cadastro, login, pagamento, agendamentos, check-ins e ciclo de vida);\nApoiar decisões de priorização com base em dados de comportamento, valor gerado para o usuário e impacto financeiro no negócio;\nLiderar, desenvolver e acompanhar Product Managers, promovendo crescimento técnico (especialmente em produtos móveis e experiência e engajamento do usuário) e comportamental;\nAtuar como referência em boas práticas de Product Management, cultura de Discovery contínuo, gestão de hipóteses e Product-Led Growth (PLG);\nEstimular autonomia, senso de dono e…",
-      "score": 30,
-      "skills_match": [
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
       "id": "fba9527f9ca0d88c81e25a37eefa3f0ce656f137",
       "titulo": "Desenvolvedor Fullstack Pleno - C# & React",
       "empresa": "SiDi",
@@ -8471,6 +8239,84 @@
       "expirada": false
     },
     {
+      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
+      "titulo": "Desenvolvedor(A) Full Stack",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-17T09:11:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
+      "score": 25,
+      "skills_match": [
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
+      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
+      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T07:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:30Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
+      "titulo": "Desenvolvedor Full Stack - Foco Em QA / Testes | Voluntário",
+      "empresa": "RHRecruiter",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-foco-qa-testes-voluntario-em-paraiba__12005661.aspx",
+      "fonte": "infojobs",
+      "local": "João Pessoa - PB",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-11T10:56:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack com foco em QA / Testes para integrar nosso time de tecnologia em uma oportunidade voluntária.\r\n\r\nA atuação será direcionada principalmente para a qualidade dos nossos produtos, apoiando a identificação de falhas, validação de funcionalidades, testes de APIs RESTful e criação e evolução de testes automatizados.\r\n\r\nBuscamos alguém com perfil investigativo, que goste de entender como as aplicações funcionam, identificar comportamentos inesperados e investigar a causa raiz dos problemas encontrados.\r\n\r\nA oportunidade também permitirá contato com projetos reais, trabalhando de forma colaborativa com desenvolvedores Frontend e Backend e participando do ciclo de desenvolvimento e validação das aplicações.\r\n\r\nPrincipais Responsabilidades\r\n\r\nRealizar testes funcionais nas aplicações desenvolvidas pelo time;\r\n\r\nValidar funcionalidades e fluxos antes das entregas;\r\n\r\nTestar APIs RESTful e seus respectivos endpoints;\r\n\r\nUtilizar Postman ou Insomnia para consumo, validação e testes de APIs;\r\n\r\nCriar e executar testes unitários utilizando PHPUnit;\r\n\r\nIdentificar, documentar e reportar bugs encontrados;\r\n\r\nReproduzir erros e investigar possíveis causas;\r\n\r\nApoiar o time de desenvolvimento na validação de correções;\r\n\r\nRealizar testes de regressão após alterações no sistema;\r\n\r\nColaborar com desenvolvedores Frontend e Backend para melhoria contínua da qualidade das aplicações;\r\n\r\nCon…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:50Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "129663c8398a2f75a0e18fad10667107d1052f3f",
+      "titulo": "Analista De Sistemas Júnior",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-junior-em-minas-gerais__11990089.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-04T10:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \nATIVIDADES \nEstamos em busca de um(a) Analista de Sistemas Júnior para atuar no desenvolvimento, sustentação e evolução de soluções tecnológicas, contribuindo para a melhoria contínua dos sistemas e processos da empresa. A oportunidade é ideal para profissionais que desejam ampliar sua atuação em um ambiente colaborativo, inovador e orientado à tecnologia. \nDesenvolver e sustentar aplicações e sistemas corporativos;\nAdministrar ambientes de TI automatizados e monitorados;\nRealizar manutenção corretiva e evolutiva em sistemas e bancos de dados;\nElaborar documentação técnica e apoiar a definição de padrões tecnológicos;\nParticipar da implantação, testes, acompanhamento e evolução de soluções;\nAtuar no levantamento de requisitos e análise de demandas de negócio;\nGarantir a atualização dos repositórios de código e ambientes de desenvolvimento;\nContribuir para a performance, estabilidade e me…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:59Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "b676c6812f4b272b358b8d8d159dc2c502a73ed5",
       "titulo": "Desenvolvedor Júnior",
       "empresa": "Grupo Universal Soluções Automotivas",
@@ -8488,6 +8334,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "2b739e141e58f6ef8be71a01f574b53888655c63",
+      "titulo": "Grupo Product Manager",
+      "empresa": "TotalPass",
+      "url": "https://www.infojobs.com.br/vaga-de-grupo-product-manager-em-sao-paulo__11951618.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-08-25T07:17:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nO que buscamos?\nBuscamos uma pessoa com forte capacidade estratégica, visão sistêmica e experiência consolidada em liderança de Product Managers. Esta posição é responsável por orquestrar múltiplos produtos ou squads focados em aplicativos móveis B2C e na experiência do usuário final, garantindo alinhamento estratégico, crescimento de engajamento, excelência na execução e evolução contínua da maturidade do time de Produto. \nComo será o seu dia a dia?\nDefinir e sustentar a visão estratégica de um grupo de produtos focados no app mobile e apps parceiros, alinhada aos objetivos corporativos de crescimento e uso contínuo;\nIdentificar oportunidades de mercado, tendências em experiência B2C, alavancas de ativação, frequência de uso e retenção de usuários;\nGarantir coerência estratégica entre os roadmaps das diferentes squads, otimizando as principais jornadas da plataforma (descoberta, cadastro, login, pagamento, agendamentos, check-ins e ciclo de vida);\nApoiar decisões de priorização com base em dados de comportamento, valor gerado para o usuário e impacto financeiro no negócio;\nLiderar, desenvolver e acompanhar Product Managers, promovendo crescimento técnico (especialmente em produtos móveis e experiência e engajamento do usuário) e comportamental;\nAtuar como referência em boas práticas de Product Management, cultura de Discovery contínuo, gestão de hipóteses e Product-Led Growth (PLG);\nEstimular autonomia, senso de dono e…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
@@ -8510,6 +8374,32 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
+      "titulo": "Desenvolvedor Back-End Pleno",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T07:51:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST",
+        "SQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:23:01Z",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
