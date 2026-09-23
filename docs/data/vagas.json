@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-23T18:59:20Z",
-  "total": 333,
+  "atualizado_em": "2026-09-23T21:02:43Z",
+  "total": 334,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -184,6 +184,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "cfeb31d3cd56b63c3b22e38b293e1fadb6bc9c61",
+      "titulo": "Desenvolvedor(A) React",
+      "empresa": "D2W",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-react-em-__11988234.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-04T05:00:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResumo\nBuscamos um(a) desenvolvedor(a) Pleno/Sênior para liderar a evolução e otimização da nossa camada de front-end em React, apoiando também a manutenção da estrutura de mensageria (GCP/Pub/Sub, Firestore, Cloud Functions) e de scripts Node.js de sincronia de dados (schedulers).\nResponsabilidades\nEstruturar, otimizar e evoluir a aplicação React (performance, arquitetura de componentes, escalabilidade do front-end)\nDefinir e manter padrões de gerenciamento de estado, code splitting e boas práticas de código\nConsumir e integrar APIs REST, com tratamento de erros, autenticação e resiliência\nApoiar a manutenção da camada de mensageria (Pub/Sub, Cloud Functions, Firestore triggers)\nManter e evoluir scripts/schedulers em Node.js para sincronia de dados entre sistemas\nContribuir para decisões de arquitetura visando aplicações escaláveis, com foco em front-end\nRealizar code review, mentoria a devs menos experientes (se sênior) e documentação técnica\nRequisitos obrigatórios\nExperiência sólida e comprovada com React (hooks avançados, context, otimização de performance — memoization, lazy loading, virtualização)\nJavaScript/TypeScript avançado\nExperiência consumindo APIs REST (autenticação, paginação, tratamento de erros, versionamento)\nExperiência com Node.js (não precisa ser backend pleno — foco em scripts, jobs, integrações e processamento assíncrono)\nNoções de Postgres (queries, entendimento de modelagem relacional — não prec…",
+      "score": 80,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "Firebase",
+        "Git"
+      ],
+      "lacunas": [
+        "PostgreSQL",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T21:01:41Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -6748,23 +6780,13 @@
       "score": 40,
       "skills_match": [
         "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "Node.js"
       ],
       "lacunas": [
         "Python",
-        "C#",
-        ".NET",
-        "PostgreSQL",
-        "SQL Server",
-        "Docker",
-        "Kubernetes",
-        "Azure",
-        "CI/CD"
+        ".NET"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
@@ -6886,31 +6908,6 @@
         "PostgreSQL",
         "SQL Server",
         "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "718b7a7cff4c82bcd980dd69677381d741cd5ec3",
-      "titulo": "Desenvolvedor Fullstack Pleno (PL/SQL)",
-      "empresa": "Nexdom Healthtech",
-      "url": "https://vempranexdom.gupy.io/job/eyJqb2JJZCI6MTE4OTE1MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-05T17:13:42Z",
-      "descricao": "Prazer, nós somos a NEXDOM Healthtech 🤝🏽 Você está preparado para fazer parte de uma empresa que promove inovação e qualidade na gestão de operadoras de planos de saúde, oferece um completo pacote de benefícios, plano de desenvolvimento e está há mais 20 anos no mercado? Aqui, o nosso compromisso é criar um ambiente positivo e sustentável! E muito mais do que oferecer soluções inovadoras, queremos fazer parte de grandes sonhos e que gerem valor para todos. Estamos sempre dispostos a aprender e reconhecer nossos erros. Valorizamos o conhecimento e a troca de perspectivas, reconhecendo que o resultado é gerado de forma coletiva. Nossos líderes diariamente incentivam a criatividade e a busca contínua por ideias e soluções que transformem nossos produtos, serviços e processos, fortalecendo a nossa cultura de atuar com excelência! 🤩 Somos #remotefirst! Incentivamos a liberdade geográfica para você atuar de onde quiser, tendo uma rotina com mais flexibilidade e qualidade para alcançarmos grandes resultados juntos. A nossa missão é promover inovação e qualidade na gestão de operadoras de planos de saúde! E para esse time ficar completo, só falta você! 💚Responsabilidades e atribuiçõesDesenvolver soluções de alta qualidade, com código limpo, seguro e de fácil manutenção;Analisar, interpretar e criticar as soluções especificadas, indicando possíveis conformidades;Atuar com autonomia e senso de dono, buscando soluções para os desafios sem depender de direcionamentos constantes;Demonstr…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Oracle",
-        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
@@ -8318,20 +8315,10 @@
       "descricao": "Quer trabalhar em um dos maiores institutos de ciência e tecnologia do Brasil? Se você gosta de trabalhar de forma colaborativa e integrada com os demais membros da equipe, então venha conhecer o SiDi, e saiba mais sobre esta oportunidade. Buscamos uma pessoa Desenvolvedora de Software Pleno para compor o time de desenvolvimento de um projeto internacional. Procuramos alguém com experiência em desenvolvimento de sistemas fabris, dados e integrações corporativas.Responsabilidades e atribuiçõesAtuar no desenvolvimento de soluções de software (backend, dados e integrações), seguindo a arquitetura definida e boas práticas de engenharia. Contribuir com a definição e evolução da arquitetura técnica em conjunto com profissionais seniores, considerando escalabilidade, desempenho e segurança. Implementar e manter integrações com sistemas corporativos (ERP, API e plataformas de dados).Desenvolver e dar manutenção em pipelines de ingestão e processamento de dados, garantindo qualidade e confiabilidade das informações. Construir componentes modulares, reutilizáveis e bem documentados, alinhados às diretrizes do cliente e do projeto. Aplicar boas práticas de segurança da informação, incluindo autenticação, autorização, criptografia e conformidade com LGPD. Colaborar com cientistas de dados e engenheiros de IA na integração e orquestração de modelos (ex.: APIs de IA, pipelines e serviços). Participar de code reviews, contribuindo com a qualidade do código e aprendizado coletivo do time. A…",
       "score": 30,
       "skills_match": [
-        "React",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
+        "React"
       ],
       "lacunas": [
-        "Python",
-        "C#",
-        ".NET",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Inglês"
+        "C#"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
@@ -8482,6 +8469,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "718b7a7cff4c82bcd980dd69677381d741cd5ec3",
+      "titulo": "Desenvolvedor Fullstack Pleno (PL/SQL)",
+      "empresa": "Nexdom Healthtech",
+      "url": "https://vempranexdom.gupy.io/job/eyJqb2JJZCI6MTE4OTE1MjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-05T17:13:42Z",
+      "descricao": "Prazer, nós somos a NEXDOM Healthtech 🤝🏽 Você está preparado para fazer parte de uma empresa que promove inovação e qualidade na gestão de operadoras de planos de saúde, oferece um completo pacote de benefícios, plano de desenvolvimento e está há mais 20 anos no mercado? Aqui, o nosso compromisso é criar um ambiente positivo e sustentável! E muito mais do que oferecer soluções inovadoras, queremos fazer parte de grandes sonhos e que gerem valor para todos. Estamos sempre dispostos a aprender e reconhecer nossos erros. Valorizamos o conhecimento e a troca de perspectivas, reconhecendo que o resultado é gerado de forma coletiva. Nossos líderes diariamente incentivam a criatividade e a busca contínua por ideias e soluções que transformem nossos produtos, serviços e processos, fortalecendo a nossa cultura de atuar com excelência! 🤩 Somos #remotefirst! Incentivamos a liberdade geográfica para você atuar de onde quiser, tendo uma rotina com mais flexibilidade e qualidade para alcançarmos grandes resultados juntos. A nossa missão é promover inovação e qualidade na gestão de operadoras de planos de saúde! E para esse time ficar completo, só falta você! 💚Responsabilidades e atribuiçõesDesenvolver soluções de alta qualidade, com código limpo, seguro e de fácil manutenção;Analisar, interpretar e criticar as soluções especificadas, indicando possíveis conformidades;Atuar com autonomia e senso de dono, buscando soluções para os desafios sem depender de direcionamentos constantes;Demonstr…",
+      "score": 25,
+      "skills_match": [
+        "SQL"
+      ],
+      "lacunas": [
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
