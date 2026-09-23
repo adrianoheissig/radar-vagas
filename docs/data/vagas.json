@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-23T07:03:00Z",
-  "total": 330,
+  "atualizado_em": "2026-09-23T13:02:37Z",
+  "total": 331,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2101,6 +2101,31 @@
       "expirada": false
     },
     {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5895063400?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-23T07:44:54Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
       "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
       "empresa": "",
@@ -2613,35 +2638,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "c4720c5b14c963ff9b8a535224a2b18b8e466a44",
-      "titulo": "Desenvolvedor de Software Pleno (FrontEnd)",
-      "empresa": "Montreal | Tecnologia e Inovação",
-      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI0NjcxMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T14:34:45Z",
-      "descricao": "Como Desenvolvedor de Software Pleno (FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecn…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "CSS",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Redux",
-        "Tailwind",
-        "GraphQL",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -4233,6 +4229,35 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:01:00Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "c4720c5b14c963ff9b8a535224a2b18b8e466a44",
+      "titulo": "Desenvolvedor de Software Pleno (FrontEnd)",
+      "empresa": "Montreal | Tecnologia e Inovação",
+      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NTkwMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Goiânia, Goiás",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-22T17:09:22Z",
+      "descricao": "Como Desenvolvedor de Software Pleno (FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecn…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Redux",
+        "Tailwind",
+        "GraphQL",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
