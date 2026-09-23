@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-23T13:02:37Z",
-  "total": 331,
+  "atualizado_em": "2026-09-23T14:53:21Z",
+  "total": 332,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -4213,6 +4213,32 @@
       "expirada": false
     },
     {
+      "id": "589208f3a521485ff75df67dd29b6a48ba8c4cbe",
+      "titulo": "Desenvolvedor Full Stack (Python / Angular) - Rio de Janeiro, RJ",
+      "empresa": "BAGAGGIO",
+      "url": "https://bagaggio.gupy.io/job/eyJqb2JJZCI6MTI1Njk5NzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Rio de Janeiro, Rio de Janeiro",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-23T14:19:25Z",
+      "descricao": "Se você está buscando uma oportunidade para ingressar no time Bagaggio, chegou sua hora!Buscamos profissionais versáteis, ambiciosos por conhecimento e inovação! A Bagaggio age para contribuir efetivamente com o seu crescimento, queremos que você seja protagonista do seu desenvolvimento e da sua carreira. Incentivamos ideias novas e a sua participação direta e ativa no nosso processo de expansão e mudança. Temos paixão em quem busca fazer a diferença!Entregaremos a melhor estrutura possível para agregar valor a sua carreira, com iniciativas sustentáveis e inovadoras para, juntos, começarmos a escrever seu futuro.Queremos crescer, ir cada vez mais longe e você pode e deve nos acompanhar neste caminho! E aí, acha que a vaga é para você? Não perca tempo e se candidate logo. Venha participar do nosso time e seja um integrante da nossa história! :)Responsabilidades e atribuiçõesDesenvolver e manter aplicações web utilizadas por áreas internas e parceiros da empresa;Criar, evoluir e manter APIs e serviços backend (principalmente em Python com FastAPI);Desenvolver interfaces web modernas;Implementar regras de negócio, integrações entre sistemas e automações de processos;Garantir qualidade de código, documentação, versionamento e outras boas práticas de desenvolvimento;Participar da definição de arquitetura de soluções e melhorias técnicas nos sistemas existentes;Trabalhar em conjunto com times de inteligência para entender necessidades e transformar demandas em soluções tecnológica…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "Microsserviços",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T14:51:54Z",
+      "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
       "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
       "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
       "empresa": "MJV Innovation",
@@ -6738,7 +6764,7 @@
       "local": "São Paulo - SP",
       "modalidade": "hibrido",
       "data_publicacao": "2026-08-17T05:32:00Z",
-      "descricao": "Sobre a vaga: Buscamos um(a) Analista de QA para garantir a qualidade das entregas do App WePink, atuando com testes manuais e automatizados nos ambientes mobile e web.\nPrincipais responsabilidades\nPlanejar e executar testes funcionais, de regressão e exploratórios no app (iOS/Android) e painel web.\nCriar e manter casos de teste e critérios de aceite utilizando BDD (Dado/Quando/Então).\nImplementar e evoluir testes automatizados E2E e/ou de integração.\nIdentificar, documentar e acompanhar bugs até a resolução.\nColaborar com os times de Desenvolvimento e Produto no refinamento de histórias, garantindo a testabilidade das entregas.\nRequisitos obrigatórios\nExperiência com testes de aplicativos mobile, React Native ou nativo iOS/Android.\nConhecimento em testes automatizados, como Detox, Playwright, Cypress ou similares.\nVivência com metodologias ágeis.\nExperiência com escrita de critérios de aceite em BDD.\nConhecimento de ferramentas de gestão de bugs/tickets, como Jira.\nDiferenciais\nExperiência com testes de API (tRPC/REST).\nConhecimento básico de SQL para validação de dados.\nVivência em times de e-commerce ou varejo.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nAnalista em Informática, TI, Telecomunicações - Análise de Sistema\nExigências\nEscolaridade Mínima:  Ensino Superior",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a vaga: Buscamos um(a) Analista de QA para garantir a qualidade das entregas do App WePink, atuando com testes manuais e automatizados nos ambientes mobile e web.\nPrincipais responsabilidades\nPlanejar e executar testes funcionais, de regressão e exploratórios no app (iOS/Android) e painel web.\nCriar e manter casos de teste e critérios de aceite utilizando BDD (Dado/Quando/Então).\nImplementar e evoluir testes automatizados E2E e/ou de integração.\nIdentificar, documentar e acompanhar bugs até a resolução.\nColaborar com os times de Desenvolvimento e Produto no refinamento de histórias, garantindo a testabilidade das entregas.\nRequisitos obrigatórios\nExperiência com testes de aplicativos mobile, React Native ou nativo iOS/Android.\nConhecimento em testes automatizados, como Detox, Playwright, Cypress ou similares.\nVivência com metodologias ágeis.\nExperiência com escrita de critérios de aceite em BDD.\nConhecimento de ferramentas de gestão de bugs/tickets, como Jira.\nDiferenciais\nExperiência com testes de API (tRPC/REST).\nConhecimento básico de SQL para validação de dados.\nVivência em times de e-commerce ou varejo.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nAnalista em Informática, TI, Telecomunicações - Análise de Sistema\nExigências\nEscolaridade Mínima:  Ensino Superior",
       "score": 40,
       "skills_match": [
         "APIs REST",
@@ -6751,7 +6777,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-16",
+      "ultima_vista": "2026-09-23",
       "expirada": false
     },
     {
