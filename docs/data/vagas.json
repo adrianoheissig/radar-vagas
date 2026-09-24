@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-24T14:53:54Z",
-  "total": 346,
+  "atualizado_em": "2026-09-24T17:02:40Z",
+  "total": 349,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -4413,6 +4413,54 @@
       "expirada": false
     },
     {
+      "id": "50e6148385238d1f28dbba4d4753425b7d9bcded",
+      "titulo": "Consultor(a) Full Stack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5897110375?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T13:36:35Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T17:01:13Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "f50f29c3de8360c14f4dc746abd48321530a0d78",
+      "titulo": "Full Stack Developer | .NET & Angular (English required)",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5897067726?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T12:58:30Z",
+      "descricao": "As a Full Stack Developer, you will join international projects, collaborating with global teams to develop and enhance modern enterprise applications. This role is essential for building end-to-end solutions, contributing to both back-end and front-end development, as well as API integrations and automation initiatives that support our clients' digital transformation journeys. We are looking for professionals with a strong software engineering background, a passion for technology, and an inter…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T17:01:02Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
@@ -7523,6 +7571,28 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "ba3b26a9fdb8ce71a5982c7f65a53ec84f72d6d5",
+      "titulo": "Pessoa desenvolvedora Desenvolvedor .NET / React - Pleno",
+      "empresa": "FCamara",
+      "url": "https://www.adzuna.com.br/details/5897002516?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T12:14:25Z",
+      "descricao": "Description A FCamara está em busca de uma Pessoa Desenvolvedora .NET - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. Responsibilities Modelar arquiteturas de software em nuvem; Ter conhecimento das tecnologias utilizadas pela equipe; Ter capacidade de medir esforços e definir prazos de implementação; Saber lidar com pressão de prazos; Solucionar proble…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T17:01:13Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
