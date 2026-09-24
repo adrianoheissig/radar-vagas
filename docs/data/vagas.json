@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-24T05:02:40Z",
-  "total": 342,
+  "atualizado_em": "2026-09-24T07:02:43Z",
+  "total": 344,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1729,6 +1729,27 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "fed72dd2136bdd1fbda8c0ef43ecd9c3ba398d4a",
+      "titulo": "Analista Desenvolvedor Fullstack (Java/Angular)",
+      "empresa": "Global TI",
+      "url": "https://www.adzuna.com.br/details/5895339418?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-23T12:44:33Z",
+      "descricao": "Curte resolver problemas complexos em Java e quer ver seu código impactando milhares de pessoas? Esta vaga é para você. Estamos em busca de um(a) Analista Desenvolvedor(a) Java Pleno para atuar em projetos de alta relevância, ajudando a evoluir nossos produtos digitais e garantir performance, segurança e escalabilidade. Você fará parte de um time colaborativo, com autonomia, boas práticas de engenharia e foco em resultado. Desenvolver e manter APIs e serviços backend em Java. Participar de todo…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T07:01:04Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -3801,6 +3822,30 @@
       "expirada": false
     },
     {
+      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
+      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5896343024?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T02:30:28Z",
+      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
+      "score": 50,
+      "skills_match": [
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "cd3663049e1db8e8b1653a9edc415f49ab5f15ff",
       "titulo": "Desenvolvedor React Pleno - SP",
       "empresa": "Decision group",
@@ -3825,7 +3870,7 @@
       "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
       "titulo": "Desenvolvedor Backend Pleno - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/land/ad/5895845686?utm_medium=api&utm_source=267e525f&v=BB1FAA70EC51761FE313BE563C420CFF3A9A7137",
+      "url": "https://www.adzuna.com.br/details/5895845686?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -4050,30 +4095,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
       "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
-      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5888751197?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T02:28:54Z",
-      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
-      "score": 50,
-      "skills_match": [
-        "JavaScript",
-        "Node.js",
-        "SQL"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-09-21",
       "expirada": false
     },
     {
@@ -5607,6 +5628,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "79cea000dc8eb00ecf6167922a7fadf38110dc9e",
+      "titulo": "Desenvolvedor de Back End",
+      "empresa": "itaim bibi",
+      "url": "https://www.adzuna.com.br/details/5895771748?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-23T20:33:59Z",
+      "descricao": "Sobre a empresa; Apresentamos uma jornada de mais de 12 anos no mercado, provendo soluções financeiras digitais inovadoras. Habilidades API, JavaScript, JSON, Node.js, RESTful, TypeScript, Nest.Js O que nós buscamos Desenvolver e dar manutenção em aplicações, recursos e algoritmos para Sistemas Web, focado no desenvolvimento Backend. O profissional deve dominar programação em JavaScript, TypeScript e Node.js, além de conhecimento de outras tecnologias que fazem parte do desenvolvimento Web, com…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "NestJS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T07:01:12Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -7414,6 +7460,36 @@
       "expirada": false
     },
     {
+      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
+      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5896342660?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T02:30:26Z",
+      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:23Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
@@ -8077,36 +8153,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
-      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5888750760?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T02:28:50Z",
-      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
