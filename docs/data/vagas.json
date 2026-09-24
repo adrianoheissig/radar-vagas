@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-24T01:02:42Z",
+  "atualizado_em": "2026-09-24T03:02:40Z",
   "total": 341,
   "vagas": [
     {
@@ -2185,41 +2185,14 @@
       "expirada": false
     },
     {
-      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
-      "titulo": "Analista de Testes - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895883115?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:54:59Z",
-      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T01:00:55Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895883110?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5895908924?utm_medium=api&utm_source=267e525f&v=6213CF0898FAC6C29000171E21C73E819D5270F8",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:54:59Z",
+      "data_publicacao": "2026-09-23T21:57:01Z",
       "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
       "score": 55,
       "skills_match": [
@@ -2240,6 +2213,33 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:50Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
+      "titulo": "Analista de Testes - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5895908827?utm_medium=api&utm_source=267e525f&v=A26E82C5E726C33296D02CB96E2586D4A85D9565",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-23T21:57:00Z",
+      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "NestJS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -4347,14 +4347,36 @@
       "expirada": false
     },
     {
-      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
-      "titulo": "Desenvolvedor Front-end React - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895883126?utm_medium=api&utm_source=267e525f",
+      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
+      "titulo": "Programador .NET - SP",
+      "empresa": "Urbano Informatica",
+      "url": "https://www.adzuna.com.br/details/5895924434?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:54:59Z",
+      "data_publicacao": "2026-09-23T21:58:28Z",
+      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:09Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
+      "titulo": "Desenvolvedor Front-end React - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5895908885?utm_medium=api&utm_source=267e525f&v=F03D872598FDE3BB03BCCF75AFE9174DCB1EF105",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-23T21:57:01Z",
       "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
       "score": 45,
       "skills_match": [
@@ -4709,28 +4731,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T17:55:04Z",
-      "ultima_vista": "2026-09-22",
-      "expirada": false
-    },
-    {
-      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
-      "titulo": "Programador .NET - SP",
-      "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/land/ad/5890470809?utm_medium=api&utm_source=267e525f&v=3C9D3EC7E09957608242F4E78B198600899E5595",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-19T07:24:22Z",
-      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:09Z",
       "ultima_vista": "2026-09-22",
       "expirada": false
     },
@@ -5515,6 +5515,34 @@
       "expirada": false
     },
     {
+      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
+      "titulo": "Desenvolvedor Back-end Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5895908688?utm_medium=api&utm_source=267e525f&v=7204680A8159EBAC7BC6845DF1B3309A6177B194",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-23T21:57:00Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "Redis",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:01:10Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "81d73b8e537a3d9c964f634e17ff0405ecd13946",
       "titulo": "Desenvolvedor Java PLSR - SP",
       "empresa": "Decision group",
@@ -5535,34 +5563,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
-      "titulo": "Desenvolvedor Back-end Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895883023?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:54:58Z",
-      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "Redis",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:01:10Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
