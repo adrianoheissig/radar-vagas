@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-24T11:02:39Z",
+  "atualizado_em": "2026-09-24T13:02:44Z",
   "total": 344,
   "vagas": [
     {
@@ -1323,37 +1323,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
-      "expirada": false
-    },
-    {
-      "id": "474149a9ddb0d44b4f509c1f887a9af7963bd769",
-      "titulo": "Pessoa Desenvolvedora Fullstack PHP/React Pl (Remoto) - 0336",
-      "empresa": "Starian",
-      "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIxNTAzMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-27T21:05:31Z",
-      "descricao": "Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance. Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro. Essa vaga é para atuar no produto eCustos.Responsabilidades e atribuiçõesManter as bases de referência de engenharia do eCustos atualizadas: entender como cada estado disponibiliza suas tabelas de preços, composições e insumos e trazer esses dados para o nosso padrão da forma mais rápida e confiável possível;Desenvolver e manter os conectores e rotinas de ETL que extraem dados de origens muito diferentes entre si (bancos relacionais, APIs, planilhas, arquivos), com rastreabilidade, tratamento de falhas e reprocessamento;Estruturar e modelar os dados para consumo pela aplicação: formatos, chaves de relacionamento e critérios de qualidade, investigando divergências entre as bases de origem;Trabalhar no back-end de processamento em PHP, incluindo as rotinas que rodam em background, e dar apoio nas interfaces de consulta e acompanhamento das cargas;Propor melhorias nos processos de extração usando IA (matching de composições e insumos, leitura de documentos não estruturados,…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "SQL",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "PHP",
-        "Oracle",
-        "SQL Server",
-        "MongoDB",
-        "Docker"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:26Z",
-      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5533,6 +5502,26 @@
       "expirada": false
     },
     {
+      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
+      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5896647707?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T07:44:59Z",
+      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "506ee98619759642db5d10163d48a7374968890d",
       "titulo": "Software Engineer FrontEnd (React)",
       "empresa": "SoftDesign",
@@ -6212,26 +6201,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
-      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5889085042?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T07:43:36Z",
-      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
@@ -6965,6 +6934,28 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "474149a9ddb0d44b4f509c1f887a9af7963bd769",
+      "titulo": "Pessoa Desenvolvedora Fullstack PHP/React Pl (Remoto) - 0336",
+      "empresa": "Starian",
+      "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIxNTAzMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-27T21:05:31Z",
+      "descricao": "Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance. Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro. Essa vaga é para atuar no produto eCustos.Responsabilidades e atribuiçõesManter as bases de referência de engenharia do eCustos atualizadas: entender como cada estado disponibiliza suas tabelas de preços, composições e insumos e trazer esses dados para o nosso padrão da forma mais rápida e confiável possível;Desenvolver e manter os conectores e rotinas de ETL que extraem dados de origens muito diferentes entre si (bancos relacionais, APIs, planilhas, arquivos), com rastreabilidade, tratamento de falhas e reprocessamento;Estruturar e modelar os dados para consumo pela aplicação: formatos, chaves de relacionamento e critérios de qualidade, investigando divergências entre as bases de origem;Trabalhar no back-end de processamento em PHP, incluindo as rotinas que rodam em background, e dar apoio nas interfaces de consulta e acompanhamento das cargas;Propor melhorias nos processos de extração usando IA (matching de composições e insumos, leitura de documentos não estruturados,…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:26Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
