@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-24T03:02:40Z",
-  "total": 341,
+  "atualizado_em": "2026-09-24T05:02:40Z",
+  "total": 342,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1684,7 +1684,7 @@
       "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
       "titulo": "Fullstack Developer Java Angular - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5895883641?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5895883641?utm_medium=api&utm_source=267e525f&v=2FB9E64C2869F671FD6EAEFE4C848715B38E620D",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3825,7 +3825,7 @@
       "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
       "titulo": "Desenvolvedor Backend Pleno - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5895845686?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5895845686?utm_medium=api&utm_source=267e525f&v=BB1FAA70EC51761FE313BE563C420CFF3A9A7137",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -4350,7 +4350,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5895924434?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5895924434?utm_medium=api&utm_source=267e525f&v=2C4BC9177840940A3087C4869AC5D218D502E144",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4390,6 +4390,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
+      "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
+      "empresa": "Capitani group",
+      "url": "https://www.adzuna.com.br/land/ad/5895845711?utm_medium=api&utm_source=267e525f&v=D8823A48AA6423451D67830371F36CFE3AEE83FE",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-23T21:49:55Z",
+      "descricao": "Atuação presencial no Morumbi / SP. Resumo da posição: Atuará em soluções de IA Generativa, conectando necessidades de usuários e negócios a soluções técnicas, desde suporte e troubleshooting até desenvolvimento de PoCs, protótipos e MVPs com LLMs. Requisitos obrigatórios: * Experiência em Engenharia de Software e desenvolvimento de aplicações com Python, Java ou JavaScript/TypeScript. * Experiência prática com prototipação rápida, PoCs e MVPs. * Experiência com soluções de IA Generativa, inclu…",
+      "score": 45,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T05:01:04Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -4472,7 +4496,7 @@
       "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
       "titulo": "Desenvolvedor NET Pleno",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5894236625?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5894236625?utm_medium=api&utm_source=267e525f&v=996A41AF7592E4425148AE2026324B9FCD3928ED",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5546,7 +5570,7 @@
       "id": "81d73b8e537a3d9c964f634e17ff0405ecd13946",
       "titulo": "Desenvolvedor Java PLSR - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5895883577?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5895883577?utm_medium=api&utm_source=267e525f&v=DC29CA24E293D0B44AB90C78C31B1E6FAF3257FB",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
