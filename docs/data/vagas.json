@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-24T19:01:30Z",
-  "total": 351,
+  "atualizado_em": "2026-09-24T23:51:59Z",
+  "total": 355,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1747,6 +1747,51 @@
       "expirada": false
     },
     {
+      "id": "233587cd981f71f88edf0935109fd3957da56fcf",
+      "titulo": "Desenvolvedor Front-end Angular/react",
+      "empresa": "SeedTS Seed Technology Solutions",
+      "url": "https://www.adzuna.com.br/details/5897468938?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T20:29:28Z",
+      "descricao": "Nós gostamos de inovar com IA, Microsserviços e APIs, transformando empresas e criando produtos fantásticos! Temos muito orgulho de formar um time de profissionais que atua em colaboração e que é cada vez mais incentivado a buscar soluções fantásticas, sem ser do quarteto fantástico! Somos early adopters desde a fundação. Buscamos pessoas com vontade e disponibilidade para trabalhar em ambientes desafiadores na transformação de clientes. By the way os clientes são bem grandinhos e a gente super…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Microsserviços"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T23:50:19Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "62384a7de76b008e9e34bd04c74627e8d1d4015a",
+      "titulo": "Desenvolvedor Front-end Pleno",
+      "empresa": "INEX",
+      "url": "https://www.adzuna.com.br/details/5897467940?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T20:29:23Z",
+      "descricao": "Desenvolver no framework do Angular - Angular 6; - React; - HTML; - CSS e Adobe (AEM).",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T23:50:19Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
       "titulo": "Fullstack Developer Java Angular - SP",
       "empresa": "Decision group",
@@ -2893,7 +2938,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -4434,6 +4479,35 @@
       "expirada": false
     },
     {
+      "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
+      "titulo": "Desenvolvedor ReactJS e React Native",
+      "empresa": "Taking",
+      "url": "https://www.adzuna.com.br/details/5897468336?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T20:29:24Z",
+      "descricao": "Cód. 2603 - Desenvolvedor ReactJS e React Native Sr. - Contratação PJ_ - Horário de Trabalho Comercial_ - Atuação 100% Home_ Requisitos da vaga: - Experiência em desenvolvimento de aplicações Web utilizando React, Javascript, HTML e CSS e/ou mobile utilizando React Native; - Experiência com Typescript e Next.JS; - Experiência em consumo de APIs RESTFul; - Experiência com versionamento de código, utilizando Github; - Habilidade e preocupação com a excelência técnica e boas práticas de desenvolvi…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T23:50:19Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "50e6148385238d1f28dbba4d4753425b7d9bcded",
       "titulo": "Consultor(a) Full Stack",
       "empresa": "Avanade",
@@ -4890,7 +4964,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T17:55:04Z",
-      "ultima_vista": "2026-09-22",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -4922,12 +4996,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -4935,11 +5009,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
@@ -5035,7 +5107,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5055,7 +5127,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5077,7 +5149,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5142,7 +5214,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -7497,6 +7569,27 @@
       "expirada": false
     },
     {
+      "id": "7bab56bb3e23248c12a2aee379ceac7eae1980bb",
+      "titulo": "Desenvolvedor Nodejs Jr",
+      "empresa": "Chat2desk Brasil",
+      "url": "https://www.adzuna.com.br/details/5897465987?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T20:29:15Z",
+      "descricao": "Você ama trabalho remoto, cultura colaborativa ágil e construir soluções que melhorem a qualidade do relacionamento entre as empresas e os clientes e ajudem as empresas a crescer automatizando processos, melhorando a gestão e colaboração, otimizando o tempo e produtividade? A C2D Brasil está procurando por você que é curioso e que deseja se desenvolver em uma equipe engajada, pro ativa, resiliente e principalmente amiga Venha ser um _ChatStar!_ - VAGA: Desenvolvedor Nodejs Jr. Requisitos: - Ser…",
+      "score": 35,
+      "skills_match": [
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T23:50:30Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
       "titulo": "Desenvolvedor Full Stack Pj",
       "empresa": "Adonai rh",
@@ -8246,7 +8339,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
-      "ultima_vista": "2026-09-22",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -8335,7 +8428,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
+      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
