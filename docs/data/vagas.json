@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-24T13:02:44Z",
-  "total": 344,
+  "atualizado_em": "2026-09-24T14:53:54Z",
+  "total": 346,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -79,6 +79,54 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "a2ae78f774f74e01ffe64263523d026c97b4252e",
+      "titulo": "Desenvolvedor(a) de Sistemas | FULLSTACK",
+      "empresa": "Brisanet",
+      "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI1NDUwMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Juazeiro do Norte, Ceará",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-24T13:26:52Z",
+      "descricao": "Estamos à procura de um(a) Desenvolvedor(a) de Sistemas para desenvolver, implantar e realizar manutenção de sites e sistemas, visando a agilidade, segurança e eficácia dos processos adequando-os às necessidades das áreas e clientes.Se você é um profissional atencioso, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar!Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡Responsabilidades e atribuições1. Desenvolvimento Fullstack (Frontend & Backend)Desenvolver, evoluir e manter funcionalidades ponta a ponta em sistemas e aplicações web, garantindo código limpo, segurança e boas práticas.Construir interfaces web modernas, responsivas e acessíveis a partir de especificações ou protótipos de design.Implementar regras de negócio, serviços e integrações no backend, garantindo estabilidade e manutenibilidade.Desenvolver e consumir APIs REST (e outros padrões de integração), realizando o tratamento adequado de requisições, respostas e erros.Construir e manter consultas a bancos de dados relacionais e/ou não relacionais, apoiando na garantia de integridade e consistência dos dados.Auxiliar na integração com serviços e APIs externas necessárias ao funcionamento das aplicações.2. Qualidade, Sustentação e ObservabilidadeIdentificar, investigar e corrigir bugs tanto em tela (frontend) quanto em regras e serviços (backend).Escrever e manter testes automatizados (unitários e de integração) com o suporte do time, visando a qualidade contínua das entregas.Acompanh…",
+      "score": 80,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Java",
+        "APIs REST",
+        "SQL",
+        "MySQL",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Sass",
+        "Tailwind",
+        "Python",
+        "C#",
+        "Go",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Linux",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T14:52:32Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -529,6 +577,34 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
+      "id": "4452657719bfee192af689373ee80b93aab7f188",
+      "titulo": "Software Engineer FrontEnd (Angular/React)",
+      "empresa": "SoftDesign",
+      "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI1Nzc3NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-23T22:15:07Z",
+      "descricao": "O que buscamos? Buscamos uma Software Engineer FrontEnd (React) para trabalhar em nosso parceiro. Nossa área de Gestão de Outsourcing estará próxima a você, realizando reuniões 1:1 para garantir o alinhamento estratégico, absorção da nossa cultura e a evolução da sua carreira. Responsabilidades e atribuiçõesO que você irá fazer: Desenvolver aplicações web responsivas e de alta performance utilizando Angular4+ e ReactJS;Colaborar com equipes multidisciplinares para definir, projetar e implementar novas funcionalidades;Realizar a manutenção e otimização de sistemas existentes, garantindo a melhor experiência para o usuário;Participar ativamente de revisões de código e promover boas práticas de desenvolvimento;Contribuir para a documentação técnica dos projetos e processos;Auxiliar na identificação e resolução de problemas técnicos, propondo soluções eficazes. Requisitos e qualificaçõesO que você precisa ter: Experiência sólida em desenvolvimento FrontEnd com Angular4+ e ReactJS;Conhecimento em HTML, CSS e JavaScript;Familiaridade com ferramentas de controle de versão, como Git;Capacidade de trabalhar em equipe, com boa comunicação e colaboração;Proatividade e interesse em aprender novas tecnologias e metodologias. Experiências desejáveis: Vivência em metodologias ágeis de desenvolvimento, como Scrum ou Kanban.Conhecimento em testes automatizados e práticas de integração contínua.Experiência com design responsivo e acessibilidade em aplicações web. Formação e engajamento desejá…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T14:52:35Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -7451,6 +7527,36 @@
       "expirada": false
     },
     {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5896648292?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-24T07:45:05Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
+      "ultima_vista": "2026-09-24",
+      "expirada": false
+    },
+    {
       "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
       "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
       "empresa": "",
@@ -8114,36 +8220,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5889085699?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T07:43:41Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
       "ultima_vista": "2026-09-20",
       "expirada": false
     },
