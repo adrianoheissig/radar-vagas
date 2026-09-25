@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-25T15:02:50Z",
-  "total": 358,
+  "atualizado_em": "2026-09-25T17:02:36Z",
+  "total": 359,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -4093,6 +4093,29 @@
       "expirada": false
     },
     {
+      "id": "f550f5b241e5bd64645355795169029a5dbc9e60",
+      "titulo": "Desenvolvedor Pleno Fullstack (Node.js/React/Postgres)",
+      "empresa": "Pessoalize RH",
+      "url": "https://www.adzuna.com.br/details/5894063360?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Belo Horizonte, Minas Gerais",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-22T12:34:25Z",
+      "descricao": "Node.js / React / Postgres · Remoto (BH e região) · CLT ou PJ Sobre a Tolky: A Tolky é o AI CRM da era conversacional: uma plataforma que une atendimento, gestão e inteligência em cima das conversas com o cliente, hoje por WhatsApp, webchat e minichat, com voz a caminho. Nossos agentes de IA resolvem mais de 67% das conversas sem escalar para humano, integrados a CRM, ERP, agendamento e cobrança, e atendem organizações como CNJ, Grupo Treviso e Rede Jesuíta de Educação. Somos uma startup de Bel…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T17:01:00Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
       "id": "5c66f8bd3ad027b552ac33ae563f39548214edab",
       "titulo": "Desenvolvedor Front-end - Idook",
       "empresa": "BURH",
@@ -5089,12 +5112,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T19:31:30Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "data_publicacao": "2026-09-18T13:12:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -5102,9 +5125,11 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server"
+        "SQL Server",
+        "Redis",
+        "Azure"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
@@ -5803,8 +5828,7 @@
       "lacunas": [
         "Python",
         "C#",
-        ".NET",
-        "Inglês"
+        ".NET"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
