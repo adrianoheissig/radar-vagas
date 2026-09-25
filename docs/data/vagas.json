@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-25T17:02:36Z",
+  "atualizado_em": "2026-09-25T19:02:40Z",
   "total": 359,
   "vagas": [
     {
@@ -5112,12 +5112,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -5125,11 +5125,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
@@ -5903,7 +5901,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -8918,30 +8916,6 @@
       "expirada": false
     },
     {
-      "id": "2b739e141e58f6ef8be71a01f574b53888655c63",
-      "titulo": "Grupo Product Manager",
-      "empresa": "TotalPass",
-      "url": "https://www.infojobs.com.br/vaga-de-grupo-product-manager-em-sao-paulo__11951618.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-08-25T07:17:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nO que buscamos?\nBuscamos uma pessoa com forte capacidade estratégica, visão sistêmica e experiência consolidada em liderança de Product Managers. Esta posição é responsável por orquestrar múltiplos produtos ou squads focados em aplicativos móveis B2C e na experiência do usuário final, garantindo alinhamento estratégico, crescimento de engajamento, excelência na execução e evolução contínua da maturidade do time de Produto. \nComo será o seu dia a dia?\nDefinir e sustentar a visão estratégica de um grupo de produtos focados no app mobile e apps parceiros, alinhada aos objetivos corporativos de crescimento e uso contínuo;\nIdentificar oportunidades de mercado, tendências em experiência B2C, alavancas de ativação, frequência de uso e retenção de usuários;\nGarantir coerência estratégica entre os roadmaps das diferentes squads, otimizando as principais jornadas da plataforma (descoberta, cadastro, login, pagamento, agendamentos, check-ins e ciclo de vida);\nApoiar decisões de priorização com base em dados de comportamento, valor gerado para o usuário e impacto financeiro no negócio;\nLiderar, desenvolver e acompanhar Product Managers, promovendo crescimento técnico (especialmente em produtos móveis e experiência e engajamento do usuário) e comportamental;\nAtuar como referência em boas práticas de Product Management, cultura de Discovery contínuo, gestão de hipóteses e Product-Led Growth (PLG);\nEstimular autonomia, senso de dono e…",
-      "score": 30,
-      "skills_match": [
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
       "id": "fba9527f9ca0d88c81e25a37eefa3f0ce656f137",
       "titulo": "Desenvolvedor Fullstack Pleno - C# & React",
       "empresa": "SiDi",
@@ -9149,6 +9123,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
+      "expirada": false
+    },
+    {
+      "id": "2b739e141e58f6ef8be71a01f574b53888655c63",
+      "titulo": "Grupo Product Manager",
+      "empresa": "TotalPass",
+      "url": "https://www.infojobs.com.br/vaga-de-grupo-product-manager-em-sao-paulo__11951618.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-08-25T07:17:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nO que buscamos?\nBuscamos uma pessoa com forte capacidade estratégica, visão sistêmica e experiência consolidada em liderança de Product Managers. Esta posição é responsável por orquestrar múltiplos produtos ou squads focados em aplicativos móveis B2C e na experiência do usuário final, garantindo alinhamento estratégico, crescimento de engajamento, excelência na execução e evolução contínua da maturidade do time de Produto. \nComo será o seu dia a dia?\nDefinir e sustentar a visão estratégica de um grupo de produtos focados no app mobile e apps parceiros, alinhada aos objetivos corporativos de crescimento e uso contínuo;\nIdentificar oportunidades de mercado, tendências em experiência B2C, alavancas de ativação, frequência de uso e retenção de usuários;\nGarantir coerência estratégica entre os roadmaps das diferentes squads, otimizando as principais jornadas da plataforma (descoberta, cadastro, login, pagamento, agendamentos, check-ins e ciclo de vida);\nApoiar decisões de priorização com base em dados de comportamento, valor gerado para o usuário e impacto financeiro no negócio;\nLiderar, desenvolver e acompanhar Product Managers, promovendo crescimento técnico (especialmente em produtos móveis e experiência e engajamento do usuário) e comportamental;\nAtuar como referência em boas práticas de Product Management, cultura de Discovery contínuo, gestão de hipóteses e Product-Led Growth (PLG);\nEstimular autonomia, senso de dono e…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
