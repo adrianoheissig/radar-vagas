@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-25T21:02:50Z",
-  "total": 361,
+  "atualizado_em": "2026-09-25T23:02:39Z",
+  "total": 362,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2338,15 +2338,11 @@
         "React",
         "Angular",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS"
+        "JavaScript"
       ],
       "lacunas": [
         "React Native",
         "Vue.js",
-        "Tailwind",
-        "Bootstrap",
         "Python"
       ],
       "experiencia_exigida": null,
@@ -5170,12 +5166,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T19:31:30Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "data_publicacao": "2026-09-18T13:12:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -5183,9 +5179,11 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server"
+        "SQL Server",
+        "Redis",
+        "Azure"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
@@ -5888,6 +5886,35 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "e34650721d25817a961dad0fbb29d2bc1555a0af",
+      "titulo": "Desenvolvedor Fullstack .NET - Pleno",
+      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2MDE0OTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-25T21:23:29Z",
+      "descricao": "A FCamara está em busca de um Desenvolvedor Fullstack - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. Responsabilidades e atribuiçõesParticipar ativamente da concepção e estruturação de novos produtos em parceria direta com a área de negócios de Capital Markets.Desenvolver e sustentar a plataforma de pós-negociação de renda variável, criando soluções de integração robustas.Trabalhar em um ambiente colaborativo e democrático, com autonomia para propor ideias que impactem a evolução dos produtos.Desenvolver sistemas utilizando tecnologias de ponta, garantindo excelência técnica e alinhamento com a Clearing e o mercado de renda variável brasileiro.Contribuir para a transformação digital do maior banco de investimentos da América Latina através de soluções escaláveis.Requisitos e qualificações Requisitos e qualificações:Essenciais:Sólida experiência com a linguagem C# (.NET Core).Domínio em desenvolvimento front-end utilizando React.Experiência prática com o framework Next.js.Conhecimento em boas práticas de programação (Clean Code, SOLID).Formação superior completa em TI ou áreas correlatas.Conhecimento em banco de dados SQL.Experiência com mensageria (RabbitMQ).Vivência com cache distribuído (Redis).Experiência com Cloud (AWS).Vivência no setor de Mercado de Capitais ou Renda Variável.Soft Skills:Raciocínio lógico e capacidade analític…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "SQL",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Next.js",
+        "C#",
+        ".NET",
+        "Redis",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:01:15Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
