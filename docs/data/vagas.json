@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-25T05:02:35Z",
-  "total": 355,
+  "atualizado_em": "2026-09-25T07:02:48Z",
+  "total": 357,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -128,36 +128,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T14:52:32Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5888750594?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T02:28:49Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
@@ -577,6 +547,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5897931042?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T02:31:17Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
@@ -2317,6 +2319,60 @@
       "expirada": false
     },
     {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "Desenvolvedor Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T22:17:03Z",
+      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "c5c8f4c50d36839ef167e95a0bee3c0361241162",
+      "titulo": "Desenvolvedor(a) Frontend Angular",
+      "empresa": "Sioux digital 1:1",
+      "url": "https://www.adzuna.com.br/details/5897468053?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-24T20:29:23Z",
+      "descricao": "Você participará do desenvolvimento de produtos inovadores do mercado, atuando na construção de softwares de alta performance. Híbrido - flexworking 2 dias da semana Responsabilidade e atribuições - Atuar como desenvolvedor em mesa ágil; - Participar de forma engajada em toda as cerimonias do SCRUM como Sprint Planning, a Daily Meeting, a Sprint Review e a Sprint Retrospective. - Angular 12; - Conhecimento em desenvolvimento de SPA; - Conhecimentos em HTML / CSS / TYPESCRIPT; - Conhecimento em …",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T07:01:06Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -2490,30 +2546,6 @@
       "modalidade": "hibrido",
       "data_publicacao": "2026-09-22T07:44:15Z",
       "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "DESENVOLVEDOR ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5893829074?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-22T07:44:14Z",
-      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
       "score": 55,
       "skills_match": [
         "Angular",
@@ -3236,7 +3268,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -4479,6 +4511,31 @@
       "expirada": false
     },
     {
+      "id": "da44d5b47db56aed96c6008e90319806021213a4",
+      "titulo": "Consultor(a) Full Stack",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5897962384?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T02:54:23Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T07:01:16Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
       "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
       "titulo": "Desenvolvedor ReactJS e React Native",
       "empresa": "Taking",
@@ -4996,12 +5053,12 @@
       "id": "a8a6b2b6ff9935a6ab21e893a6d68d09aa71354e",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Região Sudeste - PM",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-net-pleno-em-sao-paulo__12031070.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
+      "url": "https://www.adzuna.com.br/details/5889804945?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T13:12:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor .NET Pleno #1147\nAtividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade.\nSegmento: Plataforma modelo SaaS para área de Inteligência de Mercado\nTecnologias Obrigatórias\nC#\n.NET 10\nhttp://ASP.NET Core\nAngular SPA v20\nSQL Server\nModelagem de Banco de Dados\nStored Procedures\nViews\nAzure DevOps\n\nDiferenciais\nAzure App Services\nAzure Key Vault\nAzure Redis\nAzure OpenAI\nIA Generativa\nEngenharia de Prompts\nSoluções baseadas em LLMs\nRequisitos: \nExperiencia em desenvolvimento de aplicações corporativas utilizando .NET;\nConhecimento com Inteligência Artificial e inovação tecnológica;\nConhecimento com as tecnologias C#, .NET10, .NETCORE, Angular SPA v20, SQLServer, modelagem de banco de dados, Azure DevOps, views, Stored Procedures\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nHabilidades\n.net core\nAngular\nAsp.net\nAzure devops\nc#\nSql server",
+      "data_publicacao": "2026-09-18T19:31:30Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
       "score": 45,
       "skills_match": [
         "Angular"
@@ -5009,11 +5066,9 @@
       "lacunas": [
         "C#",
         ".NET",
-        "SQL Server",
-        "Redis",
-        "Azure"
+        "SQL Server"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-18T14:20:37Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
@@ -5741,7 +5796,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -5761,7 +5816,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -5927,7 +5982,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T18:57:32Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -6399,7 +6454,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T17:00:57Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -7155,7 +7210,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -7184,12 +7239,12 @@
       "id": "474149a9ddb0d44b4f509c1f887a9af7963bd769",
       "titulo": "Pessoa Desenvolvedora Fullstack PHP/React Pl (Remoto) - 0336",
       "empresa": "Starian",
-      "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIxNTAzMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
+      "url": "https://www.adzuna.com.br/details/5861212732?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
       "modalidade": "remoto",
-      "data_publicacao": "2026-08-27T21:05:31Z",
-      "descricao": "Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance. Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro. Essa vaga é para atuar no produto eCustos.Responsabilidades e atribuiçõesManter as bases de referência de engenharia do eCustos atualizadas: entender como cada estado disponibiliza suas tabelas de preços, composições e insumos e trazer esses dados para o nosso padrão da forma mais rápida e confiável possível;Desenvolver e manter os conectores e rotinas de ETL que extraem dados de origens muito diferentes entre si (bancos relacionais, APIs, planilhas, arquivos), com rastreabilidade, tratamento de falhas e reprocessamento;Estruturar e modelar os dados para consumo pela aplicação: formatos, chaves de relacionamento e critérios de qualidade, investigando divergências entre as bases de origem;Trabalhar no back-end de processamento em PHP, incluindo as rotinas que rodam em background, e dar apoio nas interfaces de consulta e acompanhamento das cargas;Propor melhorias nos processos de extração usando IA (matching de composições e insumos, leitura de documentos não estruturados,…",
+      "data_publicacao": "2026-08-29T12:01:18Z",
+      "descricao": "Description Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance . Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guia…",
       "score": 40,
       "skills_match": [
         "React"
@@ -7199,7 +7254,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:26Z",
-      "ultima_vista": "2026-09-24",
+      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
