@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-25T19:02:40Z",
-  "total": 359,
+  "atualizado_em": "2026-09-25T21:02:50Z",
+  "total": 361,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -369,6 +369,41 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "6208fd5c0bbea53b326e374582ea5f54767c1ce9",
+      "titulo": "Pessoa Desenvolvedora Fullstack Node/React",
+      "empresa": "REPONTO GENTE E GESTÃO",
+      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-fullstack-nodereact-em-sao-paulo__12057468.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T08:09:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nRamo da empresa: Um dos maiores grupos de beleza do mundo\nLocal /Formato de trabalho:  Remoto\nJornada de trabalho: Horário Comercial\n Principais atividades:\nCapacidade de trabalhar em um ambiente multifuncional, multi-linguagem e colaborativo, de maneira autônoma;\nExperiência em desenvolvimento back-end, de preferência utilizando Javascript e/ou TypeScript (Node.js);\nExperiência em desenvolvimento front-end, de preferência utilizando Javascript e/ou React;\nExperiência e repertório sólido na implementação e definição de estratégias para testes automatizados (unitário/e2e/regressivo);\nExperiência sólida desenvolvendo softwares que utilizem bancos de dados relacionais (e.g. PostgreSQL, MySQL) e não relacionais (e.g. DynamoDB, MongoDB, DocumentDB);\nExperiência com Integração Contínua e Entrega Contínua (CI/CD), GitFlow, GitHub, GitHub Actions e Sonar;\nConhecimentos em arquitetura síncrona / assíncrona;\nExperiência com Gestão de Incidentes e conhecimento em ferramentas de observabilidade e monitoramento, como New Relic, Crashlytics e afins;\nConhecimento ou experiência sobre infraestrutura e fundamentos da plataforma AWS e seus produtos (e.g. EC2, Lambda, API Gateway, S3, SQS, RDS, DocumentDB, DynamoDB, Amazon ElasticCache for Redis, AWS Glue, e etc);\nExperiência com metodologias ágeis como Kanban;\nCultura de documentação: documentar processos, postmortems, APIs, ADRs; Influenciar o time na construção e manutenção de documenta…",
+      "score": 75,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "MySQL",
+        "Firebase",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 5,
+      "data_coleta": "2026-09-25T21:01:32Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
@@ -2344,6 +2379,29 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "e8b771696f08ef7bb30864626e42024ca1749219",
+      "titulo": "Desenvolvedor(a) Front-end React Pleno",
+      "empresa": "BRQ",
+      "url": "https://www.adzuna.com.br/details/5898479551?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-25T12:44:44Z",
+      "descricao": "Sobre a vaga Estamos em busca de um(a) Desenvolvedor(a) Front-end React para integrar nosso time de tecnologia, com foco na criação, evolução e sustentação de aplicações web modernas, responsivas e de alta performance. Hibrido - Interlagos 3x presencial e 2 remoto O que você vai fazer Desenvolver e manter interfaces de usuário utilizando React.js e TypeScript . Construir componentes reutilizáveis, escaláveis e responsivos com bibliotecas de estilização (ex.: TailwindCSS ou Material-UI ). Integr…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Tailwind"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
