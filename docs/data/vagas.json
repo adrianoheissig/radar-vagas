@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-26T01:02:44Z",
+  "atualizado_em": "2026-09-26T03:02:43Z",
   "total": 368,
   "vagas": [
     {
@@ -1838,6 +1838,35 @@
       "expirada": false
     },
     {
+      "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "Plus-It Consulting",
+      "url": "https://www.adzuna.com.br/details/5899083365?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T23:25:07Z",
+      "descricao": "Desenvolvedor Fullstack Sr Perfil definido Desenvolvedor Full Stack Sênior, com maior foco em Backend; Experiência com Java 17, Spring Boot, APIs REST e microsserviços; Conhecimento de React e TypeScript para atuação Full Stack; Experiência com PostgreSQL/SQL; Vivência com AWS e demais tecnologias da stack será considerada conforme o nível de conhecimento do profissional; Perfil com boa autonomia, capacidade de aprendizado e facilidade para atuar em diferentes frentes. Diferenciais Mensageria; …",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Spring",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "233587cd981f71f88edf0935109fd3957da56fcf",
       "titulo": "Desenvolvedor Front-end Angular/react",
       "empresa": "SeedTS Seed Technology Solutions",
@@ -2112,35 +2141,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
       "ultima_vista": "2026-09-15",
-      "expirada": false
-    },
-    {
-      "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/details/5880145607?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T19:27:54Z",
-      "descricao": "Desenvolvedor Fullstack Sr Perfil definido Desenvolvedor Full Stack Sênior, com maior foco em Backend; Experiência com Java 17, Spring Boot, APIs REST e microsserviços; Conhecimento de React e TypeScript para atuação Full Stack; Experiência com PostgreSQL/SQL; Vivência com AWS e demais tecnologias da stack será considerada conforme o nível de conhecimento do profissional; Perfil com boa autonomia, capacidade de aprendizado e facilidade para atuar em diferentes frentes. Diferenciais Mensageria; …",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-17",
       "expirada": false
     },
     {
@@ -7983,6 +7983,28 @@
       "expirada": false
     },
     {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5899117488?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T23:29:53Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "92419a31dcf096c2e013b49c84dc3e27a10aa1d5",
       "titulo": "Data Scientist",
       "empresa": "",
@@ -8307,28 +8329,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:33:55Z",
       "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5894239337?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-22T15:24:50Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
