@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-26T03:02:43Z",
-  "total": 368,
+  "atualizado_em": "2026-09-26T07:02:45Z",
+  "total": 371,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2404,6 +2404,84 @@
       "expirada": false
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5899314564?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-26T02:32:47Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
+      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5899312653?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-26T02:32:31Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:10:58Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
+      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5899307620?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-26T02:31:56Z",
+      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
       "titulo": "Remote Angular Developer",
       "empresa": "",
@@ -2799,57 +2877,6 @@
       "expirada": false
     },
     {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5893612007?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-22T02:30:00Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
-      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5893609632?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-22T02:29:42Z",
-      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
       "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
       "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
       "empresa": "GeekHunter",
@@ -2952,33 +2979,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T11:01:03Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
-      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892372456?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-21T02:29:33Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:10:58Z",
       "ultima_vista": "2026-09-23",
       "expirada": false
     },
@@ -4080,6 +4080,27 @@
       "expirada": false
     },
     {
+      "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898844158?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T20:36:39Z",
+      "descricao": "Desenvolvedor Fullstack - Js e React; Atuação 100% remota. Certificação Conhecimento Desenvolvedor FullStack Níveis Pleno e Sênior - 100% Remoto Sólida experiência com desenvolvimento em Node. Js e React; Atuação 100% remota.",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
       "titulo": "Desenvolvedor Mobile (React Native E Node.Js)",
       "empresa": "",
@@ -4282,27 +4303,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:01:13Z",
       "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892099166?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T20:46:50Z",
-      "descricao": "Desenvolvedor Fullstack - Js e React; Atuação 100% remota. Certificação Conhecimento Desenvolvedor FullStack Níveis Pleno e Sênior - 100% Remoto Sólida experiência com desenvolvimento em Node. Js e React; Atuação 100% remota.",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -4649,6 +4649,101 @@
       "expirada": false
     },
     {
+      "id": "cab3829d2e3dcf7918d6e83fcd720a358f9009c7",
+      "titulo": "Desenvolvedor(a) FullStack",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5899331431?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-26T02:52:32Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-26T07:00:37Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "56dfde1d588b39879914b9cfb5bf5d9f388ac499",
+      "titulo": "Programador .NET",
+      "empresa": "Urbano Informatica",
+      "url": "https://www.adzuna.com.br/details/5899136041?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T23:32:18Z",
+      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
+      "titulo": "Desenvolvedor NET Pleno",
+      "empresa": "RHF Talentos",
+      "url": "https://www.adzuna.com.br/details/5899107405?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T23:28:25Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T18:43:43Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "c5c7722d1e38e44cec685d8972d9903a8b6b90ee",
+      "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer",
+      "empresa": "Capitani group",
+      "url": "https://www.adzuna.com.br/details/5899088999?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-25T23:26:00Z",
+      "descricao": "Atuação presencial no Morumbi / SP. Resumo da posição: Atuará em soluções de IA Generativa, conectando necessidades de usuários e negócios a soluções técnicas, desde suporte e troubleshooting até desenvolvimento de PoCs, protótipos e MVPs com LLMs. Requisitos obrigatórios: * Experiência em Engenharia de Software e desenvolvimento de aplicações com Python, Java ou JavaScript/TypeScript. * Experiência prática com prototipação rápida, PoCs e MVPs. * Experiência com soluções de IA Generativa, inclu…",
+      "score": 45,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-26T07:01:15Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
@@ -4918,30 +5013,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
-      "titulo": "Desenvolvedor NET Pleno",
-      "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5894236625?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-22T15:23:26Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T18:43:43Z",
-      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5645,28 +5716,6 @@
       "expirada": false
     },
     {
-      "id": "56dfde1d588b39879914b9cfb5bf5d9f388ac499",
-      "titulo": "Programador .NET",
-      "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/land/ad/5880188536?utm_medium=api&utm_source=267e525f&v=6DE4694C799945A7C354051C8E7FC52ACF22172A",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T19:31:34Z",
-      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-09-15",
-      "expirada": false
-    },
-    {
       "id": "db09ac9cd51cc73aed8d29462f08f41d188f9cc2",
       "titulo": "ADMFull Stack",
       "empresa": "Decision group",
@@ -5967,6 +6016,26 @@
       "expirada": false
     },
     {
+      "id": "6c67d2381988f5ea6bc17e46b20d4abd8d6088ff",
+      "titulo": "Remote Typescript Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898844485?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T20:36:42Z",
+      "descricao": "Remote Typescript Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Typescript Developer to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about programming in this language, and oriented to provide the b…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "87549725a1b43527ba124c6412ce280574360791",
       "titulo": "Remote React Developer",
       "empresa": "",
@@ -6015,6 +6084,50 @@
       "expirada": false
     },
     {
+      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
+      "titulo": "Technical Lead Fullstack Java, Aws",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898843946?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T20:36:37Z",
+      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
+      "titulo": "Remote Junior React Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898843868?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-25T20:36:36Z",
+      "descricao": "Remote Junior React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Junior React Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Partic…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "2599d5b6b682289b868a8c5ff43fbc01987e04e0",
       "titulo": "Desenvolvedor.Net",
       "empresa": "",
@@ -6035,6 +6148,34 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "990f84524f9b1888c2f051d7227c8d8b943e29c2",
+      "titulo": "Desenvolvedores .Net/React",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898843148?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-25T20:36:30Z",
+      "descricao": "Desenvolvedores .Net/React - Net/React - Nível Pleno Belo Horizonte Sólida experiência em desenvolvimento utilizando C# e React; Conhecimento com bancos de dados relacionais e SQL; Experiência com ferramentas de versionamento de código como Git (Azure); Habilidades em design e implementação de APIs (Rest e Soap); Desejável vivênciacom Python; Disponibilidade para atuação híbrida em Belo Horizonte/MG. Certificação Conhecimento Desenvolvedores . Net/React - Nível Pleno Belo Horizonte Sólida exper…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "APIs REST",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
       "ultima_vista": "2026-09-26",
       "expirada": false
     },
@@ -6485,98 +6626,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
-      "titulo": "Technical Lead Fullstack Java, Aws",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101417?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T20:47:45Z",
-      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "6c67d2381988f5ea6bc17e46b20d4abd8d6088ff",
-      "titulo": "Remote Typescript Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101375?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T20:47:44Z",
-      "descricao": "Remote Typescript Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Typescript Developer to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about programming in this language, and oriented to provide the b…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
-      "titulo": "Remote Junior React Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101097?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T20:47:37Z",
-      "descricao": "Remote Junior React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Junior React Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Partic…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "990f84524f9b1888c2f051d7227c8d8b943e29c2",
-      "titulo": "Desenvolvedores .Net/React",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892100469?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-20T20:47:23Z",
-      "descricao": "Desenvolvedores .Net/React - Net/React - Nível Pleno Belo Horizonte Sólida experiência em desenvolvimento utilizando C# e React; Conhecimento com bancos de dados relacionais e SQL; Experiência com ferramentas de versionamento de código como Git (Azure); Habilidades em design e implementação de APIs (Rest e Soap); Desejável vivênciacom Python; Disponibilidade para atuação híbrida em Belo Horizonte/MG. Certificação Conhecimento Desenvolvedores . Net/React - Nível Pleno Belo Horizonte Sólida exper…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "APIs REST",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
@@ -8005,6 +8054,50 @@
       "expirada": false
     },
     {
+      "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
+      "titulo": "Principal.Net Engineer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898844464?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T20:36:41Z",
+      "descricao": "Principal.Net Engineer - You''ll have all the decision power to influence the architecture decisions and delivery process. Primary Stack: . Net, Angular, MSSQL, AzureResponsibilities:- Collaborate with Portfolio managers and external teams- Derive requirements and match it with architecture solutions- Develop, test and deploy applications- L3 support the end users and businessMandatory Skills Description:- Fluent English and superb communication skills- Expertise in computer science, algorithms…",
+      "score": 30,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "e7b91c9ce435fc171d9ae0c2f01721a1bd5578a6",
+      "titulo": "Frontend Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898844358?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T20:36:40Z",
+      "descricao": "Frontend Developer - You do not have to relocate to join us. Responsibilities:Develop and deliver high-quality, user-facing features. Translate UI/UX designs into functional, responsive web interfaces. Write clean, efficient, and maintainable code. Implement automated tests. Participate in code reviews, offering constructive feedback to peers. Collaborate with the team to enhance development processes. Requirements:4 years working as a Frontend Engineer. Proficient in JavaScript and TypeScript.…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
       "id": "92419a31dcf096c2e013b49c84dc3e27a10aa1d5",
       "titulo": "Data Scientist",
       "empresa": "",
@@ -8112,6 +8205,28 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "477e9176f96b801fc7dbd5b2357c4349752bf053",
+      "titulo": "Desenvolvedor de Sistemas",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5898839654?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-25T20:36:04Z",
+      "descricao": "Desenvolvedor de Sistemas - Atuar no desenvolvimento e manutenção de sistemas internos da empresa, integrando dados agrícolas, industriais e operacionais em soluções modernas e práticas. Desenvolvimento e manutenção de aplicativo mobile (react native / expo). Criação e manutenção de apis e integrações com sistemas internos. Desenvolvimento de automações e scripts em python. Manutenção de edge functions e banco de dados postgresql (supabase). Integração com serviços externos (whatsapp, apis mete…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-26T07:01:15Z",
       "ultima_vista": "2026-09-26",
       "expirada": false
     },
@@ -8448,50 +8563,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "e7b91c9ce435fc171d9ae0c2f01721a1bd5578a6",
-      "titulo": "Frontend Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101344?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T20:47:43Z",
-      "descricao": "Frontend Developer - You do not have to relocate to join us. Responsibilities:Develop and deliver high-quality, user-facing features. Translate UI/UX designs into functional, responsive web interfaces. Write clean, efficient, and maintainable code. Implement automated tests. Participate in code reviews, offering constructive feedback to peers. Collaborate with the team to enhance development processes. Requirements:4 years working as a Frontend Engineer. Proficient in JavaScript and TypeScript.…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
-      "titulo": "Principal.Net Engineer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101215?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T20:47:40Z",
-      "descricao": "Principal.Net Engineer - You''ll have all the decision power to influence the architecture decisions and delivery process. Primary Stack: . Net, Angular, MSSQL, AzureResponsibilities:- Collaborate with Portfolio managers and external teams- Derive requirements and match it with architecture solutions- Develop, test and deploy applications- L3 support the end users and businessMandatory Skills Description:- Fluent English and superb communication skills- Expertise in computer science, algorithms…",
-      "score": 30,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
