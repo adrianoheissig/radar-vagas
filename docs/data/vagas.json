@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-27T17:02:49Z",
-  "total": 383,
+  "atualizado_em": "2026-09-27T23:46:18Z",
+  "total": 388,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1857,6 +1857,27 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-27",
+      "expirada": false
+    },
+    {
+      "id": "9b7b7dc68ab59da38306d37155b5cd2a08747dfa",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5900927623?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T20:27:55Z",
+      "descricao": "Pessoa Desenvolvedora Fullstack (Java/Angular) - Pleno/Sênior: Atuar no desenvolvimento de uma plataforma de automação de performance e inteligência artificial para o marketing digital; Implementar novas demandas e funcionalidades; Aprimorar a experiência do usuário; Sugerir e implementar melhorias funcionais e de arquitetura; Sugerir e implementar melhorias de segurança de acesso e dados. O que você precisa ter: Obrigatório experiência em desenvolvimento Java (versão 8); Obrigatório experiênci…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:29Z",
       "ultima_vista": "2026-09-27",
       "expirada": false
     },
@@ -4789,6 +4810,54 @@
       "expirada": false
     },
     {
+      "id": "dbfae89be1747eecd395f9b26a5391570c05bfc6",
+      "titulo": "Desenvolvedor Jr - Angular .NET",
+      "empresa": "Cogna",
+      "url": "https://www.adzuna.com.br/details/5900929491?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T20:28:09Z",
+      "descricao": "A Cogna tem mais de 50 anos de tradição e é atualmente uma das maiores empresas do setor de educação, temos um modelo de negócio bastante abrangente, que atende a vários segmentos do ensino no país, desde o maternal até o mestrado e o doutorado. Mas, especialmente em nosso caso, tradição e liderança não são traduzidas em modelos antigos e ‘zona de conforto’. Pelo contrário. Temos em nosso DNA a inovação e o dinamismo de uma jovem startup. Um dos reflexos disso é a nossa busca constante pela Tra…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:45Z",
+      "ultima_vista": "2026-09-27",
+      "expirada": false
+    },
+    {
+      "id": "b234fa8bc068f94c74f16978cacb6afc8212752f",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "Inovation IT",
+      "url": "https://www.adzuna.com.br/details/5900928749?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T20:28:04Z",
+      "descricao": "Responsabilidades e atribuições: - Desenvolvimento full-stack de sistemas: Java 8, Javascript, React (jsx), React Hooks, HTML, CSS/SASS, ES6; - Apoiar na análise de demandas de negócio, especificação de soluções técnicas e implementação backend; - Suporte na implementação do frontend; - Analisar técnicamente a performance, qualidade de codificação, cobertura de testes, preparação para deploy e outros aspectos técnicos; - Elaborar, especificar, desenvolver e validar modelos de dados; - Desenvolv…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:29Z",
+      "ultima_vista": "2026-09-27",
+      "expirada": false
+    },
+    {
       "id": "d64a8bb568049dc2a2c0d920341b0abc9373af2c",
       "titulo": "Desenvolvedor Front-end React",
       "empresa": "Innolevels",
@@ -6125,6 +6194,29 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "0475717d3c23130c59b941889b6f589fe4434c6a",
+      "titulo": "Desenvolvedor(a) React/node",
+      "empresa": "CodegTech",
+      "url": "https://www.adzuna.com.br/details/5900927607?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T20:27:55Z",
+      "descricao": "Você gosta de tecnologia com Inteligência Artificial? Junte-se a uma startup inovadora e mergulhe no mundo da tecnologia, obtendo conhecimento e experiência valiosos no mercado! Estamos em busca de um estagiário apaixonado por IA para trabalhar com as seguintes tecnologias: - React: - Node.js: - Python O que você vai fazer: - Contribuir para o desenvolvimento de soluções baseadas em IA. - Participar de projetos desafiadores, colaborando com uma equipe experiente. - Aprender na prática, aplicand…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:39Z",
+      "ultima_vista": "2026-09-27",
       "expirada": false
     },
     {
@@ -8256,6 +8348,26 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-27",
+      "expirada": false
+    },
+    {
+      "id": "59c196e05446061e07800a3e9b0aaab3135cc581",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Leal Experts",
+      "url": "https://www.adzuna.com.br/details/5900928221?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T20:27:59Z",
+      "descricao": "Se você busca fazer parte de uma empresa de tecnologia inovadora, focada em criar novos produtos para o mercado digital, esta é a sua oportunidade! Estamos em busca de um Desenvolvedor Front-end React para integrar nossa equipe apaixonada por tecnologia e inovação. Sobre Nós: Somos uma empresa dedicada ao desenvolvimento de soluções digitais que impactam positivamente diversos setores. Nosso time é altamente comprometido em criar produtos de ponta e proporcionar experiências incríveis aos nosso…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:39Z",
       "ultima_vista": "2026-09-27",
       "expirada": false
     },
