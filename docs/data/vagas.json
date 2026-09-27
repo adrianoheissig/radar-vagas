@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-27T09:02:46Z",
-  "total": 382,
+  "atualizado_em": "2026-09-27T17:02:49Z",
+  "total": 383,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -8256,6 +8256,26 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-27",
+      "expirada": false
+    },
+    {
+      "id": "16dd4c3b3818747029dc38fc51a366d76e024be2",
+      "titulo": "IT Engineer Spec IV (Java)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5900733008?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T12:47:17Z",
+      "descricao": "IT Engineer Spec IV (Java) Country: Brazil QUEM SOMOS A F1RST é o futuro e sua carreira está aqui! Nossa cultura é baseada em “Pessoas, Inovação e Resultados”. ☝️ Fazemos parte do maior banco Internacional do Brasil, um dos maiores bancos do mundo. Promovendo serviços e experiências para os mais de 60 milhões de clientes de todo o ecossistema Santander. Venha fazer parte do time que tem como propósito apoiar as pessoas e fazer os negócios prosperarem. Somos apaixonados por tecnologia. Somos F…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T17:01:19Z",
       "ultima_vista": "2026-09-27",
       "expirada": false
     },
