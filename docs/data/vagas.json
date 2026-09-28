@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T09:02:51Z",
+  "atualizado_em": "2026-09-28T13:02:45Z",
   "total": 388,
   "vagas": [
     {
@@ -177,7 +177,6 @@
       "score": 80,
       "skills_match": [
         "React",
-        "Angular",
         "TypeScript",
         "JavaScript",
         "HTML",
@@ -191,13 +190,9 @@
         "Clean Code"
       ],
       "lacunas": [
-        "Vue.js",
         "Spring",
         "PostgreSQL",
         "Oracle",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
