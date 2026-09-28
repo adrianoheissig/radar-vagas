@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T18:05:54Z",
+  "atualizado_em": "2026-09-28T21:03:07Z",
   "total": 388,
   "vagas": [
     {
@@ -3955,19 +3955,15 @@
       "score": 55,
       "skills_match": [
         "Angular",
-        "TypeScript",
-        "JavaScript",
         "Node.js",
         "APIs REST",
         "SQL",
-        "Git",
         "Metodologias ágeis"
       ],
       "lacunas": [
         "Oracle",
         "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
@@ -5948,36 +5944,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-09-15",
-      "expirada": false
-    },
-    {
-      "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
-      "titulo": "Desenvolvedor Full Stack - Foco Em QA / Testes | Voluntário",
-      "empresa": "RHRecruiter",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-foco-qa-testes-voluntario-em-paraiba__12005661.aspx",
-      "fonte": "infojobs",
-      "local": "João Pessoa - PB",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T10:56:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack com foco em QA / Testes para integrar nosso time de tecnologia em uma oportunidade voluntária.\r\n\r\nA atuação será direcionada principalmente para a qualidade dos nossos produtos, apoiando a identificação de falhas, validação de funcionalidades, testes de APIs RESTful e criação e evolução de testes automatizados.\r\n\r\nBuscamos alguém com perfil investigativo, que goste de entender como as aplicações funcionam, identificar comportamentos inesperados e investigar a causa raiz dos problemas encontrados.\r\n\r\nA oportunidade também permitirá contato com projetos reais, trabalhando de forma colaborativa com desenvolvedores Frontend e Backend e participando do ciclo de desenvolvimento e validação das aplicações.\r\n\r\nPrincipais Responsabilidades\r\n\r\nRealizar testes funcionais nas aplicações desenvolvidas pelo time;\r\n\r\nValidar funcionalidades e fluxos antes das entregas;\r\n\r\nTestar APIs RESTful e seus respectivos endpoints;\r\n\r\nUtilizar Postman ou Insomnia para consumo, validação e testes de APIs;\r\n\r\nCriar e executar testes unitários utilizando PHPUnit;\r\n\r\nIdentificar, documentar e reportar bugs encontrados;\r\n\r\nReproduzir erros e investigar possíveis causas;\r\n\r\nApoiar o time de desenvolvimento na validação de correções;\r\n\r\nRealizar testes de regressão após alterações no sistema;\r\n\r\nColaborar com desenvolvedores Frontend e Backend para melhoria contínua da qualidade das aplicações;\r\n\r\nCon…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Tailwind",
-        "PHP",
-        "Laravel",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-09-28",
       "expirada": false
     },
     {
@@ -9750,6 +9716,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
+      "titulo": "Desenvolvedor Full Stack - Foco Em QA / Testes | Voluntário",
+      "empresa": "RHRecruiter",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-foco-qa-testes-voluntario-em-paraiba__12005661.aspx",
+      "fonte": "infojobs",
+      "local": "João Pessoa - PB",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-11T10:56:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack com foco em QA / Testes para integrar nosso time de tecnologia em uma oportunidade voluntária.\r\n\r\nA atuação será direcionada principalmente para a qualidade dos nossos produtos, apoiando a identificação de falhas, validação de funcionalidades, testes de APIs RESTful e criação e evolução de testes automatizados.\r\n\r\nBuscamos alguém com perfil investigativo, que goste de entender como as aplicações funcionam, identificar comportamentos inesperados e investigar a causa raiz dos problemas encontrados.\r\n\r\nA oportunidade também permitirá contato com projetos reais, trabalhando de forma colaborativa com desenvolvedores Frontend e Backend e participando do ciclo de desenvolvimento e validação das aplicações.\r\n\r\nPrincipais Responsabilidades\r\n\r\nRealizar testes funcionais nas aplicações desenvolvidas pelo time;\r\n\r\nValidar funcionalidades e fluxos antes das entregas;\r\n\r\nTestar APIs RESTful e seus respectivos endpoints;\r\n\r\nUtilizar Postman ou Insomnia para consumo, validação e testes de APIs;\r\n\r\nCriar e executar testes unitários utilizando PHPUnit;\r\n\r\nIdentificar, documentar e reportar bugs encontrados;\r\n\r\nReproduzir erros e investigar possíveis causas;\r\n\r\nApoiar o time de desenvolvimento na validação de correções;\r\n\r\nRealizar testes de regressão após alterações no sistema;\r\n\r\nColaborar com desenvolvedores Frontend e Backend para melhoria contínua da qualidade das aplicações;\r\n\r\nCon…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:50Z",
+      "ultima_vista": "2026-09-28",
       "expirada": false
     },
     {
