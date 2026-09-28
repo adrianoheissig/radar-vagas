@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T13:02:45Z",
+  "atualizado_em": "2026-09-28T18:05:54Z",
   "total": 388,
   "vagas": [
     {
@@ -1409,39 +1409,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:33Z",
       "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "2e3869518d4729e7ce2eefa7c3613c7488c59d6f",
-      "titulo": "Pessoa Desenvolvedora Fullstack Pleno - React/Node.js/Chatbots",
-      "empresa": "Akross",
-      "url": "https://akross.gupy.io/job/eyJqb2JJZCI6MTI0NTA4NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:43Z",
-      "descricao": "A Akross é uma Tech Boutique que desenvolve e monetiza soluções para diversas empresas. Aqui você pode atuar em 4 frentes diferentes:Profit Place: Nosso Service Delivery Platform realiza gestão de serviços em todo seu ciclo de vida. Garantimos que as empresas oferecem assinaturas através de integração rápida e estruturação da jornada do cliente, em que todos os serviços integrados passam pela solução e possuem estratégia de rentabilização através de dashboards e time de Negócios focado em aumento de LTV (life time value).Wifi Nomad: Maior e mais completa solução para conectar pessoas e empresas à Internet através de redes customizadas, com maior comunidade para acesso a redes wifi do Brasil.Data Ads: Solução completa para conectar oferta de publicidade através de canais próprios ou aplicativos próprios com alta segmentação e formas de exibição das campanhas.Tech Services: Times com squads altamente especializadas para entregar soluções de tecnologia com digitalização de processos e integração de soluções dentro da arquitetura das empresas. Parceiro oficial credenciado Salesforce e Mulesoft.Responsabilidades e atribuiçõesEstamos em busca de um(a) desenvolvedor(a) Fullstack para atuar em projetos de integração e automação de atendimento, unindo front-end em React, back-end em Node.js e soluções de chatbot. Você vai participar do desenvolvimento de funcionalidades de ponta a ponta, dos componentes de interface aos serviços que os sustentam, em squads multidisciplinares e com fo…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Express",
-        "NestJS",
-        "Docker",
-        "Azure",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:10Z",
-      "ultima_vista": "2026-09-28",
       "expirada": false
     },
     {
@@ -4563,6 +4530,27 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:36Z",
       "ultima_vista": "2026-09-20",
+      "expirada": false
+    },
+    {
+      "id": "2e3869518d4729e7ce2eefa7c3613c7488c59d6f",
+      "titulo": "Pessoa Desenvolvedora Fullstack Pleno - React/Node.js/Chatbots",
+      "empresa": "Akross",
+      "url": "https://akross.gupy.io/job/eyJqb2JJZCI6MTI0NTA4NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-16T20:06:43Z",
+      "descricao": "A Akross é uma Tech Boutique que desenvolve e monetiza soluções para diversas empresas. Aqui você pode atuar em 4 frentes diferentes:Profit Place: Nosso Service Delivery Platform realiza gestão de serviços em todo seu ciclo de vida. Garantimos que as empresas oferecem assinaturas através de integração rápida e estruturação da jornada do cliente, em que todos os serviços integrados passam pela solução e possuem estratégia de rentabilização através de dashboards e time de Negócios focado em aumento de LTV (life time value).Wifi Nomad: Maior e mais completa solução para conectar pessoas e empresas à Internet através de redes customizadas, com maior comunidade para acesso a redes wifi do Brasil.Data Ads: Solução completa para conectar oferta de publicidade através de canais próprios ou aplicativos próprios com alta segmentação e formas de exibição das campanhas.Tech Services: Times com squads altamente especializadas para entregar soluções de tecnologia com digitalização de processos e integração de soluções dentro da arquitetura das empresas. Parceiro oficial credenciado Salesforce e Mulesoft.Responsabilidades e atribuiçõesEstamos em busca de um(a) desenvolvedor(a) Fullstack para atuar em projetos de integração e automação de atendimento, unindo front-end em React, back-end em Node.js e soluções de chatbot. Você vai participar do desenvolvimento de funcionalidades de ponta a ponta, dos componentes de interface aos serviços que os sustentam, em squads multidisciplinares e com fo…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:10Z",
+      "ultima_vista": "2026-09-28",
       "expirada": false
     },
     {
