@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T07:02:32Z",
+  "atualizado_em": "2026-09-28T09:02:51Z",
   "total": 388,
   "vagas": [
     {
@@ -6209,6 +6209,26 @@
       "expirada": false
     },
     {
+      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
+      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5900519910?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-27T07:45:11Z",
+      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-09-28",
+      "expirada": false
+    },
+    {
       "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
       "titulo": "React Developer Remote",
       "empresa": "Outlier Ai",
@@ -6589,26 +6609,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
       "ultima_vista": "2026-09-28",
-      "expirada": false
-    },
-    {
-      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
-      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5896647707?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-24T07:44:59Z",
-      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -8381,6 +8381,36 @@
       "expirada": false
     },
     {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5900520201?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-27T07:45:15Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
+      "ultima_vista": "2026-09-28",
+      "expirada": false
+    },
+    {
       "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
       "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
       "empresa": "",
@@ -8718,36 +8748,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T17:01:13Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5896648292?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-24T07:45:05Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
