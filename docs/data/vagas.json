@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-29T03:02:31Z",
-  "total": 390,
+  "atualizado_em": "2026-09-29T05:02:35Z",
+  "total": 393,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2456,6 +2456,60 @@
       "expirada": false
     },
     {
+      "id": "61bcd502f5f5cdf70ea28faf36c5947281f6c390",
+      "titulo": "Desenvolvedor(a) Web",
+      "empresa": "Focus Têxtil",
+      "url": "https://www.adzuna.com.br/details/5902036617?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-28T22:05:51Z",
+      "descricao": "Responsabilidades: - Analisar, desenvolver e manter componentes de software; - Efetuar análises e correções no código legado; - Desenvolvimento de novas aplicações; - Escrever e testar códigos de modo incremental, ágil e bem-documentado; - Fazer ótimos code-reviews; - Testar, fazer deploy e acompanhar o código em produção - de forma contínua; - Documentar todo código e repassar para equipe. Requisitos React/React Native/Next; JavaScript e Typescript; Experiência com AWS; Node JS; Mongo DB; Sist…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "MongoDB",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T05:00:52Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "97b4aa95f3c1faaf72ffcf9c64c1bbde8046ee39",
+      "titulo": "Desenvolvedor Front (React / React Native)",
+      "empresa": "Jaqueline Kreitlow",
+      "url": "https://www.adzuna.com.br/details/5902034127?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-28T22:05:46Z",
+      "descricao": "Desenvolvedor Front (React e React Native) - Home Office Formação em Desenv. de Software, Sistemas, Ciência Computação ou afins. Experiência em desenvolvimento web e mobile usando React.js e React Native. Habilidade com programação em JavaScript e TypeScript. Experiência com implementação de aplicações serverside rendering (SSR) e static site generation (SSG) com Next.js. Experiência com criação e manutenção de testes automatizados usando Jest, React Testing Library. Experiência com estilização…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T05:00:52Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
@@ -4803,6 +4857,53 @@
       "expirada": false
     },
     {
+      "id": "a1ee459259d35dca5f43b689d7779b095e734a25",
+      "titulo": "Angular Developer Jr",
+      "empresa": "CAPCO",
+      "url": "https://www.adzuna.com.br/details/5902036943?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-28T22:05:52Z",
+      "descricao": "Funções: - Projetar e desenvolver aplicativos de alto volume e baixa latência para sistemas de missão crítica e fornecer alta disponibilidade e desempenho - Contribuir em todas as fases do ciclo de vida de desenvolvimento - Desenvolver um código bem projetado, testável, reutilizável e eficiente - Desenvolver testes de unidade e integração com requisitos de alta cobertura - Certifcar-se de que os projetos sigam as especificações - Preparar e produzir versões de componentes de software - Analisar…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T05:01:01Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
+      "titulo": "Desenvolvedor",
+      "empresa": "Fisacorp -",
+      "url": "https://www.adzuna.com.br/details/5902036700?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-28T22:05:51Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "dbfae89be1747eecd395f9b26a5391570c05bfc6",
       "titulo": "Desenvolvedor Jr - Angular .NET",
       "empresa": "Cogna",
@@ -5337,33 +5438,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:01:12Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
-      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
-      "titulo": "Desenvolvedor",
-      "empresa": "Fisacorp -",
-      "url": "https://www.adzuna.com.br/details/5892079958?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:32:53Z",
-      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-09-21",
       "expirada": false
     },
     {
