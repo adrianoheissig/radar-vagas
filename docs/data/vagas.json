@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-29T15:02:41Z",
+  "atualizado_em": "2026-09-29T19:02:44Z",
   "total": 398,
   "vagas": [
     {
@@ -1676,35 +1676,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:48Z",
-      "ultima_vista": "2026-09-29",
-      "expirada": false
-    },
-    {
-      "id": "515f28447d3b7cf52ad2ce14d00e2e5344c6dd95",
-      "titulo": "Hitss | Desenvolvedor Front-End (Angular)",
-      "empresa": "Hitss Brasil",
-      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTIxNDM0MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-17T15:09:03Z",
-      "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesDesenvolver e manter interfaces de aplicações web com foco em performance, escalabilidade e usabilidade;Traduzir layouts e protótipos de alta fidelidade em código funcional e otimizado;Trabalhar em colaboração com designers, desenvolvedores back-end e demais membros do time;Garantir a c…",
-      "score": 65,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Figma",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T23:29:57Z",
       "ultima_vista": "2026-09-29",
       "expirada": false
     },
@@ -3969,6 +3940,26 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-18",
+      "expirada": false
+    },
+    {
+      "id": "515f28447d3b7cf52ad2ce14d00e2e5344c6dd95",
+      "titulo": "Hitss | Desenvolvedor Front-End (Angular)",
+      "empresa": "Hitss Brasil",
+      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTIxNDM0MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-17T15:09:03Z",
+      "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesDesenvolver e manter interfaces de aplicações web com foco em performance, escalabilidade e usabilidade;Traduzir layouts e protótipos de alta fidelidade em código funcional e otimizado;Trabalhar em colaboração com designers, desenvolvedores back-end e demais membros do time;Garantir a c…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:57Z",
+      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
@@ -6307,16 +6298,9 @@
       "descricao": "O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países.Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das diferenças.Construir e evoluir as interfaces e APIs que tornam a plataforma cognitiva acessível — do portal web às integrações externas. Responsabilidades e atribuiçõesVocê fará parte da equipe de Engenharia da Plataforma Cognitiva de Finanças, responsável por construir e evoluir soluções de inteligência artificial que apoiam decisões financeiras em escala no Itaú Unibanco. Atuamos na fronteira entre dados, IA generativa e produtos financeiros, desenvolvendo soluções que processam grandes volumes de informação e entregam insights para áreas de negcio em nossos parceiros. Nosso time é multidisciplinar, reúne engenheiros de dados, engenheiros de software e especialistas em IA. Trabalhamos em um ambiente colaborativo, com forte cultura de inovação, autonomia e foco em impacto real para o cliente. Você terá contato direto com tecnologias modernas de cloud e LLMs, em um contexto que combina a robustez de uma das maiores instituições financeiras da América Latina com a agilidade de um ambiente orientado a produto.De…",
       "score": 45,
       "skills_match": [
-        "Angular",
-        "TypeScript",
-        "APIs REST"
+        "Angular"
       ],
-      "lacunas": [
-        "GraphQL",
-        "AWS",
-        "Azure",
-        "CI/CD"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T19:01:27Z",
       "ultima_vista": "2026-09-29",
