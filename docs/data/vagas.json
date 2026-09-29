@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-29T09:02:37Z",
+  "atualizado_em": "2026-09-29T13:02:42Z",
   "total": 394,
   "vagas": [
     {
@@ -581,6 +581,38 @@
       "expirada": false
     },
     {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5902722628?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T07:47:02Z",
+      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "a4ab7fa6efeffe5d5278e965cb2feacfa6222749",
       "titulo": "Desenvolvedor(a) Full-Stack Web",
       "empresa": "",
@@ -922,38 +954,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:14Z",
       "ultima_vista": "2026-09-19",
-      "expirada": false
-    },
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5889085968?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T07:43:43Z",
-      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Sass",
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
