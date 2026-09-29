@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-29T19:02:44Z",
+  "atualizado_em": "2026-09-29T23:02:42Z",
   "total": 398,
   "vagas": [
     {
@@ -2483,6 +2483,65 @@
       "expirada": false
     },
     {
+      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
+      "titulo": "Desenvolvedor Full Stack Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5903062541?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T18:06:19Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:50Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
+      "titulo": "Analista de Testes - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5903061887?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T18:06:13Z",
+      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "NestJS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T01:00:55Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "54c58f22fdcc1498409ed6df3197a42ca688e655",
       "titulo": "DESENVOLVIDOR FULLSTACK REACT | São Paulo - SP",
       "empresa": "Teltex Tecnologia",
@@ -3059,65 +3118,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T07:01:06Z",
-      "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
-      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
-      "titulo": "Desenvolvedor Full Stack Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895908924?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:57:01Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
-      "titulo": "Analista de Testes - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895908827?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:57:00Z",
-      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
@@ -4915,12 +4915,29 @@
       "score": 50,
       "skills_match": [
         "React",
-        "Node.js"
+        "JavaScript",
+        "HTML",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
       ],
-      "lacunas": [],
+      "lacunas": [
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-27",
+      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
@@ -4958,6 +4975,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
+      "titulo": "Desenvolvedor Front-end React - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5903056717?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T18:05:31Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-09-29",
       "expirada": false
     },
@@ -5372,31 +5414,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:09Z",
-      "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
-      "titulo": "Desenvolvedor Front-end React - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895908885?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:57:01Z",
-      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-09-26",
       "expirada": false
     },
@@ -6332,6 +6349,34 @@
       "expirada": false
     },
     {
+      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
+      "titulo": "Desenvolvedor Back-end Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5903058561?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T18:05:45Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "Redis",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:01:10Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "35071070e7c96e3a04fa50179d1fc1183741a15f",
       "titulo": "Desenvolvedor FullStack React/Node.js - Foco em Segurança (Vaga Híbrida)",
       "empresa": "Deliver IT",
@@ -6813,34 +6858,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-29",
-      "expirada": false
-    },
-    {
-      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
-      "titulo": "Desenvolvedor Back-end Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5895908688?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:57:00Z",
-      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "Redis",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:01:10Z",
-      "ultima_vista": "2026-09-26",
       "expirada": false
     },
     {
@@ -8518,6 +8535,28 @@
       "expirada": false
     },
     {
+      "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
+      "titulo": "Desenvolvedor Mobile - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5903063860?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T18:06:30Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T18:52:23Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
       "id": "26a2b8cf591f6293e5886763889b8b3602e85c36",
       "titulo": "UI Developer- Brazil",
       "empresa": "Exadel Inc",
@@ -9294,28 +9333,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
-      "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
-      "titulo": "Desenvolvedor Mobile - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5890453882?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-19T07:22:19Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T18:52:23Z",
-      "ultima_vista": "2026-09-20",
       "expirada": false
     },
     {
