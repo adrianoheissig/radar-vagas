@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-29T05:02:35Z",
-  "total": 393,
+  "atualizado_em": "2026-09-29T07:02:34Z",
+  "total": 394,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -602,6 +602,29 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T03:00:58Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "92500cc4182d37117b660bad642745df671af7ef",
+      "titulo": "PHP/react/angular Fullstack Developer- Remote",
+      "empresa": "FullStack Labs",
+      "url": "https://www.adzuna.com.br/details/5902035736?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-28T22:05:49Z",
+      "descricao": "FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, Stanford University, and the State of California, build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their gre…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T07:01:02Z",
       "ultima_vista": "2026-09-29",
       "expirada": false
     },
@@ -3451,10 +3474,7 @@
       ],
       "lacunas": [
         "Next.js",
-        "Tailwind",
-        "C#",
-        "Docker",
-        "CI/CD"
+        "Tailwind"
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T14:47:40Z",
