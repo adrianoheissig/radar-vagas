@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-29T13:02:42Z",
-  "total": 394,
+  "atualizado_em": "2026-09-29T15:02:41Z",
+  "total": 398,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -364,6 +364,39 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "311259a4986cad0573824572727bca6570f18c42",
+      "titulo": "Analista de Tecnologia - Desenvolvedor(a) Mobile React Native",
+      "empresa": "VEM SER #GENTEALGAR",
+      "url": "https://algar.gupy.io/job/eyJqb2JJZCI6MTI2Mjc0MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T12:48:30Z",
+      "descricao": "Buscamos um(a) Analista de Tecnologia com expertise em React Native para atuar na Gerência de Experiências Digitais da Algar. Nosso time é responsável pelas jornadas digitais dos clientes Algar, do aplicativo e portal de autoatendimento ao e-commerce e aos canais conversacionais. Integramos front-end, back-end e sistemas corporativos em um ecossistema cloud, trabalhando com metodologias ágeis, cultura de qualidade, observabilidade e squads multidisciplinares. Você atuará no desenvolvimento, evolução e sustentação do aplicativo Algar, que possui milhares de usuários ativos, equilibrando a entrega de valor para o negócio com a modernização da base tecnológica. Você também contribuirá para a definição da arquitetura mobile e dos padrões de engenharia, de acordo com sua experiência e nível de atuação. Aqui, as decisões técnicas são tomadas considerando o contexto do negócio, e cada entrega é pensada pelo impacto em engajamento, autoatendimento e satisfação do cliente. Responsabilidades e atribuições Desenvolver e evoluir funcionalidades do aplicativo utilizando React Native e TypeScript para Android e iOS.Participar da definição e evolução da arquitetura mobile, incluindo organização de módulos, componentização, gerenciamento de estado e estratégias de cache e dados remotos.Contribuir com a modernização técnica do aplicativo, incluindo atualização de versões e dependências, migração de bibliotecas descontinuadas e evolução para TypeScript.Integrar o aplicativo com APIs REST, tra…",
+      "score": 75,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Firebase",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Redux",
+        "NestJS",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T15:01:25Z",
       "ultima_vista": "2026-09-29",
       "expirada": false
     },
@@ -2475,6 +2508,67 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "54c58f22fdcc1498409ed6df3197a42ca688e655",
+      "titulo": "DESENVOLVIDOR FULLSTACK REACT | São Paulo - SP",
+      "empresa": "Teltex Tecnologia",
+      "url": "https://teltex.gupy.io/job/eyJqb2JJZCI6MTI2MDQwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-29T14:28:56Z",
+      "descricao": "Estamos à procura de um profissional de Desenvolvimento Web para desenvolver aplicações web, integrar back-end e front-end, criar protótipos, realizar testes, desenvolver soluções escaláveis, monitorar ferramentas de segurança e manter contato com os clientes.Se você tem experiência comprovada em desenvolvimento web, conhecimento em JavaScript, HTML, CSS e frameworks front-end, experiência em back-end, conhecimento em arquitetura de aplicações web, experiência em bancos de dados, ferramentas de automação, habilidades de comunicação e colaboração, capacidade de trabalhar em projetos complexos e proatividade para lidar com problemas, junte-se à nossa equipe!﻿Estamos entusiasmados em lhe apresentar uma oportunidade única de fazer parte de uma empresa de tecnologia inovadora e em constante crescimento. Aqui, na nossa empresa, estamos em busca de profissionais apaixonados por tecnologia e que desejam fazer a diferença no mundo de integradores de tecnologia.Nossa empresa tem uma visão clara e ousada de transformar a maneira como as pessoas vivem, trabalham e se conectam. Estamos comprometidos em instalar soluções tecnológicas de ponta que impactam positivamente a vida das pessoas e impulsionam o progresso em diversas áreas.Ao se juntar a nós, você fará parte de uma equipe talentosa e especialista, composta por mentes brilhantes e criativas. Nossa cultura é pautada na colaboração, no respeito mútuo e na busca incessante pela excelência. Acreditamos que, juntos, podemos enfrentar de…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "Python",
+        "Ruby",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T15:01:25Z",
+      "ultima_vista": "2026-09-29",
+      "expirada": false
+    },
+    {
+      "id": "26acfe79db2ac65ee6a881766f92bbe130a8bed7",
+      "titulo": "Desenvolvedor(a) Full Stack Júnior (PHP/React)",
+      "empresa": "Carreiras SoftExpert",
+      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI2MjgwOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T13:59:20Z",
+      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções. Por isso o nosso lema é #WeAreExpertsAndGlobal.A Oportunidade Estamos em busca de uma pessoa Desenvolvedora Full Stack Júnior (PHP/React) para contribuir com o desenvolvimento, manutenção e evolução das nossas soluções. Essa posição terá um papel importante na construção de novas funcionalidades e melhoria dos sistemas, trabalhando em parceria com diferentes equipes e contribuindo para a qualidade e evolução contínua dos produtos. Responsabilidades e atribuições Desenvolver, manter e evoluir sistemas e funcionalidades utilizando PHP, React e SQL;Desenvolver e executar testes unitários, contribuindo para a qualidade das soluções;Investigar, identificar e corrigir problemas durante o desenvolvimento;Participar de code reviews e discussões técnicas, contribuindo com melhorias e otimização do código;Aplicar boas práticas de programação, segurança e qualidade no desenvolvimento;Utilizar Git e ferramentas de Inteligência Artificial como apoio às atividades de desenvolvimento;Colaborar com diferentes equipes na construção e evolução das soluções. Requisitos e qualificaçõesConhecime…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T15:01:25Z",
       "ultima_vista": "2026-09-29",
       "expirada": false
     },
@@ -6251,6 +6345,37 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "35071070e7c96e3a04fa50179d1fc1183741a15f",
+      "titulo": "Desenvolvedor FullStack React/Node.js - Foco em Segurança (Vaga Híbrida)",
+      "empresa": "Deliver IT",
+      "url": "https://deliverit.gupy.io/job/eyJqb2JJZCI6MTI2Mjg5NjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-29T14:28:06Z",
+      "descricao": "Você gosta de tecnologia, curte desafios complexos e tem aquele olhar atento para encontrar e resolver vulnerabilidades? Então essa oportunidade pode ser o próximo grande desafio da sua carreira! Estamos buscando um(a) Engenheiro(a) Sênior com forte experiência em React e Node.js e sólida atuação em segurança de aplicações, capaz de analisar código-fonte, identificar vulnerabilidades, compreender caminhos de ataque, desenvolver código, operar ferramentas de desenvolvimento e executar tarefas complexas de cibersegurança. Essa pessoa será responsável por conduzir a correção de vulnerabilidades de segurança em aplicações web front-end, desde a identificação e validação do problema até o encerramento comprovado da vulnerabilidade no código-fonte armazenado no Bitbucket. O profissional deverá analisar vulnerabilidades que afetam aplicações React e Node.js, determinar sua possibilidade de exploração e impacto para o negócio, implementar correções seguras, adicionar testes de regressão de segurança, validar as alterações por meio de scans no processo de CI/CD e fornecer evidências claras de que a vulnerabilidade foi corrigida e devidamente encerrada. A vaga exige interação com equipes internacionais, sendo necessário inglês avançado para comunicação diária.VAGA HÍBRIDA EM PORTO ALEGRE - RS (O profissional deverá comparecer ao escritório 1 vez ao mês) Responsabilidades e atribuiçõesNa sua rotina de trabalho, você vai se deparar com as seguintes atividades: Revisar e validar vulnerab…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": 5,
+      "data_coleta": "2026-09-29T15:01:22Z",
+      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
