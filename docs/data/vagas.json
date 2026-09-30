@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-30T11:02:39Z",
-  "total": 402,
+  "atualizado_em": "2026-09-30T13:02:44Z",
+  "total": 404,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -1818,35 +1818,6 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
-    },
-    {
-      "id": "d7fc5a999dd7e7a47337c51b51056b65ee24b8c8",
-      "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
-      "empresa": "MJV Technology & Innovation",
-      "url": "https://mjvcarreiras.gupy.io/job/eyJqb2JJZCI6NDgyOTI1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2023-06-30T20:02:37Z",
-      "descricao": "Ser MJVer 🤝 é estar em um dos melhores lugares para trabalhar.Nós sabemos que na construção de uma sociedade mais forte a evolução deve vir de dentro para fora. Por isso, um ambiente acolhedor e com o sentimento constante de pertencimento é fundamental para o crescimento individual e coletivo.O esforço é de todos nós, e as conquistas também. Porque ser um MJVer é bem mais do que ser um colaborador: é sobre fazer parte. Somos colaborativos, ágeis, plurais, criativos e inovadores. Somos MJV! Saiba mais em Quem Somos: https://www.mjvinnovation.com/pt-br/quem-somos/Responsabilidades e atribuiçõesResponsável por criar a interface de utilização de um site ou aplicação web.Criar a camada visual das aplicações web, na qual os usuários interagemMontar a estrutura da página, colocando o cabeçalho, rodapé, colunas e imagens em seus devidos lugares.Cuidar da estilização da página cuidando da sua aparência, adicionando as devidas cores e fontes, por exemplo. Garantir o fluxo de navegação entre as páginas, de forma que o usuário consiga navegar pela aplicação com boa fluidez.Requisitos e qualificaçõesRequisitos necessários:Experiência com framework JavaScript Angular; mínimo de 04 anosHTML5; CSS3; JavaScript VanillaJS(ES6); Jquery; - Wordpress; Experiência com Pré-processadores CSS ( SASS, SCSS, LESS ou Stylus); Familiaridade com algum \"task runner\" (Gulp, Grunt).Desejável:Experiência com Hubspot (Desenvolvimento de módulos, componentes e temas); Google Analytics; Google Tag Manager; Goog…",
-      "score": 65,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "CSS",
-        "Node.js",
-        "MySQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "jQuery",
-        "PHP"
-      ],
-      "experiencia_exigida": 4,
-      "data_coleta": "2026-09-14T20:32:49Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
     },
     {
       "id": "ec4802d408522d5ecd11080b812da525707df456",
@@ -4387,6 +4358,59 @@
       "expirada": true
     },
     {
+      "id": "2a977a158fef604c5e36cbb0fdadc97dbdf8b39b",
+      "titulo": "PESSOA DESENVOLVEDORA FULLSTACK PLENO",
+      "empresa": "YDUQS - Vagas Tech",
+      "url": "https://yduqstech.gupy.io/job/eyJqb2JJZCI6MTE1MDkyNDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T11:55:28Z",
+      "descricao": "AQUI SUA CARREIRA COMEÇA GRANDE.VENHA SER UMA PESSOA DESENVOLVEDORA FULLSTACK PLENO NA YDUQS.Temos um projeto grandioso e que requer um time com disposição para pensar de forma original, disruptiva, e com objetivo de resolver as grandes questões de hoje na educação: acesso, tecnologia, customização e o sucesso dos nossos alunos.Somos uma companhia cheia de energia, que já nasceu gigante e com resultados extraordinários.Venha fazer parte desse time!VENHA TRANSFORMAR VIDAS. INCLUSIVE A SUA.Responsabilidades e atribuiçõesOs principais desafios como PESSOA DESENVOLVEDORA FULLSTACK PLENO são: Participar de projetos de desenvolvimento;Desenvolver e manter funcionalidades no frontend (React) e backend (Node);Testar os sistemas para assegurar capacidade de resposta e eficiência;Garantir a melhor performance e usabilidade das aplicações;Corrigir erros e realizar melhorias em sistemas existentes;Redigir documentação técnica;Criar páginas web e suas aplicações;Criar endpoints de acesso à recursos;Garantir a melhor performance e usabilidade das aplicações;Participar de code reviews e manter padrões de qualidade;Escrever testes unitários, de integração e E2E;Colaborar com o time na evolução da arquitetura e resolução de débitos técnicos;Monitorar saúde da aplicação.Requisitos e qualificaçõesBuscamos profissionais com: Superior completo em tecnologia ou áreas afins;Experiência com React, Material-UI, consumo e contribuição em Design Systems;Conhecimento em Jest + Testing Library para test…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T13:01:19Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "73c92893fc9a7b3b1a91783ca03b46995bca22fa",
+      "titulo": "Pessoa Desenvolvedora Fullstack IA II (Franquias)",
+      "empresa": "Grupo Boticário",
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI2Mjc2NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T13:30:13Z",
+      "descricao": "O Grupo Boticário é líder de Beleza no Brasil. Unimos tecnologia, varejo, logística e soluções digitais (com A Mooz) para transformar dados em desejo e conectar toda a nossa cadeia de valor. Somos uma rede de talentos que impulsiona resultados exponenciais com responsabilidade, cuidado e espírito de colaboração.Acreditamos que a beleza pode e deve inspirar mudanças.Construa o futuro da beleza com a gente. Vamos juntos?Responsabilidades e atribuições Como Pessoa Desenvolvedora Fullstack IA II, você atuará no ecossistema de Backoffice de Franquias, sendo ponto focal no desenvolvimento e evolução de soluções tecnológicas da nossa plataforma de Gestão Integrada (GI). Nosso objetivo é simplificar a alta complexidade que franqueados enfrentam na análise e tomada de decisões baseadas em dados (como metas PEF, programa IAF, vendas diretas e estoque), aumentando o engajamento diário da plataforma para impulsionar o faturamento e GMV dos franqueados: Desenvolvimento Backend: Atuação principal e forte com scripts e soluções em Node.js para sustentar o ecossistema e fornecer integrações necessárias; Integração com Inteligência Artificial: Dedicação de aproximadamente 30% do tempo ao desenvolvimento em Python voltado à nossa plataforma de Inteligência Artificial (GenAI); Engenharia Orientada a IA (SDD): Aplicação de metodologias como Spec-Driven Development (SDD) e uso de ferramentas assistidas por IA (como Cursor e Cloud Code), garantindo eficiência, baixo custo operacional e código lim…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T13:01:19Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
       "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
       "empresa": "",
@@ -6371,6 +6395,32 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-25",
+      "expirada": false
+    },
+    {
+      "id": "d7fc5a999dd7e7a47337c51b51056b65ee24b8c8",
+      "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
+      "empresa": "MJV Technology & Innovation",
+      "url": "https://mjvcarreiras.gupy.io/job/eyJqb2JJZCI6NDgyOTI1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2023-06-30T20:02:37Z",
+      "descricao": "Ser MJVer 🤝 é estar em um dos melhores lugares para trabalhar.Nós sabemos que na construção de uma sociedade mais forte a evolução deve vir de dentro para fora. Por isso, um ambiente acolhedor e com o sentimento constante de pertencimento é fundamental para o crescimento individual e coletivo.O esforço é de todos nós, e as conquistas também. Porque ser um MJVer é bem mais do que ser um colaborador: é sobre fazer parte. Somos colaborativos, ágeis, plurais, criativos e inovadores. Somos MJV! Saiba mais em Quem Somos: https://www.mjvinnovation.com/pt-br/quem-somos/Responsabilidades e atribuiçõesResponsável por criar a interface de utilização de um site ou aplicação web.Criar a camada visual das aplicações web, na qual os usuários interagemMontar a estrutura da página, colocando o cabeçalho, rodapé, colunas e imagens em seus devidos lugares.Cuidar da estilização da página cuidando da sua aparência, adicionando as devidas cores e fontes, por exemplo. Garantir o fluxo de navegação entre as páginas, de forma que o usuário consiga navegar pela aplicação com boa fluidez.Requisitos e qualificaçõesRequisitos necessários:Experiência com framework JavaScript Angular; mínimo de 04 anosHTML5; CSS3; JavaScript VanillaJS(ES6); Jquery; - Wordpress; Experiência com Pré-processadores CSS ( SASS, SCSS, LESS ou Stylus); Familiaridade com algum \"task runner\" (Gulp, Grunt).Desejável:Experiência com Hubspot (Desenvolvimento de módulos, componentes e temas); Google Analytics; Google Tag Manager; Goog…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "jQuery"
+      ],
+      "experiencia_exigida": 4,
+      "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
