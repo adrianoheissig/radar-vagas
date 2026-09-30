@@ -1,87 +1,7 @@
 {
-  "atualizado_em": "2026-09-30T19:02:53Z",
+  "atualizado_em": "2026-09-30T21:02:42Z",
   "total": 409,
   "vagas": [
-    {
-      "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
-      "titulo": "PDI SW - Pessoa Desenvolvedora Fullstack II (React / NodeJS)",
-      "empresa": "Inatel",
-      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIyNjE3NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-24T13:26:44Z",
-      "descricao": "O Inatel está recrutando Pessoa Desenvolvedora Fullstack (foco em backend e infraestrutura em cloud), para atuar em projetos de desenvolvimento de software, no ICC PDI SW. Responsabilidades e atribuições Desenvolver e manter aplicações web e APIs robustas utilizando Node.js/NestJS;Projetar e implementar arquiteturas escaláveis e distribuídas em ambientes de cloud (AWS, Azure ou GCP);Desenvolver e otimizar webservices de alto desempenho e segurança, incluindo APIs RESTful e GraphQL;Trabalhar com bancos de dados relacionais e não relacionais para modelagem e otimização de queries;Implementar práticas de DevOps para automação de infraestrutura, CI/CD e monitoramento de serviços;Desenvolver testes automatizados para garantir a qualidade e confiabilidade do software;Especificar e documentar APIs e serviços;Revisar código e atuar em correções/ajustes das soluções desenvolvidas;Apoiar tecnicamente o time do projeto e contribuir para boas práticas de engenharia de software. Requisitos e qualificaçõesEnsino Superior Completo em cursos da área de tecnologia, como Engenharia de Computação, Sistemas de Informação ou Ciência da Computação; Vivência prévia em: Backend Node.js/NestJS,Cloud (AWS, Azure ou GCP), incluindo deploys, gerenciamento de serviços e escalabilidade,Arquitetura de microserviços e mensageria (RabbitMQ, Kafka, etc.),Implementação de CI/CD e práticas de DevOps,Testes automatizados e qualidade de código,Metodologias ágeis (Scrum ou Kanban);Conhecimentos em: Bancos de dado…",
-      "score": 90,
-      "skills_match": [
-        "React",
-        "Angular",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "6f982b39af0697f8ee33e4579512fa07145e0f12",
-      "titulo": "Desenvolvedor Fullstack Jr",
-      "empresa": "Minsait an Indra Company",
-      "url": "https://minsait.gupy.io/job/eyJqb2JJZCI6MTE4Mjk3MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-07-28T15:30:53Z",
-      "descricao": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo. Desenvolvemos soluções que conectam inovação, eficiência e progresso em setores essenciais como administração pública, telecomunicações & mídia, energia & utilities, indústria & consumo, saúde e finanças.Aqui, você encontra um ambiente que valoriza a autonomia, a colaboração e o crescimento contínuo, com projetos desafiadores e oportunidades reais de desenvolvimento.Nosso jeito de serInovamos com propósitoCrescemos com responsabilidadeValorizamos a diversidade e quem transformaValoresInovação, conexão, confiança e antecipação de futuro Se você busca desafios com significado, a Minsait é o seu lugar.Responsabilidades e atribuiçõesExperiência mínima de 1 ano como Desenvolvedor JAVA Full Stack, com base técnica em desenvolvimento BackEnd e noções de FrontEnd. Capaz de atuar no desenvolvimento, testes e manutenção de aplicações Java, realizando a integração com bancos de dados e a resolução de problemas do dia a dia. Experiência em Desenvolvimento (BackEnd e FrontEnd): com conhecimento na linguagem Java e ecossistema moderno (Spring Boot, Quarkus, Maven), além de noções em tecnologias web (Angular, Node.js, JavaScript, HTML, CSS, Bootstrap) e sistemas legados/corporativos (EJB, WebLogic). Experiência em APIs e Microsserviços: Noções em desenvolvimento e integração de APIs REST e conceitos de arquitetura de microsserviços e computação distribuída…",
-      "score": 90,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Bootstrap",
-        "Spring",
-        "Oracle",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
       "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
@@ -109,54 +29,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "a2ae78f774f74e01ffe64263523d026c97b4252e",
-      "titulo": "Desenvolvedor(a) de Sistemas | FULLSTACK",
-      "empresa": "Brisanet",
-      "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI1NDUwMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Juazeiro do Norte, Ceará",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-24T13:26:52Z",
-      "descricao": "Estamos à procura de um(a) Desenvolvedor(a) de Sistemas para desenvolver, implantar e realizar manutenção de sites e sistemas, visando a agilidade, segurança e eficácia dos processos adequando-os às necessidades das áreas e clientes.Se você é um profissional atencioso, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar!Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡Responsabilidades e atribuições1. Desenvolvimento Fullstack (Frontend & Backend)Desenvolver, evoluir e manter funcionalidades ponta a ponta em sistemas e aplicações web, garantindo código limpo, segurança e boas práticas.Construir interfaces web modernas, responsivas e acessíveis a partir de especificações ou protótipos de design.Implementar regras de negócio, serviços e integrações no backend, garantindo estabilidade e manutenibilidade.Desenvolver e consumir APIs REST (e outros padrões de integração), realizando o tratamento adequado de requisições, respostas e erros.Construir e manter consultas a bancos de dados relacionais e/ou não relacionais, apoiando na garantia de integridade e consistência dos dados.Auxiliar na integração com serviços e APIs externas necessárias ao funcionamento das aplicações.2. Qualidade, Sustentação e ObservabilidadeIdentificar, investigar e corrigir bugs tanto em tela (frontend) quanto em regras e serviços (backend).Escrever e manter testes automatizados (unitários e de integração) com o suporte do time, visando a qualidade contínua das entregas.Acompanh…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Java",
-        "APIs REST",
-        "SQL",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Sass",
-        "Tailwind",
-        "Python",
-        "C#",
-        "Go",
-        "PostgreSQL",
-        "Redis",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Linux",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T14:52:32Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -290,6 +162,36 @@
       "expirada": false
     },
     {
+      "id": "6f982b39af0697f8ee33e4579512fa07145e0f12",
+      "titulo": "Desenvolvedor Fullstack Jr",
+      "empresa": "Minsait an Indra Company",
+      "url": "https://minsait.gupy.io/job/eyJqb2JJZCI6MTE4Mjk3MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-07-28T15:30:53Z",
+      "descricao": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo. Desenvolvemos soluções que conectam inovação, eficiência e progresso em setores essenciais como administração pública, telecomunicações & mídia, energia & utilities, indústria & consumo, saúde e finanças.Aqui, você encontra um ambiente que valoriza a autonomia, a colaboração e o crescimento contínuo, com projetos desafiadores e oportunidades reais de desenvolvimento.Nosso jeito de serInovamos com propósitoCrescemos com responsabilidadeValorizamos a diversidade e quem transformaValoresInovação, conexão, confiança e antecipação de futuro Se você busca desafios com significado, a Minsait é o seu lugar.Responsabilidades e atribuiçõesExperiência mínima de 1 ano como Desenvolvedor JAVA Full Stack, com base técnica em desenvolvimento BackEnd e noções de FrontEnd. Capaz de atuar no desenvolvimento, testes e manutenção de aplicações Java, realizando a integração com bancos de dados e a resolução de problemas do dia a dia. Experiência em Desenvolvimento (BackEnd e FrontEnd): com conhecimento na linguagem Java e ecossistema moderno (Spring Boot, Quarkus, Maven), além de noções em tecnologias web (Angular, Node.js, JavaScript, HTML, CSS, Bootstrap) e sistemas legados/corporativos (EJB, WebLogic). Experiência em APIs e Microsserviços: Noções em desenvolvimento e integração de APIs REST e conceitos de arquitetura de microsserviços e computação distribuída…",
+      "score": 80,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Java",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Bootstrap",
+        "Spring"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "0b79294684e5302a4ad3188d5e185f7967f8fcb3",
       "titulo": "Desenvolvedor Java",
       "empresa": "WORK ON",
@@ -345,20 +247,10 @@
         "JavaScript",
         "Node.js",
         "Java",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
         "Metodologias ágeis"
       ],
       "lacunas": [
-        "C#",
-        ".NET",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
+        ".NET"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
@@ -398,39 +290,6 @@
       "expirada": false
     },
     {
-      "id": "311259a4986cad0573824572727bca6570f18c42",
-      "titulo": "Analista de Tecnologia - Desenvolvedor(a) Mobile React Native",
-      "empresa": "VEM SER #GENTEALGAR",
-      "url": "https://algar.gupy.io/job/eyJqb2JJZCI6MTI2Mjc0MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T12:48:30Z",
-      "descricao": "Buscamos um(a) Analista de Tecnologia com expertise em React Native para atuar na Gerência de Experiências Digitais da Algar. Nosso time é responsável pelas jornadas digitais dos clientes Algar, do aplicativo e portal de autoatendimento ao e-commerce e aos canais conversacionais. Integramos front-end, back-end e sistemas corporativos em um ecossistema cloud, trabalhando com metodologias ágeis, cultura de qualidade, observabilidade e squads multidisciplinares. Você atuará no desenvolvimento, evolução e sustentação do aplicativo Algar, que possui milhares de usuários ativos, equilibrando a entrega de valor para o negócio com a modernização da base tecnológica. Você também contribuirá para a definição da arquitetura mobile e dos padrões de engenharia, de acordo com sua experiência e nível de atuação. Aqui, as decisões técnicas são tomadas considerando o contexto do negócio, e cada entrega é pensada pelo impacto em engajamento, autoatendimento e satisfação do cliente. Responsabilidades e atribuições Desenvolver e evoluir funcionalidades do aplicativo utilizando React Native e TypeScript para Android e iOS.Participar da definição e evolução da arquitetura mobile, incluindo organização de módulos, componentização, gerenciamento de estado e estratégias de cache e dados remotos.Contribuir com a modernização técnica do aplicativo, incluindo atualização de versões e dependências, migração de bibliotecas descontinuadas e evolução para TypeScript.Integrar o aplicativo com APIs REST, tra…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Redux",
-        "NestJS",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-29T15:01:25Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "6208fd5c0bbea53b326e374582ea5f54767c1ce9",
       "titulo": "Pessoa Desenvolvedora Fullstack Node/React",
       "empresa": "REPONTO GENTE E GESTÃO",
@@ -462,80 +321,6 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "20de4038e54c5e4962cea2ea951ccefaae227e29",
-      "titulo": "Pessoa Desenvolvedora Fullstack Node/React III - Venda Direta",
-      "empresa": "Grupo Boticário",
-      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTIxODc5NDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-09T12:37:26Z",
-      "descricao": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Responsabilidades e atribuiçõesConheça o nosso time: O time entrega valor diretamente para os usuários da VDI, especialmente assistentes comerciais dentro do Espaço do Revendedor do Grupo Boticário e de franqueados.Como será o seu dia a dia:Proponha e construa soluções contemplando as diferentes disciplinas do ciclo de desenvolvimento com foco em atender requisitos não funcionais e otimizar custos;Envolvimento em discussões técnicas, apontando fatos e dados e na execução das arquiteturas desenhadas conforme priorização do time, usando sua opinião e experiência com critério;Crie ADRs / design docs para soluções do time;Garanta monitoramento ativo do ambiente…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "MySQL",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "AWS",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "7b57d5fdd94ee24de5db178e4c4a6ebfa0cbdedf",
-      "titulo": "Pessoa Desenvolvedora Fullstack React/Node Analista III (Pricing/E-commerce) - Vaga Afirmativa para Talentos Diversos",
-      "empresa": "Grupo Boticário",
-      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTIzOTMwMDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-08T23:11:21Z",
-      "descricao": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Além disso, valorizamos a diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times. Por isso, temos vagas destinadas aos grupos minorizados priorizados em nossa estratégia. Essa vaga é afirmativa para Talentos Diversos (Mulheres, Pessoas Pretas e Pardas e Pessoas com Deficiência).Responsabilidades e atribuiçõesDesenvolvimento: Atuar no desenvolvimento em ReactJS e Node, colaborando na definição de padrões arquiteturais, componentes reutilizáveis e estratégias de implementação para funcionalidades complexas.Visão End-to-End: Capacidade de compreender e atuar em todas as camadas da aplicação, desde o Web Front-end até a infraestrutura backend.Liderança Téc…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Redux",
-        "Express",
-        "NestJS",
-        "GraphQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -606,40 +391,6 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "626df68b7bdce152bd00c2be65da3c35af509f8d",
-      "titulo": "Desenvolvedor(a) Mobile Pleno (React Native)",
-      "empresa": "Tecsa® Group",
-      "url": "https://tecsa.gupy.io/job/eyJqb2JJZCI6MTE3MTUyNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-07-22T18:23:53Z",
-      "descricao": "Buscamos uma pessoa Desenvolvedora Mobile Pleno para atuar na evolução de produtos digitais mobile com foco exclusivo na plataforma voltada para o nutricionista (App do Nutri). Você atuará no desenvolvimento prático, na arquitetura mobile e na manutenção de ferramentas essenciais de trabalho de nossos nutricionistas parceiros. Essa pessoa terá um papel ativo e de execução direta no código com React Native, garantindo a entrega de telas ágeis, desempenho fluido e um sistema estável para uso corporativo diário dos profissionais.Responsabilidades e atribuiçõesDesenvolver de forma prática novas telas e funcionalidades dentro do aplicativo móvel do nutricionista utilizando React Native;Apoiar no desenho técnico de arquitetura, estruturação de estados, fluxos de navegação e integração limpa com serviços externos;Garantir alta performance, estabilidade de telas e excelente legibilidade de código em ambientes de desenvolvimento Android e iOS;Auxiliar na modernização e sustentação de funcionalidades que possuem conexão de dados com servidores baseados em PHP, Laravel e banco de dados MySQL;Realizar revisões sistemáticas de código e apoiar o desenvolvimento técnico dos desenvolvedores da equipe;Apoiar a estruturação de esteiras de compilação automática, geração de pacotes de testes e publicação nas lojas de aplicativos;Analisar erros em produção, relatórios de falhas técnicas e logs do aplicativo de forma a promover correções eficientes e pragmáticas.Requisitos e qualificaçõesExperiên…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST",
-        "MySQL",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "PHP",
-        "Laravel",
-        "Azure",
-        "Google Cloud",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -1076,126 +827,14 @@
       "score": 70,
       "skills_match": [
         "Angular",
-        "Java",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
+        "Java"
       ],
       "lacunas": [
         "Spring",
-        "Oracle",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "9a01dd85639765c8e0191955557aaabc0e30f85e",
-      "titulo": "Pessoa Desenvolvedora Fullstack | Inteligência Artificial (Home Office)",
-      "empresa": "Somos BHS 💚",
-      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0NDIxNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-09T12:25:25Z",
-      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Participar ativamente de cerimônias ágeis, code reviews e refinamentos técnicos de tarefas. Requisitos e qualificações📋 Buscamos uma pessoa que possua experiências com: · Graduação completa ou em andamento em Ciência da Computação, Análise e Desenvolvimento ou áreas afins;…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "APIs REST",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server",
-        "Docker",
-        "Azure",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T21:01:18Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "f26041cd093f2906a6d1caf2a01172eb3a797102",
-      "titulo": "Pessoa Desenvolvedora Fullstack (Home Office)",
-      "empresa": "Somos BHS 💚",
-      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-09T11:05:48Z",
-      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Utilizar ativamente ferramentas modernas de apoio por IA (Claude Code, Antigravity, Copilot) para acelerar a codificação, refatoração, geração de testes e resolução de bugs;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Apoiar os colegas de time no aprendizado e uso eficiente das ferramentas de IA no dia a dia, promov…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "APIs REST",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server",
-        "Docker",
-        "Azure",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T15:01:34Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "88d6d9803d83849f622e8ba8add4cfc1ec52c3a5",
-      "titulo": "DESENVOLVEDOR FULL STACK JR (JAVA/ANGULAR)",
-      "empresa": "Stefanini Group",
-      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTIzMTUxOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Brasília, Distrito Federal",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-01T18:59:02Z",
-      "descricao": "No Grupo Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!Junte-se a nós e seja parte da mudança!#LI-AN1#LI-ONSITEResponsabilidades e atribuiçõesEstamos em busca de uma pessoa Desenvolvedora Full Stack Júnior para apoiar a digitalização e a automação de processos, contribuindo para o desenvolvimento, manutenção e evolução de sistemas e soluções tecnológicas. A posição exige boa base em programação, capacidade de aprendizado e interesse em atuar em diferentes etapas do desenvolvimento de software. s e atribuiçõesAnalisar e diagnosticar necessidades dos usuários e clientes;Participar do levantamento e da especificação de requisitos;Desenvolver, manter e evoluir sistemas e aplicações;Criar novas telas, funcionalidades, integrações e automações;Implementar e consumir APIs;Desenvolver soluções utilizando plataformas Low Code e ferramentas de workflow;Realizar manutenções corretivas, preventiv…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java",
-        "Microsserviços",
-        "SQL",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Python",
-        "C#",
-        ".NET",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -1223,40 +862,6 @@
       ],
       "lacunas": [
         ".NET",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "621d5c548c5a4e41267685839779cd8067fe9fa1",
-      "titulo": "Desenvolvedor Web Fullstack Pleno",
-      "empresa": "Shift",
-      "url": "https://shift.gupy.io/job/eyJqb2JJZCI6MTIyNDMxMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-01T12:28:07Z",
-      "descricao": "Temos um jeito muito especial de trabalhar e fazemos muito mais do que desenvolver e comercializar sistemas, nossa rotina é movida por uma cultura de gestão do conhecimento, desenvolvimento de pessoas e um ambiente de trabalho que cultiva as relações de respeito, diversidade e a essência dos nossos valores:Somos protagonistasSentimos orgulho em pertencerTrabalhamos em rede e com paixãoValorizamos o passado, vivemos o presente e construímos o futuroAgimos com responsabilidadeConfira alguns desafios da vaga:Atuar em time ágil para desenvolver requisitos para aplicações web, escrevendo código e testes unitários seguindo as boas práticas de programação e padrões de projeto;Participar da elaboração de soluções técnicas, interagindo com as áreas de produtos e qualidade.Responsabilidades e atribuições ProdutoDesenvolver, manter e evoluir funcionalidades dos produtos Shift utilizando ferramentas homologadas, observando padrões de codificação, arquitetura, qualidade e regras de negócio;Analisar requisitos funcionais e não funcionais, propondo soluções técnicas aderentes aos padrões arquiteturais, de qualidade e de negócio da Shift;Projetar, documentar, implementar e evoluir APIs REST seguindo os padrões de arquitetura, segurança, versionamento e documentação definidos pela Shift;Elaborar artefatos técnicos de engenharia de software (DER, Diagramas de Classes, UML e demais modelos necessários) que suportem o desenvolvimento das soluções;Estimar o esforço técnico das demandas e apoiar…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java",
-        "APIs REST",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Docker",
-        "CI/CD",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -1403,37 +1008,6 @@
       "expirada": false
     },
     {
-      "id": "fe6c636143bec39d70236801e9499c5d56c5a3dc",
-      "titulo": "Desenvolvedor Full Stack — React, Next.js, Node.js e IA",
-      "empresa": "Empresa Confidencial",
-      "url": "https://vaga-ja.com/vagas/c/JNF6N9QNC3?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Curitiba, Paraná",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-22T00:00:00Z",
-      "descricao": "Faixa salarial: R$ 4.000,00 a R$ 5.000,00 Sobre a vaga A empresa está em busca de uma pessoa Desenvolvedora Full Stack para transformar ideias e requisitos em aplicações funcionais, rápidas e escaláveis. Essa posição participará de ponta a ponta do ciclo de desenvolvimento, atuando desde o planejamento técnico até a publicação e manutenção das soluções. Procuramos alguém com autonomia, visão de produto e capacidade de usar Inteligência Artificial de forma estruturada para elevar a qualidade e a velocidade das entregas. Principais responsabilidades Desenvolver novas plataformas, landing pages, dashboards e funcionalidades. Manter e evoluir aplicações já existentes. Atuar no front-end e no back-end, da modelagem de dados à interface. Implementar autenticação, autorização, regras de negócio e integrações entre serviços. Transformar layouts e protótipos em interfaces responsivas e fiéis ao design. Desenvolver com foco em performance, SEO, acessibilidade e conversão. Criar e manter aplicações com React, Next.js, Node.js e TypeScript. Trabalhar com bancos de dados relacionais, não relacionais e soluções BaaS. Desenvolver, consumir e documentar APIs. Implementar Google Tag Manager, pixels de conversão e outras ferramentas de mensuração. Escrever código limpo, seguro, testável e preparado para crescer. Participar de code reviews, testes automatizados e processos de CI/CD. Utilizar IA em etapas como análise, especificação, arquitetura, implementação, testes, documentação e manutenção…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Firebase",
-        "Git"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Tailwind",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T13:01:25Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
       "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
       "empresa": "",
@@ -1491,44 +1065,6 @@
       "expirada": false
     },
     {
-      "id": "b4fa2242facbaaf30cc0dbef5da266d473b3c367",
-      "titulo": "Desenvolvedor Fullstack .NET / BackEnd - Pleno",
-      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
-      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI0OTE0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-15T20:35:06Z",
-      "descricao": "A FCamara está em busca de um Desenvolvedor Fullstack | IT Capital Markets - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.Responsabilidades e atribuiçõesParticipar ativamente da concepção e estruturação de novos produtos em parceria direta com a área de negócios de Capital Markets.Desenvolver e sustentar a plataforma de pós-negociação de renda variável, criando soluções de integração robustas.Trabalhar em um ambiente colaborativo e democrático, com autonomia para propor ideias que impactem a evolução dos produtos.Desenvolver sistemas utilizando tecnologias de ponta, garantindo excelência técnica e alinhamento com a Clearing e o mercado de renda variável brasileiro.Contribuir para a transformação digital do maior banco de investimentos da América Latina através de soluções escaláveis.Requisitos e qualificaçõesBackend* Experiência sólida com: • C# • .NET 6+ (.NET 8 será considerado diferencial) • ASP.NET Core • Entity Framework • APIs REST • Arquitetura em camadas • Clean Architecture • SOLID • Design PatternsMensageria e Arquitetura Orientada a Eventos* Experiência prática com: • RabbitMQ • AWS SNS • AWS SQS • Arquitetura orientada a eventos • Processamento assíncrono • Integração entre sistemas através de filas e eventos • Tratamento de falhas, retry e dead-letter queues (DLQ)Banco de Dados* Experiência com bancos relacionais: • SQL…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST",
-        "MySQL",
-        "Git",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Next.js",
-        "C#",
-        ".NET",
-        "GraphQL",
-        "PostgreSQL",
-        "SQL Server",
-        "Redis",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "CI/CD"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T23:29:52Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "9232592956ba621a983410021df3fe6348d6acb3",
       "titulo": "Desenvolvedor Junior",
       "empresa": "ISA SAÚDE",
@@ -1578,30 +1114,31 @@
       "expirada": true
     },
     {
-      "id": "028387ea07e0799bed2b034df855efa489b640ea",
-      "titulo": "Desenvolvedor Fullstack Jr",
-      "empresa": "Vagas MRM Brasil",
-      "url": "https://mrm.gupy.io/job/eyJqb2JJZCI6MTIxNDY1NDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
+      "titulo": "PDI SW - Pessoa Desenvolvedora Fullstack II (React / NodeJS)",
+      "empresa": "Inatel",
+      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIyNjE3NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-24T12:48:19Z",
-      "descricao": "Buscamos uma pessoa para atuar como Desenvolvedora Fullstack Jr. na MRM Brasil, uma agência full-service, com maior foco em digital, do McCann Worldgroup, unidade do Grupo Interpublic (IPG). Uma agência que acredita no poder das intersecções entre estratégia, criatividade e tecnologia, suportado por dados, para criar experiências totalmente humanas. Atuamos a partir do modelo híbrido de agência e consultoria de transformação digital, ajudando a fortalecer o relacionamento entre negócios e pessoas, ajudando marcas a encontrarem seu propósito, aprofundar suas relações e criar experiências que gerem crescimento.A MRM Brasil valoriza a criatividade e inovação, algo que é potencializado em um ambiente diverso e inclusivo, por isso damos prioridade na contratação de grupos minoritários, como pessoas com mais de 45 anos, pretas, pardas, indígenas, pessoas da comunidade LGBTQIAP+ e PCDs.Venha fazer parte de um time Better Together onde sua individualidade é respeitada e valorizada em todos os sentidos!Responsabilidades e atribuiçõesMais do que experiência profissional, procuramos alguém com curiosidade, iniciativa, entusiasmo por tecnologia e muita vontade de aprender. Esta pode, inclusive, ser sua primeira experiência profissional na área.No dia a dia, você irá:Participar do desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end;Implementar novas funcionalidades e contribuir para a evolução das soluções existentes;Investigar problemas, testar hipóteses e b…",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-24T13:26:44Z",
+      "descricao": "O Inatel está recrutando Pessoa Desenvolvedora Fullstack (foco em backend e infraestrutura em cloud), para atuar em projetos de desenvolvimento de software, no ICC PDI SW. Responsabilidades e atribuições Desenvolver e manter aplicações web e APIs robustas utilizando Node.js/NestJS;Projetar e implementar arquiteturas escaláveis e distribuídas em ambientes de cloud (AWS, Azure ou GCP);Desenvolver e otimizar webservices de alto desempenho e segurança, incluindo APIs RESTful e GraphQL;Trabalhar com bancos de dados relacionais e não relacionais para modelagem e otimização de queries;Implementar práticas de DevOps para automação de infraestrutura, CI/CD e monitoramento de serviços;Desenvolver testes automatizados para garantir a qualidade e confiabilidade do software;Especificar e documentar APIs e serviços;Revisar código e atuar em correções/ajustes das soluções desenvolvidas;Apoiar tecnicamente o time do projeto e contribuir para boas práticas de engenharia de software. Requisitos e qualificaçõesEnsino Superior Completo em cursos da área de tecnologia, como Engenharia de Computação, Sistemas de Informação ou Ciência da Computação; Vivência prévia em: Backend Node.js/NestJS,Cloud (AWS, Azure ou GCP), incluindo deploys, gerenciamento de serviços e escalabilidade,Arquitetura de microserviços e mensageria (RabbitMQ, Kafka, etc.),Implementação de CI/CD e práticas de DevOps,Testes automatizados e qualidade de código,Metodologias ágeis (Scrum ou Kanban);Conhecimentos em: Bancos de dado…",
       "score": 65,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
         "Node.js",
         "APIs REST",
-        "SQL",
-        "Git"
+        "Microsserviços",
+        "Metodologias ágeis"
       ],
       "lacunas": [
-        "Next.js",
-        "Python"
+        "NestJS",
+        "GraphQL",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
@@ -1636,45 +1173,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-22",
-      "expirada": false
-    },
-    {
-      "id": "c06927f418397ab570dd7854bc6d9b68b0ce2d01",
-      "titulo": "PDI SW - Pessoa Desenvolvedora Fullstack I (React/ Node)",
-      "empresa": "Inatel",
-      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Santa Rita do Sapucaí, Minas Gerais",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-08-20T19:32:40Z",
-      "descricao": "O Inatel está recrutando especialista para atuar em projetos de desenvolvimento de software, no PDI SW. Responsabilidades e atribuiçõesDesenvolver e manter aplicações web e APIs utilizando Node.js/NestJS, com apoio do time técnico;Apoiar o desenvolvimento e a evolução de soluções em ambientes de cloud (AWS, Azure ou GCP);Desenvolver e realizar ajustes em webservices e APIs RESTful e GraphQL;Trabalhar com bancos de dados relacionais e não relacionais, realizando consultas e operações de persistência de dados;Apoiar atividades relacionadas a DevOps, como CI/CD, configuração de ambientes e monitoramento de serviços;Desenvolver e executar testes automatizados, contribuindo para a qualidade e confiabilidade do software;Documentar APIs, serviços e funcionalidades desenvolvidas;Realizar correções, ajustes e melhorias nas soluções, seguindo orientações e padrões definidos pelo time;Participar de revisões de código e contribuir para a adoção de boas práticas de desenvolvimento e engenharia de software. Requisitos e qualificaçõesEnsino Superior Completo na área de Tecnologia, preferencialmente em Engenharia de Computação, Sistemas de Informação, Ciência da Computação ou correlatos;Conhecimentos em: Backend Node.js/NestJS,Frontend React;Cloud (AWS, Azure ou GCP), incluindo deploys, gerenciamento de serviços e escalabilidade,Arquitetura de microserviços e mensageria (RabbitMQ, Kafka, etc.),Implementação de CI/CD e práticas de DevOps,Testes automatizados e qualidade de código,Metodologia…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T23:29:48Z",
-      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -2273,29 +1771,21 @@
       "expirada": false
     },
     {
-      "id": "9abfb21c321a1832890235e8ec06fe156c33b1e7",
-      "titulo": "Front End Developer (Angular)",
-      "empresa": "Stefanini Latam",
-      "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTIzMjI3MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "88d6d9803d83849f622e8ba8add4cfc1ec52c3a5",
+      "titulo": "DESENVOLVEDOR FULL STACK JR (JAVA/ANGULAR)",
+      "empresa": "Stefanini Group",
+      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTIzMTUxOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
-      "local": "Lima",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-27T21:59:20Z",
-      "descricao": "¡Sé parte de Stefanini!​En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.Responsabilidades y atribucionesDesarrollar, mantener y evolucionar aplicaciones frontend utilizando Angular, trabajando con diferentes versiones del framework.Participar en proyectos de migración tecnológica de aplicaciones Angular desde versiones 6, 7, 8, 14 y 15 hacia Angular 21, asegurando compatibilidad, estabilidad y buenas prácticas de desarrollo.Implementar y participar en el desacoplamiento de aplicaciones monolíticas hacia arquitecturas de Microfrontends, contribuyendo al diseño y desarrollo de módulos independientes.Desarrollar y mantener componentes reutilizables, servicios y librerías compartidas dentro de los ecosistemas frontend.Integrar aplicaciones frontend con APIs y servicios backend garantizando eficiencia, seguridad y calidad en la comunicación.Participar en revisiones de código, pruebas técnicas y actividades de mejora continua dentro del equipo de desarrollo.Colaborar con arquitectos, líderes técnicos y otros desarrolladores para asegurar el cumplimiento de estándares de arquitectura y buenas prácticas.Documentar desarrollos, configuraciones y procesos asociados a las migraciones y evolución de las aplicaciones.Requisitos y calificacionesIndispensablesExperiencia de 2 a 3 años en desarrollo frontend.Experiencia sólida trabajando con Angular en diferentes versiones.Experiencia participando en proyectos de…",
+      "local": "Brasília, Distrito Federal",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-01T18:59:02Z",
+      "descricao": "No Grupo Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!Junte-se a nós e seja parte da mudança!#LI-AN1#LI-ONSITEResponsabilidades e atribuiçõesEstamos em busca de uma pessoa Desenvolvedora Full Stack Júnior para apoiar a digitalização e a automação de processos, contribuindo para o desenvolvimento, manutenção e evolução de sistemas e soluções tecnológicas. A posição exige boa base em programação, capacidade de aprendizado e interesse em atuar em diferentes etapas do desenvolvimento de software. s e atribuiçõesAnalisar e diagnosticar necessidades dos usuários e clientes;Participar do levantamento e da especificação de requisitos;Desenvolver, manter e evoluir sistemas e aplicações;Criar novas telas, funcionalidades, integrações e automações;Implementar e consumir APIs;Desenvolver soluções utilizando plataformas Low Code e ferramentas de workflow;Realizar manutenções corretivas, preventiv…",
       "score": 60,
       "skills_match": [
         "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java",
-        "APIs REST",
-        "Git"
+        "Java"
       ],
-      "lacunas": [
-        ".NET"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
@@ -2442,47 +1932,10 @@
         "CSS"
       ],
       "lacunas": [
-        "Vue.js",
-        "CI/CD",
-        "Inglês"
+        "Vue.js"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
-      "titulo": "Pessoa Desenvolvedora Fullstack \"IA\"",
-      "empresa": "Volkswagen do Brasil",
-      "url": "https://vwbrasil.gupy.io/job/eyJqb2JJZCI6MTI2NDMxMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Bernardo do Campo, São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-30T14:39:39Z",
-      "descricao": "Chegou a oportunidade de impactar a indústria automobilística usando tecnologia. Se você é um(a) dev fullstack com experiência criar e manter aplicações com IA generativa, queremos conhecer você! Você terá a chance de trabalhar na indústria 4.0 de ponta a ponta: da integração com LLMs no backend até a interface usada pelas áreas de negócio junto das ferramentas de AI. Nosso time é multidisciplinar e você trabalhará junto com produto, dados e segurança da informação. Responsabilidades e atribuiçõesCriar e manter APIs e serviços de backend que integram modelos de linguagem (LLMs) com os sistemas corporativos.Implementar pipelines de RAG (Retrieval-Augmented Generation), incluindo ingestão, chunking, embeddings e busca vetorial.Criar agentes e fluxos de tool use / function calling que se conectam com APIs internas e bases de dados.Criar interfaces web que funcionem bem para interações com IA: streaming de respostas, feedback do usuário e tratamento de erros.Definir e aplicar práticas de avaliação de modelos (evals), observabilidade, controle de recursos e latência.Garantir segurança e conformidade: proteção de dados (LGPD), prevenção de prompt injection, controle de acesso e trilhas de auditoria.Desenvolver os testes necessários para cada caso.Documentar soluções e compartilhar conhecimento com o time.Requisitos e qualificaçõesExperiência com desenvolvimento de software com atuação comprovada.Domínio de Python e/ou TypeScript/Node.js no backend.Experiência com frameworks fronte…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Python",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T15:01:27Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -2546,60 +1999,23 @@
       "expirada": false
     },
     {
-      "id": "54c58f22fdcc1498409ed6df3197a42ca688e655",
-      "titulo": "DESENVOLVIDOR FULLSTACK REACT | São Paulo - SP",
-      "empresa": "Teltex Tecnologia",
-      "url": "https://teltex.gupy.io/job/eyJqb2JJZCI6MTI2MDQwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-29T14:28:56Z",
-      "descricao": "Estamos à procura de um profissional de Desenvolvimento Web para desenvolver aplicações web, integrar back-end e front-end, criar protótipos, realizar testes, desenvolver soluções escaláveis, monitorar ferramentas de segurança e manter contato com os clientes.Se você tem experiência comprovada em desenvolvimento web, conhecimento em JavaScript, HTML, CSS e frameworks front-end, experiência em back-end, conhecimento em arquitetura de aplicações web, experiência em bancos de dados, ferramentas de automação, habilidades de comunicação e colaboração, capacidade de trabalhar em projetos complexos e proatividade para lidar com problemas, junte-se à nossa equipe!﻿Estamos entusiasmados em lhe apresentar uma oportunidade única de fazer parte de uma empresa de tecnologia inovadora e em constante crescimento. Aqui, na nossa empresa, estamos em busca de profissionais apaixonados por tecnologia e que desejam fazer a diferença no mundo de integradores de tecnologia.Nossa empresa tem uma visão clara e ousada de transformar a maneira como as pessoas vivem, trabalham e se conectam. Estamos comprometidos em instalar soluções tecnológicas de ponta que impactam positivamente a vida das pessoas e impulsionam o progresso em diversas áreas.Ao se juntar a nós, você fará parte de uma equipe talentosa e especialista, composta por mentes brilhantes e criativas. Nossa cultura é pautada na colaboração, no respeito mútuo e na busca incessante pela excelência. Acreditamos que, juntos, podemos enfrentar de…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "Python",
-        "Ruby",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-29T15:01:25Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "26acfe79db2ac65ee6a881766f92bbe130a8bed7",
-      "titulo": "Desenvolvedor(a) Full Stack Júnior (PHP/React)",
-      "empresa": "Carreiras SoftExpert",
-      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI2MjgwOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "311259a4986cad0573824572727bca6570f18c42",
+      "titulo": "Analista de Tecnologia - Desenvolvedor(a) Mobile React Native",
+      "empresa": "VEM SER #GENTEALGAR",
+      "url": "https://algar.gupy.io/job/eyJqb2JJZCI6MTI2Mjc0MDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
       "local": "Remoto",
       "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T13:59:20Z",
-      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções. Por isso o nosso lema é #WeAreExpertsAndGlobal.A Oportunidade Estamos em busca de uma pessoa Desenvolvedora Full Stack Júnior (PHP/React) para contribuir com o desenvolvimento, manutenção e evolução das nossas soluções. Essa posição terá um papel importante na construção de novas funcionalidades e melhoria dos sistemas, trabalhando em parceria com diferentes equipes e contribuindo para a qualidade e evolução contínua dos produtos. Responsabilidades e atribuições Desenvolver, manter e evoluir sistemas e funcionalidades utilizando PHP, React e SQL;Desenvolver e executar testes unitários, contribuindo para a qualidade das soluções;Investigar, identificar e corrigir problemas durante o desenvolvimento;Participar de code reviews e discussões técnicas, contribuindo com melhorias e otimização do código;Aplicar boas práticas de programação, segurança e qualidade no desenvolvimento;Utilizar Git e ferramentas de Inteligência Artificial como apoio às atividades de desenvolvimento;Colaborar com diferentes equipes na construção e evolução das soluções. Requisitos e qualificaçõesConhecime…",
+      "data_publicacao": "2026-09-29T12:48:30Z",
+      "descricao": "Buscamos um(a) Analista de Tecnologia com expertise em React Native para atuar na Gerência de Experiências Digitais da Algar. Nosso time é responsável pelas jornadas digitais dos clientes Algar, do aplicativo e portal de autoatendimento ao e-commerce e aos canais conversacionais. Integramos front-end, back-end e sistemas corporativos em um ecossistema cloud, trabalhando com metodologias ágeis, cultura de qualidade, observabilidade e squads multidisciplinares. Você atuará no desenvolvimento, evolução e sustentação do aplicativo Algar, que possui milhares de usuários ativos, equilibrando a entrega de valor para o negócio com a modernização da base tecnológica. Você também contribuirá para a definição da arquitetura mobile e dos padrões de engenharia, de acordo com sua experiência e nível de atuação. Aqui, as decisões técnicas são tomadas considerando o contexto do negócio, e cada entrega é pensada pelo impacto em engajamento, autoatendimento e satisfação do cliente. Responsabilidades e atribuições Desenvolver e evoluir funcionalidades do aplicativo utilizando React Native e TypeScript para Android e iOS.Participar da definição e evolução da arquitetura mobile, incluindo organização de módulos, componentização, gerenciamento de estado e estratégias de cache e dados remotos.Contribuir com a modernização técnica do aplicativo, incluindo atualização de versões e dependências, migração de bibliotecas descontinuadas e evolução para TypeScript.Integrar o aplicativo com APIs REST, tra…",
       "score": 55,
       "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java",
-        "SQL",
-        "Git"
+        "TypeScript",
+        "APIs REST",
+        "Metodologias ágeis"
       ],
       "lacunas": [
-        "PHP",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Testes automatizados"
+        "React Native"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T15:01:25Z",
@@ -3269,6 +2685,32 @@
       "expirada": false
     },
     {
+      "id": "fe6c636143bec39d70236801e9499c5d56c5a3dc",
+      "titulo": "Desenvolvedor Full Stack — React, Next.js, Node.js e IA",
+      "empresa": "Empresa Confidencial",
+      "url": "https://vaga-ja.com/vagas/c/JNF6N9QNC3?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Curitiba, Paraná",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-22T00:00:00Z",
+      "descricao": "Faixa salarial: R$ 4.000,00 a R$ 5.000,00 Sobre a vaga A empresa está em busca de uma pessoa Desenvolvedora Full Stack para transformar ideias e requisitos em aplicações funcionais, rápidas e escaláveis. Essa posição participará de ponta a ponta do ciclo de desenvolvimento, atuando desde o planejamento técnico até a publicação e manutenção das soluções. Procuramos alguém com autonomia, visão de produto e capacidade de usar Inteligência Artificial de forma estruturada para elevar a qualidade e a velocidade das entregas. Principais responsabilidades Desenvolver novas plataformas, landing pages, dashboards e funcionalidades. Manter e evoluir aplicações já existentes. Atuar no front-end e no back-end, da modelagem de dados à interface. Implementar autenticação, autorização, regras de negócio e integrações entre serviços. Transformar layouts e protótipos em interfaces responsivas e fiéis ao design. Desenvolver com foco em performance, SEO, acessibilidade e conversão. Criar e manter aplicações com React, Next.js, Node.js e TypeScript. Trabalhar com bancos de dados relacionais, não relacionais e soluções BaaS. Desenvolver, consumir e documentar APIs. Implementar Google Tag Manager, pixels de conversão e outras ferramentas de mensuração. Escrever código limpo, seguro, testável e preparado para crescer. Participar de code reviews, testes automatizados e processos de CI/CD. Utilizar IA em etapas como análise, especificação, arquitetura, implementação, testes, documentação e manutenção…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T13:01:25Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
       "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
       "empresa": "GeekHunter",
@@ -3718,20 +3160,9 @@
       "score": 55,
       "skills_match": [
         "React",
-        "Java",
-        "Git",
-        "Metodologias ágeis"
+        "Java"
       ],
-      "lacunas": [
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
@@ -3805,37 +3236,6 @@
       "expirada": false
     },
     {
-      "id": "349c8fe37c7f81b164862fc2c08abb636a26ba7b",
-      "titulo": "Desenvolvedor(a) Full Stack Pleno (PHP/React)",
-      "empresa": "Carreiras SoftExpert",
-      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTIyNzAzNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-24T20:59:17Z",
-      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções. Por isso o nosso lema é #WeAreExpertsAndGlobalA Oportunidade Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno (PHP/React) para integrar nosso time de Tecnologia, atuando no desenvolvimento e evolução de soluções relacionadas à gestão de documentos. Essa posição terá um papel importante na construção e aprimoramento de funcionalidades, contribuindo para a evolução da plataforma e para a criação de soluções de qualidade e impacto para o negócio Responsabilidades e atribuiçõesDesenvolver e manter funcionalidades em PHP, atuando tanto em arquitetura legada quanto em componentes modernos.Implementar e evoluir soluções utilizando React para interfaces web.Analisar, desenvolver e otimizar consultas SQL para bancos de dados relacionais.Trabalhar na evolução de funcionalidades existentes, garantindo compatibilidade e estabilidade da plataforma.Participar de code reviews, refinamentos técnicos e discussões de arquitetura.Investigar problemas em uma base de código extensa e identificar oportunidades de melhoria.Colaborar com equipes multidisciplinares durante todo o ciclo de…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "Java",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "PHP",
-        "PostgreSQL",
-        "Docker",
-        "Linux",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "629d19bd180964e3724eaf1e5ee2cf889b938905",
       "titulo": "Pessoa Desenvolvedora Java/React Pl (Remoto) - 6210",
       "empresa": "Starian",
@@ -3849,13 +3249,10 @@
       "skills_match": [
         "React",
         "Java",
-        "APIs REST",
-        "Git",
-        "Clean Code"
+        "Git"
       ],
       "lacunas": [
         "Spring",
-        "PostgreSQL",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -3886,6 +3283,37 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "c06927f418397ab570dd7854bc6d9b68b0ce2d01",
+      "titulo": "PDI SW - Pessoa Desenvolvedora Fullstack I (React/ Node)",
+      "empresa": "Inatel",
+      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Santa Rita do Sapucaí, Minas Gerais",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-08-20T19:32:40Z",
+      "descricao": "O Inatel está recrutando especialista para atuar em projetos de desenvolvimento de software, no PDI SW. Responsabilidades e atribuiçõesDesenvolver e manter aplicações web e APIs utilizando Node.js/NestJS, com apoio do time técnico;Apoiar o desenvolvimento e a evolução de soluções em ambientes de cloud (AWS, Azure ou GCP);Desenvolver e realizar ajustes em webservices e APIs RESTful e GraphQL;Trabalhar com bancos de dados relacionais e não relacionais, realizando consultas e operações de persistência de dados;Apoiar atividades relacionadas a DevOps, como CI/CD, configuração de ambientes e monitoramento de serviços;Desenvolver e executar testes automatizados, contribuindo para a qualidade e confiabilidade do software;Documentar APIs, serviços e funcionalidades desenvolvidas;Realizar correções, ajustes e melhorias nas soluções, seguindo orientações e padrões definidos pelo time;Participar de revisões de código e contribuir para a adoção de boas práticas de desenvolvimento e engenharia de software. Requisitos e qualificaçõesEnsino Superior Completo na área de Tecnologia, preferencialmente em Engenharia de Computação, Sistemas de Informação, Ciência da Computação ou correlatos;Conhecimentos em: Backend Node.js/NestJS,Frontend React;Cloud (AWS, Azure ou GCP), incluindo deploys, gerenciamento de serviços e escalabilidade,Arquitetura de microserviços e mensageria (RabbitMQ, Kafka, etc.),Implementação de CI/CD e práticas de DevOps,Testes automatizados e qualidade de código,Metodologia…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -3932,17 +3360,11 @@
         "Node.js",
         "APIs REST",
         "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
+        "SQL"
       ],
       "lacunas": [
-        "Docker",
-        "Kubernetes",
         "Azure",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "CI/CD"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
@@ -4055,14 +3477,9 @@
       "score": 55,
       "skills_match": [
         "React",
-        "Java",
-        "APIs REST",
-        "Metodologias ágeis"
+        "Java"
       ],
       "lacunas": [
-        "Next.js",
-        "Spring",
-        "Azure",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -4083,14 +3500,9 @@
       "score": 55,
       "skills_match": [
         "React",
-        "Java",
-        "APIs REST",
-        "Metodologias ágeis"
+        "Java"
       ],
       "lacunas": [
-        "Next.js",
-        "Spring",
-        "Azure",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -4124,35 +3536,6 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "98dc521cce67b41d0b6401796badce9bd9878135",
-      "titulo": "Desenvolvedor(a) Full Stack Pleno (JavaScript/PHP/React)",
-      "empresa": "Carreiras SoftExpert",
-      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTIwODA3MDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-13T21:12:28Z",
-      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções.Por isso o nosso lema é #WeAreExpertsAndGlobalA Oportunidade Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno para integrar o time de desenvolvimento da SoftExpert. Nesta posição, você atuará no desenvolvimento e evolução de soluções, utilizando tecnologias como PHP, JavaScript e React, além de contribuir com melhorias, novas ideias e iniciativas relacionadas à Inteligência Artificial. Responsabilidades e atribuições Desenvolver e evoluir aplicações Full Stack utilizando PHP, JavaScript e React. Implementar novas funcionalidades e realizar manutenção nas soluções existentes. Escrever e manter testes no código, incluindo testes unitários. Participar de code reviews e contribuir para a qualidade das entregas. Participar das cerimônias ágeis, como daily, planning e retrospectivas. Identificar oportunidades de melhoria e propor novas soluções técnicas. Contribuir com a exploração e implementação de soluções envolvendo Inteligência Artificial e MCP. Colaborar com o time no desenvolvimento de soluções e compartilhamento de conhecimento.Requisitos e qualificações Conhecim…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Java",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "PHP",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -4250,17 +3633,11 @@
         "APIs REST",
         "Microsserviços",
         "SQL",
-        "Git",
-        "Metodologias ágeis"
+        "Git"
       ],
       "lacunas": [
         "Spring",
-        "Oracle",
-        "MongoDB",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud"
+        "Oracle"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
@@ -4437,40 +3814,10 @@
       "score": 50,
       "skills_match": [
         "React",
-        "Node.js",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "MongoDB",
-        "Docker",
-        "AWS",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T13:01:19Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "73c92893fc9a7b3b1a91783ca03b46995bca22fa",
-      "titulo": "Pessoa Desenvolvedora Fullstack IA II (Franquias)",
-      "empresa": "Grupo Boticário",
-      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI2Mjc2NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T13:30:13Z",
-      "descricao": "O Grupo Boticário é líder de Beleza no Brasil. Unimos tecnologia, varejo, logística e soluções digitais (com A Mooz) para transformar dados em desejo e conectar toda a nossa cadeia de valor. Somos uma rede de talentos que impulsiona resultados exponenciais com responsabilidade, cuidado e espírito de colaboração.Acreditamos que a beleza pode e deve inspirar mudanças.Construa o futuro da beleza com a gente. Vamos juntos?Responsabilidades e atribuições Como Pessoa Desenvolvedora Fullstack IA II, você atuará no ecossistema de Backoffice de Franquias, sendo ponto focal no desenvolvimento e evolução de soluções tecnológicas da nossa plataforma de Gestão Integrada (GI). Nosso objetivo é simplificar a alta complexidade que franqueados enfrentam na análise e tomada de decisões baseadas em dados (como metas PEF, programa IAF, vendas diretas e estoque), aumentando o engajamento diário da plataforma para impulsionar o faturamento e GMV dos franqueados: Desenvolvimento Backend: Atuação principal e forte com scripts e soluções em Node.js para sustentar o ecossistema e fornecer integrações necessárias; Integração com Inteligência Artificial: Dedicação de aproximadamente 30% do tempo ao desenvolvimento em Python voltado à nossa plataforma de Inteligência Artificial (GenAI); Engenharia Orientada a IA (SDD): Aplicação de metodologias como Spec-Driven Development (SDD) e uso de ferramentas assistidas por IA (como Cursor e Cloud Code), garantindo eficiência, baixo custo operacional e código lim…",
-      "score": 50,
-      "skills_match": [
-        "React",
         "Node.js"
       ],
       "lacunas": [
-        "Python"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-30T13:01:19Z",
@@ -4870,6 +4217,48 @@
       "expirada": true
     },
     {
+      "id": "20de4038e54c5e4962cea2ea951ccefaae227e29",
+      "titulo": "Pessoa Desenvolvedora Fullstack Node/React III - Venda Direta",
+      "empresa": "Grupo Boticário",
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTIxODc5NDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-09T12:37:26Z",
+      "descricao": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Responsabilidades e atribuiçõesConheça o nosso time: O time entrega valor diretamente para os usuários da VDI, especialmente assistentes comerciais dentro do Espaço do Revendedor do Grupo Boticário e de franqueados.Como será o seu dia a dia:Proponha e construa soluções contemplando as diferentes disciplinas do ciclo de desenvolvimento com foco em atender requisitos não funcionais e otimizar custos;Envolvimento em discussões técnicas, apontando fatos e dados e na execução das arquiteturas desenhadas conforme priorização do time, usando sua opinião e experiência com critério;Crie ADRs / design docs para soluções do time;Garanta monitoramento ativo do ambiente…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "7b57d5fdd94ee24de5db178e4c4a6ebfa0cbdedf",
+      "titulo": "Pessoa Desenvolvedora Fullstack React/Node Analista III (Pricing/E-commerce) - Vaga Afirmativa para Talentos Diversos",
+      "empresa": "Grupo Boticário",
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTIzOTMwMDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-08T23:11:21Z",
+      "descricao": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Além disso, valorizamos a diversidade e estamos comprometidos com a promoção da inclusão e equidade em nossos times. Por isso, temos vagas destinadas aos grupos minorizados priorizados em nossa estratégia. Essa vaga é afirmativa para Talentos Diversos (Mulheres, Pessoas Pretas e Pardas e Pessoas com Deficiência).Responsabilidades e atribuiçõesDesenvolvimento: Atuar no desenvolvimento em ReactJS e Node, colaborando na definição de padrões arquiteturais, componentes reutilizáveis e estratégias de implementação para funcionalidades complexas.Visão End-to-End: Capacidade de compreender e atuar em todas as camadas da aplicação, desde o Web Front-end até a infraestrutura backend.Liderança Téc…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "cfdbcc5610224fe015ec3372c3f09a4d275c88bb",
       "titulo": "Desenvolvedor Full Stack Júnior",
       "empresa": "SCS - SANEAMENTO",
@@ -4912,17 +4301,13 @@
         "Node.js",
         "APIs REST",
         "Microsserviços",
-        "Git",
-        "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
         "Express",
-        ".NET",
         "Oracle",
         "SQL Server",
         "MongoDB",
-        "CI/CD",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -4954,7 +4339,6 @@
         "Python",
         "Django",
         "Docker",
-        "Kubernetes",
         "AWS",
         "Azure",
         "Google Cloud",
@@ -5004,66 +4388,36 @@
       "score": 50,
       "skills_match": [
         "React",
-        "JavaScript",
-        "HTML",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
+        "Node.js"
       ],
-      "lacunas": [
-        "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
-      "id": "61e0ddb389cd8a9651245f581f1845238010acf7",
-      "titulo": "Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD)",
-      "empresa": "Clicksign",
-      "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTE0MTU0NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "626df68b7bdce152bd00c2be65da3c35af509f8d",
+      "titulo": "Desenvolvedor(a) Mobile Pleno (React Native)",
+      "empresa": "Tecsa® Group",
+      "url": "https://tecsa.gupy.io/job/eyJqb2JJZCI6MTE3MTUyNTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-06-02T14:14:10Z",
-      "descricao": "Sobre a ClicksignSomos uma empresa brasileira líder em assinaturas eletrônicas. Em essência, facilitamos relações entre pessoas e empresas no ambiente digital. Por trás da nossa tecnologia de ponta e foco em segurança, temos a missão de fazer o mundo crescer, tornando as relações digitais cada vez mais inteligentes.Como trabalhamos:Nossa essência é o Trust. Trabalhamos com foco, ritmo, comunicação clara e dados para nos apoiar. Trabalhamos com capricho; colocamos cuidado e qualidade em tudo que fazemos. Empatia e respeito são pilares da nossa equipe.Descrição da vagaEstamos com vagas exclusivas para PCD (Pessoa com Deficiência) como Desenvolvedor(a) Backend Ruby on Rails ou Frontend, que será responsável por garantir que nossos clientes tenham uma experiência de usuário fluida, intuitiva e agradável. Essa posição faz parte do Time de Engenharia, que tem como missão prover as melhores soluções tecnológicas para nosso produto e na gestão interna da Clicksign. Se você curte atuar de forma colaborativa e remota, com protagonismo técnico e alinhamento estratégico, essa é sua chance.Responsabilidades e atribuiçõesNo front: Desenvolver e manter aplicações web usando Vue.js, Nuxt.js ;e TypeScript;Colaborar com designers e desenvolvedores back-end para criar interfaces de usuário dinâmicas e responsivas;Escrever código limpo, escalável e bem documentado;Garantir a compatibilidade entre diferentes navegadores e dispositivos;No back: Evoluir o produto principal da Clicksign, integrando…",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-07-22T18:23:53Z",
+      "descricao": "Buscamos uma pessoa Desenvolvedora Mobile Pleno para atuar na evolução de produtos digitais mobile com foco exclusivo na plataforma voltada para o nutricionista (App do Nutri). Você atuará no desenvolvimento prático, na arquitetura mobile e na manutenção de ferramentas essenciais de trabalho de nossos nutricionistas parceiros. Essa pessoa terá um papel ativo e de execução direta no código com React Native, garantindo a entrega de telas ágeis, desempenho fluido e um sistema estável para uso corporativo diário dos profissionais.Responsabilidades e atribuiçõesDesenvolver de forma prática novas telas e funcionalidades dentro do aplicativo móvel do nutricionista utilizando React Native;Apoiar no desenho técnico de arquitetura, estruturação de estados, fluxos de navegação e integração limpa com serviços externos;Garantir alta performance, estabilidade de telas e excelente legibilidade de código em ambientes de desenvolvimento Android e iOS;Auxiliar na modernização e sustentação de funcionalidades que possuem conexão de dados com servidores baseados em PHP, Laravel e banco de dados MySQL;Realizar revisões sistemáticas de código e apoiar o desenvolvimento técnico dos desenvolvedores da equipe;Apoiar a estruturação de esteiras de compilação automática, geração de pacotes de testes e publicação nas lojas de aplicativos;Analisar erros em produção, relatórios de falhas técnicas e logs do aplicativo de forma a promover correções eficientes e pragmáticas.Requisitos e qualificaçõesExperiên…",
       "score": 50,
       "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
         "MySQL",
-        "Git"
+        "Metodologias ágeis"
       ],
       "lacunas": [
-        "Vue.js",
-        "Nuxt",
-        "Tailwind",
-        "Bootstrap",
-        "Ruby",
-        "PostgreSQL",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Testes automatizados",
-        "Inglês"
+        "React Native",
+        "PHP",
+        "Laravel"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:44Z",
+      "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -5611,14 +4965,10 @@
       "descricao": "Se você está buscando uma oportunidade para ingressar no time Bagaggio, chegou sua hora!Buscamos profissionais versáteis, ambiciosos por conhecimento e inovação! A Bagaggio age para contribuir efetivamente com o seu crescimento, queremos que você seja protagonista do seu desenvolvimento e da sua carreira. Incentivamos ideias novas e a sua participação direta e ativa no nosso processo de expansão e mudança. Temos paixão em quem busca fazer a diferença!Entregaremos a melhor estrutura possível para agregar valor a sua carreira, com iniciativas sustentáveis e inovadoras para, juntos, começarmos a escrever seu futuro.Queremos crescer, ir cada vez mais longe e você pode e deve nos acompanhar neste caminho! E aí, acha que a vaga é para você? Não perca tempo e se candidate logo. Venha participar do nosso time e seja um integrante da nossa história! :)Responsabilidades e atribuiçõesDesenvolver e manter aplicações web utilizadas por áreas internas e parceiros da empresa;Criar, evoluir e manter APIs e serviços backend (principalmente em Python com FastAPI);Desenvolver interfaces web modernas;Implementar regras de negócio, integrações entre sistemas e automações de processos;Garantir qualidade de código, documentação, versionamento e outras boas práticas de desenvolvimento;Participar da definição de arquitetura de soluções e melhorias técnicas nos sistemas existentes;Trabalhar em conjunto com times de inteligência para entender necessidades e transformar demandas em soluções tecnológica…",
       "score": 45,
       "skills_match": [
-        "Angular",
-        "APIs REST",
-        "Microsserviços",
-        "Git"
+        "Angular"
       ],
       "lacunas": [
-        "Python",
-        "Docker"
+        "Python"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T14:51:54Z",
@@ -5643,35 +4993,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:01:00Z",
       "ultima_vista": "2026-09-23",
-      "expirada": false
-    },
-    {
-      "id": "c4720c5b14c963ff9b8a535224a2b18b8e466a44",
-      "titulo": "Desenvolvedor de Software Pleno (FrontEnd)",
-      "empresa": "Montreal | Tecnologia e Inovação",
-      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NTkwMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Goiânia, Goiás",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-22T17:09:22Z",
-      "descricao": "Como Desenvolvedor de Software Pleno (FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecn…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "CSS",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Redux",
-        "Tailwind",
-        "GraphQL",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T15:01:12Z",
-      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -6360,31 +5681,22 @@
       "expirada": false
     },
     {
-      "id": "43487719b6458ed40a8260f21c59951986f71e7d",
-      "titulo": "PDI SW - Líder Técnico III (React / NodeJS)",
-      "empresa": "Inatel",
-      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIyNjI1MTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "9abfb21c321a1832890235e8ec06fe156c33b1e7",
+      "titulo": "Front End Developer (Angular)",
+      "empresa": "Stefanini Latam",
+      "url": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTIzMjI3MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-24T13:36:55Z",
-      "descricao": "O Inatel está recrutando Especialista para atuar com liderança técnica de software no PDI SW.Responsabilidades e atribuições Liderar tecnicamente projetos de desenvolvimento de software, propondo soluções que atendam ao negócio e sejam performáticas e flexíveis, considerando requisitos de escalabilidade, confiabilidade e desempenho das soluções integradas;Desenvolver aplicações de alto nível, resolver problemas técnicos complexos e fornecer suporte técnico à equipe;Realizar a especificação funcional de projetos, definindo e documentando arquitetura lógica e executável de sistemas;Projetar software para integração e entrega contínua;Prover solução e suporte para o desenvolvimento de funcionalidades de aplicações móveis, web e servidora;Realizar o planejamento e o monitoramento das atividades técnicas dos projetos;Prover capacitação, orientação e suporte técnico ao time;Revisar código desenvolvido conforme boas práticas da tecnologia;Garantir a qualidade e integridade dos artefatos técnicos desenvolvidos, desenvolvendo e mantendo padrões de codificação e documentação técnica, promovendo a adoção de novas tecnologias e metodologias. Requisitos e qualificaçõesEnsino superior completo em cursos da área de tecnologia como Engenharia, Sistemas de Informação ou Ciência da Computação;Experiência em práticas de DevOps, incluindo Docker, Kubernetes, CI/CD e monitoramento;Proficiência em desenvolvimento de soluções web utilizando frameworks como React e Node.js, aplicações móveis utiliz…",
+      "local": "Lima",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-27T21:59:20Z",
+      "descricao": "¡Sé parte de Stefanini!​En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.Responsabilidades y atribucionesDesarrollar, mantener y evolucionar aplicaciones frontend utilizando Angular, trabajando con diferentes versiones del framework.Participar en proyectos de migración tecnológica de aplicaciones Angular desde versiones 6, 7, 8, 14 y 15 hacia Angular 21, asegurando compatibilidad, estabilidad y buenas prácticas de desarrollo.Implementar y participar en el desacoplamiento de aplicaciones monolíticas hacia arquitecturas de Microfrontends, contribuyendo al diseño y desarrollo de módulos independientes.Desarrollar y mantener componentes reutilizables, servicios y librerías compartidas dentro de los ecosistemas frontend.Integrar aplicaciones frontend con APIs y servicios backend garantizando eficiencia, seguridad y calidad en la comunicación.Participar en revisiones de código, pruebas técnicas y actividades de mejora continua dentro del equipo de desarrollo.Colaborar con arquitectos, líderes técnicos y otros desarrolladores para asegurar el cumplimiento de estándares de arquitectura y buenas prácticas.Documentar desarrollos, configuraciones y procesos asociados a las migraciones y evolución de las aplicaciones.Requisitos y calificacionesIndispensablesExperiencia de 2 a 3 años en desarrollo frontend.Experiencia sólida trabajando con Angular en diferentes versiones.Experiencia participando en proyectos de…",
       "score": 45,
       "skills_match": [
-        "React",
-        "Figma",
-        "Node.js",
-        "Metodologias ágeis"
+        "Angular"
       ],
-      "lacunas": [
-        "React Native",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Testes automatizados"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
+      "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -6509,6 +5821,29 @@
       ],
       "experiencia_exigida": 4,
       "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
+      "titulo": "Pessoa Desenvolvedora Fullstack \"IA\"",
+      "empresa": "Volkswagen do Brasil",
+      "url": "https://vwbrasil.gupy.io/job/eyJqb2JJZCI6MTI2NDMxMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Bernardo do Campo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-30T14:39:39Z",
+      "descricao": "Chegou a oportunidade de impactar a indústria automobilística usando tecnologia. Se você é um(a) dev fullstack com experiência criar e manter aplicações com IA generativa, queremos conhecer você! Você terá a chance de trabalhar na indústria 4.0 de ponta a ponta: da integração com LLMs no backend até a interface usada pelas áreas de negócio junto das ferramentas de AI. Nosso time é multidisciplinar e você trabalhará junto com produto, dados e segurança da informação. Responsabilidades e atribuiçõesCriar e manter APIs e serviços de backend que integram modelos de linguagem (LLMs) com os sistemas corporativos.Implementar pipelines de RAG (Retrieval-Augmented Generation), incluindo ingestão, chunking, embeddings e busca vetorial.Criar agentes e fluxos de tool use / function calling que se conectam com APIs internas e bases de dados.Criar interfaces web que funcionem bem para interações com IA: streaming de respostas, feedback do usuário e tratamento de erros.Definir e aplicar práticas de avaliação de modelos (evals), observabilidade, controle de recursos e latência.Garantir segurança e conformidade: proteção de dados (LGPD), prevenção de prompt injection, controle de acesso e trilhas de auditoria.Desenvolver os testes necessários para cada caso.Documentar soluções e compartilhar conhecimento com o time.Requisitos e qualificaçõesExperiência com desenvolvimento de software com atuação comprovada.Domínio de Python e/ou TypeScript/Node.js no backend.Experiência com frameworks fronte…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T15:01:27Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -6674,21 +6009,40 @@
       "score": 40,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
         "Node.js",
-        "SQL",
         "Git"
       ],
       "lacunas": [
         "CI/CD",
-        "Testes automatizados",
         "Inglês"
       ],
-      "experiencia_exigida": 5,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-29T15:01:22Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "26acfe79db2ac65ee6a881766f92bbe130a8bed7",
+      "titulo": "Desenvolvedor(a) Full Stack Júnior (PHP/React)",
+      "empresa": "Carreiras SoftExpert",
+      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI2MjgwOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T13:59:20Z",
+      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções. Por isso o nosso lema é #WeAreExpertsAndGlobal.A Oportunidade Estamos em busca de uma pessoa Desenvolvedora Full Stack Júnior (PHP/React) para contribuir com o desenvolvimento, manutenção e evolução das nossas soluções. Essa posição terá um papel importante na construção de novas funcionalidades e melhoria dos sistemas, trabalhando em parceria com diferentes equipes e contribuindo para a qualidade e evolução contínua dos produtos. Responsabilidades e atribuições Desenvolver, manter e evoluir sistemas e funcionalidades utilizando PHP, React e SQL;Desenvolver e executar testes unitários, contribuindo para a qualidade das soluções;Investigar, identificar e corrigir problemas durante o desenvolvimento;Participar de code reviews e discussões técnicas, contribuindo com melhorias e otimização do código;Aplicar boas práticas de programação, segurança e qualidade no desenvolvimento;Utilizar Git e ferramentas de Inteligência Artificial como apoio às atividades de desenvolvimento;Colaborar com diferentes equipes na construção e evolução das soluções. Requisitos e qualificaçõesConhecime…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T15:01:25Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -6819,7 +6173,6 @@
       "skills_match": [
         "React",
         "SQL",
-        "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
@@ -7748,7 +7101,6 @@
       "skills_match": [
         "React",
         "APIs REST",
-        "Microsserviços",
         "Git",
         "Metodologias ágeis"
       ],
@@ -7756,8 +7108,6 @@
         ".NET",
         "PostgreSQL",
         "SQL Server",
-        "AWS",
-        "CI/CD",
         "Testes automatizados",
         "Inglês"
       ],
@@ -7933,14 +7283,10 @@
       "descricao": "Transforme a Gestão Educacional com a Techne!O Lyceum é o Sistema de Gestão Educacional líder no mercado brasileiro.\"Somos apaixonados pela inovação e promovemos a conexão entre os times para que juntos possamos trabalhar com maior sinergia. Nosso compromisso é gerar valor aos nossos clientes e criar experiências, para que as pessoas possam tornar as rotinas mais simples e fluidas com a utilização das nossas soluções e serviços.\"Confirme sua participação no processo se inscrevendo no link a baixo.Responsabilidades e atribuiçõesDesenvolver e manter funcionalidades utilizando Java, Spring e AngularAtuar na evolução, sustentação e modernização do ERP LyceumDesenvolver e consumir APIs RESTAnalisar e implementar regras de negócioCorrigir incidentes e realizar manutenções evolutivas e corretivasEscrever testes automatizados e apoiar estratégias de qualidadeParticipar de refinamentos técnicos e funcionaisContribuir com estimativas de desenvolvimentoRealizar revisões de código e compartilhar boas práticasParticipar de entregas incrementais em ambiente ágilApoiar iniciativas de redução de dívida técnicaContribuir para melhorias de arquitetura, performance e estabilidadeUtilizar ferramentas de IA generativa para apoio ao desenvolvimento, documentação e entendimento de sistemas legadosRequisitos e qualificaçõesEsperamos que você tenhaFormação superior em Ciências da Computação, Engenharia da Computação/de Software, Análise e Desenvolvimento de Sistemas, SistemasExperiência com desenvol…",
       "score": 40,
       "skills_match": [
-        "Java",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
+        "Java"
       ],
       "lacunas": [
         "Spring",
-        "Oracle",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -8169,10 +7515,7 @@
         "C#",
         ".NET",
         "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Kubernetes"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:25Z",
@@ -8221,6 +7564,29 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:26Z",
       "ultima_vista": "2026-09-26",
+      "expirada": false
+    },
+    {
+      "id": "349c8fe37c7f81b164862fc2c08abb636a26ba7b",
+      "titulo": "Desenvolvedor(a) Full Stack Pleno (PHP/React)",
+      "empresa": "Carreiras SoftExpert",
+      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTIyNzAzNzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-24T20:59:17Z",
+      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções. Por isso o nosso lema é #WeAreExpertsAndGlobalA Oportunidade Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno (PHP/React) para integrar nosso time de Tecnologia, atuando no desenvolvimento e evolução de soluções relacionadas à gestão de documentos. Essa posição terá um papel importante na construção e aprimoramento de funcionalidades, contribuindo para a evolução da plataforma e para a criação de soluções de qualidade e impacto para o negócio Responsabilidades e atribuiçõesDesenvolver e manter funcionalidades em PHP, atuando tanto em arquitetura legada quanto em componentes modernos.Implementar e evoluir soluções utilizando React para interfaces web.Analisar, desenvolver e otimizar consultas SQL para bancos de dados relacionais.Trabalhar na evolução de funcionalidades existentes, garantindo compatibilidade e estabilidade da plataforma.Participar de code reviews, refinamentos técnicos e discussões de arquitetura.Investigar problemas em uma base de código extensa e identificar oportunidades de melhoria.Colaborar com equipes multidisciplinares durante todo o ciclo de…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "SQL"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -8390,6 +7756,31 @@
       "expirada": false
     },
     {
+      "id": "98dc521cce67b41d0b6401796badce9bd9878135",
+      "titulo": "Desenvolvedor(a) Full Stack Pleno (JavaScript/PHP/React)",
+      "empresa": "Carreiras SoftExpert",
+      "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTIwODA3MDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-13T21:12:28Z",
+      "descricao": "A SoftExpert é a empresa líder de mercado em soluções de software para a gestão integrada da conformidade, inovação e transformação digital de processos. E uma grande empresa possui grandes números: são mais de 900 colaboradores, mais de 3 mil clientes e 3 milhões de usuários, em mais de 50 países ao redor do mundo! Completamos 30 anos e nosso sonho é atingir todos os países do globo com nossas soluções.Por isso o nosso lema é #WeAreExpertsAndGlobalA Oportunidade Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno para integrar o time de desenvolvimento da SoftExpert. Nesta posição, você atuará no desenvolvimento e evolução de soluções, utilizando tecnologias como PHP, JavaScript e React, além de contribuir com melhorias, novas ideias e iniciativas relacionadas à Inteligência Artificial. Responsabilidades e atribuições Desenvolver e evoluir aplicações Full Stack utilizando PHP, JavaScript e React. Implementar novas funcionalidades e realizar manutenção nas soluções existentes. Escrever e manter testes no código, incluindo testes unitários. Participar de code reviews e contribuir para a qualidade das entregas. Participar das cerimônias ágeis, como daily, planning e retrospectivas. Identificar oportunidades de melhoria e propor novas soluções técnicas. Contribuir com a exploração e implementação de soluções envolvendo Inteligência Artificial e MCP. Colaborar com o time no desenvolvimento de soluções e compartilhamento de conhecimento.Requisitos e qualificações Conhecim…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PHP",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "0c3838a03fb441c48727552dae6c32f37f828f45",
       "titulo": "Desenvolvedor Fullstack .NET / React - Pleno",
       "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
@@ -8513,35 +7904,26 @@
       "expirada": false
     },
     {
-      "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
-      "titulo": "Desenvolvedor(a) FullStack",
-      "empresa": "Leads2b",
-      "url": "https://leads2b.gupy.io/job/eyJqb2JJZCI6MTExMDUzOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "id": "61e0ddb389cd8a9651245f581f1845238010acf7",
+      "titulo": "Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD)",
+      "empresa": "Clicksign",
+      "url": "https://clicksign.gupy.io/job/eyJqb2JJZCI6MTE0MTU0NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "fonte": "gupy",
-      "local": "Curitiba, Paraná",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-04-08T12:34:55Z",
-      "descricao": "Desenvolvedor (a) Full Stack | Presencial CuritibaA Leads2b é uma empresa de tecnologia SaaS B2B e a primeira plataforma Go-to-Market (GTM) do Brasil, integrando soluções de gestão, vendas e marketing para otimizar resultados comerciais. Nossa solução unifica geração de leads, automação e nutrição de marketing, personalização do processo comercial, gestão de funil de vendas e monitoramento de mercado, garantindo eficiência e previsibilidade para times de vendas. Com tecnologia de ponta e know-how estratégico, capacitamos gestores com as melhores práticas do mercado, impulsionando seus resultados de forma inteligente e escalável. 🚀Somos um time com o propósito de viabilizar o sucesso comercial das empresas para realizar os sonhos das pessoas. Agimos de forma positiva, transparente e buscamos a excelência na execução. Enfrentamos desafios diariamente e valorizamos o protagonismo na atuação. Se você se identifica com os nossos valores e gosta de criar soluções com impacto positivo na vida das pessoas, queremos te conhecer!Esta é uma vaga 100% presencial, a logística de trabalho é perfeita para quem mora em Curitiba.Responsabilidades e atribuições👨‍💻 O SEU PAPEL COMO #LEADER FULL STACKResolução de Problemas: Entender desafios de negócio e transformá-los em soluções técnicas elegantes.Desenvolvimento: Analisar, desenvolver e manter componentes de uma plataforma robusta de automação comercial.Qualidade: Escrever código limpo, testado (incremental/ágil) e realizar code-reviews cons…",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-06-02T14:14:10Z",
+      "descricao": "Sobre a ClicksignSomos uma empresa brasileira líder em assinaturas eletrônicas. Em essência, facilitamos relações entre pessoas e empresas no ambiente digital. Por trás da nossa tecnologia de ponta e foco em segurança, temos a missão de fazer o mundo crescer, tornando as relações digitais cada vez mais inteligentes.Como trabalhamos:Nossa essência é o Trust. Trabalhamos com foco, ritmo, comunicação clara e dados para nos apoiar. Trabalhamos com capricho; colocamos cuidado e qualidade em tudo que fazemos. Empatia e respeito são pilares da nossa equipe.Descrição da vagaEstamos com vagas exclusivas para PCD (Pessoa com Deficiência) como Desenvolvedor(a) Backend Ruby on Rails ou Frontend, que será responsável por garantir que nossos clientes tenham uma experiência de usuário fluida, intuitiva e agradável. Essa posição faz parte do Time de Engenharia, que tem como missão prover as melhores soluções tecnológicas para nosso produto e na gestão interna da Clicksign. Se você curte atuar de forma colaborativa e remota, com protagonismo técnico e alinhamento estratégico, essa é sua chance.Responsabilidades e atribuiçõesNo front: Desenvolver e manter aplicações web usando Vue.js, Nuxt.js ;e TypeScript;Colaborar com designers e desenvolvedores back-end para criar interfaces de usuário dinâmicas e responsivas;Escrever código limpo, escalável e bem documentado;Garantir a compatibilidade entre diferentes navegadores e dispositivos;No back: Evoluir o produto principal da Clicksign, integrando…",
       "score": 40,
       "skills_match": [
-        "Node.js",
-        "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
+        "TypeScript"
       ],
       "lacunas": [
-        "React Native",
         "Vue.js",
-        "Python",
-        "PHP",
-        "Docker",
-        "AWS",
-        "Google Cloud",
-        "Testes automatizados"
+        "Nuxt",
+        "Ruby"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
+      "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -8589,6 +7971,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-16",
+      "expirada": false
+    },
+    {
+      "id": "73c92893fc9a7b3b1a91783ca03b46995bca22fa",
+      "titulo": "Pessoa Desenvolvedora Fullstack IA II (Franquias)",
+      "empresa": "Grupo Boticário",
+      "url": "https://grupoboticario.gupy.io/job/eyJqb2JJZCI6MTI2Mjc2NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T13:30:13Z",
+      "descricao": "O Grupo Boticário é líder de Beleza no Brasil. Unimos tecnologia, varejo, logística e soluções digitais (com A Mooz) para transformar dados em desejo e conectar toda a nossa cadeia de valor. Somos uma rede de talentos que impulsiona resultados exponenciais com responsabilidade, cuidado e espírito de colaboração.Acreditamos que a beleza pode e deve inspirar mudanças.Construa o futuro da beleza com a gente. Vamos juntos?Responsabilidades e atribuições Como Pessoa Desenvolvedora Fullstack IA II, você atuará no ecossistema de Backoffice de Franquias, sendo ponto focal no desenvolvimento e evolução de soluções tecnológicas da nossa plataforma de Gestão Integrada (GI). Nosso objetivo é simplificar a alta complexidade que franqueados enfrentam na análise e tomada de decisões baseadas em dados (como metas PEF, programa IAF, vendas diretas e estoque), aumentando o engajamento diário da plataforma para impulsionar o faturamento e GMV dos franqueados: Desenvolvimento Backend: Atuação principal e forte com scripts e soluções em Node.js para sustentar o ecossistema e fornecer integrações necessárias; Integração com Inteligência Artificial: Dedicação de aproximadamente 30% do tempo ao desenvolvimento em Python voltado à nossa plataforma de Inteligência Artificial (GenAI); Engenharia Orientada a IA (SDD): Aplicação de metodologias como Spec-Driven Development (SDD) e uso de ferramentas assistidas por IA (como Cursor e Cloud Code), garantindo eficiência, baixo custo operacional e código lim…",
+      "score": 35,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T13:01:19Z",
+      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -8725,6 +8129,31 @@
       "expirada": false
     },
     {
+      "id": "43487719b6458ed40a8260f21c59951986f71e7d",
+      "titulo": "PDI SW - Líder Técnico III (React / NodeJS)",
+      "empresa": "Inatel",
+      "url": "https://inatel.gupy.io/job/eyJqb2JJZCI6MTIyNjI1MTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-24T13:36:55Z",
+      "descricao": "O Inatel está recrutando Especialista para atuar com liderança técnica de software no PDI SW.Responsabilidades e atribuições Liderar tecnicamente projetos de desenvolvimento de software, propondo soluções que atendam ao negócio e sejam performáticas e flexíveis, considerando requisitos de escalabilidade, confiabilidade e desempenho das soluções integradas;Desenvolver aplicações de alto nível, resolver problemas técnicos complexos e fornecer suporte técnico à equipe;Realizar a especificação funcional de projetos, definindo e documentando arquitetura lógica e executável de sistemas;Projetar software para integração e entrega contínua;Prover solução e suporte para o desenvolvimento de funcionalidades de aplicações móveis, web e servidora;Realizar o planejamento e o monitoramento das atividades técnicas dos projetos;Prover capacitação, orientação e suporte técnico ao time;Revisar código desenvolvido conforme boas práticas da tecnologia;Garantir a qualidade e integridade dos artefatos técnicos desenvolvidos, desenvolvendo e mantendo padrões de codificação e documentação técnica, promovendo a adoção de novas tecnologias e metodologias. Requisitos e qualificaçõesEnsino superior completo em cursos da área de tecnologia como Engenharia, Sistemas de Informação ou Ciência da Computação;Experiência em práticas de DevOps, incluindo Docker, Kubernetes, CI/CD e monitoramento;Proficiência em desenvolvimento de soluções web utilizando frameworks como React e Node.js, aplicações móveis utiliz…",
+      "score": 35,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:48Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "b86a34e59f3902bef9cbd17872ff68ae92d49bde",
       "titulo": "Desenvolvedor(a) Fullstack Pleno (PHP e VueJS)",
       "empresa": "Amais Educação",
@@ -8837,6 +8266,29 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T18:52:23Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "54c58f22fdcc1498409ed6df3197a42ca688e655",
+      "titulo": "DESENVOLVIDOR FULLSTACK REACT | São Paulo - SP",
+      "empresa": "Teltex Tecnologia",
+      "url": "https://teltex.gupy.io/job/eyJqb2JJZCI6MTI2MDQwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-29T14:28:56Z",
+      "descricao": "Estamos à procura de um profissional de Desenvolvimento Web para desenvolver aplicações web, integrar back-end e front-end, criar protótipos, realizar testes, desenvolver soluções escaláveis, monitorar ferramentas de segurança e manter contato com os clientes.Se você tem experiência comprovada em desenvolvimento web, conhecimento em JavaScript, HTML, CSS e frameworks front-end, experiência em back-end, conhecimento em arquitetura de aplicações web, experiência em bancos de dados, ferramentas de automação, habilidades de comunicação e colaboração, capacidade de trabalhar em projetos complexos e proatividade para lidar com problemas, junte-se à nossa equipe!﻿Estamos entusiasmados em lhe apresentar uma oportunidade única de fazer parte de uma empresa de tecnologia inovadora e em constante crescimento. Aqui, na nossa empresa, estamos em busca de profissionais apaixonados por tecnologia e que desejam fazer a diferença no mundo de integradores de tecnologia.Nossa empresa tem uma visão clara e ousada de transformar a maneira como as pessoas vivem, trabalham e se conectam. Estamos comprometidos em instalar soluções tecnológicas de ponta que impactam positivamente a vida das pessoas e impulsionam o progresso em diversas áreas.Ao se juntar a nós, você fará parte de uma equipe talentosa e especialista, composta por mentes brilhantes e criativas. Nossa cultura é pautada na colaboração, no respeito mútuo e na busca incessante pela excelência. Acreditamos que, juntos, podemos enfrentar de…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T15:01:25Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -10127,6 +9579,32 @@
       "expirada": false
     },
     {
+      "id": "b4fa2242facbaaf30cc0dbef5da266d473b3c367",
+      "titulo": "Desenvolvedor Fullstack .NET / BackEnd - Pleno",
+      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
+      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI0OTE0NDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-15T20:35:06Z",
+      "descricao": "A FCamara está em busca de um Desenvolvedor Fullstack | IT Capital Markets - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.Responsabilidades e atribuiçõesParticipar ativamente da concepção e estruturação de novos produtos em parceria direta com a área de negócios de Capital Markets.Desenvolver e sustentar a plataforma de pós-negociação de renda variável, criando soluções de integração robustas.Trabalhar em um ambiente colaborativo e democrático, com autonomia para propor ideias que impactem a evolução dos produtos.Desenvolver sistemas utilizando tecnologias de ponta, garantindo excelência técnica e alinhamento com a Clearing e o mercado de renda variável brasileiro.Contribuir para a transformação digital do maior banco de investimentos da América Latina através de soluções escaláveis.Requisitos e qualificaçõesBackend* Experiência sólida com: • C# • .NET 6+ (.NET 8 será considerado diferencial) • ASP.NET Core • Entity Framework • APIs REST • Arquitetura em camadas • Clean Architecture • SOLID • Design PatternsMensageria e Arquitetura Orientada a Eventos* Experiência prática com: • RabbitMQ • AWS SNS • AWS SQS • Arquitetura orientada a eventos • Processamento assíncrono • Integração entre sistemas através de filas e eventos • Tratamento de falhas, retry e dead-letter queues (DLQ)Banco de Dados* Experiência com bancos relacionais: • SQL…",
+      "score": 25,
+      "skills_match": [
+        "APIs REST",
+        "SQL",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:52Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "61b5cf43e3c11b492dd8dd9f239b375220d3dcfe",
       "titulo": "Desenvolvedor(a) Back-end Pleno (Node.js)",
       "empresa": "Nação Digital",
@@ -10169,6 +9647,54 @@
       "expirada": true
     },
     {
+      "id": "9a01dd85639765c8e0191955557aaabc0e30f85e",
+      "titulo": "Pessoa Desenvolvedora Fullstack | Inteligência Artificial (Home Office)",
+      "empresa": "Somos BHS 💚",
+      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0NDIxNDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-09T12:25:25Z",
+      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Participar ativamente de cerimônias ágeis, code reviews e refinamentos técnicos de tarefas. Requisitos e qualificações📋 Buscamos uma pessoa que possua experiências com: · Graduação completa ou em andamento em Ciência da Computação, Análise e Desenvolvimento ou áreas afins;…",
+      "score": 25,
+      "skills_match": [
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:18Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "f26041cd093f2906a6d1caf2a01172eb3a797102",
+      "titulo": "Pessoa Desenvolvedora Fullstack (Home Office)",
+      "empresa": "Somos BHS 💚",
+      "url": "https://bhs.gupy.io/job/eyJqb2JJZCI6MTI0MjI1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-09T11:05:48Z",
+      "descricao": "Nós somos a BHS!Com mais de 30 anos de experiência no mercado, proporcionamos soluções modernas de TI. 🚀Somos reconhecidos como a MELHOR empresa para se trabalhar em MG e TI do BRASIL pelo GPTW - Great Place to Work, e estamos classificados como a 4ª melhor empresa para se trabalhar na categoria LATAM.✨ O que a gente espera de você? A sua missão será atuar no desenvolvimento e evolução de soluções modernas no ecossistema .NET e nuvem Microsoft Azure, trabalhando em parceria direta com o Tech Lead. Você será um impulsionador prático da adoção de ferramentas avançadas de IA (como Claude Code, Antigravity e assistentes modernos) no fluxo diário de desenvolvimento, combinando velocidade de entrega, qualidade técnica e boas práticas de engenharia.Responsabilidades e atribuições💪 Suas atividades serão: · Atuação principal em Software Engineer (.NET, Azure & AI-Assisted Dev) · Desenvolver, testar e manter aplicações modernas utilizando C# e a plataforma .NET preferencialmente;· Utilizar ativamente ferramentas modernas de apoio por IA (Claude Code, Antigravity, Copilot) para acelerar a codificação, refatoração, geração de testes e resolução de bugs;· Implementar componentes e integrações na nuvem Microsoft Azure seguindo as diretrizes e padrões definidos pela liderança técnica;· Escrever testes automatizados (unitários e de integração) garantindo a confiabilidade do código produzido;· Apoiar os colegas de time no aprendizado e uso eficiente das ferramentas de IA no dia a dia, promov…",
+      "score": 25,
+      "skills_match": [],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T15:01:34Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "4d36c57bbc13ac2a31a0f2d996656fca304b556f",
       "titulo": "Pessoa Desenvolvedora Fullstack (HomeOffice)",
       "empresa": "Somos BHS 💚",
@@ -10192,6 +9718,29 @@
       "expirada": false
     },
     {
+      "id": "621d5c548c5a4e41267685839779cd8067fe9fa1",
+      "titulo": "Desenvolvedor Web Fullstack Pleno",
+      "empresa": "Shift",
+      "url": "https://shift.gupy.io/job/eyJqb2JJZCI6MTIyNDMxMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-01T12:28:07Z",
+      "descricao": "Temos um jeito muito especial de trabalhar e fazemos muito mais do que desenvolver e comercializar sistemas, nossa rotina é movida por uma cultura de gestão do conhecimento, desenvolvimento de pessoas e um ambiente de trabalho que cultiva as relações de respeito, diversidade e a essência dos nossos valores:Somos protagonistasSentimos orgulho em pertencerTrabalhamos em rede e com paixãoValorizamos o passado, vivemos o presente e construímos o futuroAgimos com responsabilidadeConfira alguns desafios da vaga:Atuar em time ágil para desenvolver requisitos para aplicações web, escrevendo código e testes unitários seguindo as boas práticas de programação e padrões de projeto;Participar da elaboração de soluções técnicas, interagindo com as áreas de produtos e qualidade.Responsabilidades e atribuições ProdutoDesenvolver, manter e evoluir funcionalidades dos produtos Shift utilizando ferramentas homologadas, observando padrões de codificação, arquitetura, qualidade e regras de negócio;Analisar requisitos funcionais e não funcionais, propondo soluções técnicas aderentes aos padrões arquiteturais, de qualidade e de negócio da Shift;Projetar, documentar, implementar e evoluir APIs REST seguindo os padrões de arquitetura, segurança, versionamento e documentação definidos pela Shift;Elaborar artefatos técnicos de engenharia de software (DER, Diagramas de Classes, UML e demais modelos necessários) que suportem o desenvolvimento das soluções;Estimar o esforço técnico das demandas e apoiar…",
+      "score": 25,
+      "skills_match": [
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "9df25f0d3b15ef4a0e77eaf1153d3db5989570a2",
       "titulo": "Pessoa Desenvolvedora de Software Backend Júnior (Vaga Afirmativa para Pessoas com Deficiência)",
       "empresa": "Grupo OLX",
@@ -10208,6 +9757,24 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "028387ea07e0799bed2b034df855efa489b640ea",
+      "titulo": "Desenvolvedor Fullstack Jr",
+      "empresa": "Vagas MRM Brasil",
+      "url": "https://mrm.gupy.io/job/eyJqb2JJZCI6MTIxNDY1NDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Paulo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-24T12:48:19Z",
+      "descricao": "Buscamos uma pessoa para atuar como Desenvolvedora Fullstack Jr. na MRM Brasil, uma agência full-service, com maior foco em digital, do McCann Worldgroup, unidade do Grupo Interpublic (IPG). Uma agência que acredita no poder das intersecções entre estratégia, criatividade e tecnologia, suportado por dados, para criar experiências totalmente humanas. Atuamos a partir do modelo híbrido de agência e consultoria de transformação digital, ajudando a fortalecer o relacionamento entre negócios e pessoas, ajudando marcas a encontrarem seu propósito, aprofundar suas relações e criar experiências que gerem crescimento.A MRM Brasil valoriza a criatividade e inovação, algo que é potencializado em um ambiente diverso e inclusivo, por isso damos prioridade na contratação de grupos minoritários, como pessoas com mais de 45 anos, pretas, pardas, indígenas, pessoas da comunidade LGBTQIAP+ e PCDs.Venha fazer parte de um time Better Together onde sua individualidade é respeitada e valorizada em todos os sentidos!Responsabilidades e atribuiçõesMais do que experiência profissional, procuramos alguém com curiosidade, iniciativa, entusiasmo por tecnologia e muita vontade de aprender. Esta pode, inclusive, ser sua primeira experiência profissional na área.No dia a dia, você irá:Participar do desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end;Implementar novas funcionalidades e contribuir para a evolução das soluções existentes;Investigar problemas, testar hipóteses e b…",
+      "score": 25,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
     },
     {
       "id": "56b60fe41cfe0b0ac787e4b59734742bc56f3740",
@@ -10265,6 +9832,50 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
+      "expirada": false
+    },
+    {
+      "id": "a2ae78f774f74e01ffe64263523d026c97b4252e",
+      "titulo": "Desenvolvedor(a) de Sistemas | FULLSTACK",
+      "empresa": "Brisanet",
+      "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI1NDUwMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Juazeiro do Norte, Ceará",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-24T13:26:52Z",
+      "descricao": "Estamos à procura de um(a) Desenvolvedor(a) de Sistemas para desenvolver, implantar e realizar manutenção de sites e sistemas, visando a agilidade, segurança e eficácia dos processos adequando-os às necessidades das áreas e clientes.Se você é um profissional atencioso, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar!Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡Responsabilidades e atribuições1. Desenvolvimento Fullstack (Frontend & Backend)Desenvolver, evoluir e manter funcionalidades ponta a ponta em sistemas e aplicações web, garantindo código limpo, segurança e boas práticas.Construir interfaces web modernas, responsivas e acessíveis a partir de especificações ou protótipos de design.Implementar regras de negócio, serviços e integrações no backend, garantindo estabilidade e manutenibilidade.Desenvolver e consumir APIs REST (e outros padrões de integração), realizando o tratamento adequado de requisições, respostas e erros.Construir e manter consultas a bancos de dados relacionais e/ou não relacionais, apoiando na garantia de integridade e consistência dos dados.Auxiliar na integração com serviços e APIs externas necessárias ao funcionamento das aplicações.2. Qualidade, Sustentação e ObservabilidadeIdentificar, investigar e corrigir bugs tanto em tela (frontend) quanto em regras e serviços (backend).Escrever e manter testes automatizados (unitários e de integração) com o suporte do time, visando a qualidade contínua das entregas.Acompanh…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T14:52:32Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "c4720c5b14c963ff9b8a535224a2b18b8e466a44",
+      "titulo": "Desenvolvedor de Software Pleno (FrontEnd)",
+      "empresa": "Montreal | Tecnologia e Inovação",
+      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTI1NTkwMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Goiânia, Goiás",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-09-22T17:09:22Z",
+      "descricao": "Como Desenvolvedor de Software Pleno (FrontEnd) na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.Responsabilidades e atribuiçõesProfissional da CONTRATADA responsável pela produção dos artefatos de software que o Squad deve entregar.Requisitos e qualificaçõesBuscamos um profissional focado na construção de interfaces de usuário de alta performance, garantindo excelente usabilidade, acessibilidade e integridade da experiência visual nas aplicações web da plataforma.Principais responsabilidadesAplicar conceitos de UX, prototipação visual e design de interfaces.Implementar interfaces complexas e responsivas.Realizar a otimização constante da performance, considerando as métricas de Core Web Vitals.Garantir a acessibilidade das interfaces desenvolvidas.Criar componentes e realizar a manutenção de sistemas de design — Design Systems.Realizar a integração eficiente das interfaces com APIs REST e GraphQL.Implementar layouts com foco em Mobile First.Requisitos obrigatóriosFormação superior completa (tecnólogo, graduação e/ou pós-graduação lato sensu e/ou pós-graduação stricto sensu) na área de Tecn…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST"
+      ],
+      "lacunas": [
+        "GraphQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T15:01:12Z",
+      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -10348,6 +9959,26 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
+      "titulo": "Desenvolvedor(a) FullStack",
+      "empresa": "Leads2b",
+      "url": "https://leads2b.gupy.io/job/eyJqb2JJZCI6MTExMDUzOTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Curitiba, Paraná",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-04-08T12:34:55Z",
+      "descricao": "Desenvolvedor (a) Full Stack | Presencial CuritibaA Leads2b é uma empresa de tecnologia SaaS B2B e a primeira plataforma Go-to-Market (GTM) do Brasil, integrando soluções de gestão, vendas e marketing para otimizar resultados comerciais. Nossa solução unifica geração de leads, automação e nutrição de marketing, personalização do processo comercial, gestão de funil de vendas e monitoramento de mercado, garantindo eficiência e previsibilidade para times de vendas. Com tecnologia de ponta e know-how estratégico, capacitamos gestores com as melhores práticas do mercado, impulsionando seus resultados de forma inteligente e escalável. 🚀Somos um time com o propósito de viabilizar o sucesso comercial das empresas para realizar os sonhos das pessoas. Agimos de forma positiva, transparente e buscamos a excelência na execução. Enfrentamos desafios diariamente e valorizamos o protagonismo na atuação. Se você se identifica com os nossos valores e gosta de criar soluções com impacto positivo na vida das pessoas, queremos te conhecer!Esta é uma vaga 100% presencial, a logística de trabalho é perfeita para quem mora em Curitiba.Responsabilidades e atribuições👨‍💻 O SEU PAPEL COMO #LEADER FULL STACKResolução de Problemas: Entender desafios de negócio e transformá-los em soluções técnicas elegantes.Desenvolvimento: Analisar, desenvolver e manter componentes de uma plataforma robusta de automação comercial.Qualidade: Escrever código limpo, testado (incremental/ágil) e realizar code-reviews cons…",
+      "score": 15,
+      "skills_match": [
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
     },
     {
       "id": "b18a42d455072f7c40f5d9fc5263eedbcad4e2fa",
