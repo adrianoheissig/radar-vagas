@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-30T13:02:44Z",
-  "total": 404,
+  "atualizado_em": "2026-09-30T15:02:56Z",
+  "total": 406,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -2448,6 +2448,41 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
+      "titulo": "Pessoa Desenvolvedora Fullstack \"IA\"",
+      "empresa": "Volkswagen do Brasil",
+      "url": "https://vwbrasil.gupy.io/job/eyJqb2JJZCI6MTI2NDMxMTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "São Bernardo do Campo, São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-30T14:39:39Z",
+      "descricao": "Chegou a oportunidade de impactar a indústria automobilística usando tecnologia. Se você é um(a) dev fullstack com experiência criar e manter aplicações com IA generativa, queremos conhecer você! Você terá a chance de trabalhar na indústria 4.0 de ponta a ponta: da integração com LLMs no backend até a interface usada pelas áreas de negócio junto das ferramentas de AI. Nosso time é multidisciplinar e você trabalhará junto com produto, dados e segurança da informação. Responsabilidades e atribuiçõesCriar e manter APIs e serviços de backend que integram modelos de linguagem (LLMs) com os sistemas corporativos.Implementar pipelines de RAG (Retrieval-Augmented Generation), incluindo ingestão, chunking, embeddings e busca vetorial.Criar agentes e fluxos de tool use / function calling que se conectam com APIs internas e bases de dados.Criar interfaces web que funcionem bem para interações com IA: streaming de respostas, feedback do usuário e tratamento de erros.Definir e aplicar práticas de avaliação de modelos (evals), observabilidade, controle de recursos e latência.Garantir segurança e conformidade: proteção de dados (LGPD), prevenção de prompt injection, controle de acesso e trilhas de auditoria.Desenvolver os testes necessários para cada caso.Documentar soluções e compartilhar conhecimento com o time.Requisitos e qualificaçõesExperiência com desenvolvimento de software com atuação comprovada.Domínio de Python e/ou TypeScript/Node.js no backend.Experiência com frameworks fronte…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T15:01:27Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
@@ -6420,6 +6455,40 @@
       ],
       "experiencia_exigida": 4,
       "data_coleta": "2026-09-14T20:32:49Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "e4b4cfb0c98faa3608695461283b6855cbb064ae",
+      "titulo": "Desenvolvedor(A) Front-End - Vue.Js",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-front-end-vuejs-em-sao-paulo__12069792.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T13:39:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais responsabilidades:\nDesenvolver e manter interfaces responsivas e reutilizáveis com Vue.js, TypeScript e TailwindCSS;\nCriar e evoluir componentes reutilizáveis utilizando PrimeVue e boas práticas de componentização;\nTrabalhar em colaboração com os times de Back-end, UI/UX e QA;\nGarantir acessibilidade, performance e compatibilidade entre navegadores;\nParticipar de code reviews e propor melhorias técnicas e evoluções na arquitetura Front-End;\nUtilizar Git para versionamento e controle de código;\nDesenvolver testes automatizados para componentes e funcionalidades críticas;\nAplicar boas práticas como Atomic Design, Mobile First e Clean Code. \nO que buscamos:\nÉ importante que você tenha experiência/conhecimento em:\nVue.js (Vue 2 ou Vue 3);\nTypeScript aplicado a componentes Vue;\nTailwindCSS;\nPrimeVue e componentização;\nHTML5, CSS3 e JavaScript moderno (ES6+);\nConsumo e integração com APIs REST;\nVersionamento utilizando Git;\nConhecimentos básicos de Git Flow ou trunk-based development;\nFerramentas de bundling, como Vite ou Webpack.  \nSerá um diferencial:\nConhecimentos em Design System / Component Library;\nTestes com Jest, Vitest ou Cypress;\nExperiência com Nuxt.js / SSR;\nConhecimentos em acessibilidade e WCAG;\nExperiência com Figma ou ferramentas similares;\nVivência com metodologias ágeis, como Scrum ou Kanban;\nConhecimentos em CI/CD para aplicações Front-End;\nExperiência com autenticação utilizando JWT ou OAuth2\nNúm…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Figma",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Nuxt",
+        "Tailwind",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-09-30T15:01:52Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
