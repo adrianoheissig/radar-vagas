@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-30T05:02:28Z",
-  "total": 400,
+  "atualizado_em": "2026-09-30T07:02:53Z",
+  "total": 402,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -8576,6 +8576,47 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
+      "titulo": "Desenvolvedor React Native Junior",
+      "empresa": "Mayo Company Ltda",
+      "url": "https://www.adzuna.com.br/details/5903144932?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T20:37:29Z",
+      "descricao": "Buscamos Desenvolvedor React Native para compor nosso time! Somos uma healthtech de Ribeirão Preto - SP. Atividades e responsabilidades: Trabalho em equipe: compartilhar experiências entre colegas de trabalho, enxergar o projeto como um todo e não só a parte específica de desenvolvimento; Gestão de tempo: entregar as atividades dentro do prazo proposto com qualidade e conseguir se organizar com as entregas; Criatividade: entender as tarefas de forma profunda e trazer soluções criativas tanto em…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T07:01:05Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "3df83c95ba03a3b20de9cf8ba29986e0510b0750",
+      "titulo": "Desenvolvedor(a) React",
+      "empresa": "Take and Go",
+      "url": "https://www.adzuna.com.br/details/5903144094?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-29T20:37:24Z",
+      "descricao": "TECNOLOGIA: Desenvolvedor(a) React Ribeirão Preto, SP Observação: Se você encontrar algum problema no envio do currículo através do formulário ao lado, por favor, entre em contato com a gente através do Linkedin - . Dia a Dia: - Desenvolverá interfaces completas em colaboração com times de Back-End e Produto; - Participará de ciclos de desenvolvimento, através de metodologia ágil, em integração com outros times; - Deverá escrever código limpo, testável e de fácil manutenção. São requisitos míni…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T07:01:05Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
