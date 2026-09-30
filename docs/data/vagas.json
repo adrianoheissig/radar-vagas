@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-30T16:23:45Z",
-  "total": 408,
+  "atualizado_em": "2026-09-30T19:02:53Z",
+  "total": 409,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -3836,6 +3836,34 @@
       "expirada": false
     },
     {
+      "id": "629d19bd180964e3724eaf1e5ee2cf889b938905",
+      "titulo": "Pessoa Desenvolvedora Java/React Pl (Remoto) - 6210",
+      "empresa": "Starian",
+      "url": "https://starian.gupy.io/job/eyJqb2JJZCI6MTIxNDYyMTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "fonte": "gupy",
+      "local": "Remoto",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-08-24T12:16:54Z",
+      "descricao": "Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance. Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guiar negócios rumo ao futuro. Essa vaga é para atuar no produto Sienge.Responsabilidades e atribuiçõesResponsabilidades e atribuições: Contribuir com soluções robustas, sustentáveis e orientadas a resultado;Atuar com autonomia técnica, colaborando no planejamento e mentorando desenvolvedores mais juniores;Participar da construção de um ambiente de engenharia de software pautado por qualidade, performance e melhoria contínua;Utilizar ferramentas de IA (como Windsurf, Copilot, Jetbrains AI, Anthropic) para acelerar desenvolvimento e automação de testes;Entre as tecnologias que compõem a nossa stack estão: Java, Spring, React, JUnit, Mockito, Git, Hibernate e outros.Mentalidade digital, curiosidade por novas tecnologias e interesse em entender como a Inteligência Artificial pode transformar processos, experiências e resultados.Requisitos e qualificaçõesRequisitos e qualificações: Experiência com Java 11+ e Spring Framework;Experiência com React.js, incluindo hooks, componentização e integração com APIs R…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java",
+        "APIs REST",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Spring",
+        "PostgreSQL",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T19:01:29Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "d17b23975e6290340e0cc3d539df0badd1f3fada",
       "titulo": "Pessoa Desenvolvedora Java/React Pl (Remoto) - 7755",
       "empresa": "Starian",
@@ -3850,12 +3878,10 @@
         "React",
         "Java",
         "APIs REST",
-        "Git",
-        "Clean Code"
+        "Git"
       ],
       "lacunas": [
         "Spring",
-        "PostgreSQL",
         "Testes automatizados"
       ],
       "experiencia_exigida": null,
@@ -4224,15 +4250,21 @@
         "APIs REST",
         "Microsserviços",
         "SQL",
-        "Git"
+        "Git",
+        "Metodologias ágeis"
       ],
       "lacunas": [
         "Spring",
-        "Oracle"
+        "Oracle",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-26",
+      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -6535,6 +6567,33 @@
       "expirada": false
     },
     {
+      "id": "9eba4eebfba566f2c69930e8903077bc87c6aba9",
+      "titulo": "Full Stack Laravel React Developer - Remote, Latin America",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5903130191?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-29T20:36:46Z",
+      "descricao": "What we are looking for: - 4 years of experience with Laravel, specifically with Laravel 8 and above. - Experience with: Eloquent ORM, Laravel Authentication, Laravel Query Builder. - Experience with testing tools, such as Pest PHP, PHPUnit, Laravel Dusk, Playwright. - Experience with Inertia.js and RESTful API in Laravel. - Experience with frontend development (React, Vue.js, Laravel Livewire, etc). - Bonus points if you have experience with Tailwind CSS. - Ability to take extreme ownership ov…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "CSS",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Tailwind",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
       "titulo": "React Native Developer - Remote Work",
       "empresa": "BairesDev",
@@ -8117,28 +8176,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:25Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "9eba4eebfba566f2c69930e8903077bc87c6aba9",
-      "titulo": "Full Stack Laravel React Developer - Remote, Latin America",
-      "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5864775685?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-01T12:00:51Z",
-      "descricao": "Bluelight Consulting is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives. With a steadfast commitment to delivering exceptional service to our clients, Bluelight excels in its focus on quality and customer satisfaction. Our mission is not only to create cutting-edge applications but also to foster a collaborative and enriching work environment where each team member can grow and thrive. With a presence across the United States…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
