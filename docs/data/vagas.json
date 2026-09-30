@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-09-30T15:02:56Z",
-  "total": 406,
+  "atualizado_em": "2026-09-30T16:23:45Z",
+  "total": 408,
   "vagas": [
     {
       "id": "d7b09cdce1b5652ce0e0415bba86abc5975bd040",
@@ -5036,6 +5036,48 @@
       "expirada": false
     },
     {
+      "id": "9ff60399d26efa0648634f7a6c71b82dd442e363",
+      "titulo": "Desenvolvedor(a) Full Stack Pleno (.NET Angular)",
+      "empresa": "Domvs IT",
+      "url": "https://www.adzuna.com.br/details/5904055745?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T13:00:17Z",
+      "descricao": "Prazer, somos a DOMVS iT! Na DOMVS iT, nossos colaboradores são protagonistas de suas carreiras, e oferecemos todo o suporte necessário para que alcancem o sucesso profissional. E adivinha? Estamos com uma oportunidade incrível para você se juntar ao nosso time! ✨ O que buscamos? Estamos buscando um(a) Desenvolvedor(a) Full Stack Pleno para atuar em um cliente do setor de seguros, em iniciativas estratégicas e de alto impacto para o negócio. Queremos alguém proativo, com senso de dono, que gos…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T16:22:08Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "e352b707a2fa782381028c6a669d236997602131",
+      "titulo": "IT Analyst III (Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5904046966?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T12:50:10Z",
+      "descricao": "IT Analyst III (Angular) Country: Brazil QUEM SOMOS A F1RST é o futuro e sua carreira está aqui! Nossa cultura é baseada em “Pessoas, Inovação e Resultados”. ☝️ Fazemos parte do maior banco Internacional do Brasil, um dos maiores bancos do mundo. Promovendo serviços e experiências para os mais de 60 milhões de clientes de todo o ecossistema Santander. Venha fazer parte do time que tem como propósito apoiar as pessoas e fazer os negócios prosperarem. Somos apaixonados por tecnologia. Somos F1R…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T18:55:55Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
       "id": "36f295eb4595dcfde1f150e132a901ee062fd7fa",
       "titulo": "Desenvolvedor Front End Vtex",
       "empresa": "DNA Comunicação",
@@ -6054,26 +6096,6 @@
       "lacunas": [
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T18:55:55Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": false
-    },
-    {
-      "id": "e352b707a2fa782381028c6a669d236997602131",
-      "titulo": "IT Analyst III (Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5887836588?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-17T12:16:08Z",
-      "descricao": "IT Analyst III (Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contínua p…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
       "ultima_vista": "2026-09-20",
@@ -8695,6 +8717,26 @@
       ],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
+      "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "3b0c61d6c6534fb7f637ba2befe2e672b96c5932",
+      "titulo": "Analista de Sistemas Júnior Java | Exclusiva para Mulheres PcD",
+      "empresa": "Itaú Unibanco",
+      "url": "https://www.adzuna.com.br/details/5904014401?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T12:10:50Z",
+      "descricao": "Description Vem ser Ituber & vem fazer Itaú﻿ O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um quadro com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de resp…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T16:22:08Z",
       "ultima_vista": "2026-09-30",
       "expirada": false
     },
