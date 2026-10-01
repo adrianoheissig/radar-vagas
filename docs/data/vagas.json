@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-01T00:30:16Z",
-  "total": 409,
+  "atualizado_em": "2026-10-01T01:02:46Z",
+  "total": 415,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1940,6 +1940,50 @@
       "expirada": false
     },
     {
+      "id": "f024511a8469dac79f5dfcaff7cdae79561f05e6",
+      "titulo": "Analista Desenvolvedor Java Pl",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904353515?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-30T21:24:11Z",
+      "descricao": "Analista Desenvolvedor Java Pl - Js, React) Certificação Conhecimento Habilidades: Analisar requisitos de negócio e criar arquitetura e sistemas Analisar, codificar, depurar, revisar código, testar e realizar a entrega de aplicações Monitorar as aplicações em ambiente de produção Interagir com equipes de TI para integrações e áreas de negócio Contribuir com a melhoria de processo e de sistemas Horário de Trabalho Hibrida (03 Presenciais), segunda a sexta, horário Comercial (09h00 as 18h00).",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "c8742d42809f5ef74f64820cbcdb77a081e8c408",
+      "titulo": "Desenvolvedor Frontend Jr",
+      "empresa": "SOW",
+      "url": "https://www.adzuna.com.br/details/5904343418?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:19:11Z",
+      "descricao": "Desenvolvedor FrontEnd - Nível Júnior Desejável conhecimentos com Angular/CSS/HTML/JavaScript/JSP Atuação 100% remota. Duração: 06 meses. Disponibilidade para início imediato. Modalidade de contratação PJ.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -2415,27 +2459,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "f024511a8469dac79f5dfcaff7cdae79561f05e6",
-      "titulo": "Analista Desenvolvedor Java Pl",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898841801?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-25T20:36:20Z",
-      "descricao": "Analista Desenvolvedor Java Pl - Js, React) Certificação Conhecimento Habilidades: Analisar requisitos de negócio e criar arquitetura e sistemas Analisar, codificar, depurar, revisar código, testar e realizar a entrega de aplicações Monitorar as aplicações em ambiente de produção Interagir com equipes de TI para integrações e áreas de negócio Contribuir com a melhoria de processo e de sistemas Horário de Trabalho Hibrida (03 Presenciais), segunda a sexta, horário Comercial (09h00 as 18h00).",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-26",
       "expirada": false
     },
     {
@@ -3802,6 +3825,27 @@
       "expirada": true
     },
     {
+      "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904354523?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:24:21Z",
+      "descricao": "Desenvolvedor Fullstack - Js e React; Atuação 100% remota. Certificação Conhecimento Desenvolvedor FullStack Níveis Pleno e Sênior - 100% Remoto Sólida experiência com desenvolvimento em Node. Js e React; Atuação 100% remota.",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "2a977a158fef604c5e36cbb0fdadc97dbdf8b39b",
       "titulo": "PESSOA DESENVOLVEDORA FULLSTACK PLENO",
       "empresa": "YDUQS - Vagas Tech",
@@ -3846,27 +3890,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T09:00:56Z",
       "ultima_vista": "2026-09-29",
-      "expirada": false
-    },
-    {
-      "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898844158?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:36:39Z",
-      "descricao": "Desenvolvedor Fullstack - Js e React; Atuação 100% remota. Certificação Conhecimento Desenvolvedor FullStack Níveis Pleno e Sênior - 100% Remoto Sólida experiência com desenvolvimento em Node. Js e React; Atuação 100% remota.",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -4419,6 +4442,51 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
+      "titulo": "Desenvolvedor Frontend React Js Junior",
+      "empresa": "unike.TECH",
+      "url": "https://www.adzuna.com.br/details/5904343757?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:19:15Z",
+      "descricao": "COMO VOCÊ VAI CONSTRUIR UM MUNDO MAIS FRICTIONLESS Seu papel como Desenvolvedor FrontEnd JS Jr na UNIKE será desenvolver FrontEnd para atuar no desenvolvimento e sustentação de aplicação React.JS O QUE VOCÊ VAI FAZER - Sustenção de aplicação instalada nos clientes. - Integração de componentes com APIs desenvolvidas em JAVA e KOTLIN. - Desenvolvimento de componentes reutilizáveis e modularizados. - Solucionar problemas, debugar e melhorar soluções existentes. O QUE BUSCAMOS - Ensino superior com…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
+      "titulo": "Desenvolvedor(a) Front-end React Vtex",
+      "empresa": "Visie Padrões Web",
+      "url": "https://www.adzuna.com.br/details/5904339134?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:18:26Z",
+      "descricao": "Estamos em busca de um(a) desenvolvedor(a) front-end React VTEX para integrar um de nossos times de desenvolvimento. Se você tem experiência com o framework React (e Typescript), conhecimento sobre VTEX (ou abertura para conhecer), é proativo(a), tem facilidade em se comunicar, e gosta de um ambiente dinâmico e colaborativo, queremos te conhecer! Utilizamos a metodologia SCRUM para desenvolvimento (caso não a conheça, você aprende com a gente). Em sua rotina, você fará parte de um time com dese…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-01",
       "expirada": false
     },
     {
@@ -5825,6 +5893,193 @@
       "expirada": false
     },
     {
+      "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
+      "titulo": "Remote Junior React Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355970?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:24:35Z",
+      "descricao": "Remote Junior React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Junior React Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Partic…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "86e7908a0051df64c776f1d08645cf44ce28295c",
+      "titulo": "Desenvolvedor Node.Js Full Stack Pleno",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355751?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:33Z",
+      "descricao": "Desenvolvedor Node.Js Full Stack Pleno - Requisitos essenciais:- Experiência com NodeJS / TS, Express, JWT, Sequelize; - Conhecimento emReact, React State Hook, Formik; - Familiaridade com Jest, React Testing Library; - Experiência comAPI Rest, Agile Scrum, SQL, MVC. Diferenciais:- Conhecimento em Python, LLM/AI; - Experiência comAWS: Api Gateway, EC2, ECS, SNS, RDS, S3, SES.",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "SQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Express",
+        "Python",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
+      "titulo": "Technical Lead Fullstack Java, Aws",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355755?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:24:33Z",
+      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "122d3762452ada84edd5bbec7a2eb24bd47438db",
+      "titulo": "React / Next.Js Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355595?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:24:31Z",
+      "descricao": "React / Next.Js Developer - Js Developer Type of Contract: ContractorLocation: Brazil (Remote Work)Please attach your ENGLISH resume to be consideredProficiency/Bilingual in English A Knowledge TEST will be done Full Availability during working hoursBucksense is the programmatic platform for advertisers and agencies looking to bring brand building in-house. With a presence in Europe and USA, we are a global team of dedicated people drawn from diverse backgrounds, young and energetic who are pas…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:17Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "55da4689502354e5c400e69f236b36feb29040b9",
+      "titulo": "Desenvolvedor Backend Pleno (Full Stack)",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355542?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:31Z",
+      "descricao": "Desenvolvedor Backend Pleno (Full Stack) - Conteinerização e Orquestração: Implementar e gerenciar containers com Docker e Kubernetes (administração, criação de pods, serviços, ingress, etc. ). Integrações de Sistemas: Desenvolver integrações entre o assistente virtual e os sistemas dos clientes utilizando APIs REST e JSON, além de OpenAPI/Swagger. Desenvolvimento Backend: Trabalhar principalmente com JavaScript, Node. Js, Promises, HTML5, CSS e TypeScript para criar funcionalidades robustas e …",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "2599d5b6b682289b868a8c5ff43fbc01987e04e0",
+      "titulo": "Desenvolvedor.Net",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904350870?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:23:48Z",
+      "descricao": "Desenvolvedor.Net - NET | React | AWS?? Atuação 100% remota?? Modelo de contratação: CLT Benefícios Estamos em busca de um(a) Desenvolvedor(a) Full Stack para fazer parte de um time de alta performance no desenvolvimento de produtos inovadores para o setor bancário. Atividades a serem executadas:Desenvolver e manter aplicações web utilizando React, C# e . NETProjetar e implementar integrações com bancos de dados PostgreSQLConstruir e manter serviços em ambientes cloud (preferencialmente AWS), …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5904340727?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:18:42Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
+      "titulo": "Junior React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5904338202?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T21:18:17Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
       "titulo": "Pessoa Desenvolvedora Fullstack \"IA\"",
       "empresa": "Volkswagen do Brasil",
@@ -5945,26 +6200,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5903122373?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Fortaleza, Ceará",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T20:36:25Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
       "ultima_vista": "2026-10-01",
       "expirada": false
     },
@@ -6188,29 +6423,6 @@
       "expirada": false
     },
     {
-      "id": "122d3762452ada84edd5bbec7a2eb24bd47438db",
-      "titulo": "React / Next.Js Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898844484?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:36:42Z",
-      "descricao": "React / Next.Js Developer - Js Developer Type of Contract: ContractorLocation: Brazil (Remote Work)Please attach your ENGLISH resume to be consideredProficiency/Bilingual in English A Knowledge TEST will be done Full Availability during working hoursBucksense is the programmatic platform for advertisers and agencies looking to bring brand building in-house. With a presence in Europe and USA, we are a global team of dedicated people drawn from diverse backgrounds, young and energetic who are pas…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:17Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "6c67d2381988f5ea6bc17e46b20d4abd8d6088ff",
       "titulo": "Remote Typescript Developer",
       "empresa": "",
@@ -6251,102 +6463,6 @@
       "expirada": false
     },
     {
-      "id": "86e7908a0051df64c776f1d08645cf44ce28295c",
-      "titulo": "Desenvolvedor Node.Js Full Stack Pleno",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898844256?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:40Z",
-      "descricao": "Desenvolvedor Node.Js Full Stack Pleno - Requisitos essenciais:- Experiência com NodeJS / TS, Express, JWT, Sequelize; - Conhecimento emReact, React State Hook, Formik; - Familiaridade com Jest, React Testing Library; - Experiência comAPI Rest, Agile Scrum, SQL, MVC. Diferenciais:- Conhecimento em Python, LLM/AI; - Experiência comAWS: Api Gateway, EC2, ECS, SNS, RDS, S3, SES.",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Express",
-        "Python",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
-      "titulo": "Technical Lead Fullstack Java, Aws",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898843946?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:36:37Z",
-      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
-      "titulo": "Remote Junior React Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898843868?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:36:36Z",
-      "descricao": "Remote Junior React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Junior React Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Partic…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "2599d5b6b682289b868a8c5ff43fbc01987e04e0",
-      "titulo": "Desenvolvedor.Net",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898843608?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:36:34Z",
-      "descricao": "Desenvolvedor.Net - NET | React | AWS?? Atuação 100% remota?? Modelo de contratação: CLT Benefícios Estamos em busca de um(a) Desenvolvedor(a) Full Stack para fazer parte de um time de alta performance no desenvolvimento de produtos inovadores para o setor bancário. Atividades a serem executadas:Desenvolver e manter aplicações web utilizando React, C# e . NETProjetar e implementar integrações com bancos de dados PostgreSQLConstruir e manter serviços em ambientes cloud (preferencialmente AWS), …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "990f84524f9b1888c2f051d7227c8d8b943e29c2",
       "titulo": "Desenvolvedores .Net/React",
       "empresa": "",
@@ -6372,34 +6488,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "55da4689502354e5c400e69f236b36feb29040b9",
-      "titulo": "Desenvolvedor Backend Pleno (Full Stack)",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898841844?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:21Z",
-      "descricao": "Desenvolvedor Backend Pleno (Full Stack) - Conteinerização e Orquestração: Implementar e gerenciar containers com Docker e Kubernetes (administração, criação de pods, serviços, ingress, etc. ). Integrações de Sistemas: Desenvolver integrações entre o assistente virtual e os sistemas dos clientes utilizando APIs REST e JSON, além de OpenAPI/Swagger. Desenvolvimento Backend: Trabalhar principalmente com JavaScript, Node. Js, Promises, HTML5, CSS e TypeScript para criar funcionalidades robustas e …",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Docker",
-        "Kubernetes"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-27",
       "expirada": false
     },
     {
@@ -7013,26 +7101,6 @@
       "modalidade": "remoto",
       "data_publicacao": "2026-09-16T20:06:31Z",
       "descricao": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício. Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. Engenheiro React Native na BairesDev Ser um Engenheiro React Native em nossa Equipe de Desenvolvimento é como ser um solucionador de problemas em…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": false
-    },
-    {
-      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
-      "titulo": "Junior React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5886686521?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Joinville, Santa Catarina",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:30Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
       "score": 40,
       "skills_match": [],
       "lacunas": [
@@ -8187,6 +8255,232 @@
       "expirada": false
     },
     {
+      "id": "92419a31dcf096c2e013b49c84dc3e27a10aa1d5",
+      "titulo": "Data Scientist",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355896?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:34Z",
+      "descricao": "Data Scientist - If you have solid experience in Machine Learning, hold certifications in AWS and GCP, and are comfortable working with Python and TypeScript, this might be the perfect opportunity for you. We’re especially interested in professionals with an academic background in Physics or Mathematics, who know how to navigate ambiguity with analytical rigor and a builder’s mindset. Join a fast-growing company where data is at the core of every decision — and where your impact will go far bey…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Python",
+        "AWS",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "f213acb9f813b675dd90ced61f85e2a4728f6fa6",
+      "titulo": "Desenvolvedor Fullstack .Net/React",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355897?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:34Z",
+      "descricao": "Desenvolvedor Fullstack .Net/React - NET React - Pleno/Senior, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. Responsabilidades e atribuiçõesModelar arquiteturas de software em nuvem; Ter conhecimento das tecnologias utilizadas pela equipe; Ter capacidade de mediresforços e definir prazos de implementação; Saber lidar compressão de prazos; Solucionar problemas …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "e7b91c9ce435fc171d9ae0c2f01721a1bd5578a6",
+      "titulo": "Frontend Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904355836?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:33Z",
+      "descricao": "Frontend Developer - You do not have to relocate to join us. Responsibilities:Develop and deliver high-quality, user-facing features. Translate UI/UX designs into functional, responsive web interfaces. Write clean, efficient, and maintainable code. Implement automated tests. Participate in code reviews, offering constructive feedback to peers. Collaborate with the team to enhance development processes. Requirements:4 years working as a Frontend Engineer. Proficient in JavaScript and TypeScript.…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "9de948a7663ce91a3ee0eb1d59d3e7c17b7896aa",
+      "titulo": "Desenvolvedor(A) React Jr",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904354532?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:21Z",
+      "descricao": "Desenvolvedor(A) React Jr - Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global. Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "21d5a528ec3914b435c9fd35bf504665e27ac01c",
+      "titulo": "Desenvolvedor(A) Flutter/React Native Pleno",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904353972?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:15Z",
+      "descricao": "Desenvolvedor(A) Flutter/React Native Pleno - Hooks, context API, navegação (React Navigation), APIs REST, GraphQL, WebSockets, integração com serviços nativos, Context API, Debugging; Consumo e integração deAPIs via REST, GraphQL e WebSockets para comunicação em tempo real; Acesso a funcionalidades nativas: câmera, localização, sensores, notificações, biometria (via Expo ou React Native CLI Native Modules); Publicação: processos de publicação na Play Store e App Store, Fastlane, gerenciamento…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "React Native",
+        "GraphQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
+      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904352755?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:24:05Z",
+      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "f9789c45064346e0ad075e4a1ae5cdfc4713691e",
+      "titulo": "Vaga: Desenvolvedor(A) Backend",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904350989?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:23:49Z",
+      "descricao": "Vaga: Desenvolvedor(A) Backend - Aqui, você vai encontrar um ambiente colaborativo, com liberdade para inovar e oportunidades reais de crescimento técnico e pessoal. Estamos procurando um(a) Desenvolvedor(a) Backend com foco em JavaScript e conhecimento em Java, que também tenha familiaridade com práticas DevOps e queira crescer junto com um time que valoriza boas práticas, autonomia e resultados. ??? O que você vai fazer por aqui:Desenvolver e manter APIs robustas, seguras e escaláveis com JS …",
+      "score": 30,
+      "skills_match": [
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Norte Marketing",
+      "url": "https://www.adzuna.com.br/details/5904338875?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:18:23Z",
+      "descricao": "Buscamos um Desenvolvedor Front-End experiente em React para atuar na personalização e otimização de lojas Magento 2, garantindo experiências de usuário fluídas e de alto desempenho. Somos conteúdo em forma de experiência. Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos. Somos a maior produtora de eventos esportivos da América Latina. Tem sinergia com este ambiente, venha fazer parte! Respons…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
+      "titulo": "Pessoa Desenvolvedora Front-end (Next.js / React)",
+      "empresa": "MJV Technology & Innovation",
+      "url": "https://www.adzuna.com.br/details/5904338303?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:18:18Z",
+      "descricao": "Atuará num squad de um dos maiores bancos de montadora, particularmente com produtos de seguros e financiamento automotivo, site e app. Responsabilidades e atribuições Desenvolvedor Front end SR com experiência mobile, Next.js e react Desejável e um diferencial experiência com UX Requisitos e qualificações \\Experiência com serviços em nuvem, como AWS, Azure ou Google Cloud. \\Conhecimento em metodologias ágeis, incluindo SCRUM, Kanban, LEAN ou SAFe. \\Experiência em Design, com habilidades em fer…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "eea41fbb6b8c8906a42a5b8b4aaec7ee5d215c2c",
+      "titulo": "Desenvolvedor(a) Front-End - Vue.js",
+      "empresa": "Confidencial",
+      "url": "https://www.adzuna.com.br/details/5904322301?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T21:15:17Z",
+      "descricao": "Principais responsabilidades: Desenvolver e manter interfaces responsivas e reutilizáveis com Vue.js, TypeScript e TailwindCSS; Criar e evoluir componentes reutilizáveis utilizando PrimeVue e boas práticas de componentização; Trabalhar em colaboração com os times de Back-end, UI/UX e QA; Garantir acessibilidade, performance e compatibilidade entre navegadores; Participar de code reviews e propor melhorias técnicas e evoluções na arquitetura Front-End; Utilizar Git para versionamento e controle …",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Tailwind"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:01:12Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "3b0c61d6c6534fb7f637ba2befe2e672b96c5932",
       "titulo": "Analista de Sistemas Júnior Java | Exclusiva para Mulheres PcD",
       "empresa": "Itaú Unibanco",
@@ -8482,138 +8776,6 @@
       "expirada": false
     },
     {
-      "id": "e7b91c9ce435fc171d9ae0c2f01721a1bd5578a6",
-      "titulo": "Frontend Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898844358?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:40Z",
-      "descricao": "Frontend Developer - You do not have to relocate to join us. Responsibilities:Develop and deliver high-quality, user-facing features. Translate UI/UX designs into functional, responsive web interfaces. Write clean, efficient, and maintainable code. Implement automated tests. Participate in code reviews, offering constructive feedback to peers. Collaborate with the team to enhance development processes. Requirements:4 years working as a Frontend Engineer. Proficient in JavaScript and TypeScript.…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-28",
-      "expirada": false
-    },
-    {
-      "id": "92419a31dcf096c2e013b49c84dc3e27a10aa1d5",
-      "titulo": "Data Scientist",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898844171?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:39Z",
-      "descricao": "Data Scientist - If you have solid experience in Machine Learning, hold certifications in AWS and GCP, and are comfortable working with Python and TypeScript, this might be the perfect opportunity for you. We’re especially interested in professionals with an academic background in Physics or Mathematics, who know how to navigate ambiguity with analytical rigor and a builder’s mindset. Join a fast-growing company where data is at the core of every decision — and where your impact will go far bey…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Python",
-        "AWS",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
-      "id": "f9789c45064346e0ad075e4a1ae5cdfc4713691e",
-      "titulo": "Vaga: Desenvolvedor(A) Backend",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898843414?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:32Z",
-      "descricao": "Vaga: Desenvolvedor(A) Backend - Aqui, você vai encontrar um ambiente colaborativo, com liberdade para inovar e oportunidades reais de crescimento técnico e pessoal. Estamos procurando um(a) Desenvolvedor(a) Backend com foco em JavaScript e conhecimento em Java, que também tenha familiaridade com práticas DevOps e queira crescer junto com um time que valoriza boas práticas, autonomia e resultados. ??? O que você vai fazer por aqui:Desenvolver e manter APIs robustas, seguras e escaláveis com JS …",
-      "score": 30,
-      "skills_match": [
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
-      "id": "9de948a7663ce91a3ee0eb1d59d3e7c17b7896aa",
-      "titulo": "Desenvolvedor(A) React Jr",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898843315?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:31Z",
-      "descricao": "Desenvolvedor(A) React Jr - Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global. Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma …",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
-      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
-      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898842618?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:25Z",
-      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "f213acb9f813b675dd90ced61f85e2a4728f6fa6",
-      "titulo": "Desenvolvedor Fullstack.Net/React",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898840680?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:36:14Z",
-      "descricao": "Desenvolvedor Fullstack.Net/React - NET React - Pleno/Senior, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. Responsabilidades e atribuiçõesModelar arquiteturas de software em nuvem; Ter conhecimento das tecnologias utilizadas pela equipe; Ter capacidade de mediresforços e definir prazos de implementação; Saber lidar compressão de prazos; Solucionar problemas q…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
       "id": "477e9176f96b801fc7dbd5b2357c4349752bf053",
       "titulo": "Desenvolvedor de Sistemas",
       "empresa": "",
@@ -8887,30 +9049,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "21d5a528ec3914b435c9fd35bf504665e27ac01c",
-      "titulo": "Desenvolvedor(A) Flutter/React Native Pleno",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5892101107?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T20:47:37Z",
-      "descricao": "Desenvolvedor(A) Flutter/React Native Pleno - Hooks, context API, navegação (React Navigation), APIs REST, GraphQL, WebSockets, integração com serviços nativos, Context API, Debugging; Consumo e integração deAPIs via REST, GraphQL e WebSockets para comunicação em tempo real; Acesso a funcionalidades nativas: câmera, localização, sensores, notificações, biometria (via Expo ou React Native CLI Native Modules); Publicação: processos de publicação na Play Store e App Store, Fastlane, gerenciamento…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "React Native",
-        "GraphQL"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
