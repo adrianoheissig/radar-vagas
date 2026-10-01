@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-01T07:02:34Z",
+  "atualizado_em": "2026-10-01T09:02:39Z",
   "total": 418,
   "vagas": [
     {
@@ -2062,6 +2062,31 @@
       "expirada": false
     },
     {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5903785702?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T07:46:57Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -2618,31 +2643,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
-      "ultima_vista": "2026-09-24",
-      "expirada": false
-    },
-    {
-      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
-      "titulo": "DESENVOLVEDOR UI / REACT",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5895063400?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-23T07:44:54Z",
-      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T13:01:04Z",
       "ultima_vista": "2026-09-24",
       "expirada": false
     },
@@ -4607,6 +4607,32 @@
       "expirada": false
     },
     {
+      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
+      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5903786643?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-30T07:47:03Z",
+      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
       "id": "36f295eb4595dcfde1f150e132a901ee062fd7fa",
       "titulo": "Desenvolvedor Front End Vtex",
       "empresa": "DNA Comunicação",
@@ -4801,32 +4827,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
       "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
-      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5899536796?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-26T07:44:54Z",
-      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-09-27",
       "expirada": false
     },
     {
