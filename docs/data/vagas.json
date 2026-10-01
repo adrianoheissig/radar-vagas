@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-01T09:02:39Z",
+  "atualizado_em": "2026-10-01T11:02:20Z",
   "total": 418,
   "vagas": [
     {
@@ -225,7 +225,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:43Z",
       "ultima_vista": "2026-10-01",
       "expirada": false
