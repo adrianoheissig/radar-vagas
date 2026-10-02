@@ -1,16 +1,16 @@
 {
-  "atualizado_em": "2026-10-02T03:02:45Z",
-  "total": 424,
+  "atualizado_em": "2026-10-02T07:02:44Z",
+  "total": 425,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
       "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5902575052?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5907423338?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T03:06:39Z",
+      "data_publicacao": "2026-10-02T02:34:26Z",
       "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
       "score": 80,
       "skills_match": [
@@ -29,7 +29,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-09-30",
+      "ultima_vista": "2026-10-02",
       "expirada": false
     },
     {
@@ -984,6 +984,30 @@
       "expirada": false
     },
     {
+      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
+      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907419897?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-02T02:33:58Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:03Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
       "id": "ce6d4b1faa9d4d90b5004746b99baa3d595f861c",
       "titulo": "Pessoa Desenvolvedora Fullstack Node/React (PCD)",
       "empresa": "REPONTO Gente e Gestão",
@@ -1028,30 +1052,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:36Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
-    },
-    {
-      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
-      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5891385077?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-20T02:30:32Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:03Z",
-      "ultima_vista": "2026-09-22",
       "expirada": false
     },
     {
@@ -1953,6 +1953,36 @@
       "expirada": false
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907421849?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-02T02:34:14Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
       "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
       "titulo": "Desenvolvedor Full Stack Node.js",
       "empresa": "Innolevels",
@@ -2060,6 +2090,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:37Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5904944866?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-01T03:01:03Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
       "ultima_vista": "2026-10-02",
       "expirada": false
     },
@@ -2345,61 +2400,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T05:00:52Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5901243211?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-28T02:32:33Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
-      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5900341248?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-27T02:32:13Z",
-      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
@@ -4588,6 +4588,31 @@
       "expirada": false
     },
     {
+      "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
+      "titulo": "Jr Front End Developer",
+      "empresa": "MATH",
+      "url": "https://www.adzuna.com.br/details/5906620841?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-01T22:22:18Z",
+      "descricao": "/O dia a dia consiste em: - Desenvolver pequenos elementos em HTML, CSS e JavaScript; - Desenvolver relatórios de acompanhamento da frente de sustentação; - Desenvolver elementos em HTM, CSS e JavaScript que acelerem a atualização de conteúdo; - Desenvolver páginas web. /O que você precisa ter: - Superior completo em Tecnologia, Marketing ou áreas correlatas a atuação da MATH; - Conhecimento em CMS; - Conhecimento em linguagens de programação (HTML, Javascript, Angular, Python etc.); - Conhecim…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T07:01:11Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
       "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
       "titulo": "Desenvolvedor Front-end React.js",
       "empresa": "TailorIT",
@@ -4634,6 +4659,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:01:15Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
+      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
+      "titulo": "Desenvolvedor NET Pleno",
+      "empresa": "Rhf talentos",
+      "url": "https://www.adzuna.com.br/details/5906567045?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-01T22:15:40Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T18:43:43Z",
       "ultima_vista": "2026-10-02",
       "expirada": false
     },
@@ -5014,30 +5063,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T07:00:38Z",
       "ultima_vista": "2026-10-02",
-      "expirada": false
-    },
-    {
-      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
-      "titulo": "Desenvolvedor NET Pleno",
-      "empresa": "RHF Talentos",
-      "url": "https://www.adzuna.com.br/details/5899107405?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T23:28:25Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T18:43:43Z",
-      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -8422,6 +8447,28 @@
       "expirada": false
     },
     {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5906569283?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-01T22:16:09Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
       "id": "dd8e2c9fbf1ba81917b7af3694d2bd93c37ea7cf",
       "titulo": "DESENVOLVIDOR FULLSTACK REACT | São Paulo - SP",
       "empresa": "Teltex Tecnologia S/A",
@@ -8963,28 +9010,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T01:00:55Z",
       "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5899117488?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T23:29:53Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
