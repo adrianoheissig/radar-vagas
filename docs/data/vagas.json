@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-02T07:02:44Z",
+  "atualizado_em": "2026-10-02T13:02:45Z",
   "total": 425,
   "vagas": [
     {
@@ -395,37 +395,14 @@
       "expirada": false
     },
     {
-      "id": "92874ad8806f279349ec6fc9eb41327e12761cb6",
-      "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota",
-      "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/details/5906586633?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Barueri, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-01T22:20:06Z",
-      "descricao": "O que buscamos Buscamos um(a) Desenvolvedor(a) Front-end ou Full Stack para atuar na squad responsável pelo desenvolvimento do MVP2 do projeto ConectaJur. O projeto contempla a criação de um novo módulo financeiro para o departamento jurídico e outras iniciativas necessárias para a integração do Xgracco , aplicação de mercado, com os sistemas Bradesco. O profissional atuará no desenvolvimento de aplicações web, utilizando Angular, React JS ou React Native , além de participar da definição de so…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-02T03:01:03Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": false
-    },
-    {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
       "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5902722628?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5907830783?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T07:47:02Z",
+      "data_publicacao": "2026-10-02T07:54:50Z",
       "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
       "score": 70,
       "skills_match": [
@@ -446,7 +423,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-09-30",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
+      "id": "92874ad8806f279349ec6fc9eb41327e12761cb6",
+      "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota",
+      "empresa": "Gft Brasil",
+      "url": "https://www.adzuna.com.br/details/5906586633?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Barueri, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-01T22:20:06Z",
+      "descricao": "O que buscamos Buscamos um(a) Desenvolvedor(a) Front-end ou Full Stack para atuar na squad responsável pelo desenvolvimento do MVP2 do projeto ConectaJur. O projeto contempla a criação de um novo módulo financeiro para o departamento jurídico e outras iniciativas necessárias para a integração do Xgracco , aplicação de mercado, com os sistemas Bradesco. O profissional atuará no desenvolvimento de aplicações web, utilizando Angular, React JS ou React Native , além de participar da definição de so…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T03:01:03Z",
+      "ultima_vista": "2026-10-02",
       "expirada": false
     },
     {
@@ -1953,6 +1953,56 @@
       "expirada": false
     },
     {
+      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
+      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907829239?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-02T07:54:38Z",
+      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
+      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
+      "titulo": "ANALISTA DE SISTEMAS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907824290?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T07:54:09Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:20Z",
+      "ultima_vista": "2026-10-02",
+      "expirada": false
+    },
+    {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2532,30 +2582,6 @@
       "expirada": false
     },
     {
-      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
-      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5899543024?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-26T07:46:09Z",
-      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
       "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
       "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2603,32 +2629,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
-      "titulo": "ANALISTA DE SISTEMAS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898177535?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T07:46:04Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:20Z",
-      "ultima_vista": "2026-09-26",
       "expirada": false
     },
     {
