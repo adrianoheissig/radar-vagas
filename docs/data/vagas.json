@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-03T00:23:06Z",
-  "total": 432,
+  "atualizado_em": "2026-10-03T01:02:31Z",
+  "total": 437,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1973,6 +1973,34 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "0ffb892bfbfdd5d0ac292fca58a307b2f51b2443",
+      "titulo": "Pessoa Analista Programadora .NET Core Pleno ou",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5909039806?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-02T21:50:16Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Analista Desenvolvedora.Net Web ou Core para fazer parte do nosso time de pessoas incríveis! E para ser do time, é importante que você tenha: - Asp.net Core / ASP.NET: Visual Basic.Net / C#/ MVC - API’s Rest, WebServices, WCF; - Angular.JS (Desejável); - Oracle PL/SQL e SQL Server; - Trabalhar com Framework da empresa; - Noções de Devops; - Inglês Intermediário - ASP Clássico. Local de trabalho: Remoto Sobre a NAVA Somos uma empresa de tecnologia apaixonada po…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:57Z",
+      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -6133,6 +6161,51 @@
       "expirada": false
     },
     {
+      "id": "9a4bc710161fc752f97d47d5150b22a2ea1e99ff",
+      "titulo": "Desenvolvedor Web/ Front- End Jr/pl",
+      "empresa": "Taking",
+      "url": "https://www.adzuna.com.br/details/5909039811?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-02T21:50:16Z",
+      "descricao": "Código: 1743 Modelo: Hibrido - Vila Mariana. Contrato: CLT Beneficios. - Desenvolverdor WEB Front End Pleno com conhecimento em HTML,CSS,JS E REACT.",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "da0fb3fc46117df06f6fcb6c486491a0a917f3d9",
+      "titulo": "Desenvolvedor Full Stack Pleno-react e Node",
+      "empresa": "KVOIP BRASIL TELECOM",
+      "url": "https://www.adzuna.com.br/details/5909022965?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T21:47:46Z",
+      "descricao": "Funções da vaga: - Desenvolver e aprimorar nosso ERP, integrando APIs e implementando novas funcionalidades. - Trabalhar com banco de dados PostgreSQL (modelagem, queries e manutenção). - Atuar tanto no front-end quanto no back-end da plataforma. - Corrigir eventuais falhas, garantindo a estabilidade do sistema. - Contribuir ativamente com sugestões de melhorias para o produto e para os processos da empresa. Requisitos necessários para a vaga: - Experiência sólida em desenvolvimento fullstack (…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "9f2753f6e82119e94147cb03d19536738a06796b",
       "titulo": "Desenvolvedor Back-end Node.js",
       "empresa": "Innolevels",
@@ -8512,6 +8585,46 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "44b3e8de9d8d70e02e7bfc51a7fa4c8358b2e829",
+      "titulo": "Analista de Requisitos",
+      "empresa": "Accenture",
+      "url": "https://www.adzuna.com.br/details/5909039214?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T21:50:11Z",
+      "descricao": "Accenture Operations SynOps for Marketing Paid Media Hub está procurando engenheiros de software experientes interessados em trabalhar em aplicativos Web React.js e flexíveis para trabalhar em Full Stack. - Atividades:_ O profissional com este perfil realizará as atividades pertinentes à definição e à gestão dos requisitos para implantação de Infraestrutura de TI (plataforma de Contact Center). O profissional atuará em projeto para: - Análise do problema dos usuários e stakeholders - Definição …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "8f546f0b7230a1bab048279e2f16bdabd3e6e633",
+      "titulo": "Data Science Modelling",
+      "empresa": "Mondelēz International",
+      "url": "https://www.adzuna.com.br/details/5909020264?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T21:47:28Z",
+      "descricao": "Descrição do emprego: Are You Ready to Make It Happen at Mondelēz International? Join our Mission to Lead the Future of Snacking. Make It With Pride. You will help our business react to changing business conditions with excellent data analysis. You will define the requirements, perform the analysis and identify patterns in large amounts of data. How you will contribute You will: - Define requirements for analysis in a given business area and perform detailed analysis and identify trends defined…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
