@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-03T01:02:31Z",
-  "total": 437,
+  "atualizado_em": "2026-10-03T07:02:44Z",
+  "total": 440,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1007,6 +1007,30 @@
       "expirada": false
     },
     {
+      "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
+      "titulo": "DESENVOLVEDOR .NET",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907822295?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-02T07:53:53Z",
+      "descricao": "Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP.",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:36Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
       "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
       "empresa": "",
@@ -1051,30 +1075,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T09:00:36Z",
       "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
-      "titulo": "DESENVOLVEDOR .NET",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898175229?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-25T07:45:50Z",
-      "descricao": "Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP.",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:36Z",
-      "ultima_vista": "2026-09-26",
       "expirada": false
     },
     {
@@ -1976,6 +1976,33 @@
       "expirada": false
     },
     {
+      "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
+      "titulo": "Analista de Testes",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5909443140?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:09:55Z",
+      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "NestJS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "0ffb892bfbfdd5d0ac292fca58a307b2f51b2443",
       "titulo": "Pessoa Analista Programadora .NET Core Pleno ou",
       "empresa": "NAVA - Technology for Business",
@@ -2000,6 +2027,27 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:57Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "663c645ce3ecd89c1e45d5b6441c8c7f71bbaed3",
+      "titulo": "Programador Fullstack Java - React 100% Remoto",
+      "empresa": "SAAM Auditoria",
+      "url": "https://www.adzuna.com.br/details/5909030654?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Anápolis, Goiás",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-02T21:48:56Z",
+      "descricao": "Sobre a empresa: Somos a SISAUDCON! Fundada em 2011 na cidade de Anápolis/GO. Somos a detentora dos direitos de desenvolvimento e inteligência do sistema SAAM Auditoria. Buscamos e oferecemos inovação em soluções tecnológicas no âmbito fiscal e contábil. Sobre a vaga: - Desenvolvimento e manutenção do sistema; - Colaboração com equipes multidisciplinares para definir requesitos e arquitetura de software; - Implementação de melhores práticas de engenharia de software; - Avaliação e implementação…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:03Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -2081,6 +2129,32 @@
       "expirada": false
     },
     {
+      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
+      "titulo": "Analista De Sistemas - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5907428701?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T02:35:12Z",
+      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:17Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2139,33 +2213,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
-      "titulo": "Analista de Testes",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5906557402?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:14:27Z",
-      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -4024,6 +4071,27 @@
       "expirada": true
     },
     {
+      "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
+      "titulo": "Desenvolvedor React Pleno",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5909466087?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-03T02:14:15Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: atuação Remota Período indeterminado Habilidades: Requisitos: React.js Node.js Formação Acadêmica: Não informado Salário: A combinar Cargo: Analista de desenvolvimento sistemas Empresa: Decision group Atua com consultoria de mão de obra de serviços de tecnologia. Ramo: Recursos Humanos/ Recrutamento e seleção (DC)",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "",
@@ -4416,27 +4484,6 @@
       "expirada": false
     },
     {
-      "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
-      "titulo": "Desenvolvedor React Pleno",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5880174637?utm_medium=api&utm_source=267e525f&v=449772013923CC1BEC6359BEBA2133F140E7FA22",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-11T19:30:10Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: atuação Remota Período indeterminado Habilidades: Requisitos: React.js Node.js Formação Acadêmica: Não informado Salário: A combinar Cargo: Analista de desenvolvimento sistemas Empresa: Decision group Atua com consultoria de mão de obra de serviços de tecnologia. Ramo: Recursos Humanos/ Recrutamento e seleção (FB)",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-09-15",
-      "expirada": true
-    },
-    {
       "id": "20de4038e54c5e4962cea2ea951ccefaae227e29",
       "titulo": "Pessoa Desenvolvedora Fullstack Node/React III - Venda Direta",
       "empresa": "Grupo Boticário",
@@ -4642,6 +4689,31 @@
       "expirada": false
     },
     {
+      "id": "d64a8bb568049dc2a2c0d920341b0abc9373af2c",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5909447320?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:10:31Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "56dfde1d588b39879914b9cfb5bf5d9f388ac499",
       "titulo": "Programador .NET",
       "empresa": "Urbano Informatica",
@@ -4759,31 +4831,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T18:43:43Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "d64a8bb568049dc2a2c0d920341b0abc9373af2c",
-      "titulo": "Desenvolvedor Front-end React",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5906554721?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:14:00Z",
-      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -6161,6 +6208,58 @@
       "expirada": false
     },
     {
+      "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
+      "titulo": "Desenvolvedor Java PLSR",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5909453807?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-03T02:12:34Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Período: 3 meses, (17/08/2026 até 17/11/2026) - não há informação sobre perspectivas de extensão. 100% remoto Inglês avançado/fluente Habilidades: Requisitos: Responsibilities: Design and implement microservices-based solutions using Java, Spring Boot, and related technologies. Apply microservices patterns and best practices for security and scalability. Collaborate on system and netwo…",
+      "score": 40,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "9f2753f6e82119e94147cb03d19536738a06796b",
+      "titulo": "Desenvolvedor Back-end Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5909443680?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:09:59Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "Redis",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:15Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "9a4bc710161fc752f97d47d5150b22a2ea1e99ff",
       "titulo": "Desenvolvedor Web/ Front- End Jr/pl",
       "empresa": "Taking",
@@ -6202,34 +6301,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "9f2753f6e82119e94147cb03d19536738a06796b",
-      "titulo": "Desenvolvedor Back-end Node.js",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5906559228?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:14:40Z",
-      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "Redis",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:15Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -7783,30 +7854,6 @@
       "expirada": true
     },
     {
-      "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
-      "titulo": "Desenvolvedor Java PLSR",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5880174766?utm_medium=api&utm_source=267e525f&v=907707105F397A3D8878B53B362657968F4CB8C2",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-11T19:30:11Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Período: 3 meses, (17/08/2026 até 17/11/2026) - não há informação sobre perspectivas de extensão. 100% remoto Inglês avançado/fluente Habilidades: Requisitos: Responsibilities: Design and implement microservices-based solutions using Java, Spring Boot, and related technologies. Apply microservices patterns and best practices for security and scalability. Collaborate on system and netwo…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Spring",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-09-15",
-      "expirada": true
-    },
-    {
       "id": "744fd634880fb11532a7a1fcd56cfaf430507b14",
       "titulo": "Software Engineering Manager",
       "empresa": "Smart Sky Serviços Ltda",
@@ -8588,6 +8635,50 @@
       "expirada": false
     },
     {
+      "id": "b688a539c20ceda6676322abef5d6a951216d2a8",
+      "titulo": "Desenvolvedor Java FullStack PL",
+      "empresa": "Union it",
+      "url": "https://www.adzuna.com.br/details/5909491842?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:18:12Z",
+      "descricao": "A Union IT é uma consultoria de tecnologia que acredita que pessoas fazem toda a diferença. e isso vale tanto para os clientes quanto para quem trabalha aqui. Atuamos em projetos desafiadores, com times que gostam de colaborar de verdade, sem aquela formalidade desnecessária. Se você está começando a carreira e quer aprender num ambiente que te apoia, pode ter chegado ao lugar certo. O que você vai fazer Desenvolver e evoluir aplicações utilizando Java e o framework Spring Boot. Atuar no desenv…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:10:53Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5909450238?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:10:57Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "44b3e8de9d8d70e02e7bfc51a7fa4c8358b2e829",
       "titulo": "Analista de Requisitos",
       "empresa": "Accenture",
@@ -8624,6 +8715,26 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
+      "id": "fb59be35154b4e3262b00ec463f14cd05690a154",
+      "titulo": "Analista De Sistemas Java Pleno",
+      "empresa": "Brasilprev",
+      "url": "https://www.adzuna.com.br/details/5908448423?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-02T13:41:25Z",
+      "descricao": "Description Na Brasilprev, temos o propósito: \" Transformar o jeito como o brasileiro se prepara para o futuro!\" Somos a maior empresa de previdência privada do país, líder de mercado e estamos em busca de um profissional dinâmico, colaborativo, com boas ideias e mão na massa! Se você tem experiência com desenvolvimento de serviços back end e front end e interesse em fazer parte da nossa Gerência de Desenvolvimento de Sistemas , é você quem procuramos! Venha fazer parte do nosso time Responsibi…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:17Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -8714,28 +8825,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:13Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5906569283?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:16:09Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -10088,28 +10177,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:10:53Z",
       "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "b688a539c20ceda6676322abef5d6a951216d2a8",
-      "titulo": "Desenvolvedor Java FullStack PL",
-      "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/land/ad/5871587393?utm_medium=api&utm_source=267e525f&v=C263E96D3D7C070FB54D60AF0EBCBC0F9A7C6B5C",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-05T02:51:58Z",
-      "descricao": "A Union IT é uma consultoria de tecnologia que acredita que pessoas fazem toda a diferença. e isso vale tanto para os clientes quanto para quem trabalha aqui. Atuamos em projetos desafiadores, com times que gostam de colaborar de verdade, sem aquela formalidade desnecessária. Se você está começando a carreira e quer aprender num ambiente que te apoia, pode ter chegado ao lugar certo. O que você vai fazer Desenvolver e evoluir aplicações utilizando Java e o framework Spring Boot. Atuar no desenv…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:10:53Z",
-      "ultima_vista": "2026-09-19",
       "expirada": false
     },
     {
