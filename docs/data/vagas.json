@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-03T11:02:22Z",
-  "total": 440,
+  "atualizado_em": "2026-10-03T13:02:42Z",
+  "total": 441,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1976,6 +1976,31 @@
       "expirada": false
     },
     {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5909825658?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-03T07:56:10Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-10-03",
+      "expirada": false
+    },
+    {
       "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
       "titulo": "Analista de Testes",
       "empresa": "Innolevels",
@@ -2075,30 +2100,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "DESENVOLVEDOR ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907829339?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-02T07:54:39Z",
-      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -2440,31 +2441,6 @@
       "expirada": false
     },
     {
-      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
-      "titulo": "DESENVOLVEDOR UI / REACT",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5903785702?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T07:46:57Z",
-      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T13:01:04Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -2778,6 +2754,36 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "Desenvolvedor Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T22:17:03Z",
+      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -4680,6 +4686,27 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "9c845a875bc1c51226b6d293d0735bdd1efd687a",
+      "titulo": "Desenvolvedor Fullstack Java/React Júnior",
+      "empresa": "Nava | Tech For Business",
+      "url": "https://www.adzuna.com.br/details/5909826326?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T07:56:13Z",
+      "descricao": "A Nava está buscando um Desenvolvedor FullStack Java/React Júnior, para atuar no desenvolvimento, sustentação e evolução de aplicações FrontEnd e BackEnd, participando desde a concepção das soluções até a implementação. A posição terá interação com diferentes áreas e envolvidos no projeto, apoiando o levantamento de requisitos, acompanhamento de cronogramas, resolução de problemas e garantia da qualidade das entregas. Requisitos obrigatórios Experiência no desenvolvimento de aplicações utilizan…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T13:00:52Z",
+      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
