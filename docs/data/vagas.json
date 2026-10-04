@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-04T01:02:36Z",
-  "total": 446,
+  "atualizado_em": "2026-10-04T07:02:45Z",
+  "total": 448,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2001,6 +2001,38 @@
       "expirada": false
     },
     {
+      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
+      "titulo": "Desenvolvedor Full Stack Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5909448789?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T02:10:43Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:00:54Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
       "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
       "titulo": "Analista de Testes",
       "empresa": "Innolevels",
@@ -2206,38 +2238,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
-      "titulo": "Desenvolvedor Full Stack Node.js",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5906567574?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:15:45Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:00:54Z",
       "ultima_vista": "2026-10-03",
       "expirada": false
     },
@@ -4071,6 +4071,54 @@
       "expirada": true
     },
     {
+      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
+      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5911150948?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-04T02:34:29Z",
+      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
+      "score": 50,
+      "skills_match": [
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
+      "id": "7e8d2103db4ddb354486d608ed5fb46a74bd8242",
+      "titulo": "Desenvolvedores Mobile - 100% Remoto",
+      "empresa": "HrSoul -",
+      "url": "https://www.adzuna.com.br/details/5910715792?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-03T21:48:36Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: CLT Benefícios: Assistência Médica, Assistência odontológica, Seguro de Vida, Vale-refeição Descrição: Experiência com análise e desenvolvimento de sistemas utilizando Android Studio e Firebase; Vivência com banco de dados SQL Server; Desejável experiência com Eclipse e React; Imprescindível Inglês Avançado; Graduação completa em TI e/ou áreas correlatas; Atuação 100% remota.",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Firebase"
+      ],
+      "lacunas": [
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T07:00:56Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
       "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
       "titulo": "Desenvolvedor React Pleno",
       "empresa": "Decision group",
@@ -4155,30 +4203,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-30T13:01:19Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
-      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5900339283?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-27T02:31:55Z",
-      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
-      "score": 50,
-      "skills_match": [
-        "JavaScript",
-        "Node.js",
-        "SQL"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-09-29",
       "expirada": false
     },
     {
@@ -8734,6 +8758,28 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:43Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
+      "id": "071267a2bbb02a6e228c889ae2dbbd860ab3b192",
+      "titulo": "Desenvolvedor full stack",
+      "empresa": "Cadmus",
+      "url": "https://www.adzuna.com.br/details/5910280180?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-03T13:37:29Z",
+      "descricao": "Desenvolvimento e manutenção de sistemas internos da empresa, integrando dados agrícolas, industriais e operacionais em soluções modernas e práticas. Responsabilidades e atribuições Desenvolvimento e manutenção de aplicativo mobile (React Native / Expo) Criação e manutenção de APIs e integrações com sistemas internos Desenvolvimento de automações e scripts em Python Manutenção de Edge Functions e banco de dados PostgreSQL (Supabase) Integração com serviços externos (WhatsApp, APIs meteorológica…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native",
+        "Python",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T07:00:56Z",
       "ultima_vista": "2026-10-04",
       "expirada": false
     },
