@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-04T17:02:32Z",
-  "total": 450,
+  "atualizado_em": "2026-10-04T19:02:34Z",
+  "total": 451,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1998,6 +1998,33 @@
       "expirada": false
     },
     {
+      "id": "b4d6e10328e264a4f727382495447145094b840e",
+      "titulo": "Desenvolvedor(a) Full Stack PHP - Pleno\\u002FSênior",
+      "empresa": "SevenSys",
+      "url": "https://www.adzuna.com.br/details/5911680571?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-04T13:10:48Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno/Sênior para atuar na sustentação de sistemas, contribuindo tecnicamente em um ambiente ágil, colaborativo e dinâmico. Procuramos um profissional com perfil analítico, autonomia e experiência em resolução de problemas e melhorias contínuas. Experiência sólida com desenvolvimento em PHP; Conhecimento em Angular; Conhecimento em Node.js; Experiência com banco de dados Oracle e SQL Server; Vivência com controle de versão utilizando Git; Ex…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PHP",
+        "Oracle",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T18:17:09Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
       "id": "220f13290153f7713d00d3062823cdc046da486d",
       "titulo": "11368 - Desenvolvedor Fullstack Node React",
       "empresa": "Talent Group",
@@ -3121,32 +3148,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "b4d6e10328e264a4f727382495447145094b840e",
-      "titulo": "Desenvolvedor(a) Full Stack PHP - Pleno\\u002FSênior",
-      "empresa": "SevenSys",
-      "url": "https://www.adzuna.com.br/details/5889490043?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-18T12:48:06Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno/Sênior para atuar no desenvolvimento, sustentação e evolução de sistemas, contribuindo tecnicamente em um ambiente ágil, colaborativo e dinâmico. Procuramos um profissional com perfil analítico, autonomia e experiência em resolução de problemas e melhorias contínuas. Experiência sólida com desenvolvimento em PHP; Conhecimento em Angular; Conhecimento em Node.js; Experiência com banco de dados Oracle e SQL Server; Vivência com controle …",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "PHP",
-        "Oracle",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T18:17:09Z",
-      "ultima_vista": "2026-09-25",
       "expirada": false
     },
     {
@@ -4759,6 +4760,30 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "9618937cc2eb4cbddb4da4e81fafd338428a0bef",
+      "titulo": "Desenvolvedor .NET Pleno",
+      "empresa": "Região Sudeste",
+      "url": "https://www.adzuna.com.br/details/5911671084?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-04T13:01:16Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T19:01:02Z",
+      "ultima_vista": "2026-10-04",
       "expirada": false
     },
     {
