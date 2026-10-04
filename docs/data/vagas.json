@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-04T15:17:06Z",
-  "total": 448,
+  "atualizado_em": "2026-10-04T17:02:32Z",
+  "total": 450,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -391,6 +391,28 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
+      "id": "4d467fe52107053211c4370ef2c5caebbcde798b",
+      "titulo": "‍ | Fullstack Developer (Java Angular/React) | Mid-level",
+      "empresa": "Vem ser GX2",
+      "url": "https://www.adzuna.com.br/details/5911628611?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-04T12:33:00Z",
+      "descricao": "[Fullstack Developer (Java Angular/React) | Mid-level] Remoto | 44h semanais Para você nos conhecer melhor Desenvolvemos pessoas, softwares & negócios 16 anos de experiência desenvolvendo software em 4 continentes com NPS 84, nos colocando em zona de excelência! Atuamos no desenvolvimento de soluções digitais (web, mobile, BI, RPA, entre outros), com sedes em São Paulo, Porto Alegre, Belo Horizonte e EUA. Overview da oportunidade: Estamos em busca de uma Pessoa Desenvolvedor(a) FullStack Java…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T17:01:03Z",
       "ultima_vista": "2026-10-04",
       "expirada": false
     },
@@ -1973,6 +1995,33 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "220f13290153f7713d00d3062823cdc046da486d",
+      "titulo": "11368 - Desenvolvedor Fullstack Node React",
+      "empresa": "Talent Group",
+      "url": "https://www.adzuna.com.br/details/5911628853?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-04T12:33:59Z",
+      "descricao": "Detalhes da vaga Oportunidade em uma das maiores operadoras de Saúde do Brasil!Se você busca desafios reais, ambiente colaborativo e a chance de atuar em soluções de grande impacto nacional, essa vaga é para você!Profissional será responsável pela construção de APIs escaláveis em Node.js e interfaces em React para gestão, auditoria e monitoramento, além da implementação de arquiteturas de microsserviços com Docker e Kubernetes.Requisitos:Experiência prática com Node.js (Express, NestJS ou simil…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Express",
+        "NestJS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T17:00:37Z",
+      "ultima_vista": "2026-10-04",
       "expirada": false
     },
     {
