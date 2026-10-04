@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-04T07:02:45Z",
+  "atualizado_em": "2026-10-04T13:02:29Z",
   "total": 448,
   "vagas": [
     {
@@ -4713,6 +4713,32 @@
       "expirada": false
     },
     {
+      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
+      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5911389091?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-04T08:01:35Z",
+      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-10-04",
+      "expirada": false
+    },
+    {
       "id": "9c845a875bc1c51226b6d293d0735bdd1efd687a",
       "titulo": "Desenvolvedor Fullstack Java/React Júnior",
       "empresa": "Nava | Tech For Business",
@@ -5008,32 +5034,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
       "ultima_vista": "2026-10-02",
-      "expirada": false
-    },
-    {
-      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
-      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5903786643?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T07:47:03Z",
-      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-01",
       "expirada": false
     },
     {
