@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-05T19:02:48Z",
-  "total": 454,
+  "atualizado_em": "2026-10-05T19:13:20Z",
+  "total": 455,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -391,6 +391,29 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-05",
+      "expirada": false
+    },
+    {
+      "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
+      "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
+      "empresa": "Gft Brasil",
+      "url": "https://www.adzuna.com.br/details/5912802627?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Barueri, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-05T14:22:41Z",
+      "descricao": "O que buscamos Buscamos um(a) Desenvolvedor(a) Front-end ou Full Stack para atuar na squad responsável pelo desenvolvimento do MVP2 do projeto ConectaJur. O projeto contempla a criação de um novo módulo financeiro para o departamento jurídico e outras iniciativas necessárias para a integração do Xgracco , aplicação de mercado, com os sistemas Bradesco. O profissional atuará no desenvolvimento de aplicações web, utilizando Angular, React JS ou React Native , além de participar da definição de so…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-05T19:11:44Z",
       "ultima_vista": "2026-10-05",
       "expirada": false
     },
