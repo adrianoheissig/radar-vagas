@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-06T05:02:47Z",
+  "atualizado_em": "2026-10-06T07:02:27Z",
   "total": 458,
   "vagas": [
     {
@@ -2073,6 +2073,36 @@
       "expirada": false
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-06T02:35:46Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
       "titulo": "Remote Angular Developer",
       "empresa": "",
@@ -2513,36 +2543,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T07:01:17Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907421849?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-02T02:34:14Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -6622,6 +6622,30 @@
       "expirada": false
     },
     {
+      "id": "2599d5b6b682289b868a8c5ff43fbc01987e04e0",
+      "titulo": "Desenvolvedor.Net",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913093512?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-05T21:59:25Z",
+      "descricao": "Desenvolvedor.Net - NET | React | AWS?? Atuação 100% remota?? Modelo de contratação: CLT Benefícios Estamos em busca de um(a) Desenvolvedor(a) Full Stack para fazer parte de um time de alta performance no desenvolvimento de produtos inovadores para o setor bancário. Atividades a serem executadas:Desenvolver e manter aplicações web utilizando React, C# e . NETProjetar e implementar integrações com bancos de dados PostgreSQLConstruir e manter serviços em ambientes cloud (preferencialmente AWS), …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "990f84524f9b1888c2f051d7227c8d8b943e29c2",
       "titulo": "Desenvolvedores .Net/React",
       "empresa": "",
@@ -6877,30 +6901,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": false
-    },
-    {
-      "id": "2599d5b6b682289b868a8c5ff43fbc01987e04e0",
-      "titulo": "Desenvolvedor.Net",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5904350870?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T21:23:48Z",
-      "descricao": "Desenvolvedor.Net - NET | React | AWS?? Atuação 100% remota?? Modelo de contratação: CLT Benefícios Estamos em busca de um(a) Desenvolvedor(a) Full Stack para fazer parte de um time de alta performance no desenvolvimento de produtos inovadores para o setor bancário. Atividades a serem executadas:Desenvolver e manter aplicações web utilizando React, C# e . NETProjetar e implementar integrações com bancos de dados PostgreSQLConstruir e manter serviços em ambientes cloud (preferencialmente AWS), …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
       "ultima_vista": "2026-10-05",
       "expirada": false
     },
