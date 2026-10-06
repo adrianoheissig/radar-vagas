@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-06T13:02:37Z",
+  "atualizado_em": "2026-10-06T15:02:31Z",
   "total": 463,
   "vagas": [
     {
@@ -2073,6 +2073,33 @@
       "expirada": false
     },
     {
+      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
+      "titulo": "Analista de Testes - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5913837719?utm_medium=api&utm_source=267e525f&v=68C0556377AB471E771056EA26E4510885ECC237",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T10:17:14Z",
+      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "NestJS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T01:00:55Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
       "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
       "empresa": "",
@@ -2100,21 +2127,27 @@
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-06T02:35:22Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-06T02:35:46Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
       "score": 55,
       "skills_match": [
         "Angular",
         "TypeScript",
+        "JavaScript",
         "HTML",
         "CSS",
-        "Git"
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
       ],
-      "lacunas": [],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-06",
@@ -2190,33 +2223,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
-      "titulo": "Analista de Testes - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5912790281?utm_medium=api&utm_source=267e525f&v=F78038F8B872C599BD024BF84D6007B4C0AFA8A2",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T14:20:32Z",
-      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-10-06",
       "expirada": false
     },
@@ -4887,14 +4893,39 @@
       "expirada": false
     },
     {
-      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
-      "titulo": "Desenvolvedor Fullstack - SP",
+      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
+      "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5913300007?utm_medium=api&utm_source=267e525f&v=FC5F2114732F756D3D12C559B826615B0A20D1A1",
+      "url": "https://www.adzuna.com.br/land/ad/5913837860?utm_medium=api&utm_source=267e525f&v=BF1DF2790C6EE0572FA6DAB20DADC23B4000CD44",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T00:15:54Z",
+      "data_publicacao": "2026-10-06T10:17:20Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T01:00:55Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
+      "titulo": "Desenvolvedor Fullstack - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5913837041?utm_medium=api&utm_source=267e525f&v=ED7B709B33E1AD4E4E402A57335E6AA577126EFF",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T10:16:49Z",
       "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
       "score": 45,
       "skills_match": [
@@ -4976,31 +5007,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T09:01:09Z",
-      "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
-      "titulo": "Desenvolvedor Front-end React - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5912791637?utm_medium=api&utm_source=267e525f&v=DD6D7EF8779C9BD24D41F2BD148DEEF81CCBCE13",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T14:20:44Z",
-      "descricao": "Estamos contratando Desenvolvedor Front-end React para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. É necessário o conhecimento em: React (Hooks, composição, performance); JavaScript/TypeScript; Next.js (SSR, rotas, otimizações); Conhecimento em gerenciamento de estado moderno (ex: Jotai, Context API ou similares) React Query; APIs REST (uso de Axios ou similares); E…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-10-06",
       "expirada": false
     },
