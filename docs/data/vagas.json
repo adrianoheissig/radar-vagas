@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-05T19:13:20Z",
-  "total": 455,
+  "atualizado_em": "2026-10-06T01:02:24Z",
+  "total": 457,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -131,7 +131,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T21:01:41Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -158,7 +158,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:56Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -321,7 +321,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -359,7 +359,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -391,7 +391,59 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "54445c7ebb6a4125983a3cb5bd3d680369ab4e24",
+      "titulo": "Desenvolvedor Front-end Pleno",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5913083073?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-05T21:54:38Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Angular e/ou React; - HTML; - CSS; - Javascript. Atuação 100% remota. Tem interesse? “Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas” Tipo de vaga: Tempo …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T01:00:49Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "391637c26c32eb11855415c2ad925f3fb2194cc9",
+      "titulo": "Desenvolvedor PHP",
+      "empresa": "Peak One Dev",
+      "url": "https://www.adzuna.com.br/details/5913082096?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:54:32Z",
+      "descricao": "Welcome to Peak One In this role, you’ll be collaborating with a growthing international startup, so excellent English communication skills are a must, as the client values direct communication with our developers. Responsibilities - Utilize extensive experience in PHP to develop robust backend systems. - Convert Figma designs into pixel-perfect HTML/CSS/JS code, adhering to design specifications. - Implement frontend functionality using React, Angular, or Vue.js, contributing to a smooth user …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Figma"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "PHP",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T01:00:49Z",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -414,7 +466,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-05T19:11:44Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -436,7 +488,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:01:03Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -593,7 +645,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-25T15:01:46Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -703,7 +755,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:01:12Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b0d6eb3b9b6090ab6b08c77a05e0b6445fca0d9e",
@@ -733,7 +785,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T09:01:09Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
@@ -1935,7 +1987,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -1965,7 +2017,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "3b3a3f3a19d14dfb1171d1c5bc7eadad05fbabed",
@@ -2049,7 +2101,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -2076,7 +2128,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -2156,7 +2208,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:00:37Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -2183,7 +2235,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -2343,7 +2395,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -2501,7 +2553,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:37Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -3026,7 +3078,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -3303,7 +3355,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -3464,7 +3516,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -3536,7 +3588,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "aed3cab75b4ad8ddc514a8ea63a8f644ba5d6dd1",
@@ -3684,7 +3736,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "67b69435309ca402a189178c1b4cbd612add5c2f",
@@ -3879,7 +3931,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -4392,7 +4444,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T17:01:00Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -4483,7 +4535,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:51Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "4c27bedf777c8f5d70f3e72de362213f2a0d83c7",
@@ -4507,7 +4559,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:56Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "ed0a35f875da043c83aed9ed6b23bc5331d8e5b1",
@@ -4672,7 +4724,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -4833,7 +4885,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -4937,7 +4989,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -4958,7 +5010,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T13:00:52Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -5660,7 +5712,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:01:02Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "172bd023e973d09021a5da7cfe52a89fc30fc2ec",
@@ -5684,7 +5736,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:01:06Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "8a0a18398fe525aee110bae53fcbc92cf6a924d9",
@@ -5809,7 +5861,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -6069,7 +6121,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -6258,7 +6310,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-16T11:22:59Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -6422,7 +6474,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -6893,7 +6945,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -7200,7 +7252,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -7318,7 +7370,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T18:57:32Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -7484,7 +7536,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -7508,7 +7560,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:51Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "99fb9ad1cebf4faa4f577f8db5c0f127abfe2ab3",
@@ -7534,7 +7586,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:51Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "cc797f2c17d05f5aed2900fe73495d9d838385f9",
@@ -7556,7 +7608,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:56Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "1c1f7e4ab140cd9e32c6ec4289fc0f11ff5d02c3",
@@ -7575,7 +7627,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T17:00:57Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -8181,7 +8233,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -8589,7 +8641,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "61e0ddb389cd8a9651245f581f1845238010acf7",
@@ -8698,7 +8750,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -8853,7 +8905,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:36Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -8933,7 +8985,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T18:52:23Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -8963,7 +9015,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9005,7 +9057,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T07:00:56Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9174,7 +9226,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9198,7 +9250,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9220,7 +9272,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:13Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9243,7 +9295,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:37Z",
-      "ultima_vista": "2026-10-04",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9265,7 +9317,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:41Z",
-      "ultima_vista": "2026-10-05",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -10014,7 +10066,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:56Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d5a4b1e0d17d7b2081878c78ef15e2c4babcb2ce",
@@ -10034,7 +10086,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:43Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
@@ -10771,7 +10823,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-21",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "621d5c548c5a4e41267685839779cd8067fe9fa1",
