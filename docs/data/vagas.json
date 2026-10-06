@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-06T01:44:50Z",
-  "total": 457,
+  "atualizado_em": "2026-10-06T05:02:47Z",
+  "total": 458,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -4864,6 +4864,31 @@
       "expirada": false
     },
     {
+      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
+      "titulo": "Desenvolvedor Fullstack - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5913300007?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T00:15:54Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T05:00:40Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack.Net Angular",
       "empresa": "",
@@ -6458,6 +6483,34 @@
       "expirada": false
     },
     {
+      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
+      "titulo": "Desenvolvedor Back-end Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5913299091?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T00:15:21Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "NestJS",
+        "GraphQL",
+        "Redis",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:01:10Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
       "titulo": "Remote Junior React Developer",
       "empresa": "",
@@ -7012,34 +7065,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
-      "titulo": "Desenvolvedor Back-end Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5903058561?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-29T18:05:45Z",
-      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Node.js; NestJS; TypeScript; APIs REST e/ou GraphQL; Microsserviços; Redis; Experiência com consumo de APIs (Axios ou similares); Jest; Vivência com boas práticas de código (ESLint, Prettier); Cloud AW…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "NestJS",
-        "GraphQL",
-        "Redis",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:01:10Z",
       "ultima_vista": "2026-10-01",
       "expirada": false
     },
