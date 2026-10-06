@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-06T17:02:24Z",
+  "atualizado_em": "2026-10-06T19:02:41Z",
   "total": 463,
   "vagas": [
     {
@@ -2100,6 +2100,30 @@
       "expirada": false
     },
     {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "DESENVOLVEDOR ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913667923?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T08:00:12Z",
+      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
       "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
       "empresa": "",
@@ -2127,27 +2151,21 @@
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-06T02:35:46Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T02:35:22Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
       "score": 55,
       "skills_match": [
         "Angular",
         "TypeScript",
-        "JavaScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
+        "Git"
       ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-06",
@@ -2931,36 +2949,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "Desenvolvedor Angular",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-24T22:17:03Z",
-      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -5038,7 +5026,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/land/ad/5912778208?utm_medium=api&utm_source=267e525f&v=DF42E9ABCA33DACC1720EB04D66BEB5C0F1CE388",
+      "url": "https://www.adzuna.com.br/details/5912778208?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
