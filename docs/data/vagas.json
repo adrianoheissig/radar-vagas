@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-06T09:02:44Z",
-  "total": 462,
+  "atualizado_em": "2026-10-06T13:02:37Z",
+  "total": 463,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2073,6 +2073,30 @@
       "expirada": false
     },
     {
+      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
+      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913667901?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T08:00:11Z",
+      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2141,7 +2165,7 @@
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5912793025?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912793025?utm_medium=api&utm_source=267e525f&v=85253E968B823B307B283C66150DFAB3322FA9B6",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2173,7 +2197,7 @@
       "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
       "titulo": "Analista de Testes - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5912790281?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912790281?utm_medium=api&utm_source=267e525f&v=F78038F8B872C599BD024BF84D6007B4C0AFA8A2",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2461,30 +2485,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
-      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907829239?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-02T07:54:38Z",
-      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -4858,10 +4858,39 @@
       "expirada": false
     },
     {
+      "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
+      "titulo": "Analista Devops",
+      "empresa": "MK BR S.A",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-devops-em-sao-paulo__12088237.aspx",
+      "fonte": "infojobs",
+      "local": "Barueri - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-06T11:44:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional DevOps para atuar presencialmente, em Barueri/Alphaville-SP, contribuindo na sustentação, automação e evolução de ambientes em nuvem, infraestrutura como código, pipelines de CI/CD e tecnologias de containers.\nBuscamos alguém com sólida experiência em AWS, Terraform ou CloudFormation, GitHub Actions, ArgoCD, Linux, Docker e automação, que tenha perfil técnico, analítico e orientação para melhoria contínua dos ambientes e processos.\nPrincipais responsabilidades e conhecimentos\n?? AWS / Cloud\nExperiência com os principais serviços da AWS, incluindo:\nComputação e Containers: Amazon EC2, AWS Lambda, Amazon ECS e Amazon EKS (Kubernetes).\nRedes e Segurança: configuração e administração de VPC, IAM, Route 53 e AWS CloudTrail.\nArmazenamento e Bancos de Dados: Amazon S3, Amazon RDS e Amazon FSx.\n??? Infraestrutura como Código – IaC\nExperiência com Terraform ou AWS CloudFormation.\nAutomação e gerenciamento de infraestrutura de forma padronizada e versionada.\n?? CI/CD\nExperiência na construção e manutenção de pipelines de Integração e Entrega Contínua.\nConhecimento em GitHub Actions.\nConhecimento em ArgoCD e processos de entrega contínua.\n?? Sistemas, Automação e Containers\nSólidos conhecimentos em Linux.\nDesenvolvimento de scripts e automações utilizando Python ou Bash.\nDomínio de Docker e empacotamento de aplicações em containers.\n? Diferenciais\nSerá considerado diferencial:\nConhecimento em…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "C#",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-06T13:01:34Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913300007?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913300007?utm_medium=api&utm_source=267e525f&v=FC5F2114732F756D3D12C559B826615B0A20D1A1",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4954,7 +4983,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5912791637?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912791637?utm_medium=api&utm_source=267e525f&v=DD6D7EF8779C9BD24D41F2BD148DEEF81CCBCE13",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4979,7 +5008,7 @@
       "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
       "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5912781604?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912781604?utm_medium=api&utm_source=267e525f&v=849E48B65EA258280172A5EFB2ECDA34F46BBA83",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "presencial",
@@ -6524,7 +6553,7 @@
       "id": "367ca8c26c0d8dc96924b0210dece410206c9e11",
       "titulo": "Desenvolvedor Back-end Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913299091?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913299091?utm_medium=api&utm_source=267e525f&v=8F1267D6A86D6FCD8FAF0C16971192B7221E5869",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -9141,6 +9170,27 @@
       "expirada": false
     },
     {
+      "id": "f9789c45064346e0ad075e4a1ae5cdfc4713691e",
+      "titulo": "Vaga: Desenvolvedor(A) Backend",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913093023?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:59:20Z",
+      "descricao": "Vaga: Desenvolvedor(A) Backend - Aqui, você vai encontrar um ambiente colaborativo, com liberdade para inovar e oportunidades reais de crescimento técnico e pessoal. Estamos procurando um(a) Desenvolvedor(a) Backend com foco em JavaScript e conhecimento em Java, que também tenha familiaridade com práticas DevOps e queira crescer junto com um time que valoriza boas práticas, autonomia e resultados. ??? O que você vai fazer por aqui:Desenvolver e manter APIs robustas, seguras e escaláveis com JS …",
+      "score": 30,
+      "skills_match": [
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "21d5a528ec3914b435c9fd35bf504665e27ac01c",
       "titulo": "Desenvolvedor(A) Flutter/React Native Pleno",
       "empresa": "",
@@ -9637,27 +9687,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": false
-    },
-    {
-      "id": "f9789c45064346e0ad075e4a1ae5cdfc4713691e",
-      "titulo": "Vaga: Desenvolvedor(A) Backend",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5904350989?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:23:49Z",
-      "descricao": "Vaga: Desenvolvedor(A) Backend - Aqui, você vai encontrar um ambiente colaborativo, com liberdade para inovar e oportunidades reais de crescimento técnico e pessoal. Estamos procurando um(a) Desenvolvedor(a) Backend com foco em JavaScript e conhecimento em Java, que também tenha familiaridade com práticas DevOps e queira crescer junto com um time que valoriza boas práticas, autonomia e resultados. ??? O que você vai fazer por aqui:Desenvolver e manter APIs robustas, seguras e escaláveis com JS …",
-      "score": 30,
-      "skills_match": [
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:36Z",
       "ultima_vista": "2026-10-02",
       "expirada": false
     },
