@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-06T07:02:27Z",
-  "total": 458,
+  "atualizado_em": "2026-10-06T09:02:44Z",
+  "total": 462,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2076,27 +2076,21 @@
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-06T02:35:46Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T02:35:22Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
       "score": 55,
       "skills_match": [
         "Angular",
         "TypeScript",
-        "JavaScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
+        "Git"
       ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-06",
@@ -4913,6 +4907,50 @@
       "expirada": false
     },
     {
+      "id": "dae9851889c6aaf5d67b9220a6c9b268bc0df49a",
+      "titulo": "Desenvolvedor Front End - Angular",
+      "empresa": "Itaú",
+      "url": "https://www.adzuna.com.br/details/5913085186?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:54:48Z",
+      "descricao": "Vem construir a área de tecnologia Itaú_ Somos o Maior banco da América Latina, a marca mais valiosa do Brasil e a segunda melhor empresa para trabalhar segundo o ranking da Great Place to Work US 2021, estamos presentes em 18 países impactando diariamente mais de 55 milhões de clientes através dos nossos produtos e soluções. Queremos ser uma empresa onde pessoas de todos os gêneros, raça, idade, orientação sexual e com deficiência escolham para se desenvolver, com diversidade em clientes, tecn…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:00:57Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "f2f848f9158bdcf2bf47c6121e453010d7c6fcf5",
+      "titulo": "Desenvolvedor(a) Full Stack Júnior / Pleno (Angular C# .NET SQL)",
+      "empresa": "GOL Linhas Aéreas",
+      "url": "https://www.adzuna.com.br/details/5913073902?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:53:37Z",
+      "descricao": "Para esta vaga, estamos em busca de profissionais com experiência como desenvolvedor. Em seu plano de voo, está prevista uma interação com P.O.s (Product Owner de TI) que atendem projetos e demandas das áreas de Backoffice (Recursos Humanos, Auditoria Interna, Compliance, Financeiro, Revenue, Faturamento e Jurídico). Responsabilidades e atribuições: - Os desafios que aguardam por você no próximo destino são: - Realizar o planejamento e execução dos cards nas sprints; - Garantir o escopo solicit…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:01:09Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
@@ -4958,6 +4996,28 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T05:01:04Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
+      "titulo": "Programador .NET - SP",
+      "empresa": "Urbano Informatica",
+      "url": "https://www.adzuna.com.br/details/5912778208?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T14:18:35Z",
+      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:09Z",
       "ultima_vista": "2026-10-06",
       "expirada": false
     },
@@ -5587,28 +5647,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T17:01:02Z",
       "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
-      "titulo": "Programador .NET - SP",
-      "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5895924434?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:58:28Z",
-      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:09Z",
-      "ultima_vista": "2026-09-26",
       "expirada": false
     },
     {
@@ -6531,6 +6569,30 @@
       "expirada": false
     },
     {
+      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
+      "titulo": "Technical Lead Fullstack Java, Aws",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913094948?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-05T21:59:40Z",
+      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "122d3762452ada84edd5bbec7a2eb24bd47438db",
       "titulo": "React / Next.Js Developer",
       "empresa": "",
@@ -6878,30 +6940,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
-    },
-    {
-      "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
-      "titulo": "Technical Lead Fullstack Java, Aws",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5904355755?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T21:24:33Z",
-      "descricao": "Technical Lead Fullstack Java, Aws - REMOTE Payrate: 70 - 90 per hour Full stack Java / React (JavaScript) lead developer. Must have leadership skills, as well as hands on design and development skills. Must have strong AWS services skills, having previously implemented AWS based solutions. Financial services experience is preferred. Tech Lead in our Individual Product journey in the Retirement Strategies Business Unit, you will partner with product owners, designers, engineers and delivery pro…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-05",
       "expirada": false
     },
     {
@@ -9127,6 +9165,98 @@
       "expirada": false
     },
     {
+      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
+      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913092617?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:59:17Z",
+      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "2fc491a7833e4575c053dacd231c99eebc79aaf0",
+      "titulo": "Desenvolvedor Javascript Fullstack",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5913084950?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:54:47Z",
+      "descricao": "Estamos contratando Desenvolvedor JavaScript Fullstack para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Desenvolver aplicações em Java usando SpringBoot e J2EE; - Criar aplicações consultando APIs desenvolvidas em Java; - Montar ambiente de integração com legados; - Conhecimento em WSDL para consumo de dados; - …",
+      "score": 30,
+      "skills_match": [
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:00:41Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "486725198fd713755ea9a712f7e86720ccdde4e5",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Futura Sistemas",
+      "url": "https://www.adzuna.com.br/details/5913084560?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T21:54:46Z",
+      "descricao": "Responsabilidades: Desenvolvimento e manutenção de aplicações web; Realizar a manutenção e criação de novas funcionalidades; Desenvolvimento de funcionalidades no Front-End; Desenvolvimento de APIs de integração. Requisitos: Ter 4 anos de experiência React.js, React Hooks, javascript, html, css, git. Diferenciais: - Conhecimentos em conceitos S.O.L.I.D; - Conhecimentos em Vanilla JS (es6); - Gerenciamento de estado com Redux e Context API; - Otimização de desempenho de componentes React; - Cons…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux"
+      ],
+      "experiencia_exigida": 4,
+      "data_coleta": "2026-10-06T09:00:57Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
+      "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
+      "titulo": "Desenvolvedor Java FullStack PL - SP",
+      "empresa": "Union it",
+      "url": "https://www.adzuna.com.br/details/5912817979?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-05T14:25:20Z",
+      "descricao": "A Union IT é uma consultoria de tecnologia que acredita que pessoas fazem toda a diferença. e isso vale tanto para os clientes quanto para quem trabalha aqui. Atuamos em projetos desafiadores, com times que gostam de colaborar de verdade, sem aquela formalidade desnecessária. Se você está começando a carreira e quer aprender num ambiente que te apoia, pode ter chegado ao lugar certo. O que você vai fazer Desenvolver e evoluir aplicações utilizando Java e o framework Spring Boot. Atuar no desenv…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T21:00:36Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
       "titulo": "Desenvolvedor Mobile - SP",
       "empresa": "Innolevels",
@@ -9508,29 +9638,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-10-02",
-      "expirada": false
-    },
-    {
-      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
-      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5904352755?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:24:05Z",
-      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-10-01",
       "expirada": false
     },
     {
@@ -10534,28 +10641,6 @@
       "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-09-15",
       "expirada": true
-    },
-    {
-      "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
-      "titulo": "Desenvolvedor Java FullStack PL - SP",
-      "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5880178203?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T19:30:31Z",
-      "descricao": "A Union IT é uma consultoria de tecnologia que acredita que pessoas fazem toda a diferença. e isso vale tanto para os clientes quanto para quem trabalha aqui. Atuamos em projetos desafiadores, com times que gostam de colaborar de verdade, sem aquela formalidade desnecessária. Se você está começando a carreira e quer aprender num ambiente que te apoia, pode ter chegado ao lugar certo. O que você vai fazer Desenvolver e evoluir aplicações utilizando Java e o framework Spring Boot. Atuar no desenv…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T21:00:36Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": false
     },
     {
       "id": "a19c77450c116dac150feb8e61791ae5a1de5c22",
