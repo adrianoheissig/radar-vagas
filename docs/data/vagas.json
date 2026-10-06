@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-06T19:02:41Z",
-  "total": 463,
+  "atualizado_em": "2026-10-06T21:02:46Z",
+  "total": 464,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1450,6 +1450,39 @@
       "expirada": false
     },
     {
+      "id": "a814f60860aabba5cbc757854ed52ab935421a4b",
+      "titulo": "Programador",
+      "empresa": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-em-sao-paulo__12092265.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T08:27:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResponsabilidades:\nEntende a integração entre camadas (front-end, back-end e APIs). Realiza testes básicos e faz análise de logs. Domina o uso de ferramentas de versionamento e o setup do ambiente local.\nImplementar funcionalidades com base em requisitos técnicos definidos;\nCorrigir bugs e realizar melhorias simples em sistemas existentes;\nParticipar de revisões de código e sugerir boas práticas;\nDocumentar código e procedimentos técnicos;\nTrabalhar de forma colaborativa com analistas e desenvolvedores mais experientes;\nElaborar requisitos de sistemas com base nos requerimentos dos usuários;\nCodificar sistemas através de programação em linguagens de alto nível voltadas a objeto, bem como SQL para base de dados;\nControlar versões;\nTestar aplicações e programas para garantir que o código funcione;\nImplantar de aplicações;\nPreparar computadores para rodar o projeto (instalar dependências, banco etc.).\n Requisitos:\nDomínio básico de PHP / HTML / CSS / JavaScript \nExperiência de 1 ano em programação.\nVersionamento de códigos / Análise de Requisitos / Documentações\nLógica de programação e Consumo de APIs\nConhecimento de Banco de Dados e linguagem de consulta estruturada\nMetodologias Ágeis\nDiferenciais:\nExperiência com integração entre sistemas (APIs).\nNoções de testes automatizados.\nDevOps (Docker, CI/CD...)\nBancos de dados (MYSQL / ORACLE)\nReact / C#\nTerminais (Ubuntu, Windows)\nProtocolos (TCP/IP, SMTP, UDP, FTP, SSH)\r\n Benef…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MySQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PHP",
+        "C#",
+        "Oracle",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-06T21:01:39Z",
+      "ultima_vista": "2026-10-06",
+      "expirada": false
+    },
+    {
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Plus-It Consulting",
@@ -2096,30 +2129,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
-      "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "DESENVOLVEDOR ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913667923?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-06T08:00:12Z",
-      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
       "ultima_vista": "2026-10-06",
       "expirada": false
     },
@@ -2949,6 +2958,36 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
+      "expirada": false
+    },
+    {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "Desenvolvedor Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T22:17:03Z",
+      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -9282,7 +9321,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/land/ad/5912817979?utm_medium=api&utm_source=267e525f&v=BE4D329453FDD70964C9C97A5F86098EDF81AF2E",
+      "url": "https://www.adzuna.com.br/details/5912817979?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
