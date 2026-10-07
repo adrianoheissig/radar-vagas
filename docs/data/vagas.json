@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-07T05:02:35Z",
-  "total": 469,
+  "atualizado_em": "2026-10-07T07:02:52Z",
+  "total": 473,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2231,6 +2231,30 @@
       "expirada": false
     },
     {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5913431240?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T02:35:21Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-07",
+      "expirada": false
+    },
+    {
       "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
       "titulo": "Remote Angular Developer",
       "empresa": "",
@@ -3156,30 +3180,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
       "ultima_vista": "2026-10-07",
-      "expirada": false
-    },
-    {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5893612009?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-22T02:30:00Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-09-24",
       "expirada": false
     },
     {
@@ -5115,7 +5115,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5912778208?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912778208?utm_medium=api&utm_source=267e525f&v=DF42E9ABCA33DACC1720EB04D66BEB5C0F1CE388",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6633,6 +6633,63 @@
       "expirada": false
     },
     {
+      "id": "8c41012dedfc60095b56017153a59e9720b7ddac",
+      "titulo": "Desenvolvedor(a) Full Stack",
+      "empresa": "Iterative",
+      "url": "https://www.adzuna.com.br/details/5914633091?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T21:52:29Z",
+      "descricao": "Experiência com as linguagens: Node, Javascript / ES6 e React; Autogerenciamento; Conhecimento de Bancos de Dados; Conhecimento de Infraestrutura Web, Git. Quais conhecimentos aumentam as chances: Docker, Python, pgSQL e experiência com AWS. Atuar com desenvolvimento Node",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-10-07",
+      "expirada": false
+    },
+    {
+      "id": "36a298f65c667cdd3cb7480e6705687a78f6d8c3",
+      "titulo": "Desenvolvedor Javascript",
+      "empresa": "CMV SEBR COMERCIO E IMPORTAÇÃO S/A",
+      "url": "https://www.adzuna.com.br/details/5914633018?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T21:52:29Z",
+      "descricao": "Desenvolver e testar aplicações dentro do ERP com linguagem Javascript e monitorar aplicações e garantir a funcionalidade das mesmas. Requisitos: - Conhecimentos em Javascript; - Conhecimentos em APIs RESTFul; - Experiência em desenvolvimento de aplicações Web; - Versionamento Git; - Autodidata na pesquisa por soluções; Desejável - Conhecimentos em PHP e do framework Laravel; - Conhecimentos em MySQL ou PostgreSql; - Conhecimento do ambiente Oracle Netsuite - Conhecimento em VueJS e ou React; -…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "APIs REST",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "PHP",
+        "Laravel",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-10-07",
+      "expirada": false
+    },
+    {
       "id": "4be36a2572c627601ab52441c61589b62105f014",
       "titulo": "Desenvolvedor(a) Front-end (React) - Pleno Remoto",
       "empresa": "Tecla T",
@@ -6656,9 +6713,9 @@
       "id": "640ea0d0ae85dcfea2f7e2c9223731764e4fafb0",
       "titulo": "Laravel and React Developer (Latin America, Remote Position)",
       "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5914624044?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5914624055?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
       "data_publicacao": "2026-10-06T21:51:40Z",
       "descricao": "What we are looking for: - 4 years of experience with Laravel, specifically with Laravel 8 and above. - Experience with: Eloquent ORM, Laravel Authentication, Laravel Query Builder. - Experience with testing tools, such as Pest PHP, PHPUnit, Laravel Dusk, Playwright. - Experience with Inertia.js and RESTful API in Laravel. - Experience with frontend development (React, Vue.js, Laravel Livewire, etc). - Experience with Tailwind CSS is a bonus. - Ability to take extreme ownership over your work. …",
@@ -9186,6 +9243,58 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "65fc9a7399367fc3417c5f948c60592275410a51",
+      "titulo": "Desenvolvedor(a) Web Vtex Io",
+      "empresa": "SERI.E DESIGN",
+      "url": "https://www.adzuna.com.br/details/5914629650?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T21:52:12Z",
+      "descricao": "Responsabilidades: Compreender e implementar os projetos, com suas particularidades e o layout proposto, utilizando-se das melhores práticas em HTML, CSS e JAVASCRIPT (e suas bibliotecas, principalmente React e Jquery), além de outras linguagens como PHP, Laravel, Twig etc.; Garantir o cumprimento dos prazos de entrega previamente definidos; Comprometer-se com a excelente qualidade visual, desempenho, fluxo e funcionamento dos projetos e funcionalidades nos diversos navegadores, dispositivos e …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "jQuery",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-10-07",
+      "expirada": false
+    },
+    {
+      "id": "086bef3c03ed02967f9c56764292233b218ea734",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Digital Interactions",
+      "url": "https://www.adzuna.com.br/details/5914629364?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-06T21:52:10Z",
+      "descricao": "Experiência: - Experiência sólida em desenvolvimento Front-End com ReactJS; - Familiaridade com ferramentas de controle de versão, como Git; - Capacidade de traduzir designs em interfaces de usuário visualmente atraentes; - Experiência com frameworks e bibliotecas relacionadas ao React, como Redux, Next.JS; - Familiaridade com metodologias ágeis de desenvolvimento de software; - Habilidades de resolução de problemas e depuração; - Habilidades de comunicação e capacidade de trabalhar em equipe. …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-10-07",
       "expirada": false
     },
     {
