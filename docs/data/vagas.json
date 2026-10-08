@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T00:56:18Z",
-  "total": 475,
+  "atualizado_em": "2026-10-08T03:02:32Z",
+  "total": 481,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2132,6 +2132,73 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "bcb0d61271dff343602f51fd9661041c34a7db7e",
+      "titulo": "Pessoa Desenvolvedora Front End Iii Remoto",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5917844679?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:54:38Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora Front end III para fazer parte do nosso time de pessoas incríveis! E para ser do time, é importante que você tenha: - typescript - clean code - react - react hooks - next.js - mobx - Desenvolvimento orientado a testes (TTD) - testes automatizados Unitários e E2E (jest e cypress) - biblioteca de componentes (semanticUI, rebass) - containerização (docker, kubernetes) Local de trabalho: remoto Sobre a NAVA Somos uma empresa de tecnologia apaixonada…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Docker",
+        "Kubernetes",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "0b655f628448ffd5824ad7cfaf8efc25f4685983",
+      "titulo": "Angular Developer / Rd - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917829247?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:42Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for outstanding Angular Developers to join BairesDev’s Research & Development Team (R&D). Our R&D team is the essential part of our technology solutions tha…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:00:59Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "9b071cce343b7e4767b7c203aa632acf20b4aa05",
+      "titulo": "Junior Angular Developer / Rd - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917829181?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:41Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for outstanding Junior Angular Developers to join BairesDev’s Research & Development Team (R&D). Our R&D team is the essential part of our technology soluti…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:00:59Z",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
@@ -4962,6 +5029,31 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "7675ba2ad5efad076ebeddf6c930faa4fbe4f1bb",
+      "titulo": "Desenvolvedor(a) Full Stack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5917837211?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T21:53:20Z",
+      "descricao": "Job Description Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiência em.Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#,.NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas de grande escala. Você será parte essencial no desenvolv…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
@@ -9017,6 +9109,32 @@
       "expirada": true
     },
     {
+      "id": "c37a70cb195c5a74e6d0a1b7275b0b417f8daf5f",
+      "titulo": "Desenvolvedor Web - Sao Paulo",
+      "empresa": "OEmprego - Vagas Brasil",
+      "url": "https://www.adzuna.com.br/details/5917838767?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:53:38Z",
+      "descricao": "Estamos em busca de Desenvolvedor(a) Web para se juntar ao time! Responsabilidades: - Atuar na área de web, para realizar desenvolvimento de novos projetos/ferramentas e manutenção nos existentes; - Desenvolver funcionalidades em sites e lojas virtuais (plataformas: loja integrada e nuvem shop). Horário de trabalho: De segunda a sexta das 09:00 às 18:00. Formato: Home Office (Remoto) Requisitos: - É necessário ter conhecimento intermediário/avançado em PHP, MySQL, GIT, HTML5, CSS3, Javascript, …",
+      "score": 35,
+      "skills_match": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "0e714c21e65ca523e18a0d2391d40d1713ad6c24",
       "titulo": "Desenvolvedor Back-end Nodejs Junior (Remoto)",
       "empresa": "JBQ Global",
@@ -9267,6 +9385,26 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "58d9d8b4a599d063cf67b2251a8b0c95df0607a5",
+      "titulo": "Desenvolvedor Java Júnior",
+      "empresa": "Covenant Technology",
+      "url": "https://www.adzuna.com.br/details/5917896493?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T22:05:03Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Java Júnior para integrar nosso time de Tecnologia. Procuramos um profissional com vontade de aprender, evoluir tecnicamente e participar do desenvolvimento de soluções inovadoras em um ambiente colaborativo. Principais responsabilidades Desenvolver e manter funcionalidades em sistemas. Corrigir bugs e implementar melhorias em aplicações. Participar do desenvolvimento de novas funcionalidades. Executar testes funcionais e apoiar atividades de QA. Parti…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
