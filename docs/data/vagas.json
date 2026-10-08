@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T17:02:35Z",
-  "total": 489,
+  "atualizado_em": "2026-10-08T17:21:43Z",
+  "total": 491,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -4428,6 +4428,27 @@
       "expirada": true
     },
     {
+      "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
+      "titulo": "Desenvolvedor React Pleno",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5919182491?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:24:32Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: atuação Remota Período indeterminado Habilidades: Requisitos: React.js Node.js Formação Acadêmica: Não informado Salário: A combinar Cargo: Analista de desenvolvimento sistemas Empresa: Decision group Atua com consultoria de mão de obra de serviços de tecnologia. Ramo: Recursos Humanos/ Recrutamento e seleção (EJ)",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "9b7b7dc68ab59da38306d37155b5cd2a08747dfa",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "Curriculum.com.br",
@@ -4540,27 +4561,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T07:00:56Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": false
-    },
-    {
-      "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
-      "titulo": "Desenvolvedor React Pleno",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5909466087?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-03T02:14:15Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: atuação Remota Período indeterminado Habilidades: Requisitos: React.js Node.js Formação Acadêmica: Não informado Salário: A combinar Cargo: Analista de desenvolvimento sistemas Empresa: Decision group Atua com consultoria de mão de obra de serviços de tecnologia. Ramo: Recursos Humanos/ Recrutamento e seleção (DC)",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-05",
       "expirada": false
     },
@@ -6812,6 +6812,30 @@
       "expirada": false
     },
     {
+      "id": "2564236b26388e4c946b550fa2dc32c18bc9c119",
+      "titulo": "Desenvolvedor(a) Pleno (Advanced) | Full Stack .NET/React e AWS | Híbrido SP",
+      "empresa": "BRQ",
+      "url": "https://www.adzuna.com.br/details/5919202412?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-08T12:26:42Z",
+      "descricao": "Sobre a vaga Estamos em busca de uma pessoa Desenvolvedora Full Stack .NET/React Pleno (Advanced) para atuar no desenvolvimento e na integração de sistemas utilizando C#, .NET Core, React.js e serviços de cloud AWS. A posição envolve a construção de soluções escaláveis em arquitetura serverless, desenvolvimento de APIs, mensageria, automações e aplicação de boas práticas de engenharia de software. O modelo de trabalho é híbrido, com atuação presencial três vezes por semana na Faria Lima. Respon…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:20:07Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
       "titulo": "Desenvolvedor Java PLSR",
       "empresa": "Decision group",
@@ -6832,6 +6856,27 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
+      "titulo": "Banco de Talentos React/Node",
+      "empresa": "Conquest one",
+      "url": "https://www.adzuna.com.br/details/5919151613?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T12:20:20Z",
+      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:20:07Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
