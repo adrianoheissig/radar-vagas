@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T07:02:30Z",
-  "total": 486,
+  "atualizado_em": "2026-10-08T09:02:42Z",
+  "total": 487,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -6801,26 +6801,6 @@
       "expirada": false
     },
     {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5917829142?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-07T21:51:41Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
       "id": "336d63ee842f8123b99bcbcef8a0a438854cb7d9",
       "titulo": "React Developer - Remote Work",
       "empresa": "BairesDev",
@@ -6837,6 +6817,46 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:56Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
+      "titulo": "React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917829178?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:41Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. React Native Developer at BairesDev Being a React Native Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a …",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:55Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917828958?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Teresina, Piaui",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:39Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -7507,26 +7527,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
-      "titulo": "React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5903122464?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Jaboatão dos Guararapes, Pernambuco",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-29T20:36:26Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. React Native Developer at BairesDev Being a React Native Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a …",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:55Z",
       "ultima_vista": "2026-10-01",
       "expirada": false
     },
@@ -9460,6 +9460,30 @@
       "expirada": false
     },
     {
+      "id": "1e841cbdf7f22529fc96d10d0140d09c76dee969",
+      "titulo": "Desenvolvedor Java Backend",
+      "empresa": "Grupo Data",
+      "url": "https://www.adzuna.com.br/details/5918625272?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T04:46:32Z",
+      "descricao": "Desenvolvedor(a) Java Backend | Spring Boot / OpenShift | Projeto Internacional Estamos buscando um(a) Desenvolvedor(a) Java Backend para atuar em um projeto internacional, no desenho, desenvolvimento e manutenção de soluções baseadas em microserviços, APIs REST e aplicações em ambientes conteinerizados . Principais responsabilidades Desenvolver e manter aplicações backend utilizando Java, Spring Boot e Spring Cloud; Participar do desenho e da evolução de arquiteturas de microserviços; Desenvol…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T09:01:04Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "e7e0d31c449f97ebfdc2fd5503c692a23e7fa627",
       "titulo": "Frontend Software Engineer (React) - São Paulo (Contract)",
       "empresa": "First Help Financial",
@@ -9843,7 +9867,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5912817979?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912817979?utm_medium=api&utm_source=267e525f&v=BE4D329453FDD70964C9C97A5F86098EDF81AF2E",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
