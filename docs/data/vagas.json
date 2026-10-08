@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T03:02:32Z",
-  "total": 481,
+  "atualizado_em": "2026-10-08T05:02:34Z",
+  "total": 485,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -479,7 +479,7 @@
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
       "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
       "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/details/5912802627?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5912802627?utm_medium=api&utm_source=267e525f&v=33245B3956C20EF65E0713295B38BDE93F1FDEDF",
       "fonte": "adzuna",
       "local": "Barueri, Estado de São Paulo",
       "modalidade": "remoto",
@@ -2276,7 +2276,7 @@
       "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
       "titulo": "Analista de Testes - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913837719?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913837719?utm_medium=api&utm_source=267e525f&v=68C0556377AB471E771056EA26E4510885ECC237",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2327,21 +2327,27 @@
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-06T02:35:22Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-06T02:35:46Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
       "score": 55,
       "skills_match": [
         "Angular",
         "TypeScript",
+        "JavaScript",
         "HTML",
         "CSS",
-        "Git"
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
       ],
-      "lacunas": [],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-08",
@@ -5089,7 +5095,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913837860?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913837860?utm_medium=api&utm_source=267e525f&v=BF1DF2790C6EE0572FA6DAB20DADC23B4000CD44",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5114,7 +5120,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913837041?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913837041?utm_medium=api&utm_source=267e525f&v=ED7B709B33E1AD4E4E402A57335E6AA577126EFF",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6749,6 +6755,118 @@
       "expirada": false
     },
     {
+      "id": "70445b206a013c57e82d0a2e567c2689c1625bd5",
+      "titulo": "Desenvolvedor(a) Web Full Stack",
+      "empresa": "YO Digital Midia",
+      "url": "https://www.adzuna.com.br/details/5917842986?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T21:54:24Z",
+      "descricao": "Construção de plataformas web no geral, podendo ou não ter integração com APIs externas. Construção de APIs próprias. Construção de LPs estáticas e dinâmicas. Requisitos Conhecimento com PHP, Laravel, React, Javascript, Style Component, AWS, Git, Npm, MySQL, HTML e CSS. Desejável Inglês Benefícios Férias Remuneradas Dayoff",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP",
+        "Laravel",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T05:00:50Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "47146ca74bcc5a7a06dae3264b56e768f80920aa",
+      "titulo": "Desenvolvedor Frontend React Jr",
+      "empresa": "FASTERS SOLUCOES EM TI LTDA",
+      "url": "https://www.adzuna.com.br/details/5917842542?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:54:19Z",
+      "descricao": "A Fasters está procurando gente talentosa para formar um time que irá atuar no time de Desenvolvimento. Irá fazer parte de um ambiente voltado para inovação e irá participar ativamente no crescimento do projeto. Buscamos um profissional com boa comunicação, que tenha facilidade de se relacionar com pessoas e que esteja constantemente se atualizando em busca de novos conhecimentos da área. Essa vaga se destina para todo o Brasil :) - 100% Home Office Conhecimento necessario: Javascript, html5, C…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T05:00:50Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917829142?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:41Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "336d63ee842f8123b99bcbcef8a0a438854cb7d9",
+      "titulo": "React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917829098?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:41Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. React Developer at BairesDev Being a React Senior Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combina…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T05:00:56Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
+      "titulo": "Typescript Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5917828008?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Ribeirão Preto, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:51:30Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:08Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "8c41012dedfc60095b56017153a59e9720b7ddac",
       "titulo": "Desenvolvedor(a) Full Stack",
       "empresa": "Iterative",
@@ -6849,26 +6967,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T03:00:54Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
-      "titulo": "Typescript Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5914602092?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-06T21:49:44Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:08Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -7292,26 +7390,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5904340727?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Salvador, Bahia",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T21:18:42Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
-      "ultima_vista": "2026-10-02",
       "expirada": false
     },
     {
@@ -9385,6 +9463,26 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "e7e0d31c449f97ebfdc2fd5503c692a23e7fa627",
+      "titulo": "Frontend Software Engineer (React) - São Paulo (Contract)",
+      "empresa": "First Help Financial",
+      "url": "https://www.adzuna.com.br/details/5918091616?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T22:57:43Z",
+      "descricao": "First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30% each year over the last nine years. Here you will find hard-working colleagues who come from over 20 countries. W…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T05:00:50Z",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
