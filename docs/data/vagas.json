@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-08T09:02:42Z",
+  "atualizado_em": "2026-10-08T11:02:28Z",
   "total": 487,
   "vagas": [
     {
@@ -424,6 +424,38 @@
       "expirada": false
     },
     {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5918777245?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T07:54:26Z",
+      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "54445c7ebb6a4125983a3cb5bd3d680369ab4e24",
       "titulo": "Desenvolvedor Front-end Pleno",
       "empresa": "Innolevels",
@@ -518,38 +550,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:01:03Z",
       "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907830783?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-02T07:54:50Z",
-      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Sass",
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -2135,6 +2135,31 @@
       "expirada": false
     },
     {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5918775304?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T07:54:10Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "bcb0d61271dff343602f51fd9661041c34a7db7e",
       "titulo": "Pessoa Desenvolvedora Front End Iii Remoto",
       "empresa": "NAVA - Technology for Business",
@@ -2575,31 +2600,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
-      "titulo": "DESENVOLVEDOR UI / REACT",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5909825658?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-03T07:56:10Z",
-      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T13:01:04Z",
-      "ultima_vista": "2026-10-04",
       "expirada": false
     },
     {
