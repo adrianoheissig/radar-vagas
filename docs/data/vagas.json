@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T15:02:50Z",
-  "total": 488,
+  "atualizado_em": "2026-10-08T17:02:35Z",
+  "total": 489,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -429,6 +429,33 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "699b8128aa34c92fbe414eba3aea947ce9d13828",
+      "titulo": "Desenvolvimento Fullstack Pleno (Java Angular ou React) Remota",
+      "empresa": "Gft Brasil",
+      "url": "https://www.adzuna.com.br/details/5919150090?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Barueri, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:20:07Z",
+      "descricao": "O que buscamos: Buscamos um(a) Desenvolvedor(a) Full Stack Java Pleno para atuar no desenvolvimento e evolução de aplicações corporativas, com foco em arquitetura de microsserviços, desenvolvimento de APIs e automação de processos de CI/CD em ambientes Cloud com AWS. Responsabilidades: Atuar no desenvolvimento e manutenção de aplicações utilizando Java e Spring Boot. Desenvolver e evoluir APIs e microsserviços escaláveis e de alta disponibilidade. Colaborar na construção e manutenção de interfa…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring",
+        "AWS",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -893,31 +920,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:14Z",
-      "ultima_vista": "2026-09-19",
-      "expirada": true
-    },
-    {
-      "id": "699b8128aa34c92fbe414eba3aea947ce9d13828",
-      "titulo": "Desenvolvimento Fullstack Pleno (Java Angular ou React) Remota",
-      "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5886670313?utm_medium=api&utm_source=267e525f&v=6C2298798864FFEA354B887ADACB7D2DBBC19E08",
-      "fonte": "adzuna",
-      "local": "Barueri, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T19:51:56Z",
-      "descricao": "O que buscamos: Buscamos uma pessoa Desenvolvedora Full Stack Java para atuar no desenvolvimento e evolução de aplicações corporativas modernas, escaláveis e de alta performance. Procuramos profissionais com forte experiência em desenvolvimento back-end, conhecimento em front-end moderno e vivência em arquitetura de microsserviços, cloud e boas práticas de engenharia de software. Responsabilidades: Desenvolver e evoluir aplicações utilizando Java e Spring Boot. Implementar e manter interfaces u…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
       "ultima_vista": "2026-09-19",
       "expirada": true
     },
@@ -1515,6 +1517,35 @@
       "expirada": false
     },
     {
+      "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "Plus-It Consulting",
+      "url": "https://www.adzuna.com.br/details/5919188171?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T12:25:08Z",
+      "descricao": "Desenvolvedor Fullstack Sr Perfil definido Desenvolvedor Full Stack Sênior, com maior foco em Backend; Experiência com Java 17, Spring Boot, APIs REST e microsserviços; Conhecimento de React e TypeScript para atuação Full Stack; Experiência com PostgreSQL/SQL; Vivência com AWS e demais tecnologias da stack será considerada conforme o nível de conhecimento do profissional; Perfil com boa autonomia, capacidade de aprendizado e facilidade para atuar em diferentes frentes. Diferenciais Mensageria; …",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Spring",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "a814f60860aabba5cbc757854ed52ab935421a4b",
       "titulo": "Programador",
       "empresa": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
@@ -1545,35 +1576,6 @@
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T21:01:39Z",
       "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/details/5906648434?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:27:02Z",
-      "descricao": "Desenvolvedor Fullstack Sr Perfil definido Desenvolvedor Full Stack Sênior, com maior foco em Backend; Experiência com Java 17, Spring Boot, APIs REST e microsserviços; Conhecimento de React e TypeScript para atuação Full Stack; Experiência com PostgreSQL/SQL; Vivência com AWS e demais tecnologias da stack será considerada conforme o nível de conhecimento do profissional; Perfil com boa autonomia, capacidade de aprendizado e facilidade para atuar em diferentes frentes. Diferenciais Mensageria; …",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-04",
       "expirada": false
     },
     {
@@ -1737,7 +1739,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T07:01:04Z",
-      "ultima_vista": "2026-10-03",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
@@ -2147,6 +2149,27 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "4a81d96a688221fa7bb365ed4e066774abf78bac",
+      "titulo": "Pessoa Desenvolvedora FullStack Java/React Pl (Remoto) - 2893",
+      "empresa": "Starian",
+      "url": "https://www.adzuna.com.br/details/5919225130?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:43:10Z",
+      "descricao": "Description Somos um grupo que desenvolve e incorpora soluções SaaS (Software as a Service) como motor de crescimento e habilitador de novas linhas de negócio para as verticais em que atuamos: Indústria da Construção, Inteligência Legal, Eficiência Operacional e Governança e Compliance . Acreditamos que o futuro é construído no agora. Somos AI First e aplicamos inteligência artificial em nossos processos seletivos. Faça parte de equipes que transformam desafios em soluções reais e ajudam a guia…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:00:48Z",
+      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
@@ -6789,6 +6812,30 @@
       "expirada": false
     },
     {
+      "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
+      "titulo": "Desenvolvedor Java PLSR",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5919181625?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:24:27Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Período: 3 meses, (17/08/2026 até 17/11/2026) - não há informação sobre perspectivas de extensão. 100% remoto Inglês avançado/fluente Habilidades: Requisitos: Responsibilities: Design and implement microservices-based solutions using Java, Spring Boot, and related technologies. Apply microservices patterns and best practices for security and scalability. Collaborate on system and netwo…",
+      "score": 40,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "70445b206a013c57e82d0a2e567c2689c1625bd5",
       "titulo": "Desenvolvedor(a) Web Full Stack",
       "empresa": "YO Digital Midia",
@@ -7346,30 +7393,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:52Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": false
-    },
-    {
-      "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
-      "titulo": "Desenvolvedor Java PLSR",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5909453807?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-03T02:12:34Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Período: 3 meses, (17/08/2026 até 17/11/2026) - não há informação sobre perspectivas de extensão. 100% remoto Inglês avançado/fluente Habilidades: Requisitos: Responsibilities: Design and implement microservices-based solutions using Java, Spring Boot, and related technologies. Apply microservices patterns and best practices for security and scalability. Collaborate on system and netwo…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Spring",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
       "ultima_vista": "2026-10-05",
       "expirada": false
     },
