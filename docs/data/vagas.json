@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-08T11:02:28Z",
+  "atualizado_em": "2026-10-08T13:02:46Z",
   "total": 487,
   "vagas": [
     {
@@ -511,7 +511,7 @@
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
       "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
       "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5912802627?utm_medium=api&utm_source=267e525f&v=33245B3956C20EF65E0713295B38BDE93F1FDEDF",
+      "url": "https://www.adzuna.com.br/details/5912802627?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "Barueri, Estado de São Paulo",
       "modalidade": "remoto",
@@ -1110,6 +1110,41 @@
       "expirada": false
     },
     {
+      "id": "d2bf1ef9f958105caa91458d9635d48855c853cb",
+      "titulo": "Desenvolvedor Backend Pleno",
+      "empresa": "Capitani Group",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-backend-pleno-em-sao-paulo__12098385.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:32:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? Vaga: Desenvolvedor(a) Backend Pleno (foco backend, perfil fullstack)\n\n?? Contratação: PJ\n?? Modelo: 100% remoto\n? Projeto: duração estimada de 4 meses, com possibilidade de extensão\n\nSobre a posição:\nBuscamos uma pessoa desenvolvedora fullstack de nível pleno, com foco em backend, para construir e evoluir APIs e serviços que sustentam produtos web. O time pratica Extreme Programming (XP): TDD, code review, integração contínua e refactoring constante. Valorizamos quem participa das discussões de design antes de codar, entende o problema de negócio por trás de cada entrega e contribui para a evolução contínua da base de código.\n\nRequisitos obrigatórios:\n? Experiência com desenvolvimento backend em ambiente profissional\n? Domínio de TypeScript/Node.js com profundidade real\n? Fluência com agentes de código (Claude Code, Cursor, GitHub Copilot ou similares) aplicada à entrega de produto: conduz o agente com contexto e critério, revisa criticamente o resultado e responde pelo código que entrega\n? Frameworks backend estruturados (NestJS ou equivalente): injeção de dependência, middlewares, pipelines de validação\n? Sólido conhecimento de SQL e modelagem relacional (índices, joins, normalização, leitura de plano de execução)\n? Testes automatizados que documentam comportamento, e não que apenas perseguem cobertura\n? Git em fluxo colaborativo: branches, PRs, resolução de conflitos, commits coesos\n? Familiaridade com ao menos um…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Vue.js",
+        "NestJS",
+        "Redis",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-18T18:17:33Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
       "titulo": "DESENVOLVEDOR .NET",
       "empresa": "",
@@ -1202,39 +1237,6 @@
       "data_coleta": "2026-09-27T09:00:36Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
-    },
-    {
-      "id": "d2bf1ef9f958105caa91458d9635d48855c853cb",
-      "titulo": "Desenvolvedor Backend Pleno",
-      "empresa": "Capitani Group",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-backend-pleno-em-__12032472.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-18T04:57:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor Backend Pleno\nFormato de atuação: 100% remoto\n\nREQUISITOS: Experiência com desenvolvimento backend em ambiente profissional Domínio de TypeScript/Node.js com profundidade real Fluência com agentes de código (Claude Code, Cursor, GitHub Copilot ou similares) aplicada à entrega de produto — conduz o agente com contexto e critério, revisa criticamente o resultado e responde pelo código que entrega Experiência com frameworks backend estruturados (NestJS ou equivalente): injeção de dependência, middlewares, pipelines de validação Sólido conhecimento de SQL e modelagem relacional (índices, joins, normalização, entendimento de plano de execução) Prática consistente de testes automatizados — sabe escrever teste que documenta comportamento, não teste que persegue cobertura Git em fluxo colaborativo: branches, PRs, resolução de conflito, commits coesos Familiaridade com pelo menos um framework frontend moderno (Vue.js ou React/Next.js) — o suficiente para entregar uma feature de ponta a ponta Conhecimento aplicado de princípios de design: SOLID, DRY, YAGNI, separação de responsabilidade. AWS experiência com serviços como EC2, S3, RDS, Lambda, SQS/SNS, CloudWatch, ECS/Fargate. Docker e noções de pipeline CI/CD Mensageria / processamento assíncrono (SQS, RabbitMQ, Kafka).\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nAnalista em Informática, TI, Telecomu…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "SQL",
-        "Git",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Vue.js",
-        "NestJS",
-        "Docker",
-        "AWS",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T18:17:33Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
     },
     {
       "id": "9232592956ba621a983410021df3fe6348d6acb3",
@@ -1563,27 +1565,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
       "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
-      "id": "9b7b7dc68ab59da38306d37155b5cd2a08747dfa",
-      "titulo": "Desenvolvedor Full Stack",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5900927623?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-27T20:27:55Z",
-      "descricao": "Pessoa Desenvolvedora Fullstack (Java/Angular) - Pleno/Sênior: Atuar no desenvolvimento de uma plataforma de automação de performance e inteligência artificial para o marketing digital; Implementar novas demandas e funcionalidades; Aprimorar a experiência do usuário; Sugerir e implementar melhorias funcionais e de arquitetura; Sugerir e implementar melhorias de segurança de acesso e dados. O que você precisa ter: Obrigatório experiência em desenvolvimento Java (versão 8); Obrigatório experiênci…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T23:44:29Z",
-      "ultima_vista": "2026-09-30",
       "expirada": false
     },
     {
@@ -2327,7 +2308,7 @@
       "id": "b35e454f2dcd8e8542f9bc402dc43188957322d3",
       "titulo": "Analista de Testes - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5913837719?utm_medium=api&utm_source=267e525f&v=68C0556377AB471E771056EA26E4510885ECC237",
+      "url": "https://www.adzuna.com.br/details/5913837719?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4390,6 +4371,31 @@
       "expirada": true
     },
     {
+      "id": "9b7b7dc68ab59da38306d37155b5cd2a08747dfa",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5917846133?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-07T21:54:48Z",
+      "descricao": "Experiência em JavaScript; - Experiência em NodeJs; - Experiência em React js; - Conhecimento em AWS; - Conhecimento em AuroraDB. Desejáveis: - WCF; - C#. Local: Home Office Graduação Completa em TI; Experiência como ABAP em sustentação (AMS) e projetos de melhorias; Desejável Criação e manutenção de WorkFlow; PI/PO: conhecimento de criação/manutenção/monitoramento de interfaces PI/PO; Conhecimento em Interface Thomson Reuters com Mastersaf DW / Onesource / DFE Conhecimento Solução Fiscal Guepa…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "C#",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T23:44:29Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
       "titulo": "Desenvolvedor Mobile (React Native E Node.Js)",
       "empresa": "",
@@ -5089,7 +5095,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5913837860?utm_medium=api&utm_source=267e525f&v=BF1DF2790C6EE0572FA6DAB20DADC23B4000CD44",
+      "url": "https://www.adzuna.com.br/details/5913837860?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5114,7 +5120,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5913837041?utm_medium=api&utm_source=267e525f&v=ED7B709B33E1AD4E4E402A57335E6AA577126EFF",
+      "url": "https://www.adzuna.com.br/details/5913837041?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -8698,7 +8704,7 @@
         "Vue.js",
         "PHP"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
@@ -9867,7 +9873,7 @@
       "id": "4b686ca5d7cb2801a819ccfa5cef8ed6c78214c6",
       "titulo": "Desenvolvedor Java FullStack PL - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/land/ad/5912817979?utm_medium=api&utm_source=267e525f&v=BE4D329453FDD70964C9C97A5F86098EDF81AF2E",
+      "url": "https://www.adzuna.com.br/details/5912817979?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
