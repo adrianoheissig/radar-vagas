@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-08T05:02:34Z",
-  "total": 485,
+  "atualizado_em": "2026-10-08T07:02:30Z",
+  "total": 486,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -1134,6 +1134,30 @@
       "expirada": false
     },
     {
+      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
+      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5915642063?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-07T02:35:50Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:03Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "8b99b3aa0d23cdc22eb82b117d137e95236026a3",
       "titulo": "3628: Desenvolvedor(a) Nodejs",
       "empresa": "mazzatech",
@@ -1154,30 +1178,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T17:00:59Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
-    },
-    {
-      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
-      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907419897?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-02T02:33:58Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:03Z",
-      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -2252,6 +2252,32 @@
       "expirada": false
     },
     {
+      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
+      "titulo": "Analista De Sistemas - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5915638957?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T02:35:34Z",
+      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:17Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
       "id": "5821d801cd3b885591347d47174f52b72842d2b0",
       "titulo": "Pessoa Desenvolvedora Front-end React Pleno",
       "empresa": "GeekHunter",
@@ -2327,27 +2353,21 @@
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
       "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913436998?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-06T02:35:46Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T02:35:22Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
       "score": 55,
       "skills_match": [
         "Angular",
         "TypeScript",
-        "JavaScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
+        "Git"
       ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
+      "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-08",
@@ -2715,32 +2735,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:19Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
-      "titulo": "Analista De Sistemas - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907428701?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-02T02:35:12Z",
-      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T07:01:17Z",
-      "ultima_vista": "2026-10-04",
       "expirada": false
     },
     {
@@ -9524,6 +9518,26 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T21:01:00Z",
+      "ultima_vista": "2026-10-08",
+      "expirada": false
+    },
+    {
+      "id": "a10462908959ecd0c553732ccd6660ffd2c7c9ff",
+      "titulo": "Desenvolvedor Java Pleno – IA Generativa e Agentes.",
+      "empresa": "Porto",
+      "url": "https://www.adzuna.com.br/details/5917386003?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T13:40:05Z",
+      "descricao": "Description Você é movido por inovação, liderança de pessoas, arquitetura de sistemas complexos e quer encabeçar a transformação tecnológica do setor de seguros? Então, temos um lugar esperando por você na área Tech da Porto Seguro Auto! Estamos vivendo um momento histórico de transformação digital. O seu principal desafio será desenvolver no projeto Frota 4.0, que visa reformular completamente a nossa plataforma de vendas de seguros Auto Frota. Aqui, você terá a oportunidade de guiar um time d…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T07:01:04Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
