@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-09T03:02:45Z",
+  "atualizado_em": "2026-10-09T05:02:33Z",
   "total": 494,
   "vagas": [
     {
@@ -465,7 +465,7 @@
       "id": "699b8128aa34c92fbe414eba3aea947ce9d13828",
       "titulo": "Desenvolvimento Fullstack Pleno (Java Angular ou React) Remota",
       "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/details/5919150090?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919150090?utm_medium=api&utm_source=267e525f&v=AD26B739691ACE0BB7435A7A54E8005C32745FB4",
       "fonte": "adzuna",
       "local": "Barueri, Estado de São Paulo",
       "modalidade": "remoto",
@@ -1570,7 +1570,7 @@
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Plus-It Consulting",
-      "url": "https://www.adzuna.com.br/details/5919188171?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919188171?utm_medium=api&utm_source=267e525f&v=6BAC2BA79FBBD67FD02BB21599925BF1755C8AC3",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2202,34 +2202,29 @@
       "expirada": false
     },
     {
-      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
-      "titulo": "Desenvolvedor Full Stack Node.js",
+      "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
+      "titulo": "Analista de Testes",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5919841593?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919847278?utm_medium=api&utm_source=267e525f&v=DEB77AA9403CFC1F2EB55E95052DF1C136890D6E",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T22:14:28Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "data_publicacao": "2026-10-08T22:15:35Z",
+      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
       "score": 55,
       "skills_match": [
         "React",
         "TypeScript",
         "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
+        "Node.js"
       ],
       "lacunas": [
         "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
+        "NestJS",
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:00:54Z",
+      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -2251,6 +2246,38 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:00:48Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
+      "titulo": "Desenvolvedor Full Stack Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5919143820?utm_medium=api&utm_source=267e525f&v=955DC5A686737FD463B96B4F2F620F9600EBCCD9",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T12:19:33Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:00:54Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -2720,33 +2747,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
-      "titulo": "Analista de Testes",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5909443140?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-03T02:09:55Z",
-      "descricao": "Estamos contratando Analista de Testes para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: Experiência com QA e testes automatizados JavaScript/TypeScript Playwright, Cypress ou similares Jest/Vitest/Testing Library Testes de API, unitários, integração e E2E Vivência com React, Next.js, Node.js e NestJS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-10-05",
       "expirada": false
     },
     {
@@ -4506,7 +4506,7 @@
       "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
       "titulo": "Desenvolvedor React Pleno",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5919182491?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919182491?utm_medium=api&utm_source=267e525f&v=332EDBE4EF14F70F40779807C048BBD7114D7121",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -5227,7 +5227,7 @@
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
       "titulo": "Desenvolvedor Front-end React - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913837860?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913837860?utm_medium=api&utm_source=267e525f&v=BF1DF2790C6EE0572FA6DAB20DADC23B4000CD44",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5252,7 +5252,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913837041?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5913837041?utm_medium=api&utm_source=267e525f&v=ED7B709B33E1AD4E4E402A57335E6AA577126EFF",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6938,7 +6938,7 @@
       "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
       "titulo": "Banco de Talentos React/Node",
       "empresa": "Conquest one",
-      "url": "https://www.adzuna.com.br/details/5919151613?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919151613?utm_medium=api&utm_source=267e525f&v=CC4020268621D3CB14EE08D82BC22B820EA2BAAE",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -9646,7 +9646,7 @@
       "id": "93d001097a80861d9091880bc7bffc533e8c113e",
       "titulo": "Desenvolvedor Mobile",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5919847363?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919847363?utm_medium=api&utm_source=267e525f&v=0DBF41EC192D97B8B29C1E4635DA810E1657171A",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
