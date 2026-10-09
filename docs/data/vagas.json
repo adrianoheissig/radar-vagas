@@ -1,37 +1,7 @@
 {
-  "atualizado_em": "2026-10-09T09:02:43Z",
+  "atualizado_em": "2026-10-09T11:02:30Z",
   "total": 498,
   "vagas": [
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5918507035?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T02:36:14Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
       "titulo": "Desenvolvedor Front-end",
@@ -517,6 +487,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5918507080?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T02:36:14Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
