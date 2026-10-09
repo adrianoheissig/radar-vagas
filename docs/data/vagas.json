@@ -1,37 +1,7 @@
 {
-  "atualizado_em": "2026-10-09T05:02:33Z",
-  "total": 494,
+  "atualizado_em": "2026-10-09T07:02:42Z",
+  "total": 497,
   "vagas": [
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5907423338?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-02T02:34:26Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
       "titulo": "Desenvolvedor Front-end",
@@ -517,6 +487,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5918507080?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T02:36:14Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -2307,6 +2309,31 @@
       "expirada": false
     },
     {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5918508478?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T02:36:27Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "bcb0d61271dff343602f51fd9661041c34a7db7e",
       "titulo": "Pessoa Desenvolvedora Front End Iii Remoto",
       "empresa": "NAVA - Technology for Business",
@@ -2875,31 +2902,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:37Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
-      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5904944866?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-01T03:01:03Z",
-      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-03",
       "expirada": false
     },
     {
@@ -6914,7 +6916,7 @@
       "id": "733bd66d2e023a4d902e40f1d58a5fbc271b77a9",
       "titulo": "Desenvolvedor Java PLSR",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5919181625?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5919181625?utm_medium=api&utm_source=267e525f&v=2EBC18619319249647F6FD3F2975FD221CC41749",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
@@ -9661,6 +9663,73 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "cf0b3f2e76c66cfa3ce022f92bd49684908e0f2e",
+      "titulo": "Desenvolvedor(a) Front End Júnior",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5919825009?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T21:52:33Z",
+      "descricao": "Frontend HTML5, CSS3, React, Java Script e Type Script - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos Informática: - HTML - Intermediário - Obrigatório - CSS3 - Intermediário - Obrigatório - React - Intermediário - Obrigatório - Java Script - Intermediário - Obrigatório - Type Script - Intermed…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "6450bf18169fe5da082126a9de5ce0b18096db5b",
+      "titulo": "Desenvolvedor Front-end Junior/pleno",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5919822109?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T21:52:06Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end Junior/Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - ReactJS e NextJS para web; - Hooks (useState, useEffect, etc) e saber criar novos hooks; - Redux e Context API para gerenciamento de estados globais; - Ideia de componentização para que consiga ter um reapro…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "50a3b770ff0f5603072a5313d8944b609a4a25c7",
+      "titulo": "Desenvolvedor Back End Pleno (Java)",
+      "empresa": "GREEN NET INSTITUICAO DE PAGAMENTO LTDA",
+      "url": "https://www.adzuna.com.br/details/5919807432?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T21:49:52Z",
+      "descricao": "Descrição da Vaga: Estamos em busca de uma pessoa para atuar no time de Tecnologia (Frete e Pagamentos), com foco em desenvolvimento e evolucao de aplicacoes backend em Java, sendo importante ter curiosidade para aprender, boa comunicacao e colaboracao com outros times. Nesta posicao voce sera responsável por apoiar a construcao e manutencao de APIs e servicos em Java, contribuindo com evolucoes técnicas e migracao para arquitetura de microservicos, em um ambiente com suporte proximo de pessoas…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
