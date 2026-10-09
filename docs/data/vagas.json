@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-09T15:02:33Z",
-  "total": 498,
+  "atualizado_em": "2026-10-09T16:57:39Z",
+  "total": 499,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -5167,6 +5167,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "d5398854747096df2286b23c7bce4b6b4cc12435",
+      "titulo": "Software Developer I - .NET/Angular - Hypnobox",
+      "empresa": "Senior Sistemas S/A",
+      "url": "https://www.adzuna.com.br/details/5920901222?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T13:00:42Z",
+      "descricao": "Na Senior, tecnologia é construída em times colaborativos, com autonomia, responsabilidade e foco em impacto real no negócio. Você atua em soluções que evoluem continuamente, lidando com desafios concretos e participando das decisões que moldam produtos usados por milhares de empresas. Para impulsionar o ecossistema tech com a gente, conheça um pouco mais sobre o Manifesto de Tecnologia da Senior . SOBRE O DESAFIO: Estamos em busca de um(a) Software Developer I - .NET/Angular para atuar no dese…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T16:56:05Z",
+      "ultima_vista": "2026-10-09",
       "expirada": false
     },
     {
