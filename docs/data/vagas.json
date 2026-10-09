@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-09T16:57:39Z",
+  "atualizado_em": "2026-10-09T23:02:41Z",
   "total": 499,
   "vagas": [
     {
@@ -426,6 +426,29 @@
       "expirada": false
     },
     {
+      "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
+      "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
+      "empresa": "Gft Brasil",
+      "url": "https://www.adzuna.com.br/details/5921185712?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Barueri, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T18:15:47Z",
+      "descricao": "O que buscamos Buscamos um(a) Desenvolvedor(a) Front-end ou Full Stack para atuar na squad responsável pelo desenvolvimento do MVP2 do projeto ConectaJur. O projeto contempla a criação de um novo módulo financeiro para o departamento jurídico e outras iniciativas necessárias para a integração do Xgracco , aplicação de mercado, com os sistemas Bradesco. O profissional atuará no desenvolvimento de aplicações web, utilizando Angular, React JS ou React Native , além de participar da definição de so…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-05T19:11:44Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "dc31f221bce620aab4356c806ad086839777a60f",
       "titulo": "Dev Full Stack - Pleno",
       "empresa": "Speedio",
@@ -569,29 +592,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T01:00:49Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
-      "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
-      "empresa": "Gft Brasil",
-      "url": "https://www.adzuna.com.br/details/5912802627?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Barueri, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-05T14:22:41Z",
-      "descricao": "O que buscamos Buscamos um(a) Desenvolvedor(a) Front-end ou Full Stack para atuar na squad responsável pelo desenvolvimento do MVP2 do projeto ConectaJur. O projeto contempla a criação de um novo módulo financeiro para o departamento jurídico e outras iniciativas necessárias para a integração do Xgracco , aplicação de mercado, com os sistemas Bradesco. O profissional atuará no desenvolvimento de aplicações web, utilizando Angular, React JS ou React Native , além de participar da definição de so…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-05T19:11:44Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -4478,6 +4478,30 @@
       "expirada": true
     },
     {
+      "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
+      "titulo": "Desenvolvedor Backend Pleno - SP",
+      "empresa": "Capitani group",
+      "url": "https://www.adzuna.com.br/details/5921213782?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T18:20:53Z",
+      "descricao": "Atuação remota. Resumo da posição: Profissional fullstack pleno com foco em backend para criar e evoluir APIs e serviços em ambiente Extreme Programming (TDD, CI, refactoring), participando de discussões de design, compreendendo o negócio e aplicando agentes de código com critério e responsabilidade. Requisitos obrigatórios: * Experiência em desenvolvimento backend profissional com TypeScript e Node.js. * Fluência no uso e revisão crítica de agentes de código (Claude Code, Cursor, GitHub Copilo…",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:00:56Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "8dd21668dbf5b5a09559db31d01311fe36daf997",
       "titulo": "Desenvolvedor Node Js",
       "empresa": "Curriculum.com.br",
@@ -4680,30 +4704,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:00:54Z",
-      "ultima_vista": "2026-09-25",
-      "expirada": false
-    },
-    {
-      "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
-      "titulo": "Desenvolvedor Backend Pleno - SP",
-      "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5895845686?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-23T21:49:55Z",
-      "descricao": "Atuação remota. Resumo da posição: Profissional fullstack pleno com foco em backend para criar e evoluir APIs e serviços em ambiente Extreme Programming (TDD, CI, refactoring), participando de discussões de design, compreendendo o negócio e aplicando agentes de código com critério e responsabilidade. Requisitos obrigatórios: * Experiência em desenvolvimento backend profissional com TypeScript e Node.js. * Fluência no uso e revisão crítica de agentes de código (Claude Code, Cursor, GitHub Copilo…",
-      "score": 50,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:00:56Z",
       "ultima_vista": "2026-09-25",
       "expirada": false
     },
@@ -5170,6 +5170,52 @@
       "expirada": false
     },
     {
+      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
+      "titulo": "Programador .NET - SP",
+      "empresa": "Urbano Informatica",
+      "url": "https://www.adzuna.com.br/details/5921224964?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T18:22:30Z",
+      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:09Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
+      "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
+      "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
+      "empresa": "Capitani group",
+      "url": "https://www.adzuna.com.br/details/5921220219?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-09T18:21:44Z",
+      "descricao": "Atuação presencial no Morumbi / SP. Resumo da posição: Atuará em soluções de IA Generativa, conectando necessidades de usuários e negócios a soluções técnicas, desde suporte e troubleshooting até desenvolvimento de PoCs, protótipos e MVPs com LLMs. Requisitos obrigatórios: * Experiência em Engenharia de Software e desenvolvimento de aplicações com Python, Java ou JavaScript/TypeScript. * Experiência prática com prototipação rápida, PoCs e MVPs. * Experiência com soluções de IA Generativa, inclu…",
+      "score": 45,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T05:01:04Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "d5398854747096df2286b23c7bce4b6b4cc12435",
       "titulo": "Software Developer I - .NET/Angular - Hypnobox",
       "empresa": "Senior Sistemas S/A",
@@ -5361,52 +5407,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T09:01:09Z",
       "ultima_vista": "2026-10-07",
-      "expirada": false
-    },
-    {
-      "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
-      "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
-      "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5912781604?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-10-05T14:19:14Z",
-      "descricao": "Atuação presencial no Morumbi / SP. Resumo da posição: Atuará em soluções de IA Generativa, conectando necessidades de usuários e negócios a soluções técnicas, desde suporte e troubleshooting até desenvolvimento de PoCs, protótipos e MVPs com LLMs. Requisitos obrigatórios: * Experiência em Engenharia de Software e desenvolvimento de aplicações com Python, Java ou JavaScript/TypeScript. * Experiência prática com prototipação rápida, PoCs e MVPs. * Experiência com soluções de IA Generativa, inclu…",
-      "score": 45,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T05:01:04Z",
-      "ultima_vista": "2026-10-07",
-      "expirada": false
-    },
-    {
-      "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
-      "titulo": "Programador .NET - SP",
-      "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/details/5912778208?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T14:18:35Z",
-      "descricao": "About the job Urbano Informatica is looking for professionals with the profile of .NET to join our team Main Activities And Responsibilities Collaborate with product, design, QA, and business teams to translate requirements into technical deliverables. Mentor junior and mid-level engineers and assist in skill development. Required Qualifications .NET / Angular Additional Information Type of work : CLT, Flexible hours. Benefits package : Transport vouchers, meal vouchers, childcare assistance, l…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:09Z",
-      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
