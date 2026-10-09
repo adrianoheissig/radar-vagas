@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-09T01:02:42Z",
+  "atualizado_em": "2026-10-09T03:02:45Z",
   "total": 494,
   "vagas": [
     {
@@ -2202,6 +2202,38 @@
       "expirada": false
     },
     {
+      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
+      "titulo": "Desenvolvedor Full Stack Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5919841593?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T22:14:28Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:00:54Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "4a81d96a688221fa7bb365ed4e066774abf78bac",
       "titulo": "Pessoa Desenvolvedora FullStack Java/React Pl (Remoto) - 2893",
       "empresa": "Starian",
@@ -2688,38 +2720,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
       "ultima_vista": "2026-10-06",
-      "expirada": false
-    },
-    {
-      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
-      "titulo": "Desenvolvedor Full Stack Node.js",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5909448789?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-03T02:10:43Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-10-05",
       "expirada": false
     },
     {
@@ -5275,14 +5275,14 @@
     },
     {
       "id": "a91551db45deeee53791a26136102135d6979fec",
-      "titulo": "Developer Fullstack.Net Angular",
+      "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913093919?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5913094476?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:59:29Z",
-      "descricao": "Developer Fullstack.Net Angular - Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Developer Fullstack. Net Angular. Experiência ProfissionalRequisitos Técnicos:Atuar no desenvolvimento Full Stack, com foco em Backend . NET C# e Front End em Angular. Desenvolver APIs RESTful robustas e seguras, com versionamento e documentação. Trabalhar com Dapper pa…",
+      "data_publicacao": "2026-10-05T21:59:35Z",
+      "descricao": "Developer Fullstack .Net Angular - Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Developer Fullstack. Net Angular. Experiência Profissional Requisitos Técnicos: Atuar no desenvolvimento Full Stack, com foco em Backend . NET C# e Front End em Angular. Desenvolver APIs RESTful robustas e seguras, com versionamento e documentação. Trabalhar com Dapper…",
       "score": 45,
       "skills_match": [
         "Angular",
@@ -9643,6 +9643,28 @@
       "expirada": false
     },
     {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5919847363?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-08T22:15:36Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "1e841cbdf7f22529fc96d10d0140d09c76dee969",
       "titulo": "Desenvolvedor Java Backend",
       "empresa": "Grupo Data",
@@ -10202,28 +10224,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:10:53Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5909450238?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-03T02:10:57Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-05",
       "expirada": false
     },
