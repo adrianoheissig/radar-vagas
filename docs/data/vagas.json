@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-10T11:02:23Z",
-  "total": 508,
+  "atualizado_em": "2026-10-10T13:02:37Z",
+  "total": 510,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2199,6 +2199,27 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "605686696d9e83a62d1443cd27ec6a826b603ee1",
+      "titulo": "Desenvolvedor(a) Front-end Angular (Remoto)",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5921360450?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T21:52:56Z",
+      "descricao": "ATIVIDADES: O que você irá fazer?: - Definir, criar e documentar a arquitetura de desenvolvimento de projetos em produção; - Realizar codificação e teste de aplicações usando linguagem de programação para front-end (Typescript, Angular); - Cooperar com o time para o review de código, e atuar ativamente para ajudar a encontrar soluções para os usuários/clientes; - Ser proativo, ter foco em resultados, boa capacidade para trabalhar com equipe distribuída remotamente; - Implementar melhorias nos p…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T13:01:02Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -6995,6 +7016,31 @@
       "experiencia_exigida": 4,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "57efd9c3f065431889bc1d3e00ce31f27e8c6973",
+      "titulo": "Desenvolvedor Node Júnior",
+      "empresa": "SYSMAP",
+      "url": "https://www.adzuna.com.br/details/5921359992?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:52:52Z",
+      "descricao": "Descrição da vaga: Requerimentos: Requisitos: - Experiência em desenvolver serviços em alguma das seguintes linguagens e frameworks. (Typescript, NodeJS); - Domínio dos padrões SOLID; - Domínio no desenvolvimento de microsserviços; - Domínio de Testes Automatizados (unitário e integrado); - Conhecimento em Arquitetura de Software; - Conhecimento em testes de carga e stress test; Benefícios: .",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Microsserviços",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T13:01:09Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
