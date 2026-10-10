@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-10T01:02:38Z",
-  "total": 500,
+  "atualizado_em": "2026-10-10T03:02:35Z",
+  "total": 505,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -426,6 +426,38 @@
       "expirada": false
     },
     {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "Desenvolvedores JAVA /Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921397841?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T22:24:23Z",
+      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90 remoto Sólida experiência com desenvolvimento utilizando JAVA 11, Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS, Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate, Experiência com SQL Server, Oracle ou PostgreSQL, Imprescindível inglês avançado/fluente, Desejável experiência anterior em projetos globais, Atuação 90 remota, disponibilidade para eventuais atuações pres…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
       "titulo": "Desenvolvimento Angular, React JS ou React Native Pleno Remota - SP",
       "empresa": "Gft Brasil",
@@ -508,38 +540,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "DESENVOLVEDORES JAVA /ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5918777245?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T07:54:26Z",
-      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuais atuações pr…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Sass",
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -4478,6 +4478,29 @@
       "expirada": true
     },
     {
+      "id": "a6c4a686d09554d8941ae84fdbaa5b90a94d7d47",
+      "titulo": "Plataform Support Engineer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921373224?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:58:50Z",
+      "descricao": "Plataform Support Engineer - Descrição da vaga Atuar como principal ponto de contato técnico para clientes no Brasil, realizando suporte à plataforma web e mobile; Investigar, reproduzir e solucionar incidentes, dúvidas e bugs, realizando a análise técnica e o diagnóstico das causas; Desenvolver pequenas melhorias e correções em aplicações Web (React/Next. Js) e Mobile (React Native/Expo); Realizar testes funcionais, regressivos e de novas funcionalidades antes das liberações em produção; Apoia…",
+      "score": 50,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T03:00:57Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "d49a1028b0b7d442e48fd779d896dcb62bc23633",
       "titulo": "Desenvolvedor Backend Pleno - SP",
       "empresa": "Capitani group",
@@ -5167,6 +5190,30 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "773ddab0fa4d2d79bcccbd33ca9bd1c725b530dc",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921374469?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:59:05Z",
+      "descricao": "Desenvolvedor Front End - Atuará na integração com APIs RESTful, manutenção e otimização de código, documentação técnica e desenvolvimento de testes automatizados, garantindo alta performance, usabilidade e qualidade das soluções entregues. Desenvolvimento de aplicações Angular: projetar, codificar e testar aplicações web dinâmicas. Colaboração em equipe: participação ativa em equipes ágeis, reuniões diárias e revisões de código. Integração com APIs RESTful: implementar e manter integrações efi…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T03:00:55Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9661,6 +9708,70 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "b876b56d07b7ab016a4f45d8c8887039de617ee5",
+      "titulo": "Executive Assistant",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921376962?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:59:38Z",
+      "descricao": "Executive Assistant - A high level of integrity and discretion in handling confidential information, and professionalism in dealing with senior professionals are essential. A proven track-record in working across multiple time-zones at scale is a necessary trait. The successful candidate will possess the ability to complete complex tasks quickly with little to no guidance. It will be necessary to react with appropriate urgency to situations that require a quick turnaround, be able to take effec…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T03:00:55Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "fb0ce61a2df9ef2e4ebe02aa59535536e301fe62",
+      "titulo": "Executive Assistant, Accounting",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921375955?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:59:26Z",
+      "descricao": "Executive Assistant, Accounting - A high level of integrity and discretion in handling confidential information, and professionalism in dealing with senior professionals are essential. A proven track-record in working across multiple time-zones at scale is a necessary trait. The successful candidate will possess the ability to complete complex tasks quickly with little to no guidance. It will be necessary to react with appropriate urgency to situations that require a quick turnaround, be able t…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T03:00:55Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "81ed8920373c6515f007640780d1e42f265ebf80",
+      "titulo": "Pessoa Desenvolvedora Fullstack (.Net/React)",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921372801?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:58:47Z",
+      "descricao": "Pessoa Desenvolvedora Fullstack (.Net/React) - Os profissionais atuarão diretamente na codificação das partes mais complexas dos produtos, com forte presença técnica no dia a dia. Codificar as partes mais complexas dos produtos, com forte domínio de boas práticas (código limpo, testes automatizados, performance, segurança); Contribuir para decisões de arquitetura de soluções modernas (APIs, microsserviços, banco de dados); Diagnosticar a causa raiz de incidentes em componentes críticos e decidi…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T03:00:38Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
