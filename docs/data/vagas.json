@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-10T05:02:39Z",
-  "total": 505,
+  "atualizado_em": "2026-10-10T07:02:26Z",
+  "total": 507,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2199,6 +2199,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "7642774468d9492d7b701deaf9e6206ae696e8de",
+      "titulo": "Dev Full Stack Angular Node",
+      "empresa": "MJV",
+      "url": "https://www.adzuna.com.br/details/5921359712?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:52:49Z",
+      "descricao": "Somos colaboradores, ágeis, plurais, criativos e inovadores. Somos MJV! Sobre o desafio - Será responsável por por criar a interface de utilização de um site ou aplicação web. A camada visual das aplicações web, na qual os usuários interagem; criar websites, landing pages, hotsites, blogs ou aplicações web otimizadas e responsivas; realizar a manutenção e melhoria constante dessas plataformas; garantir que plataformas funcionem bem em diferentes navegadores e dispositivos; trabalhar juntamente…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T07:00:56Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5213,6 +5235,27 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:55Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "76023160fb8a7a2de5ff582f36fb67cd2d106b74",
+      "titulo": "Pessoa Desenvolvedora Front-end Angular - Pleno",
+      "empresa": "CATSKILLET",
+      "url": "https://www.adzuna.com.br/details/5921360408?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:52:55Z",
+      "descricao": "Descrição: Sobre a Catskillet: Construímos soluções em tecnologia usando métodos ágeis, para entregar a melhor experiência para o usuário gerando resultados para seu negócio. Acreditamos que a tecnologia transforma a vida das pessoas, e buscamos profissionais para participarem desse processo de transformação juntamente com o nosso time de talentos. Se você acredita que pode transformar o mundo através da tecnologia, com espírito de criatividade, inovação, iniciativa e que gosta de fazer coisas …",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T07:00:56Z",
       "ultima_vista": "2026-10-10",
       "expirada": false
     },
