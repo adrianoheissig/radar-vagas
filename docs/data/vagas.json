@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-10T09:02:24Z",
+  "atualizado_em": "2026-10-10T11:02:23Z",
   "total": 508,
   "vagas": [
     {
@@ -9858,26 +9858,6 @@
       "expirada": false
     },
     {
-      "id": "58d9d8b4a599d063cf67b2251a8b0c95df0607a5",
-      "titulo": "Desenvolvedor Java Júnior",
-      "empresa": "Covenant Technology",
-      "url": "https://www.adzuna.com.br/details/5921028173?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-09T13:49:09Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Java Júnior para integrar nosso time de Tecnologia. Procuramos um profissional com vontade de aprender, evoluir tecnicamente e participar do desenvolvimento de soluções inovadoras em um ambiente colaborativo. Principais responsabilidades Desenvolver e manter funcionalidades em sistemas. Corrigir bugs e implementar melhorias em aplicações. Participar do desenvolvimento de novas funcionalidades. Executar testes funcionais e apoiar atividades de QA. Parti…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-10",
-      "expirada": false
-    },
-    {
       "id": "93d001097a80861d9091880bc7bffc533e8c113e",
       "titulo": "Desenvolvedor Mobile",
       "empresa": "Innolevels",
@@ -10027,6 +10007,26 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:50Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "58d9d8b4a599d063cf67b2251a8b0c95df0607a5",
+      "titulo": "Desenvolvedor Java Júnior",
+      "empresa": "Covenant Technology",
+      "url": "https://www.adzuna.com.br/details/5917896493?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-07T22:05:03Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Java Júnior para integrar nosso time de Tecnologia. Procuramos um profissional com vontade de aprender, evoluir tecnicamente e participar do desenvolvimento de soluções inovadoras em um ambiente colaborativo. Principais responsabilidades Desenvolver e manter funcionalidades em sistemas. Corrigir bugs e implementar melhorias em aplicações. Participar do desenvolvimento de novas funcionalidades. Executar testes funcionais e apoiar atividades de QA. Parti…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
       "ultima_vista": "2026-10-10",
       "expirada": false
     },
