@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-10T15:51:14Z",
+  "atualizado_em": "2026-10-10T19:02:45Z",
   "total": 511,
   "vagas": [
     {
@@ -5261,7 +5261,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5921810402?utm_medium=api&utm_source=267e525f&v=6879383871A6BAD32FE9735B3C4C2F84CE2C7A8C",
+      "url": "https://www.adzuna.com.br/details/5921810402?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -9822,6 +9822,28 @@
       "expirada": false
     },
     {
+      "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
+      "titulo": "Desenvolvedor Mobile - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5921814907?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-10T04:20:28Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T18:52:23Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "b876b56d07b7ab016a4f45d8c8887039de617ee5",
       "titulo": "Executive Assistant",
       "empresa": "",
@@ -10458,28 +10480,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:00:36Z",
       "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "0f6e9d5144ba3a66f279847fc47f1c71db08d8b9",
-      "titulo": "Desenvolvedor Mobile - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5912795150?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T14:21:13Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T18:52:23Z",
-      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
