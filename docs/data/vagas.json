@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-10T00:42:17Z",
+  "atualizado_em": "2026-10-10T01:02:38Z",
   "total": 500,
   "vagas": [
     {
@@ -1546,6 +1546,27 @@
       "expirada": false
     },
     {
+      "id": "b0abbfc031bee565a12df83dbe241d3b980d8d72",
+      "titulo": "Pgx Anl Ti Pl",
+      "empresa": "SMB Getnet Technology And Operations Brasil LTDA",
+      "url": "https://www.adzuna.com.br/details/5921344120?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:50:30Z",
+      "descricao": "PGX ANL TI PL Country: Brazil Desenvolvedor Fullstack Pleno: Responsabilidades: - Desenvolver código em Front-end Angular e Back-end Java para um App do mercado financeiro, seguindo especificações técnicas definidas pela equipe; - Participar de revisões de código (code reviews) e aplicar boas práticas de arquitetura e componentização com orientação do time sênior. Experiência e conhecimentos necessários: - Mínimo de 3 anosem desenvolvimento com Java 8 ou superior; - Mínimo de 3 anosem desenvolv…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "1672226ec02fbe2f366e12c0f2a24ec566a1346e",
       "titulo": "Engenharia de Software Fullstack Pleno - Java/angular Recuperação Pf",
       "empresa": "Itaú",
@@ -1902,27 +1923,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:11:22Z",
       "ultima_vista": "2026-09-19",
-      "expirada": true
-    },
-    {
-      "id": "b0abbfc031bee565a12df83dbe241d3b980d8d72",
-      "titulo": "Pgx Anl Ti Pl",
-      "empresa": "SMB Getnet Technology And Operations Brasil LTDA",
-      "url": "https://www.adzuna.com.br/details/5881837733?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-12T19:29:17Z",
-      "descricao": "PGX ANL TI PL Country: Brazil Desenvolvedor Fullstack Pleno: Responsabilidades: - Desenvolver código em Front-end Angular e Back-end Java para um App do mercado financeiro, seguindo especificações técnicas definidas pela equipe; - Participar de revisões de código (code reviews) e aplicar boas práticas de arquitetura e componentização com orientação do time sênior. Experiência e conhecimentos necessários: - Mínimo de 3 anosem desenvolvimento com Java 8 ou superior; - Mínimo de 3 anosem desenvolv…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-14",
       "expirada": true
     },
     {
@@ -5170,6 +5170,36 @@
       "expirada": false
     },
     {
+      "id": "94d99bc23caf3bfa28cb1264dbb3d041fc8f0e88",
+      "titulo": "0e46: Analista Desenvolvedor Front End Web/mobile Pleno",
+      "empresa": "mazzatech",
+      "url": "https://www.adzuna.com.br/details/5921343224?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-09T21:50:21Z",
+      "descricao": "Requisitos: - Front-end/Mobile: JavaScript, TypeScript, HTML5, CSS3, Bootstrap e boas práticas de UX/UI para aplicações móveis - Frameworks e bibliotecas: React Native, Expo, React JS, React Navigation, Axios/Fetch, Context API, Redux ou Zustand - Mobile: desenvolvimento de aplicativos com React Native/Expo, integração com APIs REST, autenticação, push notifications e recursos nativos via Expo - Versionamento: Git e GitHub - Ferramentas de gestão: Jira - Diferenciais: EAS Build, publicação na G…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Redux",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:28Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
@@ -5395,7 +5425,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -6705,36 +6735,6 @@
       "expirada": true
     },
     {
-      "id": "94d99bc23caf3bfa28cb1264dbb3d041fc8f0e88",
-      "titulo": "0e46: Analista Desenvolvedor Front End Web/mobile Pleno",
-      "empresa": "mazzatech",
-      "url": "https://www.adzuna.com.br/details/5881836717?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-12T19:29:07Z",
-      "descricao": "Requisitos: - Front-end/Mobile: JavaScript, TypeScript, HTML5, CSS3, Bootstrap e boas práticas de UX/UI para aplicações móveis - Frameworks e bibliotecas: React Native, Expo, React JS, React Navigation, Axios/Fetch, Context API, Redux ou Zustand - Mobile: desenvolvimento de aplicativos com React Native/Expo, integração com APIs REST, autenticação, push notifications e recursos nativos via Expo - Versionamento: Git e GitHub - Ferramentas de gestão: Jira - Diferenciais: EAS Build, publicação na G…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Redux",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": true
-    },
-    {
       "id": "db09ac9cd51cc73aed8d29462f08f41d188f9cc2",
       "titulo": "ADMFull Stack",
       "empresa": "Decision group",
@@ -6905,6 +6905,26 @@
       "experiencia_exigida": 4,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
+      "titulo": "Typescript Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5921353548?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Teresina, Piaui",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T21:51:54Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:08Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7085,26 +7105,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T23:49:20Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
-      "titulo": "Typescript Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5917828008?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Ribeirão Preto, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-07T21:51:30Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:08Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -9664,6 +9664,26 @@
       "expirada": false
     },
     {
+      "id": "2b5e9a53172f8456c46cb305f405696f99097faa",
+      "titulo": "0f35: Analista Desenvolvedor Front-end Web/mobile Pleno",
+      "empresa": "mazzatech",
+      "url": "https://www.adzuna.com.br/details/5921342341?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-09T21:50:11Z",
+      "descricao": "A Mazzatech é uma consultoria especializada em recrutamento e seleção de profissionais de tecnologia, conectando talentos às melhores oportunidades do mercado. Estamos em busca de um Analista Desenvolvedor Front-end Web/Mobile Pleno para atuar em uma empresa do segmento de tecnologia, desenvolvendo soluções modernas e inovadoras para aplicações web e mobile. Modelo de atuação: 100% presencial em Araraquara/SP. O que você fará: - Desenvolver e evoluir aplicações mobile utilizando React Native e …",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:28Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
       "id": "93d001097a80861d9091880bc7bffc533e8c113e",
       "titulo": "Desenvolvedor Mobile",
       "empresa": "Innolevels",
@@ -10015,7 +10035,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -11496,26 +11516,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": true
-    },
-    {
-      "id": "2b5e9a53172f8456c46cb305f405696f99097faa",
-      "titulo": "0f35: Analista Desenvolvedor Front-end Web/mobile Pleno",
-      "empresa": "mazzatech",
-      "url": "https://www.adzuna.com.br/details/5881835719?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-12T19:28:56Z",
-      "descricao": "A Mazzatech é uma consultoria especializada em recrutamento e seleção de profissionais de tecnologia, conectando talentos às melhores oportunidades do mercado. Estamos em busca de um Analista Desenvolvedor Front-end Web/Mobile Pleno para atuar em uma empresa do segmento de tecnologia, desenvolvendo soluções modernas e inovadoras para aplicações web e mobile. Modelo de atuação: 100% presencial em Araraquara/SP. O que você fará: - Desenvolver e evoluir aplicações mobile utilizando React Native e …",
-      "score": 30,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
     },
