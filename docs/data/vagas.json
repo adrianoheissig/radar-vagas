@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-10T15:02:30Z",
-  "total": 510,
+  "atualizado_em": "2026-10-10T15:51:14Z",
+  "total": 511,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -422,6 +422,28 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "7fb1b4c22f2f2f94544fc9745199bf4a8d0924bd",
+      "titulo": "IT Analyst II - Node.js, Angular/React",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5922300397?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-10T12:26:04Z",
+      "descricao": "IT Analyst II - Node.js, Angular/React Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inova…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T15:49:38Z",
       "ultima_vista": "2026-10-10",
       "expirada": false
     },
@@ -5339,7 +5361,7 @@
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
-      "url": "https://www.adzuna.com.br/land/ad/5921224964?utm_medium=api&utm_source=267e525f&v=C19BFC6138090D994D482DA58DE62AFF039A23CD",
+      "url": "https://www.adzuna.com.br/details/5921224964?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
