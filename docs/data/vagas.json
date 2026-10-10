@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-09T23:02:41Z",
-  "total": 499,
+  "atualizado_em": "2026-10-10T00:42:17Z",
+  "total": 500,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -29,7 +29,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -131,7 +131,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T21:01:41Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -288,7 +288,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:11Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -352,7 +352,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -390,7 +390,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -422,7 +422,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -445,7 +445,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-05T19:11:44Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -481,7 +481,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -614,7 +614,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:01:03Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -739,7 +739,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-25T15:01:46Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -760,7 +760,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:54Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -789,7 +789,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T14:52:35Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "26c7c5e024e2684c0bda35648294218359cd764e",
@@ -1181,7 +1181,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-18T18:17:33Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -1275,7 +1275,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T09:00:36Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -1563,7 +1563,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:11Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -1625,7 +1625,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T21:01:39Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -1694,7 +1694,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:19Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "62384a7de76b008e9e34bd04c74627e8d1d4015a",
@@ -1717,7 +1717,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:19Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
@@ -1789,7 +1789,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T07:01:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2116,7 +2116,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2173,7 +2173,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "1a4b75e58e444702db10f110f23d5d6a380b6167",
@@ -2225,7 +2225,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2246,7 +2246,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:00:48Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2278,7 +2278,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2303,7 +2303,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T13:01:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2328,7 +2328,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2355,7 +2355,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2419,7 +2419,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T17:22:48Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2492,7 +2492,7 @@
       "lacunas": [],
       "experiencia_exigida": 4,
       "data_coleta": "2026-10-07T03:00:54Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2611,7 +2611,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -2744,7 +2744,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:00:37Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -3240,7 +3240,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -3265,7 +3265,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T07:01:06Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d141ffad3dcfc5e705bfb923e9be1f2439b3dfbb",
@@ -3358,7 +3358,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -3611,7 +3611,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -3772,7 +3772,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4187,7 +4187,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4498,7 +4498,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:00:56Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4523,7 +4523,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:19Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4569,7 +4569,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T23:44:29Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4612,7 +4612,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4705,7 +4705,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:00:54Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "ea372eae402898341607ec2b0a7b1f648f4aaf95",
@@ -4750,7 +4750,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T17:01:00Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5030,7 +5030,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5188,7 +5188,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:09Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5212,7 +5212,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T05:01:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5234,7 +5234,40 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T16:56:05Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
+      "titulo": "Analista De Sistemas Pleno",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-em-minas-gerais__12106920.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-09T11:47:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \r\n\r\nATIVIDADES \r\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\r\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\r\n- Atuar nos projetos conforme priorização da Up Brasil.\r\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\r\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\r\n\r\nREQUISITOS \r\n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, ár…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "SQL Server",
+        "MongoDB",
+        "Docker",
+        "Azure"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-10T00:41:14Z",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5259,7 +5292,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5288,7 +5321,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T13:01:34Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -5987,7 +6020,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:19Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "50e6148385238d1f28dbba4d4753425b7d9bcded",
@@ -6312,7 +6345,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -6334,7 +6367,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:16:57Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -6407,7 +6440,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "7337412ffab11a097018338951773dbd47c73399",
@@ -6427,7 +6460,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "04a4346a47247d099726fb10d8035d0c5710b507",
@@ -6449,7 +6482,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
@@ -6471,7 +6504,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
@@ -6514,7 +6547,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "3ff26a4ce5959048a80b4b7cfbd6e1689d74d9ab",
@@ -6572,7 +6605,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -6731,40 +6764,6 @@
       "expirada": true
     },
     {
-      "id": "129663c8398a2f75a0e18fad10667107d1052f3f",
-      "titulo": "Analista De Sistemas Júnior",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-junior-em-minas-gerais__11990089.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-09-04T10:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \nATIVIDADES \nEstamos em busca de um(a) Analista de Sistemas Júnior para atuar no desenvolvimento, sustentação e evolução de soluções tecnológicas, contribuindo para a melhoria contínua dos sistemas e processos da empresa. A oportunidade é ideal para profissionais que desejam ampliar sua atuação em um ambiente colaborativo, inovador e orientado à tecnologia. \nDesenvolver e sustentar aplicações e sistemas corporativos;\nAdministrar ambientes de TI automatizados e monitorados;\nRealizar manutenção corretiva e evolutiva em sistemas e bancos de dados;\nElaborar documentação técnica e apoiar a definição de padrões tecnológicos;\nParticipar da implantação, testes, acompanhamento e evolução de soluções;\nAtuar no levantamento de requisitos e análise de demandas de negócio;\nGarantir a atualização dos repositórios de código e ambientes de desenvolvimento;\nContribuir para a performance, estabilidade e me…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "MongoDB",
-        "Docker",
-        "Azure",
-        "Inglês"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-09-16T11:22:59Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
-    {
       "id": "9abfb21c321a1832890235e8ec06fe156c33b1e7",
       "titulo": "Front End Developer (Angular)",
       "empresa": "Stefanini Latam",
@@ -6880,7 +6879,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d7fc5a999dd7e7a47337c51b51056b65ee24b8c8",
@@ -6929,7 +6928,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:20:07Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7183,7 +7182,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T03:00:54Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7258,7 +7257,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7282,7 +7281,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7325,7 +7324,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7345,7 +7344,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7397,7 +7396,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7685,7 +7684,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -7944,7 +7943,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -8021,7 +8020,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T07:01:12Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "ce4bb666155d9c1d17a2409465d7476a59f3e0eb",
@@ -8062,7 +8061,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T18:57:32Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -8228,7 +8227,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -8319,7 +8318,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T17:00:57Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9683,7 +9682,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9706,7 +9705,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9726,7 +9725,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T09:01:07Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9749,7 +9748,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9770,7 +9769,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9794,7 +9793,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T09:01:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9814,7 +9813,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:50Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9834,7 +9833,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9876,7 +9875,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T07:01:04Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -9973,7 +9972,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -10059,7 +10058,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -10483,7 +10482,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:13Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -10528,7 +10527,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:41Z",
-      "ultima_vista": "2026-10-09",
+      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -11231,7 +11230,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "57b7eac5fe4f1415ba80f81587c744805cf1fc43",
@@ -11298,7 +11297,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:09Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "0a386b97e164e060a10c4f58b9ac24d403d6556e",
@@ -12019,6 +12018,24 @@
       "expirada": false
     },
     {
+      "id": "129663c8398a2f75a0e18fad10667107d1052f3f",
+      "titulo": "Analista De Sistemas Júnior",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-junior-em-minas-gerais__11990089.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-09-04T10:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \nATIVIDADES \nEstamos em busca de um(a) Analista de Sistemas Júnior para atuar no desenvolvimento, sustentação e evolução de soluções tecnológicas, contribuindo para a melhoria contínua dos sistemas e processos da empresa. A oportunidade é ideal para profissionais que desejam ampliar sua atuação em um ambiente colaborativo, inovador e orientado à tecnologia. \nDesenvolver e sustentar aplicações e sistemas corporativos;\nAdministrar ambientes de TI automatizados e monitorados;\nRealizar manutenção corretiva e evolutiva em sistemas e bancos de dados;\nElaborar documentação técnica e apoiar a definição de padrões tecnológicos;\nParticipar da implantação, testes, acompanhamento e evolução de soluções;\nAtuar no levantamento de requisitos e análise de demandas de negócio;\nGarantir a atualização dos repositórios de código e ambientes de desenvolvimento;\nContribuir para a performance, estabilidade e me…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:59Z",
+      "ultima_vista": "2026-10-09",
+      "expirada": false
+    },
+    {
       "id": "b676c6812f4b272b358b8d8d159dc2c502a73ed5",
       "titulo": "Desenvolvedor Júnior",
       "empresa": "Grupo Universal Soluções Automotivas",
@@ -12054,7 +12071,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-09-25",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "16d1ad1fa4a42fd8dc1806aa092ac503d0e661a9",
