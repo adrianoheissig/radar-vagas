@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-10T19:02:45Z",
+  "atualizado_em": "2026-10-11T00:13:14Z",
   "total": 511,
   "vagas": [
     {
@@ -131,7 +131,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T21:01:41Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -288,7 +288,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:11Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -352,7 +352,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -390,7 +390,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -422,7 +422,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -444,7 +444,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T15:49:38Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -476,7 +476,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -499,7 +499,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-05T19:11:44Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -535,7 +535,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -636,7 +636,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:01:03Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -761,7 +761,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-25T15:01:46Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -782,7 +782,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:54Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -1203,7 +1203,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-18T18:17:33Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -1297,7 +1297,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T09:00:36Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -1585,7 +1585,7 @@
       "lacunas": [],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -1668,7 +1668,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T21:01:39Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -1786,7 +1786,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "c5138c63efef7ba8a2c434bba718a042050a25ea",
@@ -2138,7 +2138,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -2241,7 +2241,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T13:01:02Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -2263,7 +2263,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T07:00:56Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -2311,7 +2311,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:00:48Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -2343,7 +2343,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -2484,7 +2484,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T17:22:48Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -3022,6 +3022,27 @@
       "expirada": false
     },
     {
+      "id": "1ac0f4e5995a47eb16c93d2104cb733514d97bcf",
+      "titulo": "Desenvolvedor de Sistemas Fullstack | Java e React | Crédito 1 | CSC (remoto)",
+      "empresa": "Cresol",
+      "url": "https://www.adzuna.com.br/details/5904068186?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-30T13:10:53Z",
+      "descricao": "Description Estamos em busca de um(a) Desenvolvedor de Sistemas para fortalecer ainda mais o nosso time! Se você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você! Aqui na Cresol, crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e quer fazer parte de algo grandioso, vem p…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-10-11",
+      "expirada": false
+    },
+    {
       "id": "311259a4986cad0573824572727bca6570f18c42",
       "titulo": "Analista de Tecnologia - Desenvolvedor(a) Mobile React Native",
       "empresa": "VEM SER #GENTEALGAR",
@@ -3305,7 +3326,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -3423,7 +3444,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -3676,7 +3697,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -3817,27 +3838,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-27",
-      "expirada": false
-    },
-    {
-      "id": "1ac0f4e5995a47eb16c93d2104cb733514d97bcf",
-      "titulo": "Desenvolvedor de Sistemas Fullstack | Java e React | Crédito 1 | CSC (remoto)",
-      "empresa": "Cresol",
-      "url": "https://www.adzuna.com.br/details/5878715973?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-10T13:13:18Z",
-      "descricao": "Description Venha fazer a diferença com a gente! Estamos em busca de um(a) Desenvolvedor de Sistemas para fortalecer ainda mais o nosso time! Se você acredita no poder do trabalho em equipe, na construção de um ambiente colaborativo e no impacto positivo que pode gerar na comunidade, essa oportunidade é para você! Aqui na Cresol, crescimento é sobre desenvolver talentos, fortalecer conexões e criar um ambiente onde cada pessoa se sinta valorizada. Se você está pronto(a) para esse desafio e que…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -4252,7 +4252,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -4562,7 +4562,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:57Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -4586,7 +4586,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:00:56Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -4838,7 +4838,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T17:01:00Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5118,7 +5118,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5279,7 +5279,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T05:00:40Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5303,7 +5303,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:55Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5324,7 +5324,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T07:00:56Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5354,7 +5354,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5376,7 +5376,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:09Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5400,7 +5400,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T05:01:04Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5422,7 +5422,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T16:56:05Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5455,7 +5455,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-10T00:41:14Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -5509,7 +5509,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T13:01:34Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -6508,7 +6508,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -6530,7 +6530,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:16:57Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -6768,7 +6768,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -6987,7 +6987,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "f2c766b566aadbe593296e883be7cd1cfdb00954",
@@ -7062,7 +7062,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T13:01:09Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -7082,7 +7082,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:37:08Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -7842,7 +7842,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -8053,7 +8053,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:33Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
@@ -8078,7 +8078,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:39Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "4cbf76f008ff79affae8e3fc75d49d96879907d9",
@@ -8101,7 +8101,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -8153,7 +8153,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "79cea000dc8eb00ecf6167922a7fadf38110dc9e",
@@ -8219,7 +8219,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T18:57:32Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -8385,7 +8385,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -8476,7 +8476,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T17:00:57Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9133,7 +9133,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:26Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "349c8fe37c7f81b164862fc2c08abb636a26ba7b",
@@ -9671,7 +9671,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:30Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
@@ -9840,7 +9840,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T18:52:23Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9860,7 +9860,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:55Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9880,7 +9880,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:55Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9900,7 +9900,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T09:00:52Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9924,7 +9924,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:38Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9944,7 +9944,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -9989,7 +9989,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -10117,7 +10117,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -10744,7 +10744,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T16:12:13Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -10789,7 +10789,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:41Z",
-      "ultima_vista": "2026-10-10",
+      "ultima_vista": "2026-10-11",
       "expirada": false
     },
     {
@@ -11123,7 +11123,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:27Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "4de9b6d03fc3dfad5a7205de2043af29bd6e8086",
@@ -11167,7 +11167,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T17:01:13Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
@@ -11886,7 +11886,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-26",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "fba9527f9ca0d88c81e25a37eefa3f0ce656f137",
