@@ -1,7 +1,41 @@
 {
-  "atualizado_em": "2026-10-11T13:02:25Z",
-  "total": 512,
+  "atualizado_em": "2026-10-11T15:02:36Z",
+  "total": 514,
   "vagas": [
+    {
+      "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5922664193?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-10T21:51:40Z",
+      "descricao": "Desenvolvedor Front End React. O que realmente procuramos são pessoas com as seguintes características: Linguagem principal no frontend: Typescript; React; HTML na última versão; CSS na última versão; GraphQL (com Apollo Client); Node.ts (com Express) e Kotlin (com Spring boot) no backend; Ferramentas de entrega contínua (GitHub, Jenkins); Kubernetes e Docker; Linux; Local: São Paulo/SP | 100% remoto",
+      "score": 80,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Express",
+        "Spring",
+        "Kotlin",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:28Z",
+      "ultima_vista": "2026-10-11",
+      "expirada": false
+    },
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
       "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
@@ -31,40 +65,6 @@
       "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-10-10",
       "expirada": false
-    },
-    {
-      "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5882925830?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-13T19:30:39Z",
-      "descricao": "Desenvolvedor Front End React. O que realmente procuramos são pessoas com as seguintes características: Linguagem principal no frontend: Typescript; React; HTML na última versão; CSS na última versão; GraphQL (com Apollo Client); Node.ts (com Express) e Kotlin (com Spring boot) no backend; Ferramentas de entrega contínua (GitHub, Jenkins); Kubernetes e Docker; Linux; Local: São Paulo/SP | 100% remoto",
-      "score": 80,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Git"
-      ],
-      "lacunas": [
-        "Express",
-        "Spring",
-        "Kotlin",
-        "GraphQL",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Linux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:28Z",
-      "ultima_vista": "2026-09-14",
-      "expirada": true
     },
     {
       "id": "20cd07ab2ae0db87807665be8e500daca584e40d",
@@ -5334,7 +5334,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5921810402?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5921810402?utm_medium=api&utm_source=267e525f&v=6879383871A6BAD32FE9735B3C4C2F84CE2C7A8C",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5456,7 +5456,7 @@
       "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
       "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/details/5921220219?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5921220219?utm_medium=api&utm_source=267e525f&v=54BB739EC452BEB91F32EB7D42D9D39BA2AB3EA1",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "presencial",
@@ -7065,6 +7065,26 @@
       "expirada": false
     },
     {
+      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
+      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5923103447?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T07:57:44Z",
+      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-10-11",
+      "expirada": false
+    },
+    {
       "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
       "titulo": "Remote Junior React Developer",
       "empresa": "",
@@ -7341,6 +7361,29 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-17T14:50:09Z",
+      "ultima_vista": "2026-10-11",
+      "expirada": false
+    },
+    {
+      "id": "a1fac2aa01ed38b933616bba60635c909d647a18",
+      "titulo": "Desenvolvedor(a) BackEnd Snior | Node.js & Azure API Management | Hbrido-SP",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5921779335?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-10T02:56:30Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) BackEnd Sênior para atuar na construção de plataformas de APIs, automação de processos de entrega contínua e modernização de ambientes em Microsoft Azure. A posição terá papel estratégico na definição de padrões de desenvolvimento, automação e governança, contribuindo diretamente para iniciativas de transformação digital e migração de APIs em ambientes corporativos de alta criticidade.Além do desenvolvimento backend com Node.js e TypeScript, este profi…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-11T15:01:12Z",
       "ultima_vista": "2026-10-11",
       "expirada": false
     },
@@ -7700,26 +7743,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T09:01:10Z",
       "ultima_vista": "2026-10-07",
-      "expirada": false
-    },
-    {
-      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
-      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5911380262?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-04T07:59:55Z",
-      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-08",
       "expirada": false
     },
     {
@@ -10124,6 +10147,33 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-10-11",
+      "expirada": false
+    },
+    {
+      "id": "09490cc37099f3c24565f609e1f6cdd06ed867c6",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Ewave Do Brasil Informatica",
+      "url": "https://www.adzuna.com.br/details/5922291986?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-10T12:21:39Z",
+      "descricao": "Description Sobre a empresa: Unidade de negócio do Grupo Corpay, líder global em pagamentos empresariais, que oferece o mais amplo portfólio de soluções para gestão de veículos e benefícios. Fullstack com foco em backend: Fullstack com foco em banco de dados, SQL e NoSQL, focado em performance e estrutura de dados. Requirements Fullstack com foco em backend: Typescript NEST GoLang Gitflow Bancos de dados Oracle, SQL e Elastic Search. Openshift API Rest Redis Kafka Micro serviços e sistemas dist…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "APIs REST",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Go",
+        "Oracle",
+        "Redis"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-11T15:01:12Z",
       "ultima_vista": "2026-10-11",
       "expirada": false
     },
