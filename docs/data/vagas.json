@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-12T00:26:41Z",
+  "atualizado_em": "2026-10-12T01:02:36Z",
   "total": 514,
   "vagas": [
     {
@@ -2224,6 +2224,30 @@
       "expirada": false
     },
     {
+      "id": "d8ca51788780c6cc7846d2806661a44f8a9578b2",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5923689711?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T21:50:57Z",
+      "descricao": "Desenvolvedora Mobile - Pleno. O que você precisa ter: Conhecimentos em linguagens de programação Mobile; Experiência sólida atuando com Java/Kotlin; Conhecimentos em Swift, React Native, IOS e Android, Flutter, JSON; Hard User de tecnologias smartphones; Diferencial: Conhecimentos de IIB; Atuação com metodologias Cascade e Ágeis, especialmente Scrum; Local: Home Office - Aceitamos Pessoas Candidatas de todo Brasil",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
       "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
       "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
       "empresa": "",
@@ -3797,30 +3821,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
-      "id": "d8ca51788780c6cc7846d2806661a44f8a9578b2",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5883942714?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T19:29:45Z",
-      "descricao": "Desenvolvedora Mobile - Pleno. O que você precisa ter: Conhecimentos em linguagens de programação Mobile; Experiência sólida atuando com Java/Kotlin; Conhecimentos em Swift, React Native, IOS e Android, Flutter, JSON; Hard User de tecnologias smartphones; Diferencial: Conhecimentos de IIB; Atuação com metodologias Cascade e Ágeis, especialmente Scrum; Local: Home Office - Aceitamos Pessoas Candidatas de todo Brasil",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-09-15",
       "expirada": true
     },
     {
@@ -5456,7 +5456,7 @@
       "id": "8c4f85e4e722b5b73c2e7fe28a99d99e5c07d611",
       "titulo": "Engenheiro de IA Generativa– Forward Deployed Engineer - SP",
       "empresa": "Capitani group",
-      "url": "https://www.adzuna.com.br/land/ad/5921220219?utm_medium=api&utm_source=267e525f&v=54BB739EC452BEB91F32EB7D42D9D39BA2AB3EA1",
+      "url": "https://www.adzuna.com.br/details/5921220219?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "presencial",
@@ -5473,7 +5473,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T05:01:04Z",
-      "ultima_vista": "2026-10-11",
+      "ultima_vista": "2026-10-12",
       "expirada": false
     },
     {
@@ -7065,6 +7065,86 @@
       "expirada": false
     },
     {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5923689600?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Belo Horizonte, Minas Gerais",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T21:50:57Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
+      "id": "47d3be88d7333f0e40417599b25250e90bbe539a",
+      "titulo": "React Frontend Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5923689607?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T21:50:57Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Frontend Developer at BairesDev Being a React Frontend Developer in our Development Team is just like being …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
+      "id": "70cd30216dd066813e92e5606604065ac8bfea88",
+      "titulo": "Software Developer React - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5923689618?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasilia, Distrito Federal",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T21:50:57Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Developer at BairesDev Being a React Senior Developer in our Development Team is just like being a full-time…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
+      "id": "43be02c251ffa6fa24206545039f73abafb3a76e",
+      "titulo": "Pessoa Desenvolvedora React - Trabalho Remoto",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5923689599?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Belo Horizonte, Minas Gerais",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-11T21:50:57Z",
+      "descricao": "Pessoa Desenvolvedora React na BD (Trabalho remoto irrecusável) Não somos o Poderoso Chefão, mas vamos te fazer uma proposta que não poderá recusar! Na BD, empresa de TI que mais cresce na América Latina, o talento nos guia e nos possibilita entregar as melhores soluções de tecnologia para nossos clientes. Sabe como? Contratamos o 1% entre os melhores profissionais de TI do mundo. Quando procuramos talentos, procuramos em lugares inesperados diferentes personalidades, mentalidades, origens e ex…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
       "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
       "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
       "empresa": "",
@@ -7590,26 +7670,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5917828958?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Teresina, Piaui",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-07T21:51:39Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
@@ -8842,66 +8902,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:01Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
-      "id": "47d3be88d7333f0e40417599b25250e90bbe539a",
-      "titulo": "React Frontend Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5883942555?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T19:29:44Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Frontend Developer at BairesDev Being a React Frontend Developer in our Development Team is just like being …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:07Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
-      "id": "70cd30216dd066813e92e5606604065ac8bfea88",
-      "titulo": "Software Developer React - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5883942521?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T19:29:44Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Developer at BairesDev Being a React Senior Developer in our Development Team is just like being a full-time…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:07Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
-      "id": "43be02c251ffa6fa24206545039f73abafb3a76e",
-      "titulo": "Pessoa Desenvolvedora React - Trabalho Remoto",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5883942560?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Belo Horizonte, Minas Gerais",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T19:29:44Z",
-      "descricao": "Pessoa Desenvolvedora React na BD (Trabalho remoto irrecusável) Não somos o Poderoso Chefão, mas vamos te fazer uma proposta que não poderá recusar! Na BD, empresa de TI que mais cresce na América Latina, o talento nos guia e nos possibilita entregar as melhores soluções de tecnologia para nossos clientes. Sabe como? Contratamos o 1% entre os melhores profissionais de TI do mundo. Quando procuramos talentos, procuramos em lugares inesperados diferentes personalidades, mentalidades, origens e ex…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:07Z",
       "ultima_vista": "2026-09-16",
       "expirada": true
     },
