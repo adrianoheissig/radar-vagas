@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-12T19:46:36Z",
+  "atualizado_em": "2026-10-12T21:02:43Z",
   "total": 515,
   "vagas": [
     {
@@ -9869,6 +9869,28 @@
       "expirada": false
     },
     {
+      "id": "6dd41ce68f138299b7490a50d67348a83f47167f",
+      "titulo": "UX/UI Designer",
+      "empresa": "pubGENIUS",
+      "url": "https://www.adzuna.com.br/details/5924714175?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-12T17:19:03Z",
+      "descricao": "pubGENIUS is a cutting-edge React.js Next.js agency and Ad Tech startup that develops innovative digital products for clients across the US and Europe. We are seeking a talented UX/UI Designer who is passionate about creating exceptional user experiences that solve real-world problems. At pubGENIUS, we believe design is more than just aesthetics. It's about understanding user needs, challenging assumptions and creating digital solutions that are intuitive, effective and delightful. We are look…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T21:01:00Z",
+      "ultima_vista": "2026-10-12",
+      "expirada": false
+    },
+    {
       "id": "089814196ab67c83697e600e0a6c603aed1f67df",
       "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
       "empresa": "",
@@ -10494,28 +10516,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:50Z",
       "ultima_vista": "2026-10-10",
-      "expirada": false
-    },
-    {
-      "id": "6dd41ce68f138299b7490a50d67348a83f47167f",
-      "titulo": "UX/UI Designer",
-      "empresa": "pubGENIUS",
-      "url": "https://www.adzuna.com.br/details/5917589087?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-07T17:10:15Z",
-      "descricao": "pubGENIUS is a cutting-edge React.js Next.js agency and Ad Tech startup that develops innovative digital products for clients across the US and Europe. We are seeking a talented UX/UI Designer who is passionate about creating exceptional user experiences that solve real-world problems. At pubGENIUS, we believe design is more than just aesthetics. It's about understanding user needs, challenging assumptions and creating digital solutions that are intuitive, effective and delightful. We are look…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T21:01:00Z",
-      "ultima_vista": "2026-10-09",
       "expirada": false
     },
     {
