@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-13T13:02:57Z",
+  "atualizado_em": "2026-10-13T15:02:39Z",
   "total": 515,
   "vagas": [
     {
@@ -1169,41 +1169,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "d2bf1ef9f958105caa91458d9635d48855c853cb",
-      "titulo": "Desenvolvedor Backend Pleno",
-      "empresa": "Capitani Group",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-backend-pleno-em-sao-paulo__12098385.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T12:32:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? Vaga: Desenvolvedor(a) Backend Pleno (foco backend, perfil fullstack)\n\n?? Contratação: PJ\n?? Modelo: 100% remoto\n? Projeto: duração estimada de 4 meses, com possibilidade de extensão\n\nSobre a posição:\nBuscamos uma pessoa desenvolvedora fullstack de nível pleno, com foco em backend, para construir e evoluir APIs e serviços que sustentam produtos web. O time pratica Extreme Programming (XP): TDD, code review, integração contínua e refactoring constante. Valorizamos quem participa das discussões de design antes de codar, entende o problema de negócio por trás de cada entrega e contribui para a evolução contínua da base de código.\n\nRequisitos obrigatórios:\n? Experiência com desenvolvimento backend em ambiente profissional\n? Domínio de TypeScript/Node.js com profundidade real\n? Fluência com agentes de código (Claude Code, Cursor, GitHub Copilot ou similares) aplicada à entrega de produto: conduz o agente com contexto e critério, revisa criticamente o resultado e responde pelo código que entrega\n? Frameworks backend estruturados (NestJS ou equivalente): injeção de dependência, middlewares, pipelines de validação\n? Sólido conhecimento de SQL e modelagem relacional (índices, joins, normalização, leitura de plano de execução)\n? Testes automatizados que documentam comportamento, e não que apenas perseguem cobertura\n? Git em fluxo colaborativo: branches, PRs, resolução de conflitos, commits coesos\n? Familiaridade com ao menos um…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Vue.js",
-        "NestJS",
-        "Redis",
-        "Docker",
-        "AWS",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-18T18:17:33Z",
-      "ultima_vista": "2026-10-13",
       "expirada": false
     },
     {
@@ -4709,6 +4674,32 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:19Z",
       "ultima_vista": "2026-10-10",
+      "expirada": false
+    },
+    {
+      "id": "d2bf1ef9f958105caa91458d9635d48855c853cb",
+      "titulo": "Desenvolvedor Backend Pleno",
+      "empresa": "Capitani Group",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-backend-pleno-em-sao-paulo__12098385.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-08T12:32:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? Vaga: Desenvolvedor(a) Backend Pleno (foco backend, perfil fullstack)\n\n?? Contratação: PJ\n?? Modelo: 100% remoto\n? Projeto: duração estimada de 4 meses, com possibilidade de extensão\n\nSobre a posição:\nBuscamos uma pessoa desenvolvedora fullstack de nível pleno, com foco em backend, para construir e evoluir APIs e serviços que sustentam produtos web. O time pratica Extreme Programming (XP): TDD, code review, integração contínua e refactoring constante. Valorizamos quem participa das discussões de design antes de codar, entende o problema de negócio por trás de cada entrega e contribui para a evolução contínua da base de código.\n\nRequisitos obrigatórios:\n? Experiência com desenvolvimento backend em ambiente profissional\n? Domínio de TypeScript/Node.js com profundidade real\n? Fluência com agentes de código (Claude Code, Cursor, GitHub Copilot ou similares) aplicada à entrega de produto: conduz o agente com contexto e critério, revisa criticamente o resultado e responde pelo código que entrega\n? Frameworks backend estruturados (NestJS ou equivalente): injeção de dependência, middlewares, pipelines de validação\n? Sólido conhecimento de SQL e modelagem relacional (índices, joins, normalização, leitura de plano de execução)\n? Testes automatizados que documentam comportamento, e não que apenas perseguem cobertura\n? Git em fluxo colaborativo: branches, PRs, resolução de conflitos, commits coesos\n? Familiaridade com ao menos um…",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T18:17:33Z",
+      "ultima_vista": "2026-10-13",
       "expirada": false
     },
     {
@@ -9113,9 +9104,9 @@
         "Vue.js",
         "PHP"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-08",
+      "ultima_vista": "2026-10-13",
       "expirada": false
     },
     {
