@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-13T15:02:39Z",
-  "total": 515,
+  "atualizado_em": "2026-10-13T17:02:35Z",
+  "total": 516,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -5276,6 +5276,34 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "99f5712dd6d99c0b440e6886ad0e3ff6dc76bb40",
+      "titulo": "Pessoa Desenvolvedora Júnior (.NET, React E IA)",
+      "empresa": "King of Languages",
+      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T15:22:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Docker",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-13T17:01:36Z",
+      "ultima_vista": "2026-10-13",
       "expirada": false
     },
     {
