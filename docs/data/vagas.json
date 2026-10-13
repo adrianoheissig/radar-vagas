@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-13T02:32:36Z",
+  "atualizado_em": "2026-10-13T07:02:41Z",
   "total": 515,
   "vagas": [
     {
@@ -2224,6 +2224,63 @@
       "expirada": false
     },
     {
+      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
+      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5925454919?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T02:56:45Z",
+      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-13",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5925453660?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T02:56:33Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-13",
+      "expirada": false
+    },
+    {
       "id": "94f288d8a2b7f4db2d1c20416739a880136b6be1",
       "titulo": "Front-end Junior Analyst",
       "empresa": "Santander",
@@ -2801,30 +2858,6 @@
       "expirada": false
     },
     {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913431542?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-06T02:35:22Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
-    {
       "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
       "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2958,33 +2991,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:00:37Z",
       "ultima_vista": "2026-10-10",
-      "expirada": false
-    },
-    {
-      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
-      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5911160750?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-04T02:35:59Z",
-      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-06",
       "expirada": false
     },
     {
@@ -7065,6 +7071,28 @@
       "expirada": false
     },
     {
+      "id": "213d0b04ce52bc92e16c72307deba6a00e776d4a",
+      "titulo": "Desenvolvedor Frontend Junior (25805)",
+      "empresa": "EVT",
+      "url": "https://www.adzuna.com.br/details/5925125968?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-12T21:54:41Z",
+      "descricao": "Atuação: remota - full time, no horário comercial - Período Indeterminado - Modelo de contratação: PJ ou Cooperado - Perfil Frontend JR - Conhecer ou ter atuado com react - Programas de incentivo a aprendizados (udemy) - Aulas de inglês corporativo com valores acessivos",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:20Z",
+      "ultima_vista": "2026-10-13",
+      "expirada": false
+    },
+    {
       "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
       "titulo": "Junior/midlevel React Developer - Remote Work",
       "empresa": "BairesDev",
@@ -8829,28 +8857,6 @@
       "expirada": true
     },
     {
-      "id": "213d0b04ce52bc92e16c72307deba6a00e776d4a",
-      "titulo": "Desenvolvedor Frontend Junior (25805)",
-      "empresa": "EVT",
-      "url": "https://www.adzuna.com.br/details/5885227502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-15T19:33:36Z",
-      "descricao": "Atuação: remota - full time, no horário comercial - Período Indeterminado - Modelo de contratação: PJ ou Cooperado - Perfil Frontend JR - Conhecer ou ter atuado com react - Programas de incentivo a aprendizados (udemy) - Aulas de inglês corporativo com valores acessivos",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:20Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "b3f1bb9fa0936383033a193a9cd7a2067430fd07",
       "titulo": "Software Engineer FullStack (.NET CORE/React)",
       "empresa": "SoftDesign",
@@ -9590,6 +9596,28 @@
       "expirada": true
     },
     {
+      "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
+      "titulo": "Líder Técnico Iii - Diversos Benefícios",
+      "empresa": "Caderno Nacional",
+      "url": "https://www.adzuna.com.br/details/5925109541?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-12T21:51:41Z",
+      "descricao": "Líder Técnico III - Oportunidade | Líder Técnico III (React Native / Node.js) Estamos buscando um Líder Técnico III para atuar em um projeto desafiador, com foco em React Native e Node.js. 100% remoto Atuação com liderança técnica e desenvolvimento",
+      "score": 35,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T23:29:36Z",
+      "ultima_vista": "2026-10-13",
+      "expirada": false
+    },
+    {
       "id": "c37a70cb195c5a74e6d0a1b7275b0b417f8daf5f",
       "titulo": "Desenvolvedor Web - Sao Paulo",
       "empresa": "OEmprego - Vagas Brasil",
@@ -9743,28 +9771,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:37Z",
       "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
-      "titulo": "Líder Técnico Iii - Diversos Benefícios",
-      "empresa": "Caderno Nacional",
-      "url": "https://www.adzuna.com.br/details/5885204691?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-15T19:30:02Z",
-      "descricao": "Líder Técnico III - Oportunidade | Líder Técnico III (React Native / Node.js) Estamos buscando um Líder Técnico III para atuar em um projeto desafiador, com foco em React Native e Node.js. 100% remoto Atuação com liderança técnica e desenvolvimento",
-      "score": 35,
-      "skills_match": [
-        "Node.js"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T23:29:36Z",
-      "ultima_vista": "2026-09-16",
       "expirada": true
     },
     {
