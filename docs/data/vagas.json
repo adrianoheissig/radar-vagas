@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-14T00:15:42Z",
+  "atualizado_em": "2026-10-14T01:01:50Z",
   "total": 516,
   "vagas": [
     {
@@ -101,38 +101,6 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-28",
       "expirada": true
-    },
-    {
-      "id": "cfeb31d3cd56b63c3b22e38b293e1fadb6bc9c61",
-      "titulo": "Desenvolvedor(A) React",
-      "empresa": "D2W",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-react-em-__11988234.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-04T05:00:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResumo\nBuscamos um(a) desenvolvedor(a) Pleno/Sênior para liderar a evolução e otimização da nossa camada de front-end em React, apoiando também a manutenção da estrutura de mensageria (GCP/Pub/Sub, Firestore, Cloud Functions) e de scripts Node.js de sincronia de dados (schedulers).\nResponsabilidades\nEstruturar, otimizar e evoluir a aplicação React (performance, arquitetura de componentes, escalabilidade do front-end)\nDefinir e manter padrões de gerenciamento de estado, code splitting e boas práticas de código\nConsumir e integrar APIs REST, com tratamento de erros, autenticação e resiliência\nApoiar a manutenção da camada de mensageria (Pub/Sub, Cloud Functions, Firestore triggers)\nManter e evoluir scripts/schedulers em Node.js para sincronia de dados entre sistemas\nContribuir para decisões de arquitetura visando aplicações escaláveis, com foco em front-end\nRealizar code review, mentoria a devs menos experientes (se sênior) e documentação técnica\nRequisitos obrigatórios\nExperiência sólida e comprovada com React (hooks avançados, context, otimização de performance — memoization, lazy loading, virtualização)\nJavaScript/TypeScript avançado\nExperiência consumindo APIs REST (autenticação, paginação, tratamento de erros, versionamento)\nExperiência com Node.js (não precisa ser backend pleno — foco em scripts, jobs, integrações e processamento assíncrono)\nNoções de Postgres (queries, entendimento de modelagem relacional — não prec…",
-      "score": 80,
-      "skills_match": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "Firebase",
-        "Git"
-      ],
-      "lacunas": [
-        "PostgreSQL",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T21:01:41Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
     },
     {
       "id": "6f982b39af0697f8ee33e4579512fa07145e0f12",
@@ -333,12 +301,10 @@
       "score": 75,
       "skills_match": [
         "React",
-        "Angular",
         "TypeScript",
         "JavaScript",
         "Node.js",
         "MySQL",
-        "Firebase",
         "Git",
         "Metodologias ágeis"
       ],
@@ -350,7 +316,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 5,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:01:32Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
@@ -390,38 +356,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
-    },
-    {
-      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
-      "titulo": "Desenvolvedor(A) Full Stack",
-      "empresa": "Empresa confidencial",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-17T09:11:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
     },
@@ -759,7 +693,7 @@
         "Ruby",
         "Azure"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-25T15:01:46Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
@@ -2073,40 +2007,6 @@
       "expirada": true
     },
     {
-      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
-      "titulo": "Desenvolvedor Back-End Pleno",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T07:51:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "PHP",
-        "C#",
-        ".NET",
-        "Redis",
-        "Docker",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
-    },
-    {
       "id": "348625d068d95649f29fe453bf468cc671d5598b",
       "titulo": "Desenvolvedor(a) de Sistemas | FRONTEND",
       "empresa": "Brisanet",
@@ -2186,6 +2086,55 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "6062e0d381ad20eb1866b85373995cba5e900491",
+      "titulo": "Software Engineer Frontend - Diversos Benefícios",
+      "empresa": "Caderno Nacional",
+      "url": "https://www.adzuna.com.br/details/5926409920?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:52:24Z",
+      "descricao": "Software Engineer Frontend - VAGA - Software Engineer Frontend (Pleno/Sênior) Curitiba/PR (Presencial) ou Brasil (Remoto) Buscamos desenvolvedor(a) Frontend com experiência em construção de interfaces modernas e de alta performance. Requisitos: - JavaScript / TypeScript - React (ou frameworks similares) - HTML, CSS e layout responsivo - Consumo de APIs (REST ou GraphQL) - Git e metodologias ágeis Diferenciais:",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "GraphQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:51Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "38efef73e7c0d1272f608e4c0d97270321cf8ab6",
+      "titulo": "Full-Stack Angular Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926403953?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Recife, Pernambuco",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:28Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Full-stack Angular Developer at BairesDev What You'll Do: - Develop and implement highly-workload backend APIs and processes. - Build reusable components and front-end lib…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:03Z",
+      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -3490,24 +3439,16 @@
         "JavaScript",
         "Node.js",
         "APIs REST",
-        "Microsserviços",
         "Git",
         "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
-        "React Native",
         "GraphQL",
         "PostgreSQL",
-        "MongoDB",
-        "Docker",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
+        "MongoDB"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:50Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
@@ -3688,55 +3629,6 @@
       "expirada": true
     },
     {
-      "id": "6062e0d381ad20eb1866b85373995cba5e900491",
-      "titulo": "Software Engineer Frontend - Diversos Benefícios",
-      "empresa": "Caderno Nacional",
-      "url": "https://www.adzuna.com.br/details/5886692452?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:07:39Z",
-      "descricao": "Software Engineer Frontend - VAGA - Software Engineer Frontend (Pleno/Sênior) Curitiba/PR (Presencial) ou Brasil (Remoto) Buscamos desenvolvedor(a) Frontend com experiência em construção de interfaces modernas e de alta performance. Requisitos: - JavaScript / TypeScript - React (ou frameworks similares) - HTML, CSS e layout responsivo - Consumo de APIs (REST ou GraphQL) - Git e metodologias ágeis Diferenciais:",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "GraphQL"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:51Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
-      "id": "38efef73e7c0d1272f608e4c0d97270321cf8ab6",
-      "titulo": "Full-Stack Angular Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5886686322?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Manaus, Amazonas",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:28Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Full-stack Angular Developer at BairesDev What You'll Do: - Develop and implement highly-workload backend APIs and processes. - Build reusable components and front-end lib…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:03Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
       "id": "1268455f0e36907f3e50bea4dfcd9eb9e6bcf3dc",
       "titulo": "Desenvolvedor Jr",
       "empresa": "Empresa confidencial",
@@ -3905,6 +3797,33 @@
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-21",
       "expirada": true
+    },
+    {
+      "id": "cfeb31d3cd56b63c3b22e38b293e1fadb6bc9c61",
+      "titulo": "Desenvolvedor(A) React",
+      "empresa": "D2W",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-react-em-__11988234.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-04T05:00:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResumo\nBuscamos um(a) desenvolvedor(a) Pleno/Sênior para liderar a evolução e otimização da nossa camada de front-end em React, apoiando também a manutenção da estrutura de mensageria (GCP/Pub/Sub, Firestore, Cloud Functions) e de scripts Node.js de sincronia de dados (schedulers).\nResponsabilidades\nEstruturar, otimizar e evoluir a aplicação React (performance, arquitetura de componentes, escalabilidade do front-end)\nDefinir e manter padrões de gerenciamento de estado, code splitting e boas práticas de código\nConsumir e integrar APIs REST, com tratamento de erros, autenticação e resiliência\nApoiar a manutenção da camada de mensageria (Pub/Sub, Cloud Functions, Firestore triggers)\nManter e evoluir scripts/schedulers em Node.js para sincronia de dados entre sistemas\nContribuir para decisões de arquitetura visando aplicações escaláveis, com foco em front-end\nRealizar code review, mentoria a devs menos experientes (se sênior) e documentação técnica\nRequisitos obrigatórios\nExperiência sólida e comprovada com React (hooks avançados, context, otimização de performance — memoization, lazy loading, virtualização)\nJavaScript/TypeScript avançado\nExperiência consumindo APIs REST (autenticação, paginação, tratamento de erros, versionamento)\nExperiência com Node.js (não precisa ser backend pleno — foco em scripts, jobs, integrações e processamento assíncrono)\nNoções de Postgres (queries, entendimento de modelagem relacional — não prec…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "PostgreSQL",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T21:01:41Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
     },
     {
       "id": "aed3cab75b4ad8ddc514a8ea63a8f644ba5d6dd1",
@@ -4219,35 +4138,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
-      "expirada": false
-    },
-    {
-      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T09:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Figma",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -5279,30 +5169,24 @@
       "expirada": false
     },
     {
-      "id": "99f5712dd6d99c0b440e6886ad0e3ff6dc76bb40",
-      "titulo": "Pessoa Desenvolvedora Júnior (.NET, React E IA)",
-      "empresa": "King of Languages",
-      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
+      "id": "d58ba4d864c49454b825e15f2b9214a3b42a6496",
+      "titulo": "Desenvolvedor Front-end Angular",
+      "empresa": "AM53 Tech Recruitment",
+      "url": "https://www.adzuna.com.br/details/5926409885?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-13T15:22:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
+      "data_publicacao": "2026-10-13T21:52:24Z",
+      "descricao": "Desenvolver e manter aplicações web responsivas, garantindo usabilidade e performance.Implementar componentes front end seguindo padrões e melhores práticas estabelecidas.Trabalhar junto a designers para transformar layouts e protótipos em código funcional.Participar de revisões de código e testes automatizados para assegurar a qualidade do software.Colaborar com equipes de back end e produto para integração e entrega contínua.Contribuir para a documentação técnica e melhoria contínua dos proce…",
       "score": 45,
       "skills_match": [
-        "React",
-        "TypeScript",
-        "SQL",
-        "Git"
+        "Angular"
       ],
       "lacunas": [
-        "C#",
-        ".NET",
-        "Docker",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-10-13T17:01:36Z",
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:54Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
     },
@@ -5550,39 +5434,6 @@
       "expirada": false
     },
     {
-      "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
-      "titulo": "Analista De Sistemas Pleno",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-em-minas-gerais__12106920.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-09T11:47:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \r\n\r\nATIVIDADES \r\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\r\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\r\n- Atuar nos projetos conforme priorização da Up Brasil.\r\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\r\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\r\n\r\nREQUISITOS \r\n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, ár…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "MongoDB",
-        "Docker",
-        "Azure"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-10-10T00:41:14Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
-    },
-    {
       "id": "7675ba2ad5efad076ebeddf6c930faa4fbe4f1bb",
       "titulo": "Desenvolvedor(a) Full Stack",
       "empresa": "Avanade",
@@ -5605,35 +5456,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
       "ultima_vista": "2026-10-10",
-      "expirada": false
-    },
-    {
-      "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
-      "titulo": "Analista Devops",
-      "empresa": "MK BR S.A",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-devops-em-sao-paulo__12088237.aspx",
-      "fonte": "infojobs",
-      "local": "Barueri - SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-10-06T11:44:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional DevOps para atuar presencialmente, em Barueri/Alphaville-SP, contribuindo na sustentação, automação e evolução de ambientes em nuvem, infraestrutura como código, pipelines de CI/CD e tecnologias de containers.\nBuscamos alguém com sólida experiência em AWS, Terraform ou CloudFormation, GitHub Actions, ArgoCD, Linux, Docker e automação, que tenha perfil técnico, analítico e orientação para melhoria contínua dos ambientes e processos.\nPrincipais responsabilidades e conhecimentos\n?? AWS / Cloud\nExperiência com os principais serviços da AWS, incluindo:\nComputação e Containers: Amazon EC2, AWS Lambda, Amazon ECS e Amazon EKS (Kubernetes).\nRedes e Segurança: configuração e administração de VPC, IAM, Route 53 e AWS CloudTrail.\nArmazenamento e Bancos de Dados: Amazon S3, Amazon RDS e Amazon FSx.\n??? Infraestrutura como Código – IaC\nExperiência com Terraform ou AWS CloudFormation.\nAutomação e gerenciamento de infraestrutura de forma padronizada e versionada.\n?? CI/CD\nExperiência na construção e manutenção de pipelines de Integração e Entrega Contínua.\nConhecimento em GitHub Actions.\nConhecimento em ArgoCD e processos de entrega contínua.\n?? Sistemas, Automação e Containers\nSólidos conhecimentos em Linux.\nDesenvolvimento de scripts e automações utilizando Python ou Bash.\nDomínio de Docker e empacotamento de aplicações em containers.\n? Diferenciais\nSerá considerado diferencial:\nConhecimento em…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "C#",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "CI/CD",
-        "Linux"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-10-06T13:01:34Z",
-      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -6799,48 +6621,19 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Clean Code"
+        "APIs REST"
       ],
       "lacunas": [
         "Redux",
         "Sass",
-        "Python",
         ".NET",
         "SQL Server",
-        "Redis",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
-    },
-    {
-      "id": "d58ba4d864c49454b825e15f2b9214a3b42a6496",
-      "titulo": "Desenvolvedor Front-end Angular",
-      "empresa": "AM53 Tech Recruitment",
-      "url": "https://www.adzuna.com.br/details/5886692410?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:07:38Z",
-      "descricao": "Desenvolver e manter aplicações web responsivas, garantindo usabilidade e performance.Implementar componentes front end seguindo padrões e melhores práticas estabelecidas.Trabalhar junto a designers para transformar layouts e protótipos em código funcional.Participar de revisões de código e testes automatizados para assegurar a qualidade do software.Colaborar com equipes de back end e produto para integração e entrega contínua.Contribuir para a documentação técnica e melhoria contínua dos proce…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:54Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
     },
     {
       "id": "a18e4cb88846712609c2de839f7986e29598ee13",
@@ -6991,6 +6784,30 @@
       "expirada": true
     },
     {
+      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T09:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:43Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
       "id": "ccf04dbe031510df3cf623dcea2c2786fb334022",
       "titulo": "Meio Oficial Serralheiro",
       "empresa": "NZA COM SERV ESPECIALIZADOS EM CONSTRUÇÕES",
@@ -7090,6 +6907,133 @@
       "expirada": false
     },
     {
+      "id": "12e5a2ade7cd88f7ab1f0f74d2472fd936854b24",
+      "titulo": "Desenvolvedor Full Stack Junior",
+      "empresa": "Darez Atividades de Internet e Comercio de Acessorios Ltda",
+      "url": "https://www.adzuna.com.br/details/5926429938?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T21:55:41Z",
+      "descricao": "Descrição da Vaga Principais responsabilidades Experiência no desenvolvimento de APIs; - Conhecimento de JavaScript puro, TypeScript e PHP; - Experiência na integração com APIs de terceiros; - Conhecimentos de banco de dados relacional (MySQL) e noSql (MongoDB) - Conhecimento com ORMs (eg. TypeORM) - Experiência com os serviços da AWS (RDS, ElasticBeanstalk, Lamdas, etc) - Conhecimento de serverless e API Gateway - Ferramentas e processos de versionamento com Git; - Preocupação constante com a…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP",
+        "MongoDB",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:05Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
+      "titulo": "Typescript Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926407130?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Santo André, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:54Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:08Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926406892?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:52Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "e10b18785fb1580db36f37b3c28701a413fd2292",
+      "titulo": "Engenheiro React Native - Trabalho Remoto",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926404364?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:30Z",
+      "descricao": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício. Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. Engenheiro React Native na BairesDev Ser um Engenheiro React Native em nossa Equipe de Desenvolvimento é como ser um solucionador de problemas em…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
+      "titulo": "Junior React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926404106?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:29Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "1b5aff68cf99efacf3a27b21984d3ac41b3cffbc",
+      "titulo": "Mobile Engineer (React Native) -remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5926404156?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-13T21:51:29Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. What You'll Do: - Integrate native modules and handle platform-specific configurations for both iOS and Android environments. - Leverage Expo and modern mobile development…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
       "id": "213d0b04ce52bc92e16c72307deba6a00e776d4a",
       "titulo": "Desenvolvedor Frontend Junior (25805)",
       "empresa": "EVT",
@@ -7109,26 +7053,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:20Z",
       "ultima_vista": "2026-10-14",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5923689627?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T21:50:57Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
-      "ultima_vista": "2026-10-12",
       "expirada": false
     },
     {
@@ -7560,26 +7484,6 @@
       "expirada": false
     },
     {
-      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
-      "titulo": "Typescript Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5921353548?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Teresina, Piaui",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-09T21:51:54Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:08Z",
-      "ultima_vista": "2026-10-12",
-      "expirada": false
-    },
-    {
       "id": "2564236b26388e4c946b550fa2dc32c18bc9c119",
       "titulo": "Desenvolvedor(a) Pleno (Advanced) | Full Stack .NET/React e AWS | Híbrido SP",
       "empresa": "BRQ",
@@ -8008,26 +7912,6 @@
       "expirada": false
     },
     {
-      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
-      "titulo": "Junior React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5904338202?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Joinville, Santa Catarina",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T21:18:17Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": false
-    },
-    {
       "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
       "titulo": "Pessoa Desenvolvedora Fullstack \"IA\"",
       "empresa": "Volkswagen do Brasil",
@@ -8079,7 +7963,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-30T15:01:52Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
@@ -8597,37 +8481,6 @@
       "expirada": true
     },
     {
-      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
-      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
-      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T07:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Vue.js",
-        "Python",
-        "PostgreSQL",
-        "Docker"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
-    },
-    {
       "id": "5c783204d35728444bc570dd2e2c29950f2d61c8",
       "titulo": "Desenvolvedor Front End Jr",
       "empresa": "Forever Liss",
@@ -8806,73 +8659,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:32Z",
       "ultima_vista": "2026-09-19",
-      "expirada": true
-    },
-    {
-      "id": "12e5a2ade7cd88f7ab1f0f74d2472fd936854b24",
-      "titulo": "Desenvolvedor Full Stack Junior",
-      "empresa": "Darez Atividades de Internet e Comercio de Acessorios Ltda",
-      "url": "https://www.adzuna.com.br/details/5886718608?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:10:17Z",
-      "descricao": "Descrição da Vaga Principais responsabilidades Experiência no desenvolvimento de APIs; - Conhecimento de JavaScript puro, TypeScript e PHP; - Experiência na integração com APIs de terceiros; - Conhecimentos de banco de dados relacional (MySQL) e noSql (MongoDB) - Conhecimento com ORMs (eg. TypeORM) - Experiência com os serviços da AWS (RDS, ElasticBeanstalk, Lamdas, etc) - Conhecimento de serverless e API Gateway - Ferramentas e processos de versionamento com Git; - Preocupação constante com a…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "PHP",
-        "MongoDB",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:05Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
-      "id": "1b5aff68cf99efacf3a27b21984d3ac41b3cffbc",
-      "titulo": "Mobile Engineer (React Native) -remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5886686556?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:31Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. What You'll Do: - Integrate native modules and handle platform-specific configurations for both iOS and Android environments. - Leverage Expo and modern mobile development…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
-      "id": "e10b18785fb1580db36f37b3c28701a413fd2292",
-      "titulo": "Engenheiro React Native - Trabalho Remoto",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5886686594?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:31Z",
-      "descricao": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício. Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. Engenheiro React Native na BairesDev Ser um Engenheiro React Native em nossa Equipe de Desenvolvimento é como ser um solucionador de problemas em…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
-      "ultima_vista": "2026-09-17",
       "expirada": true
     },
     {
@@ -9132,7 +8918,7 @@
         "Vue.js",
         "PHP"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-10-14",
       "expirada": false
@@ -9891,6 +9677,103 @@
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "f4d9766175864c3595bb78037afd8da643986490",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Connect Sistemas Integrado Eireli",
+      "url": "https://www.adzuna.com.br/details/5926433611?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T21:56:06Z",
+      "descricao": "Será responsável por atuar, junto a uma equipe, no desenvolvimento de aplicativos ou sistemas para dispositivos móveis, seja programando de forma nativa ou por meio de outras linguagens; Realiza elaboração de requisitos e da programação aplicativos mobile, desenvolve, testa e implementa. Elabora e orienta atividades de correção e manutenção dos programas; - Experiência prévia com Git Conhecimentos REACT-NATIVE Sólidos conhecimentos em orientação a objetos (Herança, interface, encapsulamento e p…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:17Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "2cd02c513a6d8fd834f3f0bf79be43a98ecdc871",
+      "titulo": "Desenvolvedor(a) React Native",
+      "empresa": "Bravi",
+      "url": "https://www.adzuna.com.br/details/5926430238?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T21:55:44Z",
+      "descricao": "Quer fazer parte de um time f*da?: Somos uma startup que vem crescendo rapidamente e desenvolvendo softwares para clientes nacionais e internacionais. Procuramos alguém que seja inteligente o bastante para entender que nunca sabemos tudo! Sempre temos mais o que aprender. É assim, aprendendo e colaborando, que criamos softwares e experiências únicas! Estamos à procura de profissionais criativos e proativos que queiram desenvolver um trabalho de qualidade na área de desenvolvimento. Requisitos N…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:54Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "56b4f2da884debf026cc6d46a4f9ec16871a9d16",
+      "titulo": "Desenvolvedor Fullstack PHP Pleno",
+      "empresa": "innolevels",
+      "url": "https://www.adzuna.com.br/details/5926429935?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T21:55:41Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack PHP Pleno para funcionalidades com qualidade e manutenibilidade para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - PHP; - Implantação do pipeline de CI/CD; - HTML, CSS, Java Script; - Frameworks MVC (Laravel, Zend, Java Spring, etc) - Padrão REST e testes automatizados (…",
+      "score": 30,
+      "skills_match": [
+        "HTML",
+        "CSS",
+        "Java",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Spring",
+        "PHP",
+        "Laravel",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:43Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "99f5712dd6d99c0b440e6886ad0e3ff6dc76bb40",
+      "titulo": "Pessoa Desenvolvedora Júnior (.NET, React E IA)",
+      "empresa": "King of Languages",
+      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T15:22:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-13T17:01:36Z",
+      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -11766,77 +11649,6 @@
       "expirada": true
     },
     {
-      "id": "f4d9766175864c3595bb78037afd8da643986490",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Connect Sistemas Integrado Eireli",
-      "url": "https://www.adzuna.com.br/details/5886722993?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:10:38Z",
-      "descricao": "Será responsável por atuar, junto a uma equipe, no desenvolvimento de aplicativos ou sistemas para dispositivos móveis, seja programando de forma nativa ou por meio de outras linguagens; Realiza elaboração de requisitos e da programação aplicativos mobile, desenvolve, testa e implementa. Elabora e orienta atividades de correção e manutenção dos programas; - Experiência prévia com Git Conhecimentos REACT-NATIVE Sólidos conhecimentos em orientação a objetos (Herança, interface, encapsulamento e p…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:17Z",
-      "ultima_vista": "2026-09-19",
-      "expirada": true
-    },
-    {
-      "id": "2cd02c513a6d8fd834f3f0bf79be43a98ecdc871",
-      "titulo": "Desenvolvedor(a) React Native",
-      "empresa": "Bravi",
-      "url": "https://www.adzuna.com.br/details/5886718873?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:10:20Z",
-      "descricao": "Quer fazer parte de um time f*da?: Somos uma startup que vem crescendo rapidamente e desenvolvendo softwares para clientes nacionais e internacionais. Procuramos alguém que seja inteligente o bastante para entender que nunca sabemos tudo! Sempre temos mais o que aprender. É assim, aprendendo e colaborando, que criamos softwares e experiências únicas! Estamos à procura de profissionais criativos e proativos que queiram desenvolver um trabalho de qualidade na área de desenvolvimento. Requisitos N…",
-      "score": 30,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:54Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
-      "id": "56b4f2da884debf026cc6d46a4f9ec16871a9d16",
-      "titulo": "Desenvolvedor Fullstack PHP Pleno",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5886718641?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-16T20:10:18Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack PHP Pleno para funcionalidades com qualidade e manutenibilidade para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - PHP; - Implantação do pipeline de CI/CD; - HTML, CSS, Java Script; - Frameworks MVC (Laravel, Zend, Java Spring, etc) - Padrão REST e testes automatizados (…",
-      "score": 30,
-      "skills_match": [
-        "HTML",
-        "CSS",
-        "Java",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Spring",
-        "PHP",
-        "Laravel",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:43Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
       "id": "6e069222f473e71f9587645fa3bd8cd17a450742",
       "titulo": "Freelance Project Manager",
       "empresa": "pubGENIUS",
@@ -12291,6 +12103,26 @@
       "expirada": true
     },
     {
+      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
+      "titulo": "Desenvolvedor(A) Full Stack",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-17T09:11:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
+      "score": 25,
+      "skills_match": [
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
       "id": "718b7a7cff4c82bcd980dd69677381d741cd5ec3",
       "titulo": "Desenvolvedor Fullstack Pleno (PL/SQL)",
       "empresa": "Nexdom Healthtech",
@@ -12311,6 +12143,51 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
+    },
+    {
+      "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
+      "titulo": "Analista De Sistemas Pleno",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-em-minas-gerais__12106920.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-09T11:47:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \r\n\r\nATIVIDADES \r\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\r\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\r\n- Atuar nos projetos conforme priorização da Up Brasil.\r\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\r\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\r\n\r\nREQUISITOS \r\n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, ár…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T00:41:14Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
+      "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
+      "titulo": "Analista Devops",
+      "empresa": "MK BR S.A",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-devops-em-sao-paulo__12088237.aspx",
+      "fonte": "infojobs",
+      "local": "Barueri - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-06T11:44:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional DevOps para atuar presencialmente, em Barueri/Alphaville-SP, contribuindo na sustentação, automação e evolução de ambientes em nuvem, infraestrutura como código, pipelines de CI/CD e tecnologias de containers.\nBuscamos alguém com sólida experiência em AWS, Terraform ou CloudFormation, GitHub Actions, ArgoCD, Linux, Docker e automação, que tenha perfil técnico, analítico e orientação para melhoria contínua dos ambientes e processos.\nPrincipais responsabilidades e conhecimentos\n?? AWS / Cloud\nExperiência com os principais serviços da AWS, incluindo:\nComputação e Containers: Amazon EC2, AWS Lambda, Amazon ECS e Amazon EKS (Kubernetes).\nRedes e Segurança: configuração e administração de VPC, IAM, Route 53 e AWS CloudTrail.\nArmazenamento e Bancos de Dados: Amazon S3, Amazon RDS e Amazon FSx.\n??? Infraestrutura como Código – IaC\nExperiência com Terraform ou AWS CloudFormation.\nAutomação e gerenciamento de infraestrutura de forma padronizada e versionada.\n?? CI/CD\nExperiência na construção e manutenção de pipelines de Integração e Entrega Contínua.\nConhecimento em GitHub Actions.\nConhecimento em ArgoCD e processos de entrega contínua.\n?? Sistemas, Automação e Containers\nSólidos conhecimentos em Linux.\nDesenvolvimento de scripts e automações utilizando Python ou Bash.\nDomínio de Docker e empacotamento de aplicações em containers.\n? Diferenciais\nSerá considerado diferencial:\nConhecimento em…",
+      "score": 15,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T13:01:34Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
     },
     {
       "id": "a2ae78f774f74e01ffe64263523d026c97b4252e",
@@ -12354,6 +12231,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-30",
+      "expirada": false
+    },
+    {
+      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
+      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
+      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T07:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:30Z",
+      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -12455,6 +12350,32 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
+      "titulo": "Desenvolvedor Back-End Pleno",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T07:51:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST",
+        "SQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:23:01Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
     },
     {
       "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
