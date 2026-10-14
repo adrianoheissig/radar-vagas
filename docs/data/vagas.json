@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-14T17:02:37Z",
-  "total": 518,
+  "atualizado_em": "2026-10-14T19:02:37Z",
+  "total": 519,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -101,38 +101,6 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-28",
       "expirada": true
-    },
-    {
-      "id": "cfeb31d3cd56b63c3b22e38b293e1fadb6bc9c61",
-      "titulo": "Desenvolvedor(A) React",
-      "empresa": "D2W",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-react-em-__11988234.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-04T05:00:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResumo\nBuscamos um(a) desenvolvedor(a) Pleno/Sênior para liderar a evolução e otimização da nossa camada de front-end em React, apoiando também a manutenção da estrutura de mensageria (GCP/Pub/Sub, Firestore, Cloud Functions) e de scripts Node.js de sincronia de dados (schedulers).\nResponsabilidades\nEstruturar, otimizar e evoluir a aplicação React (performance, arquitetura de componentes, escalabilidade do front-end)\nDefinir e manter padrões de gerenciamento de estado, code splitting e boas práticas de código\nConsumir e integrar APIs REST, com tratamento de erros, autenticação e resiliência\nApoiar a manutenção da camada de mensageria (Pub/Sub, Cloud Functions, Firestore triggers)\nManter e evoluir scripts/schedulers em Node.js para sincronia de dados entre sistemas\nContribuir para decisões de arquitetura visando aplicações escaláveis, com foco em front-end\nRealizar code review, mentoria a devs menos experientes (se sênior) e documentação técnica\nRequisitos obrigatórios\nExperiência sólida e comprovada com React (hooks avançados, context, otimização de performance — memoization, lazy loading, virtualização)\nJavaScript/TypeScript avançado\nExperiência consumindo APIs REST (autenticação, paginação, tratamento de erros, versionamento)\nExperiência com Node.js (não precisa ser backend pleno — foco em scripts, jobs, integrações e processamento assíncrono)\nNoções de Postgres (queries, entendimento de modelagem relacional — não prec…",
-      "score": 80,
-      "skills_match": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "Firebase",
-        "Git"
-      ],
-      "lacunas": [
-        "PostgreSQL",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T21:01:41Z",
-      "ultima_vista": "2026-10-14",
-      "expirada": false
     },
     {
       "id": "6f982b39af0697f8ee33e4579512fa07145e0f12",
@@ -2300,6 +2268,32 @@
       "expirada": false
     },
     {
+      "id": "c4dfa14b71a2cc3441143406f975a41d237c8671",
+      "titulo": "Desenvolvedor(A) Back-End",
+      "empresa": "EMPREGGA TECNOLOGIA",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-back-end-em-__12116737.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-14T06:35:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEmpresa de tecnologia focada em marketing digital e gestão de conteúdo para redes sociais. Nossa plataforma oferece soluções completas para criação, gerenciamento e publicação de conteúdo, ajudando empresas a otimizar sua presença digital.\n\nResponsabilidades\nDesenvolver e manter funcionalidades do back-end da plataforma\nCriar integrações com APIs e serviços externos\nImplementar melhorias de performance, escalabilidade e segurança\nColaborar com a equipe técnica na evolução contínua do produto\n\nRequisitos Técnicos (Obrigatórios)\nTypeScript\nNestJS\nPostgreSQL\nTypeORM\nBull (filas de processamento)\n\nIntegrações (Desejável)\nStripe\nAWS S3\nInstagram API ou outras APIs de redes sociais\nRedis\n\nDiferencial\nExperiência com Next.js (front-end)\n\nPerfil desejado\nProtividade e autonomia\nCapacidade analítica e foco em solução\nOrganização e responsabilidade\nFacilidade para trabalhar em ambiente de startup\nInteresse em contribuir com ideias e melhorias contínuas\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nAnalista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 1 e 3 anos",
+      "score": 55,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "AWS"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-14T19:01:40Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
+    },
+    {
       "id": "6062e0d381ad20eb1866b85373995cba5e900491",
       "titulo": "Software Engineer Frontend - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -3934,6 +3928,33 @@
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-09-21",
       "expirada": true
+    },
+    {
+      "id": "cfeb31d3cd56b63c3b22e38b293e1fadb6bc9c61",
+      "titulo": "Desenvolvedor(A) React",
+      "empresa": "D2W",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-react-em-__11988234.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-04T05:00:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResumo\nBuscamos um(a) desenvolvedor(a) Pleno/Sênior para liderar a evolução e otimização da nossa camada de front-end em React, apoiando também a manutenção da estrutura de mensageria (GCP/Pub/Sub, Firestore, Cloud Functions) e de scripts Node.js de sincronia de dados (schedulers).\nResponsabilidades\nEstruturar, otimizar e evoluir a aplicação React (performance, arquitetura de componentes, escalabilidade do front-end)\nDefinir e manter padrões de gerenciamento de estado, code splitting e boas práticas de código\nConsumir e integrar APIs REST, com tratamento de erros, autenticação e resiliência\nApoiar a manutenção da camada de mensageria (Pub/Sub, Cloud Functions, Firestore triggers)\nManter e evoluir scripts/schedulers em Node.js para sincronia de dados entre sistemas\nContribuir para decisões de arquitetura visando aplicações escaláveis, com foco em front-end\nRealizar code review, mentoria a devs menos experientes (se sênior) e documentação técnica\nRequisitos obrigatórios\nExperiência sólida e comprovada com React (hooks avançados, context, otimização de performance — memoization, lazy loading, virtualização)\nJavaScript/TypeScript avançado\nExperiência consumindo APIs REST (autenticação, paginação, tratamento de erros, versionamento)\nExperiência com Node.js (não precisa ser backend pleno — foco em scripts, jobs, integrações e processamento assíncrono)\nNoções de Postgres (queries, entendimento de modelagem relacional — não prec…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "PostgreSQL",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T21:01:41Z",
+      "ultima_vista": "2026-10-14",
+      "expirada": false
     },
     {
       "id": "aed3cab75b4ad8ddc514a8ea63a8f644ba5d6dd1",
