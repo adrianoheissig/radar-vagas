@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-15T01:02:43Z",
+  "atualizado_em": "2026-10-15T03:02:22Z",
   "total": 519,
   "vagas": [
     {
@@ -4588,6 +4588,31 @@
       "expirada": true
     },
     {
+      "id": "e7e5236919314856036644fb916d627204ed88b8",
+      "titulo": "Principal Full Stack Developer with React (Remote)",
+      "empresa": "Teramind",
+      "url": "https://www.adzuna.com.br/details/5928214323?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Rondônia, Norte",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-14T21:56:06Z",
+      "descricao": "About the Role We are looking for a Principal Full-Stack Engineer to provide technical leadership across our product and engineering teams. This role is a combination of hands-on coding and architectural guidance. You’ll work across the stack — from building intuitive, performant front-end experiences to optimizing back-end services, APIs, and data models. We’re using React, Node.js, TypeScript, GraphQL, PostgreSQL, CQRS, and event sourcing. As a Principal Engineer, you’ll drive complex feature…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "GraphQL",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:36Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
       "id": "c95aad1e4a03f8e295f4d94245c9bdbb106f1a87",
       "titulo": "Desenvolvedor React Pleno",
       "empresa": "Decision group",
@@ -5050,31 +5075,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
-      "ultima_vista": "2026-09-20",
-      "expirada": true
-    },
-    {
-      "id": "e7e5236919314856036644fb916d627204ed88b8",
-      "titulo": "Principal Full Stack Developer with React (Remote)",
-      "empresa": "Teramind",
-      "url": "https://www.adzuna.com.br/details/5888278211?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Rondônia, Norte",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-17T19:32:28Z",
-      "descricao": "About the Role We are looking for a Principal Full-Stack Engineer to provide technical leadership across our product and engineering teams. This role is a combination of hands-on coding and architectural guidance. You’ll work across the stack — from building intuitive, performant front-end experiences to optimizing back-end services, APIs, and data models. We’re using React, Node.js, TypeScript, GraphQL, PostgreSQL, CQRS, and event sourcing. As a Principal Engineer, you’ll drive complex feature…",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "GraphQL",
-        "PostgreSQL"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T23:29:36Z",
       "ultima_vista": "2026-09-20",
       "expirada": true
     },
