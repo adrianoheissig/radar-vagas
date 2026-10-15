@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-10-15T05:02:33Z",
+  "atualizado_em": "2026-10-15T07:02:35Z",
   "total": 519,
   "vagas": [
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5928558764?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-15T02:41:24Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
+      "score": 80,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "MySQL"
+      ],
+      "lacunas": [
+        "Spring",
+        "Oracle",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
       "titulo": "Desenvolvedor Front-end",
@@ -34,36 +64,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-10-12",
-      "expirada": false
-    },
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5918507035?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T02:36:14Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-10",
       "expirada": false
     },
     {
@@ -439,7 +439,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T15:49:38Z",
-      "ultima_vista": "2026-10-11",
+      "ultima_vista": "2026-10-15",
       "expirada": false
     },
     {
@@ -1140,6 +1140,30 @@
       "expirada": true
     },
     {
+      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
+      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5928560982?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-15T02:41:36Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:03Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
       "id": "04e980d07ffcbd62b12279f627adbe92adf2b7e0",
       "titulo": "Specialist - Front End Angular",
       "empresa": "Provider It",
@@ -1189,30 +1213,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:36Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
-    {
-      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
-      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5915642063?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-07T02:35:50Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:03Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -2271,6 +2271,30 @@
       "expirada": false
     },
     {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "DESENVOLVEDOR ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5927303314?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-14T07:56:12Z",
+      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
       "id": "26b0430424f781b3185ebd4cf220206ce0600441",
       "titulo": "ANALISTA DE SISTEMAS",
       "empresa": "",
@@ -2319,6 +2343,54 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-14T19:01:40Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5926949390?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-14T02:43:25Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5926949319?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-14T02:43:25Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
       "ultima_vista": "2026-10-15",
       "expirada": false
     },
@@ -2395,36 +2467,6 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-15",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5925453660?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-13T02:56:33Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-15",
       "expirada": false
     },
@@ -2920,30 +2962,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": false
-    },
-    {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5913431240?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-06T02:35:21Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
       "ultima_vista": "2026-10-09",
       "expirada": false
     },
@@ -3463,36 +3481,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "Desenvolvedor Angular",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-24T22:17:03Z",
-      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-15",
       "expirada": false
     },
     {
@@ -5329,6 +5317,29 @@
       "expirada": true
     },
     {
+      "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
+      "titulo": "Programador Jr",
+      "empresa": "Buscar Vagas - Empregos Brasil",
+      "url": "https://www.adzuna.com.br/details/5928218889?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-14T21:56:29Z",
+      "descricao": "Irá atuar como programador front end C#, na tecnologia.net core e angular. Trabalhará com aplicativo Mobile. A combinar Necessário superior completo ou cursando em áreas afins. Carga Horária: A combinar Sem informação Necessário superior completo ou cursando em áreas afins.",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:38Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
       "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Innolevels",
@@ -6816,29 +6827,6 @@
       "expirada": true
     },
     {
-      "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
-      "titulo": "Programador Jr",
-      "empresa": "Buscar Vagas - Empregos Brasil",
-      "url": "https://www.adzuna.com.br/details/5888282809?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-17T19:33:11Z",
-      "descricao": "Irá atuar como programador front end C#, na tecnologia.net core e angular. Trabalhará com aplicativo Mobile. A combinar Necessário superior completo ou cursando em áreas afins. Carga Horária: A combinar Sem informação Necessário superior completo ou cursando em áreas afins.",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T23:29:38Z",
-      "ultima_vista": "2026-09-18",
-      "expirada": true
-    },
-    {
       "id": "9156d9b1d01eac27025affbc4d7dcd2616697b0e",
       "titulo": "IT Analyst II (Angular)",
       "empresa": "Banco Santander",
@@ -7163,6 +7151,31 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
+      "titulo": "Desenvolvedor Back End Jr",
+      "empresa": "Inovation IT",
+      "url": "https://www.adzuna.com.br/details/5928221289?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-14T21:56:44Z",
+      "descricao": "A Hyst é uma agencia digital e fábrica de software, atende diferentes cliente. O Dev irá trabalhar em projetos e atividades diversas. Cargo: Desenvolvedor Back End Jr Tipo de Contrato: Prestador de serviço (PJ) Área profissional: Informática/T.I. Carga-horária: Número de vagas: 1 Benefícios: Mil reais para alimentação e transporte. Experiências e qualificações: Desenvolvedor Back End Jr Habilidades necessárias: - Node.js; - PHP; - SQL; - Github Habilidades que são diferenciais: - React.JS e/ou …",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:32Z",
+      "ultima_vista": "2026-10-15",
+      "expirada": false
     },
     {
       "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
@@ -8923,31 +8936,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-09-20",
-      "expirada": true
-    },
-    {
-      "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
-      "titulo": "Desenvolvedor Back End Jr",
-      "empresa": "Inovation IT",
-      "url": "https://www.adzuna.com.br/details/5888284793?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-17T19:33:29Z",
-      "descricao": "A Hyst é uma agencia digital e fábrica de software, atende diferentes cliente. O Dev irá trabalhar em projetos e atividades diversas. Cargo: Desenvolvedor Back End Jr Tipo de Contrato: Prestador de serviço (PJ) Área profissional: Informática/T.I. Carga-horária: Número de vagas: 1 Benefícios: Mil reais para alimentação e transporte. Experiências e qualificações: Desenvolvedor Back End Jr Habilidades necessárias: - Node.js; - PHP; - SQL; - Github Habilidades que são diferenciais: - React.JS e/ou …",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "PHP"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T23:29:32Z",
-      "ultima_vista": "2026-09-19",
       "expirada": true
     },
     {
