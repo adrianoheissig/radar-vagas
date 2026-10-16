@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-16T11:02:27Z",
-  "total": 526,
+  "atualizado_em": "2026-10-16T14:44:51Z",
+  "total": 527,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -2288,7 +2288,7 @@
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5929308412?utm_medium=api&utm_source=267e525f&v=E248956D7026775169D9093B9BCFCD90A2971DD7",
+      "url": "https://www.adzuna.com.br/details/5929308412?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5404,7 +5404,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5929309588?utm_medium=api&utm_source=267e525f&v=998E6C1BAFAFA3A8B48AF97969A70DAF43900E6E",
+      "url": "https://www.adzuna.com.br/details/5929309588?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5543,10 +5543,10 @@
       "expirada": false
     },
     {
-      "id": "99f5712dd6d99c0b440e6886ad0e3ff6dc76bb40",
-      "titulo": "Pessoa Desenvolvedora Júnior (.NET, React E IA)",
+      "id": "035eaeb69414627b678d7e6d90fc01ad33007979",
+      "titulo": "Desenvolvedor(A) Júnior (.NET, React E IA)",
       "empresa": "King of Languages",
-      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
       "fonte": "infojobs",
       "local": "Todo Brasil",
       "modalidade": "indefinido",
@@ -5566,7 +5566,7 @@
         "Testes automatizados"
       ],
       "experiencia_exigida": 1,
-      "data_coleta": "2026-10-13T17:01:36Z",
+      "data_coleta": "2026-10-16T14:43:50Z",
       "ultima_vista": "2026-10-16",
       "expirada": false
     },
@@ -10503,6 +10503,32 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:36:43Z",
       "ultima_vista": "2026-10-15",
+      "expirada": false
+    },
+    {
+      "id": "99f5712dd6d99c0b440e6886ad0e3ff6dc76bb40",
+      "titulo": "Pessoa Desenvolvedora Júnior (.NET, React E IA)",
+      "empresa": "King of Languages",
+      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-13T15:22:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-13T17:01:36Z",
+      "ultima_vista": "2026-10-16",
       "expirada": false
     },
     {
