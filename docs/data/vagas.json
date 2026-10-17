@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-17T01:02:42Z",
+  "atualizado_em": "2026-10-17T03:02:24Z",
   "total": 529,
   "vagas": [
     {
@@ -5375,6 +5375,27 @@
       "expirada": true
     },
     {
+      "id": "8a0a18398fe525aee110bae53fcbc92cf6a924d9",
+      "titulo": "Desenvolvedor(a) Front-end Angular 10",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5931337622?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-16T21:55:43Z",
+      "descricao": "ATIVIDADES: O que você irá fazer?: - Realizar levantamento de requisitos do sistema e priorizar tarefas; - Desenvolver novas funcionalidades, manter e otimizar os projetos de frontend; - Criar interfaces e novas experiências de usuário; - Propor soluções de UX/UI; - Escrever código limpo e testável usando TypeScript; - Teste e debug da aplicação; - Revisar e refatorar código; - Apoiar o trabalho dos desenvolvedores juniores; - Desenvolvimento de documentação operacional; - Participação de todo …",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:01Z",
+      "ultima_vista": "2026-10-17",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack.Net Angular",
       "empresa": "",
@@ -6648,27 +6669,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:01:06Z",
       "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
-      "id": "8a0a18398fe525aee110bae53fcbc92cf6a924d9",
-      "titulo": "Desenvolvedor(a) Front-end Angular 10",
-      "empresa": "GeekHunter",
-      "url": "https://www.adzuna.com.br/details/5891046136?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-19T19:33:47Z",
-      "descricao": "ATIVIDADES: O que você irá fazer?: - Realizar levantamento de requisitos do sistema e priorizar tarefas; - Desenvolver novas funcionalidades, manter e otimizar os projetos de frontend; - Criar interfaces e novas experiências de usuário; - Propor soluções de UX/UI; - Escrever código limpo e testável usando TypeScript; - Teste e debug da aplicação; - Revisar e refatorar código; - Apoiar o trabalho dos desenvolvedores juniores; - Desenvolvimento de documentação operacional; - Participação de todo …",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:01Z",
-      "ultima_vista": "2026-09-20",
       "expirada": true
     },
     {
