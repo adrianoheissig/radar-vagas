@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-17T11:02:34Z",
-  "total": 530,
+  "atualizado_em": "2026-10-17T17:02:33Z",
+  "total": 532,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -2217,6 +2217,28 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "885fd2ffadb2ad31f15572ce319f223a1777d17e",
+      "titulo": "Desenvolvedor Fullstack Node/React/Java - Pleno",
+      "empresa": "FCamara",
+      "url": "https://www.adzuna.com.br/details/5932334583?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T12:24:02Z",
+      "descricao": "Description A FCamara está em busca de uma pessoa para atuar como Fullstack Java- Pleno. Responsibilities Responsabilidades e atribuições: - Atuar na sustentação e evolução de aplicações baseadas em whitelabel. - Realizar entendimento técnico de sistemas existentes e propor melhorias. - Desenvolver e manter serviços backend (Java e Node.js ). - Apoiar na análise técnica, troubleshooting e resolução de incidentes. - Garantir qualidade de código através de boas práticas, testes e code review. - T…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-17T17:00:49Z",
+      "ultima_vista": "2026-10-17",
+      "expirada": false
     },
     {
       "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
@@ -5373,6 +5395,27 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "16b79087d2e630d1c4c4eeb8117acd6d3fa003fc",
+      "titulo": "Desenvolvedor Full Stack Pleno (Java React)",
+      "empresa": "Strada",
+      "url": "https://www.adzuna.com.br/details/5932320565?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T12:15:40Z",
+      "descricao": "Estamos em busca de uma pessoa para atuar no time de Tecnologia, com foco em desenvolvimento e sustentação de aplicações full stack, contribuindo para a evolução contínua dos produtos digitais, sendo importante ter colaboração, organização, capacidade de aprendizado contínuo e boa comunicação. A posição será responsável por desenvolver novas funcionalidades, evoluir integrações e contribuir para a estabilidade das aplicações, trabalhando em parceria com pessoas de engenharia e produto para entr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-17T17:00:49Z",
+      "ultima_vista": "2026-10-17",
+      "expirada": false
     },
     {
       "id": "8a0a18398fe525aee110bae53fcbc92cf6a924d9",
