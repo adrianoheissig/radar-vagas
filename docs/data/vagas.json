@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-18T07:02:30Z",
+  "atualizado_em": "2026-10-18T11:02:35Z",
   "total": 532,
   "vagas": [
     {
@@ -2219,6 +2219,32 @@
       "expirada": true
     },
     {
+      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
+      "titulo": "ANALISTA DE SISTEMAS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5933192698?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T07:57:47Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:20Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
       "id": "885fd2ffadb2ad31f15572ce319f223a1777d17e",
       "titulo": "Desenvolvedor Fullstack Node/React/Java - Pleno",
       "empresa": "FCamara",
@@ -2572,32 +2598,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
       "ultima_vista": "2026-10-15",
-      "expirada": false
-    },
-    {
-      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
-      "titulo": "ANALISTA DE SISTEMAS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5927298700?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-14T07:55:51Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:20Z",
-      "ultima_vista": "2026-10-16",
       "expirada": false
     },
     {
@@ -5424,6 +5424,26 @@
       "expirada": false
     },
     {
+      "id": "342247ca713963809d8a0e214be6f14df165b64b",
+      "titulo": "Desenvolvedor Front End Angular",
+      "empresa": "KEEP SIMPLE",
+      "url": "https://www.adzuna.com.br/details/5932683534?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-17T21:54:45Z",
+      "descricao": "Desenvolvedor Front End Angular: - Presencial- KEEP SIMPLESão Paulo-SP A combinar 1 - vaga- | publicada hoje Informações da Vaga: Descrição: - Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação. Forma de Contratação: - A Combinar Sobre a Empresa: Nome: - KEEP SIMPLERamo: - Informática/ Tecnologia",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:01:02Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
       "id": "16b79087d2e630d1c4c4eeb8117acd6d3fa003fc",
       "titulo": "Desenvolvedor Full Stack Pleno (Java React)",
       "empresa": "Strada",
@@ -6698,26 +6718,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:01:12Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "342247ca713963809d8a0e214be6f14df165b64b",
-      "titulo": "Desenvolvedor Front End Angular",
-      "empresa": "KEEP SIMPLE",
-      "url": "https://www.adzuna.com.br/details/5892079392?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-20T19:32:50Z",
-      "descricao": "Desenvolvedor Front End Angular: - Presencial- KEEP SIMPLESão Paulo-SP A combinar 1 - vaga- | publicada hoje Informações da Vaga: Descrição: - Atuará nas atividades internas e demais funções pertinentes ao cargo. Necessário conhecimento na área de atuação. Forma de Contratação: - A Combinar Sobre a Empresa: Nome: - KEEP SIMPLERamo: - Informática/ Tecnologia",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:01:02Z",
-      "ultima_vista": "2026-09-21",
       "expirada": true
     },
     {
