@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-18T01:02:33Z",
+  "atualizado_em": "2026-10-18T07:02:30Z",
   "total": 532,
   "vagas": [
     {
@@ -360,6 +360,70 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
+      "id": "7d859f2222cfd6c7535cb15e9bf958846f6a6027",
+      "titulo": "Desenvolvedor Front End React",
+      "empresa": "Moot It Consulting",
+      "url": "https://www.adzuna.com.br/details/5932684332?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:54:54Z",
+      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT O que realmente procuramos são pessoas com as seguintes características: - Linguagem principal no frontend: Typescript; - React; - HTML na última versão; - CSS na última versão; - GraphQL (com Apollo Client); - Node.ts (com Express) e Kotlin (com Spring boot) no backend; - Ferramentas de entrega contínua (GitHub, Jenkins); - Kubernetes e Docker; - Linux;",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Express",
+        "Spring",
+        "Kotlin",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:01:12Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
+      "id": "b0d6eb3b9b6090ab6b08c77a05e0b6445fca0d9e",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "HrSoul - Hunting Relationship Soul",
+      "url": "https://www.adzuna.com.br/details/5932684186?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-17T21:54:52Z",
+      "descricao": "Experience in JavaScript (Angular or React) development, including concepts of Closures, Types, and ES6; Experience with HTML, CSS, microservices, REST APIs, and GraphQL; Familiarity with UI paradigms, Agile methodology, CI/CD, and automated testing patterns; Essential Advanced English skills; Home Office.",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "GraphQL",
+        "CI/CD",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T09:01:09Z",
       "ultima_vista": "2026-10-18",
       "expirada": false
     },
@@ -866,70 +930,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:18Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "7d859f2222cfd6c7535cb15e9bf958846f6a6027",
-      "titulo": "Desenvolvedor Front End React",
-      "empresa": "Moot It Consulting",
-      "url": "https://www.adzuna.com.br/details/5892080992?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:32:59Z",
-      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT O que realmente procuramos são pessoas com as seguintes características: - Linguagem principal no frontend: Typescript; - React; - HTML na última versão; - CSS na última versão; - GraphQL (com Apollo Client); - Node.ts (com Express) e Kotlin (com Spring boot) no backend; - Ferramentas de entrega contínua (GitHub, Jenkins); - Kubernetes e Docker; - Linux;",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Git"
-      ],
-      "lacunas": [
-        "Express",
-        "Spring",
-        "Kotlin",
-        "GraphQL",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "Linux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T07:01:12Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
-      "id": "b0d6eb3b9b6090ab6b08c77a05e0b6445fca0d9e",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "HrSoul - Hunting Relationship Soul",
-      "url": "https://www.adzuna.com.br/details/5892080788?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T19:32:57Z",
-      "descricao": "Experience in JavaScript (Angular or React) development, including concepts of Closures, Types, and ES6; Experience with HTML, CSS, microservices, REST APIs, and GraphQL; Familiarity with UI paradigms, Agile methodology, CI/CD, and automated testing patterns; Essential Advanced English skills; Home Office.",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "GraphQL",
-        "CI/CD",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T09:01:09Z",
-      "ultima_vista": "2026-09-21",
       "expirada": true
     },
     {
@@ -4658,6 +4658,52 @@
       "expirada": true
     },
     {
+      "id": "4c27bedf777c8f5d70f3e72de362213f2a0d83c7",
+      "titulo": "Desenvolvedor Front-end Mobile React Remoto",
+      "empresa": "Tecla T",
+      "url": "https://www.adzuna.com.br/details/5932684891?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-17T21:55:00Z",
+      "descricao": "Vaga Remota - Contratação PJ Benefícios - Experiência comprovada - React native; - Javascript; - Firebase crashlytics; - Firebase Cloud messaging; - Realizar deploy das aplicações para as lojas virtuais Google play e App Store. - Plano de Saúde - Cartão Flash R$ 330,00 - Gympass - Folgas Remuneradas - Auxílio Certificação - Plataforma Alura - Descontos em parcerias",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Firebase"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:56Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
+      "id": "a1588889a6345a5d2a9e62564db4236e877fdb7b",
+      "titulo": "Desenvolvedor Web",
+      "empresa": "Atitude Serviços Empresariais LTDA",
+      "url": "https://www.adzuna.com.br/details/5932684858?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:54:59Z",
+      "descricao": "Nível: Especialista Área: Tecnologia da Informação Escolaridade: Graduação - Tecnologia da Informação - Completo Tipo de contrato: CLT Jornada de trabalho: Segunda a sexta horário comercial Benefícios: Vale refeição, Vale transporte Responsabilidades e Experiências desejáveis: Atividades: Irá prestar serviços para empresa da área de energia, automação industrial, necessita desenvolver aplicações Web com experiência em Node.js, React e banco de dados ( MySql, Progress ). Aplicações voltadas para…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "MySQL"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
       "id": "ed0a35f875da043c83aed9ed6b23bc5331d8e5b1",
       "titulo": "Desenvolvedor Back-end - São Paulo, Sp - Híbrido",
       "empresa": "DECISION TECNOLOGIA E INOVAÇÃO",
@@ -5101,52 +5147,6 @@
       "expirada": true
     },
     {
-      "id": "a1588889a6345a5d2a9e62564db4236e877fdb7b",
-      "titulo": "Desenvolvedor Web",
-      "empresa": "Atitude Serviços Empresariais LTDA",
-      "url": "https://www.adzuna.com.br/details/5892081803?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:33:04Z",
-      "descricao": "Nível: Especialista Área: Tecnologia da Informação Escolaridade: Graduação - Tecnologia da Informação - Completo Tipo de contrato: CLT Jornada de trabalho: Segunda a sexta horário comercial Benefícios: Vale refeição, Vale transporte Responsabilidades e Experiências desejáveis: Atividades: Irá prestar serviços para empresa da área de energia, automação industrial, necessita desenvolver aplicações Web com experiência em Node.js, React e banco de dados ( MySql, Progress ). Aplicações voltadas para…",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "MySQL"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
-      "id": "4c27bedf777c8f5d70f3e72de362213f2a0d83c7",
-      "titulo": "Desenvolvedor Front-end Mobile React Remoto",
-      "empresa": "Tecla T",
-      "url": "https://www.adzuna.com.br/details/5892081859?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-20T19:33:04Z",
-      "descricao": "Vaga Remota - Contratação PJ Benefícios - Experiência comprovada - React native; - Javascript; - Firebase crashlytics; - Firebase Cloud messaging; - Realizar deploy das aplicações para as lojas virtuais Google play e App Store. - Plano de Saúde - Cartão Flash R$ 330,00 - Gympass - Folgas Remuneradas - Auxílio Certificação - Plataforma Alura - Descontos em parcerias",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Firebase"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T07:00:56Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
       "id": "2e3869518d4729e7ce2eefa7c3613c7488c59d6f",
       "titulo": "Pessoa Desenvolvedora Fullstack Pleno - React/Node.js/Chatbots",
       "empresa": "Akross",
@@ -5395,6 +5395,33 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
+      "titulo": "Desenvolvedor",
+      "empresa": "Fisacorp -",
+      "url": "https://www.adzuna.com.br/details/5932683827?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:54:49Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
     },
     {
       "id": "16b79087d2e630d1c4c4eeb8117acd6d3fa003fc",
@@ -6366,33 +6393,6 @@
       "expirada": true
     },
     {
-      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
-      "titulo": "Desenvolvedor",
-      "empresa": "Fisacorp -",
-      "url": "https://www.adzuna.com.br/details/5902036700?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-28T22:05:51Z",
-      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
       "id": "dbfae89be1747eecd395f9b26a5391570c05bfc6",
       "titulo": "Desenvolvedor Jr - Angular .NET",
       "empresa": "Cogna",
@@ -7277,6 +7277,55 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "5c783204d35728444bc570dd2e2c29950f2d61c8",
+      "titulo": "Desenvolvedor Front End Jr",
+      "empresa": "Forever Liss",
+      "url": "https://www.adzuna.com.br/details/5932684992?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:55:01Z",
+      "descricao": "Sobre a Vaga Buscamos pessoas curiosas, apaixonadas pelo que fazem e com uma variedade de habilidades, que consigam enxergar os desafios mais difíceis de nossos clientes de todas as perspectivas. O que você precisa ter? - Superior Completo em Engenharia, Administração de Empresas ou Ciência da Computação. - Conhecimentos em HTML, CSS, Node.js e React. O que esperamos de você? - Trabalhar com desenvolvimento e manutenção de lojas virtuais em diversas plataformas (VTEX); - Criação de landing page…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
+      "id": "99fb9ad1cebf4faa4f577f8db5c0f127abfe2ab3",
+      "titulo": "Desenvolvedor Full Stack - Programação",
+      "empresa": "Presença Bank",
+      "url": "https://www.adzuna.com.br/details/5932678769?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:53:54Z",
+      "descricao": "Sobre a vaga O Grupo Presença está em busca de um Desenvolvedor com sólida experiência em automação de processos, integrações e otimização da eficiência operacional, atuando no desenvolvimento de fluxos inteligentes e escaláveis Requisitos técnicos - Experiência sólida com Node.js: - Experiência com frontend moderno (React, Vue ou similar): - Domínio de SQL Server: - Experiência com APIs REST: - Conhecimento em arquitetura de sistemas e boas práticas (Clean Code, SOLID): - Experiência com versi…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
     },
     {
       "id": "cc797f2c17d05f5aed2900fe73495d9d838385f9",
@@ -9058,55 +9107,6 @@
       "expirada": false
     },
     {
-      "id": "5c783204d35728444bc570dd2e2c29950f2d61c8",
-      "titulo": "Desenvolvedor Front End Jr",
-      "empresa": "Forever Liss",
-      "url": "https://www.adzuna.com.br/details/5892082014?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:33:05Z",
-      "descricao": "Sobre a Vaga Buscamos pessoas curiosas, apaixonadas pelo que fazem e com uma variedade de habilidades, que consigam enxergar os desafios mais difíceis de nossos clientes de todas as perspectivas. O que você precisa ter? - Superior Completo em Engenharia, Administração de Empresas ou Ciência da Computação. - Conhecimentos em HTML, CSS, Node.js e React. O que esperamos de você? - Trabalhar com desenvolvimento e manutenção de lojas virtuais em diversas plataformas (VTEX); - Criação de landing page…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
-      "id": "99fb9ad1cebf4faa4f577f8db5c0f127abfe2ab3",
-      "titulo": "Desenvolvedor Full Stack - Programação",
-      "empresa": "Presença Bank",
-      "url": "https://www.adzuna.com.br/details/5892072625?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:31:58Z",
-      "descricao": "Sobre a vaga O Grupo Presença está em busca de um Desenvolvedor com sólida experiência em automação de processos, integrações e otimização da eficiência operacional, atuando no desenvolvimento de fluxos inteligentes e escaláveis Requisitos técnicos - Experiência sólida com Node.js: - Experiência com frontend moderno (React, Vue ou similar): - Domínio de SQL Server: - Experiência com APIs REST: - Conhecimento em arquitetura de sistemas e boas práticas (Clean Code, SOLID): - Experiência com versi…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
       "id": "1c1f7e4ab140cd9e32c6ec4289fc0f11ff5d02c3",
       "titulo": "[1309] Pessoa Desenvolvedora React Native Pl (Remoto)",
       "empresa": "Venturus",
@@ -10163,6 +10163,51 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "f07680e55108aa1a5d6ea7887103c0866349b546",
+      "titulo": "Desenvolvedor(a) Web",
+      "empresa": "Agência Upper",
+      "url": "https://www.adzuna.com.br/details/5932684739?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:54:58Z",
+      "descricao": "A Upper é uma AGÊNCIA DIGITAL, com um ótimo ambiente de trabalho e que preza pelo bem estar e qualidade de vida de nossos colaboradores. Há mais de 14 anos no mercado, nos envolvemos em Projetos desafiadores e que proporcionam prazer e orgulho ao nosso time. Venha fazer parte da nossa equipe! Procuramos profissionais para trabalhar em projetos desenvolvidos em PHP, React Native, JS, CSS, Laravel e HTML. O que entregamos? Aplicativos, E-commerce, Sites, Sistemas Web, E-learning, SEO & Adwords e …",
+      "score": 30,
+      "skills_match": [
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "React Native",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:56Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
+      "id": "d5a4b1e0d17d7b2081878c78ef15e2c4babcb2ce",
+      "titulo": "Desenvolvedor Frontend Web React",
+      "empresa": "Grupo TEAGA",
+      "url": "https://www.adzuna.com.br/details/5932684331?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-17T21:54:54Z",
+      "descricao": "Posição aberta no Teagá Bank para quem está começando a carreira com desenvolvimento frontend Web React. Um pouco sobre nós Somos uma fintech em fase de construção com espírito de startup! Nascemos como um Corporate Venture Builder do Grupo Teagá, formada por um grupo de empresas de engenharia especializada em desenvolver soluções criativas e inovadoras que transformam empresas, cidades e pessoas. Em um ambiente que proporciona o desenvolvimento pessoal e profissional de nossa equipe, buscamos …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T07:00:43Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
     },
     {
       "id": "089814196ab67c83697e600e0a6c603aed1f67df",
@@ -12057,51 +12102,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-24",
-      "expirada": true
-    },
-    {
-      "id": "f07680e55108aa1a5d6ea7887103c0866349b546",
-      "titulo": "Desenvolvedor(a) Web",
-      "empresa": "Agência Upper",
-      "url": "https://www.adzuna.com.br/details/5892081645?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:33:03Z",
-      "descricao": "A Upper é uma AGÊNCIA DIGITAL, com um ótimo ambiente de trabalho e que preza pelo bem estar e qualidade de vida de nossos colaboradores. Há mais de 14 anos no mercado, nos envolvemos em Projetos desafiadores e que proporcionam prazer e orgulho ao nosso time. Venha fazer parte da nossa equipe! Procuramos profissionais para trabalhar em projetos desenvolvidos em PHP, React Native, JS, CSS, Laravel e HTML. O que entregamos? Aplicativos, E-commerce, Sites, Sistemas Web, E-learning, SEO & Adwords e …",
-      "score": 30,
-      "skills_match": [
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [
-        "React Native",
-        "PHP",
-        "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T07:00:56Z",
-      "ultima_vista": "2026-09-21",
-      "expirada": true
-    },
-    {
-      "id": "d5a4b1e0d17d7b2081878c78ef15e2c4babcb2ce",
-      "titulo": "Desenvolvedor Frontend Web React",
-      "empresa": "Grupo TEAGA",
-      "url": "https://www.adzuna.com.br/details/5892080990?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T19:32:59Z",
-      "descricao": "Posição aberta no Teagá Bank para quem está começando a carreira com desenvolvimento frontend Web React. Um pouco sobre nós Somos uma fintech em fase de construção com espírito de startup! Nascemos como um Corporate Venture Builder do Grupo Teagá, formada por um grupo de empresas de engenharia especializada em desenvolver soluções criativas e inovadoras que transformam empresas, cidades e pessoas. Em um ambiente que proporciona o desenvolvimento pessoal e profissional de nossa equipe, buscamos …",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T07:00:43Z",
-      "ultima_vista": "2026-09-21",
       "expirada": true
     },
     {
