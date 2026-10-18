@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-18T11:02:35Z",
+  "atualizado_em": "2026-10-18T13:02:35Z",
   "total": 532,
   "vagas": [
     {
@@ -5397,6 +5397,32 @@
       "expirada": true
     },
     {
+      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
+      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5933197438?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T07:58:37Z",
+      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-10-18",
+      "expirada": false
+    },
+    {
       "id": "65c29896b57f7a859806e9224373ad4d91acad01",
       "titulo": "Desenvolvedor",
       "empresa": "Fisacorp -",
@@ -5707,32 +5733,6 @@
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-16T14:43:50Z",
       "ultima_vista": "2026-10-18",
-      "expirada": false
-    },
-    {
-      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
-      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5925614923?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-13T07:55:48Z",
-      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-15",
       "expirada": false
     },
     {
