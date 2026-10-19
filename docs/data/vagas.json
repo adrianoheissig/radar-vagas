@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-19T19:02:45Z",
-  "total": 533,
+  "atualizado_em": "2026-10-19T21:02:45Z",
+  "total": 534,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -2217,6 +2217,37 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "2ca5b6a103d250930e6fb92ba51516259abc7088",
+      "titulo": "Desenvolvedor Full Stack - Júnior | 100% Remoto",
+      "empresa": "Rotha IA",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-junior-100-remoto-em-distrito-federal__12128154.aspx",
+      "fonte": "infojobs",
+      "local": "Brasília - DF",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-19T07:40:36Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVaga 100% remota (home office): trabalhe de qualquer lugar do Brasil.\r\n\r\nBuscamos um perfil júnior avançado: profissional responsável pelo desenvolvimento, manutenção e evolução de sistemas de gestão web (CRMs e ERPs) dos nossos clientes, atuando no front-end, no back-end e no banco de dados. Você vai construir funcionalidades novas, corrigir problemas reportados pelos clientes, integrar os sistemas com serviços externos e cuidar da publicação e da sustentação dos sistemas em produção.\r\n\r\nAtividades:\r\n Desenvolver e manter aplicações web com React e TypeScript.\r\n Implementar regras de negócio, funções e serviços no Supabase (PostgreSQL e Edge Functions).\r\n Criar e consumir APIs REST e integrar os sistemas com serviços externos, como nota fiscal, WhatsApp, pagamentos e automações.\r\n Modelar tabelas, escrever consultas e cuidar da integridade dos dados.\r\n Corrigir bugs reportados pelos clientes, investigando a causa do problema da tela até o banco de dados.\r\n Realizar testes e validações das funcionalidades antes de cada entrega.\r\n Publicar novas versões e aplicar mudanças de banco em produção, seguindo o checklist da empresa.\r\n Propor opções de tela seguindo o design system de cada sistema.\r\n Participar de revisão de código e programar em dupla com o fundador.\r\n Apoiar a análise de requisitos e a estimativa de tarefas.\r\n Documentar funcionalidades e escrever manuais para as equipes dos clientes.\r\n\r\nRequisitos:\r\n Ensino su…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-19T21:01:41Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
     },
     {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
@@ -5896,7 +5927,7 @@
       "local": "Uberlândia - MG",
       "modalidade": "hibrido",
       "data_publicacao": "2026-10-09T11:47:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \r\n\r\nATIVIDADES \r\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\r\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\r\n- Atuar nos projetos conforme priorização da Up Brasil.\r\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\r\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\r\n\r\nREQUISITOS \r\n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, ár…",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \n\nATIVIDADES \nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\n- Atuar nos projetos conforme priorização da Up Brasil.\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\n\nREQUISITOS \n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, áreas afins.…",
       "score": 45,
       "skills_match": [
         "React",
