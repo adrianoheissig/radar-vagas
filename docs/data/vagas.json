@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19T01:02:33Z",
+  "atualizado_em": "2026-10-19T03:02:32Z",
   "total": 532,
   "vagas": [
     {
@@ -2219,6 +2219,29 @@
       "expirada": true
     },
     {
+      "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
+      "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5933716262?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-18T21:54:08Z",
+      "descricao": "ATIVIDADES: O que você irá fazer?: Atuará em um time global, em um importante cliente da Stefanini, com atuação front-end.REQUISITOS: O que você precisa?: - Tecnologias Necessárias- React TypeScript- React/JS - TypeScript - MobX - Jest - postCss Cumpre os requisitos?: Que tal demonstrar interesse nessa vaga? - Criar Perfil para Demonstrar Interesse EMPRESA: Onde você vai trabalhar?: - Cidade São Paulo - SP - Endereço - Porte Grande Porte Entregamos soluções digitais inovadoras e eficazes, que a…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "26b0430424f781b3185ebd4cf220206ce0600441",
       "titulo": "ANALISTA DE SISTEMAS",
       "empresa": "",
@@ -3758,29 +3781,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T13:01:25Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
-      "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
-      "empresa": "GeekHunter",
-      "url": "https://www.adzuna.com.br/details/5893233983?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-21T19:42:25Z",
-      "descricao": "ATIVIDADES: O que você irá fazer?: Atuará em um time global, em um importante cliente da Stefanini, com atuação front-end.REQUISITOS: O que você precisa?: - Tecnologias Necessárias- React TypeScript- React/JS - TypeScript - MobX - Jest - postCss Cumpre os requisitos?: Que tal demonstrar interesse nessa vaga? - Criar Perfil para Demonstrar Interesse EMPRESA: Onde você vai trabalhar?: - Cidade São Paulo - SP - Endereço - Porte Grande Porte Entregamos soluções digitais inovadoras e eficazes, que a…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
       "expirada": true
     },
     {
