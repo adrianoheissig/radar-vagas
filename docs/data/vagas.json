@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-18T18:00:38Z",
+  "atualizado_em": "2026-10-19T01:02:33Z",
   "total": 532,
   "vagas": [
     {
@@ -290,7 +290,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -328,7 +328,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -515,7 +515,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -596,7 +596,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -655,7 +655,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -729,7 +729,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T17:01:03Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -854,7 +854,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-25T15:01:46Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -875,7 +875,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:54Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -1270,7 +1270,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T17:00:59Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "ce6d4b1faa9d4d90b5004746b99baa3d595f861c",
@@ -1292,7 +1292,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T09:00:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -1685,7 +1685,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T21:01:39Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2133,7 +2133,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2241,7 +2241,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:01:20Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2263,7 +2263,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-17T17:00:49Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2317,7 +2317,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:10:58Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2363,7 +2363,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2623,7 +2623,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-14T19:01:40Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2841,7 +2841,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-11T07:01:02Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -2932,7 +2932,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:00:48Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -3023,7 +3023,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T17:22:48Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -3227,7 +3227,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T07:01:03Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "384241f7e7768d058428ef3d39ccfd9bbfd38321",
@@ -3380,7 +3380,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -3613,7 +3613,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -3731,7 +3731,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -3855,7 +3855,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -4367,7 +4367,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -4658,6 +4658,50 @@
       "expirada": true
     },
     {
+      "id": "bb54adf4270bf96c61490fd57dd8e3dcbff11099",
+      "titulo": "Assistente de UX Design - Idook",
+      "empresa": "BURH",
+      "url": "https://www.adzuna.com.br/details/5933716912?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:13Z",
+      "descricao": "Precisamos de uma pessoa que domine metodologias ágil, saiba usar o Figma, organizar o Notion e fazer boas apresentações no Canvas, O MVP está feito em Node e React, o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando …",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Figma",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
+      "id": "eb284feb2182479fbcd634173f0fc283ff0bb60f",
+      "titulo": "Desenvolvedor Back-end (Node.js e Typescript) Pleno",
+      "empresa": "Inklua Servicos Para Inclusao de Pcd Ltda",
+      "url": "https://www.adzuna.com.br/details/5933716746?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-18T21:54:12Z",
+      "descricao": "Aplicar melhores práticas de programação; Planejamento, desenvolvimento e manutenção de backend de aplicações; Analisar e evidenciar os impactos de mudanças nos módulos antes que elas sejam aplicadas; Investigar a causa de problemas e propor soluções definitivas para eles ou propor soluções de contorno enquanto busca soluções definitivas; Criação e revisão da documentação técnica de aplicações. CARGO: Desenvolvedor Back-end LOCAL: remoto SALÁRIO: a combinar HORÁRIO: flexível BENEFÍCIOS: Salário…",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:01:13Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "4c27bedf777c8f5d70f3e72de362213f2a0d83c7",
       "titulo": "Desenvolvedor Front-end Mobile React Remoto",
       "empresa": "Tecla T",
@@ -4727,7 +4771,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:00:50Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -4751,7 +4795,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:33Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -4772,7 +4816,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5075,7 +5119,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T17:01:00Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5099,50 +5143,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "bb54adf4270bf96c61490fd57dd8e3dcbff11099",
-      "titulo": "Assistente de UX Design - Idook",
-      "empresa": "BURH",
-      "url": "https://www.adzuna.com.br/details/5893235339?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:37Z",
-      "descricao": "Precisamos de uma pessoa que domine metodologias ágil, saiba usar o Figma, organizar o Notion e fazer boas apresentações no Canvas, O MVP está feito em Node e React, o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando …",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Figma",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "eb284feb2182479fbcd634173f0fc283ff0bb60f",
-      "titulo": "Desenvolvedor Back-end (Node.js e Typescript) Pleno",
-      "empresa": "Inklua Servicos Para Inclusao de Pcd Ltda",
-      "url": "https://www.adzuna.com.br/details/5893235016?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-21T19:42:35Z",
-      "descricao": "Aplicar melhores práticas de programação; Planejamento, desenvolvimento e manutenção de backend de aplicações; Analisar e evidenciar os impactos de mudanças nos módulos antes que elas sejam aplicadas; Investigar a causa de problemas e propor soluções definitivas para eles ou propor soluções de contorno enquanto busca soluções definitivas; Criação e revisão da documentação técnica de aplicações. CARGO: Desenvolvedor Back-end LOCAL: remoto SALÁRIO: a combinar HORÁRIO: flexível BENEFÍCIOS: Salário…",
-      "score": 50,
-      "skills_match": [
-        "TypeScript",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:01:13Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
     },
@@ -5257,7 +5257,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5419,7 +5419,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5487,7 +5487,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-17T17:00:49Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5732,7 +5732,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-16T14:43:50Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5911,7 +5911,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-10T00:41:14Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -5965,7 +5965,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-06T13:01:34Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -6157,7 +6157,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
@@ -6232,7 +6232,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:01:15Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
@@ -6791,7 +6791,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-18T14:20:37Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7028,7 +7028,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7324,7 +7324,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7367,7 +7367,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:20:07Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7387,7 +7387,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-17T07:00:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7407,7 +7407,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7427,7 +7427,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7451,7 +7451,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7494,7 +7494,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7546,7 +7546,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7667,7 +7667,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T19:00:46Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -7709,7 +7709,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T09:01:02Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -8504,7 +8504,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "daa59bb0f874b2cfd0eabbed783cfa4a5c9c94f3",
@@ -8560,7 +8560,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -8819,7 +8819,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T18:59:49Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -8937,7 +8937,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T18:57:32Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -9103,7 +9103,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -9123,7 +9123,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T17:00:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -9405,7 +9405,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -9886,6 +9886,31 @@
       "expirada": true
     },
     {
+      "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
+      "titulo": "Desenvolvedor Full Stack Pj",
+      "empresa": "Adonai RH",
+      "url": "https://www.adzuna.com.br/details/5933715766?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-18T21:54:04Z",
+      "descricao": "DESENVOLVEDOR FULLSTACK Adonai RH em parceria com Fintech, está com 1 vaga(s) em aberto. RESPONSABILIDADES: Responsável por todo o desenvolvido da ferramenta, back end e front end; Responsável pela arquitetura do sistema e contato direto com o CEO da empresa. REQUISITOS: Imprescindível experiência com as tecnologias JavaScript, Vue.JS, Node.JS, Nuxt.JS e cloud AWS. Faixa salarial de: 15.000,00 a 18.000,00 Observações: Contratação modalidade PJ; Vaga home office nível BRASIL Tipo de vaga: Tempo …",
+      "score": 35,
+      "skills_match": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Nuxt",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:37Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -10039,31 +10064,6 @@
       "expirada": true
     },
     {
-      "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
-      "titulo": "Desenvolvedor Full Stack Pj",
-      "empresa": "Adonai rh",
-      "url": "https://www.adzuna.com.br/details/5893233170?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-21T19:42:19Z",
-      "descricao": "DESENVOLVEDOR FULLSTACK Adonai RH em parceria com Fintech, está com 1 vaga(s) em aberto. RESPONSABILIDADES: Responsável por todo o desenvolvido da ferramenta, back end e front end; Responsável pela arquitetura do sistema e contato direto com o CEO da empresa. REQUISITOS: Imprescindível experiência com as tecnologias JavaScript, Vue.JS, Node.JS, Nuxt.JS e cloud AWS. Faixa salarial de: 15.000,00 a 18.000,00 Observações: Contratação modalidade PJ; Vaga home office nível BRASIL Tipo de vaga: Tempo …",
-      "score": 35,
-      "skills_match": [
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "Nuxt",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:37Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
       "id": "aa4e51e2bdeb1bc431e3b34ea9b59786589f6ddd",
       "titulo": "Pessoa Desenvolvedora Mobile - Júnior",
       "empresa": "Franq",
@@ -10165,6 +10165,78 @@
       "expirada": true
     },
     {
+      "id": "057161f3e294b821f8b4869e1db8315a3f70dc8d",
+      "titulo": "Desenvolvedor React Native",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5933716915?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:13Z",
+      "descricao": "Superior completo ou cursando Ciência da Computação, Análise de Sistemas, Banco de Dados, e áreas afins; Experiência como Desenvolvedor React Native e React JS; Conhecimento em modelos ágeis utilizando Scrum, SCP e API's; Desenvolvimento com Webservices (SOAP e REST); Vivência com desenvolvimento Front end em geral (JavaScript, HTML, LESS e CSS; Desejável experiência em práticas DevOps; Desenvolvimento com testes automatizados, design de arquitetura voltadas à cenários de alta escalabilidade e …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
+      "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
+      "titulo": "Pessoa Desenvolvedora Full Stack Pl",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5933716792?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:12Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora JAVA Full Stack PL para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a Pessoa Desenvolvedora JAVA Full Stack PL é responsável por: Desenvolver soluções com foco na monitoração de infraestrutura e negócio; Desenvolver voltado a testes (TDD); Participar de projetos de softwares escaláveis; Escrever códigos limpos e funcionais back end; Diagnosticar, depurar e atualizar softwares; Fazer análise de códigos, construir e sustentar micr…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:01:04Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
+      "id": "87ef3a25d32156f220815f8208c0fa6e850e2ac0",
+      "titulo": "Desenvolvedor Web Front End - React",
+      "empresa": "Moot It Consulting",
+      "url": "https://www.adzuna.com.br/details/5933716744?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:12Z",
+      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT Requisitos necessários para esse novo desafio: - Atuar com desenvolvimento de sistemas Web na área de logística e transportes;: - Programação front-end com React;: - Atuação principal nas áreas de desenvolvimento Front-End: - Experiência em desenvolvimento de sistemas Web utilizando Framework Javascript React: - Familiaridade com os princípios e metodologias ágeis (Scrum, Kanban): - Algoritmos; técnicas de p…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "2133b9dc47a57c28c9e9140ca0d88c5fb77c02e8",
       "titulo": "Pessoa Desenvolvedora FullStack ( .Net/React)",
       "empresa": "Mjv Innovation",
@@ -10184,7 +10256,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10209,7 +10281,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:56Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10289,7 +10361,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10353,7 +10425,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10373,7 +10445,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-16T17:00:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10396,7 +10468,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-16T17:00:57Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10421,7 +10493,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10466,7 +10538,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10487,7 +10559,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10510,7 +10582,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -10575,7 +10647,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -11456,7 +11528,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-04",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "fb59be35154b4e3262b00ec463f14cd05690a154",
@@ -11610,7 +11682,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:41Z",
-      "ultima_vista": "2026-10-18",
+      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -12008,34 +12080,6 @@
       "expirada": true
     },
     {
-      "id": "057161f3e294b821f8b4869e1db8315a3f70dc8d",
-      "titulo": "Desenvolvedor React Native",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5893235311?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:37Z",
-      "descricao": "Superior completo ou cursando Ciência da Computação, Análise de Sistemas, Banco de Dados, e áreas afins; Experiência como Desenvolvedor React Native e React JS; Conhecimento em modelos ágeis utilizando Scrum, SCP e API's; Desenvolvimento com Webservices (SOAP e REST); Vivência com desenvolvimento Front end em geral (JavaScript, HTML, LESS e CSS; Desejável experiência em práticas DevOps; Desenvolvimento com testes automatizados, design de arquitetura voltadas à cenários de alta escalabilidade e …",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
       "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Gateware",
@@ -12054,50 +12098,6 @@
       ],
       "lacunas": [],
       "experiencia_exigida": 2,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
-      "titulo": "Pessoa Desenvolvedora Full Stack Pl",
-      "empresa": "NAVA - Technology for Business",
-      "url": "https://www.adzuna.com.br/details/5893235046?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:35Z",
-      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora JAVA Full Stack PL para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a Pessoa Desenvolvedora JAVA Full Stack PL é responsável por: Desenvolver soluções com foco na monitoração de infraestrutura e negócio; Desenvolver voltado a testes (TDD); Participar de projetos de softwares escaláveis; Escrever códigos limpos e funcionais back end; Diagnosticar, depurar e atualizar softwares; Fazer análise de códigos, construir e sustentar micr…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:01:04Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "87ef3a25d32156f220815f8208c0fa6e850e2ac0",
-      "titulo": "Desenvolvedor Web Front End - React",
-      "empresa": "Moot It Consulting",
-      "url": "https://www.adzuna.com.br/details/5893234993?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:34Z",
-      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT Requisitos necessários para esse novo desafio: - Atuar com desenvolvimento de sistemas Web na área de logística e transportes;: - Programação front-end com React;: - Atuação principal nas áreas de desenvolvimento Front-End: - Experiência em desenvolvimento de sistemas Web utilizando Framework Javascript React: - Familiaridade com os princípios e metodologias ágeis (Scrum, Kanban): - Algoritmos; técnicas de p…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
