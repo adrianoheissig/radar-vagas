@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-19T21:02:45Z",
-  "total": 534,
+  "atualizado_em": "2026-10-19T23:02:39Z",
+  "total": 535,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -2232,11 +2232,34 @@
       "skills_match": [
         "React",
         "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-19T21:01:41Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
+      "id": "a7eec57bbc6283415c896a5d5a2f376ec5b42804",
+      "titulo": "Desenvolvedor Full Stack - Pleno | 100% Remoto",
+      "empresa": "Rotha IA",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-pleno-100-remoto-em-distrito-federal__12128168.aspx",
+      "fonte": "infojobs",
+      "local": "Brasília - DF",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-19T07:40:36Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVaga 100% remota (home office): trabalhe de qualquer lugar do Brasil.\r\n\r\nProfissional responsável por desenvolver, evoluir e sustentar de ponta a ponta os sistemas de gestão web (CRMs e ERPs) dos nossos clientes, com autonomia para decidir como resolver cada problema. Você vai desenhar soluções, modelar o banco de dados, construir integrações, publicar em produção e ajudar a elevar o nível técnico da equipe.\r\n\r\nAtividades:\r\n Desenvolver e evoluir aplicações web com React, TypeScript e Next.js, do front-end ao banco de dados.\r\n Modelar o banco de dados no Supabase (PostgreSQL): tabelas, políticas de acesso (RLS), funções, gatilhos e migrations, sem derrubar o sistema em produção.\r\n Projetar e construir integrações com serviços externos, como nota fiscal, pagamentos e WhatsApp, tratando webhooks, novas tentativas e duplicidade.\r\n Publicar novas versões e aplicar mudanças de banco em produção com autonomia.\r\n Investigar e resolver problemas de desempenho, consultas lentas e inconsistência de dados.\r\n Receber pedidos e problemas dos clientes, propor a solução técnica e estimar o prazo.\r\n Escrever testes automatizados e cuidar da qualidade do build e da publicação.\r\n Revisar código e apoiar o desenvolvimento de pessoas com menos experiência.\r\n Documentar decisões técnicas, padrões e rotinas críticas dos sistemas.\r\n Cuidar da segurança dos dados e da conformidade com a LGPD.\r\n\r\nRequisitos:\r\n Ensino superior completo ou em anda…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
         "JavaScript",
         "HTML",
         "CSS",
         "APIs REST",
-        "SQL",
         "Git"
       ],
       "lacunas": [
@@ -2244,8 +2267,8 @@
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-10-19T21:01:41Z",
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-19",
       "expirada": false
     },
