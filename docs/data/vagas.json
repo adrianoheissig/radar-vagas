@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19T05:02:45Z",
+  "atualizado_em": "2026-10-19T07:02:39Z",
   "total": 533,
   "vagas": [
     {
@@ -2219,6 +2219,36 @@
       "expirada": true
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5933968537?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-19T03:00:24Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
       "titulo": "Desenvolvedor(a) Front-end React (Remoto)",
       "empresa": "GeekHunter",
@@ -2242,6 +2272,30 @@
       "expirada": false
     },
     {
+      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
+      "titulo": "Desenvolvedores Mobile",
+      "empresa": "HrSoul",
+      "url": "https://www.adzuna.com.br/details/5933715808?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-18T21:54:04Z",
+      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
       "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
       "empresa": "",
@@ -2251,30 +2305,6 @@
       "modalidade": "hibrido",
       "data_publicacao": "2026-10-18T07:58:14Z",
       "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-19",
-      "expirada": false
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "DESENVOLVEDOR ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933195011?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-18T07:58:13Z",
-      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
       "score": 55,
       "skills_match": [
         "Angular",
@@ -2671,30 +2701,6 @@
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-14T19:01:40Z",
       "ultima_vista": "2026-10-19",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5926949390?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-14T02:43:25Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-16",
       "expirada": false
     },
     {
@@ -3634,6 +3640,36 @@
       "expirada": true
     },
     {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "Desenvolvedor Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-09-24T22:17:03Z",
+      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "c5c8f4c50d36839ef167e95a0bee3c0361241162",
       "titulo": "Desenvolvedor(a) Frontend Angular",
       "empresa": "Sioux digital 1:1",
@@ -3775,30 +3811,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T13:01:25Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
-      "titulo": "Desenvolvedores Mobile",
-      "empresa": "HrSoul",
-      "url": "https://www.adzuna.com.br/details/5893233336?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-21T19:42:20Z",
-      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
       "expirada": true
     },
     {
@@ -4675,6 +4687,30 @@
       "expirada": false
     },
     {
+      "id": "5c66f8bd3ad027b552ac33ae563f39548214edab",
+      "titulo": "Desenvolvedor Front-end - Idook",
+      "empresa": "BURH",
+      "url": "https://www.adzuna.com.br/details/5933716892?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:13Z",
+      "descricao": "Precisamos de uma pessoa que domine os frameworks React JS e React Native. O Back-end do MVP está feito em Node e o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando identidade digital e a tecnologia de Blockchain. Tem…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Figma",
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "eb284feb2182479fbcd634173f0fc283ff0bb60f",
       "titulo": "Desenvolvedor Back-end (Node.js e Typescript) Pleno",
       "empresa": "Inklua Servicos Para Inclusao de Pcd Ltda",
@@ -5115,30 +5151,6 @@
       "data_coleta": "2026-09-25T17:01:00Z",
       "ultima_vista": "2026-10-19",
       "expirada": false
-    },
-    {
-      "id": "5c66f8bd3ad027b552ac33ae563f39548214edab",
-      "titulo": "Desenvolvedor Front-end - Idook",
-      "empresa": "BURH",
-      "url": "https://www.adzuna.com.br/details/5893235283?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:37Z",
-      "descricao": "Precisamos de uma pessoa que domine os frameworks React JS e React Native. O Back-end do MVP está feito em Node e o Design System em Figma. Conhecer essas tecnologias é um diferencial. Buscamos pessoas pró ativas, criativas, flexíveis e engajadas. O IDook é uma Startup sediada no Parque Tecnológico São José dos Campos. Nosso produto é uma plataforma de relacionamento entre membros e organizações não governamentais. Nós fazemos isso utilizando identidade digital e a tecnologia de Blockchain. Tem…",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Figma",
-        "Node.js"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
     },
     {
       "id": "2e3869518d4729e7ce2eefa7c3613c7488c59d6f",
@@ -10187,6 +10199,29 @@
       "expirada": false
     },
     {
+      "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5933716882?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-18T21:54:13Z",
+      "descricao": "Experiências e qualificações: - Mínimo de 02 anos de experiência ou mais - Junior ou Pleno - Frontend HTML5, CSS3, React, Java Script e Type Script - Formação (Engenharia de software, Ciências da computação e Sistema de Informação) - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos - Contratação pr…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": 2,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
+    },
+    {
       "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
       "titulo": "Pessoa Desenvolvedora Full Stack Pl",
       "empresa": "NAVA - Technology for Business",
@@ -12092,29 +12127,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:33:55Z",
-      "ultima_vista": "2026-09-23",
-      "expirada": true
-    },
-    {
-      "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "Gateware",
-      "url": "https://www.adzuna.com.br/details/5893235289?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T19:42:37Z",
-      "descricao": "Experiências e qualificações: - Mínimo de 02 anos de experiência ou mais - Junior ou Pleno - Frontend HTML5, CSS3, React, Java Script e Type Script - Formação (Engenharia de software, Ciências da computação e Sistema de Informação) - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos - Contratação pr…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": 2,
-      "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
     },
