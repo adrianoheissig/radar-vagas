@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19T16:56:11Z",
+  "atualizado_em": "2026-10-19T19:02:45Z",
   "total": 533,
   "vagas": [
     {
@@ -5943,35 +5943,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
       "ultima_vista": "2026-10-10",
-      "expirada": false
-    },
-    {
-      "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
-      "titulo": "Analista Devops",
-      "empresa": "MK BR S.A",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-devops-em-sao-paulo__12088237.aspx",
-      "fonte": "infojobs",
-      "local": "Barueri - SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-10-06T11:44:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional DevOps para atuar presencialmente, em Barueri/Alphaville-SP, contribuindo na sustentação, automação e evolução de ambientes em nuvem, infraestrutura como código, pipelines de CI/CD e tecnologias de containers.\nBuscamos alguém com sólida experiência em AWS, Terraform ou CloudFormation, GitHub Actions, ArgoCD, Linux, Docker e automação, que tenha perfil técnico, analítico e orientação para melhoria contínua dos ambientes e processos.\nPrincipais responsabilidades e conhecimentos\n?? AWS / Cloud\nExperiência com os principais serviços da AWS, incluindo:\nComputação e Containers: Amazon EC2, AWS Lambda, Amazon ECS e Amazon EKS (Kubernetes).\nRedes e Segurança: configuração e administração de VPC, IAM, Route 53 e AWS CloudTrail.\nArmazenamento e Bancos de Dados: Amazon S3, Amazon RDS e Amazon FSx.\n??? Infraestrutura como Código – IaC\nExperiência com Terraform ou AWS CloudFormation.\nAutomação e gerenciamento de infraestrutura de forma padronizada e versionada.\n?? CI/CD\nExperiência na construção e manutenção de pipelines de Integração e Entrega Contínua.\nConhecimento em GitHub Actions.\nConhecimento em ArgoCD e processos de entrega contínua.\n?? Sistemas, Automação e Containers\nSólidos conhecimentos em Linux.\nDesenvolvimento de scripts e automações utilizando Python ou Bash.\nDomínio de Docker e empacotamento de aplicações em containers.\n? Diferenciais\nSerá considerado diferencial:\nConhecimento em…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "C#",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "CI/CD",
-        "Linux"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-10-06T13:01:34Z",
-      "ultima_vista": "2026-10-19",
       "expirada": false
     },
     {
@@ -12699,6 +12670,33 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
+    },
+    {
+      "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
+      "titulo": "Analista Devops",
+      "empresa": "MK BR S.A",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-devops-em-sao-paulo__12088237.aspx",
+      "fonte": "infojobs",
+      "local": "Barueri - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-06T11:44:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) profissional DevOps para atuar presencialmente, em Barueri/Alphaville-SP, contribuindo na sustentação, automação e evolução de ambientes em nuvem, infraestrutura como código, pipelines de CI/CD e tecnologias de containers.\nBuscamos alguém com sólida experiência em AWS, Terraform ou CloudFormation, GitHub Actions, ArgoCD, Linux, Docker e automação, que tenha perfil técnico, analítico e orientação para melhoria contínua dos ambientes e processos.\nPrincipais responsabilidades e conhecimentos\n?? AWS / Cloud\nExperiência com os principais serviços da AWS, incluindo:\nComputação e Containers: Amazon EC2, AWS Lambda, Amazon ECS e Amazon EKS (Kubernetes).\nRedes e Segurança: configuração e administração de VPC, IAM, Route 53 e AWS CloudTrail.\nArmazenamento e Bancos de Dados: Amazon S3, Amazon RDS e Amazon FSx.\n??? Infraestrutura como Código – IaC\nExperiência com Terraform ou AWS CloudFormation.\nAutomação e gerenciamento de infraestrutura de forma padronizada e versionada.\n?? CI/CD\nExperiência na construção e manutenção de pipelines de Integração e Entrega Contínua.\nConhecimento em GitHub Actions.\nConhecimento em ArgoCD e processos de entrega contínua.\n?? Sistemas, Automação e Containers\nSólidos conhecimentos em Linux.\nDesenvolvimento de scripts e automações utilizando Python ou Bash.\nDomínio de Docker e empacotamento de aplicações em containers.\n? Diferenciais\nSerá considerado diferencial:\nConhecimento em…",
+      "score": 15,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T13:01:34Z",
+      "ultima_vista": "2026-10-19",
+      "expirada": false
     },
     {
       "id": "a2ae78f774f74e01ffe64263523d026c97b4252e",
