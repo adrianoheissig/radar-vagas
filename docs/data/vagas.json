@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-20T01:02:47Z",
+  "atualizado_em": "2026-10-20T03:02:27Z",
   "total": 536,
   "vagas": [
     {
@@ -10217,6 +10217,26 @@
       "expirada": true
     },
     {
+      "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "SUPER ENSINO",
+      "url": "https://www.adzuna.com.br/details/5934751842?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-19T21:58:16Z",
+      "descricao": "Descrição do trabalho Estamos buscando por desenvolvedores front-end qualificados para se juntar ao nosso time de desenvolvimento. Você será responsável por construir o cliente-side para as nossas aplicações React JS e React JS native. Você deve ser capaz de traduzir as necessidades de nossos clientes e colaboradores em aplicações funcionais e atraentes. Esperamos que você seja um profissional experiente em tecnologia, que seja curioso sobre novas tecnologias digitais e aspire combinar usabilid…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:44Z",
+      "ultima_vista": "2026-10-20",
+      "expirada": false
+    },
+    {
       "id": "85866562549a341818fc9bd0485dd101ad0cf8f2",
       "titulo": "Staff Software Engineer, Search Content Platforms",
       "empresa": "Google",
@@ -12154,26 +12174,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T17:01:13Z",
       "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
-      "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "SUPER ENSINO",
-      "url": "https://www.adzuna.com.br/details/5894381251?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-22T19:44:40Z",
-      "descricao": "Descrição do trabalho Estamos buscando por desenvolvedores front-end qualificados para se juntar ao nosso time de desenvolvimento. Você será responsável por construir o cliente-side para as nossas aplicações React JS e React JS native. Você deve ser capaz de traduzir as necessidades de nossos clientes e colaboradores em aplicações funcionais e atraentes. Esperamos que você seja um profissional experiente em tecnologia, que seja curioso sobre novas tecnologias digitais e aspire combinar usabilid…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:33:44Z",
-      "ultima_vista": "2026-09-23",
       "expirada": true
     },
     {
