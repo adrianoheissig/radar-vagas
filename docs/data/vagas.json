@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-20T09:02:42Z",
-  "total": 536,
+  "atualizado_em": "2026-10-20T13:02:50Z",
+  "total": 537,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2280,14 +2280,21 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
-      "ultima_vista": "2026-10-19",
+      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
@@ -2303,19 +2310,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-20",
       "expirada": false
@@ -5474,6 +5476,27 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "6433cdb7450289f049865b20a5df006798d93b7a",
+      "titulo": "Desenvolvedor Fullstack Java/React Pleno",
+      "empresa": "Nava | Tech For Business",
+      "url": "https://www.adzuna.com.br/details/5935329752?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-20T08:01:16Z",
+      "descricao": "A Nava está buscando um Desenvolvedor FullStack Java/React Pleno, para atuar no desenvolvimento, sustentação e evolução de aplicações FrontEnd e BackEnd, participando desde a concepção das soluções até a implementação. A posição terá interação com diferentes áreas e envolvidos no projeto, apoiando o levantamento de requisitos, acompanhamento de cronogramas, resolução de problemas e garantia da qualidade das entregas. Requisitos obrigatórios Experiência no desenvolvimento de aplicações utilizand…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-20T13:00:38Z",
+      "ultima_vista": "2026-10-20",
+      "expirada": false
     },
     {
       "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
