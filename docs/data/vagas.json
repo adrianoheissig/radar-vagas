@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-21T15:02:39Z",
-  "total": 546,
+  "atualizado_em": "2026-10-21T17:02:37Z",
+  "total": 547,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -7469,6 +7469,26 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "a7826ca18fe4353c2cb14c415a0ec074bee6fb77",
+      "titulo": "Desenvolvedor(a) Fullstack Pleno (Go React) [Remoto - Brasil]",
+      "empresa": "DBServices",
+      "url": "https://www.adzuna.com.br/details/5936844123?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-21T13:01:00Z",
+      "descricao": "Somos uma consultoria portuguesa fundada por brasileiros, com atuação em projetos internacionais e foco em conectar tecnologia e pessoas. Buscamos um(a) Desenvolvedor(a) Fullstack Pleno (Go React) para atuar no desenvolvimento end-to-end de uma ferramenta interna estratégica para o cliente, com foco em performance, usabilidade e experiência do utilizador, em um contrato inicial de 3 meses, com possibilidade de renovação mediante bom desempenho. Responsabilidades: Desenvolver e manter APIs e mi…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T17:00:42Z",
+      "ultima_vista": "2026-10-21",
+      "expirada": false
     },
     {
       "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
