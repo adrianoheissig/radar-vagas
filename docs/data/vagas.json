@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-21T21:02:36Z",
+  "atualizado_em": "2026-10-21T23:59:41Z",
   "total": 548,
   "vagas": [
     {
@@ -7475,6 +7475,27 @@
       "expirada": true
     },
     {
+      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
+      "titulo": "Banco de Talentos React/Node",
+      "empresa": "Conquest one",
+      "url": "https://www.adzuna.com.br/details/5937076622?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-21T20:28:30Z",
+      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:20:07Z",
+      "ultima_vista": "2026-10-21",
+      "expirada": false
+    },
+    {
       "id": "a7826ca18fe4353c2cb14c415a0ec074bee6fb77",
       "titulo": "Desenvolvedor(a) Fullstack Pleno (Go React) [Remoto - Brasil]",
       "empresa": "DBServices",
@@ -7954,27 +7975,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:56Z",
       "ultima_vista": "2026-10-18",
-      "expirada": false
-    },
-    {
-      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
-      "titulo": "Banco de Talentos React/Node",
-      "empresa": "Conquest one",
-      "url": "https://www.adzuna.com.br/details/5931154391?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-16T20:21:25Z",
-      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T17:20:07Z",
-      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
@@ -10451,6 +10451,28 @@
       "expirada": true
     },
     {
+      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5937111073?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-21T20:32:26Z",
+      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
+      "score": 30,
+      "skills_match": [
+        "Git"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:29Z",
+      "ultima_vista": "2026-10-21",
+      "expirada": false
+    },
+    {
       "id": "92419a31dcf096c2e013b49c84dc3e27a10aa1d5",
       "titulo": "Data Scientist",
       "empresa": "",
@@ -11010,28 +11032,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T22:51:47Z",
       "ultima_vista": "2026-10-17",
-      "expirada": false
-    },
-    {
-      "id": "93d001097a80861d9091880bc7bffc533e8c113e",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5931203502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-16T20:34:32Z",
-      "descricao": "Estamos contratando um Desenvolvedor Mobile (Xamarin / React Native) para atuar no desenvolvimento e manutenção de aplicações mobile, criando soluções modernas, escaláveis e orientadas à experiência do usuário. Requisitos: Experiência com desenvolvimento de aplicações mobile; Conhecimento em Xamarin e React Native; Experiência com integração de APIs e serviços corporativos; Conhecimento em automação de testes e qualidade de software; Vivência com práticas de DevOps; Experiência com GitHub e ges…",
-      "score": 30,
-      "skills_match": [
-        "Git"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:29Z",
-      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
