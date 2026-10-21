@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-21T19:02:44Z",
-  "total": 547,
+  "atualizado_em": "2026-10-21T21:02:36Z",
+  "total": 548,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2290,6 +2290,40 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "1b60ee34d1bf1dc2983b2a1680e15a149bd477e1",
+      "titulo": "Desenvolvedor Full-Stack",
+      "empresa": "Mérito",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-em-sao-paulo__12142077.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-21T08:49:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResponsabilidades\nDesenvolvimento e Correção: Atuar na base de código da aplicação (Front-End e Back-End), investigando bugs, aplicando correções, refatorando trechos para aumentar a testabilidade e desenvolvendo evoluções no produto.\nArquitetura de Testes: Projetar, implementar e manter suítes de testes automatizados (unitários, integração e E2E) para APIs, Web e Mobile.\nCode Review & Standards: Liderar revisões de código rigorosas, garantindo boas práticas de desenvolvimento, alta cobertura de testes e prevenção de regressões antes do deploy.\nCultura de Qualidade: Colaborar com o time de desenvolvimento para definir padrões de qualidade, estratégias de dublês de testes (mocks/stubs) e testes na esteira de CI/CD.\nAnálise Técnica: Mapear cenários críticos de negócio e traduzi-los em testes de integração e regressão automatizados.\nRequisitos Técnicos\nDesenvolvimento Full-Stack: Experiência prática consistente com TypeScript/JavaScript, Node.js no Back-End e React / React Native no Front-End/Mobile.\nAutomação & Frameworks de Teste: Vivência em escrita e estruturação de testes usando ferramentas como Jest, Vitest, Playwright, Cypress ou Detox.\nAPIs & Arquitetura: Sólido entendimento na construção e consumo de APIs RESTful, tratamento de erros e integração entre serviços.\nEngenharia de Software: Domínio de Git (Pull Requests, estratégias de branch), princípios de código limpo (Clean Code) e padronização.\nCapacidade Diagnósti…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "React Native",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T21:01:34Z",
+      "ultima_vista": "2026-10-21",
+      "expirada": false
     },
     {
       "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
@@ -5662,34 +5696,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T05:00:40Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
-      "id": "035eaeb69414627b678d7e6d90fc01ad33007979",
-      "titulo": "Desenvolvedor(A) Júnior (.NET, React E IA)",
-      "empresa": "King of Languages",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T12:55:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Docker",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-10-16T14:43:50Z",
       "ultima_vista": "2026-10-21",
       "expirada": false
     },
@@ -10643,6 +10649,32 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T19:07:35Z",
+      "ultima_vista": "2026-10-21",
+      "expirada": false
+    },
+    {
+      "id": "035eaeb69414627b678d7e6d90fc01ad33007979",
+      "titulo": "Desenvolvedor(A) Júnior (.NET, React E IA)",
+      "empresa": "King of Languages",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-junior-net,-react-ia-em-__12110291.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-20T12:55:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPessoa Desenvolvedora Júnior (.NET, React e IA)\nEstamos em busca de uma pessoa desenvolvedora júnior para fazer parte do time de Tecnologia da King of Languages, contribuindo para o desenvolvimento de soluções que conectam tecnologia, inteligência artificial e educação.\nVocê terá a oportunidade de trabalhar com agentes de IA utilizados em situações reais, desenvolver integrações entre sistemas e contribuir para a evolução das ferramentas internas da empresa, contando com acompanhamento técnico e feedbacks ao longo do desenvolvimento.\nPrincipais responsabilidades\nApoiar o desenvolvimento e a melhoria de agentes de inteligência artificial que atendem alunos e professores pelo WhatsApp.\nAnalisar conversas reais para identificar falhas, propor melhorias e contribuir para a qualidade das respostas dos agentes.\nImplementar integrações entre agentes de IA e sistemas internos, com orientação técnica.\nDesenvolver e aprimorar telas e funcionalidades internas utilizando .NET e React.\nCorrigir problemas e contribuir para a implementação de testes automatizados.\nRequisitos obrigatórios\nConhecimento em C# e .NET, demonstrado por projetos pessoais, acadêmicos ou experiência de estágio.\nPelo menos um projeto pessoal ou acadêmico que utilize uma API de inteligência artificial, como OpenAI, Claude, Gemini ou similar.\nConhecimentos básicos de SQL e Git.\nBoa comunicação e disposição para trabalhar de forma colaborativa.\nDiferenciais\nConheci…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-16T14:43:50Z",
       "ultima_vista": "2026-10-21",
       "expirada": false
     },
