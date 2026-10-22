@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-22T11:02:25Z",
+  "atualizado_em": "2026-10-22T15:02:51Z",
   "total": 548,
   "vagas": [
     {
@@ -2513,12 +2513,19 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-10-22",
       "expirada": false
