@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-22T01:02:42Z",
+  "atualizado_em": "2026-10-22T03:02:25Z",
   "total": 548,
   "vagas": [
     {
@@ -7475,6 +7475,26 @@
       "expirada": true
     },
     {
+      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
+      "titulo": "React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5937201859?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Palhoça, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-21T21:59:07Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Native Developer at BairesDev Being a React Native Senior Developer in our Development Team is just like bei…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:55Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
       "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
       "titulo": "Banco de Talentos React/Node",
       "empresa": "Conquest one",
@@ -7762,16 +7782,16 @@
       "id": "e26e5e92479d8d7aa95626f99a8a29f9ba0b8a04",
       "titulo": "Desenvolvedor Front-end React Remoto",
       "empresa": "W1",
-      "url": "https://www.adzuna.com.br/details/5935943246?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5935949417?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
-      "data_publicacao": "2026-10-20T22:23:31Z",
-      "descricao": "Descrição da vaga: Buscamos Desenvolvedor(a) Front-end React para atuar no desenvolvimento e evolução de aplicações web, contribuindo para a construção de interfaces modernas, performáticas e integradas a serviços e APIs. Essa posição é ideal para profissionais com experiência sólida em React, atenção à qualidade de código e interesse em trabalhar em ambientes colaborativos, com processos ágeis e foco em evolução contínua da plataforma. Principais Responsabilidades: - Desenvolver e manter aplic…",
+      "data_publicacao": "2026-10-20T22:24:38Z",
+      "descricao": "Estamos em busca de um Desenvolvedor Front-end Reactpara atuar em um ambiente dinâmico e colaborativo, com foco em entregar experiências digitais de alta performance e qualidade. Responsabilidades e Requisitos Técnicos: - Domínio no desenvolvimento Front-End com React; - Experiência com integrações via APIsde mercado; - Conhecimento em testes automatizadose boas práticas de versionamento de código ( Git); - Vivência com metodologias ágeise trabalho em equipe; - Capacidade de colaborar com times…",
       "score": 40,
       "skills_match": [
         "React",
-        "Metodologias ágeis"
+        "Git"
       ],
       "lacunas": [],
       "experiencia_exigida": null,
@@ -8588,26 +8608,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:56Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": false
-    },
-    {
-      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
-      "titulo": "React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5917829178?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Nova Iguaçu, Estado do Rio de Janeiro",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-07T21:51:41Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. React Native Developer at BairesDev Being a React Native Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a …",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:55Z",
       "ultima_vista": "2026-10-08",
       "expirada": false
     },
