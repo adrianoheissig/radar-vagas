@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-22T05:02:29Z",
+  "atualizado_em": "2026-10-22T07:02:34Z",
   "total": 548,
   "vagas": [
     {
@@ -2292,6 +2292,32 @@
       "expirada": true
     },
     {
+      "id": "d141ffad3dcfc5e705bfb923e9be1f2439b3dfbb",
+      "titulo": "Desenvolvedor(a) Full Stack Angular/ionic/node",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5937201484?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-21T21:59:03Z",
+      "descricao": "Descrição da empresa Empresa voltada para o segmento de soluções para o Varejo. Atividades e Responsabilidades: Tipo de Contratação: CLT 1 vaga presencial Tatuapé / SP Programar, desenvolver e implantar sistemas em linguagem de Aplicativos Angular Ionic. Realizar correções em sistemas para atender às necessidades dos usuários. Ter boa comunicação com o time para aprimoramento e entendimento dos requisitos. Requisitos: Requisitos: Linguagens: Angular Ionic PHP Laravel (API) Javascript/Jquery N…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "jQuery",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:59Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
       "id": "1b60ee34d1bf1dc2983b2a1680e15a149bd477e1",
       "titulo": "Desenvolvedor Full-Stack",
       "empresa": "Mérito",
@@ -3923,32 +3949,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T07:01:06Z",
       "ultima_vista": "2026-09-25",
-      "expirada": true
-    },
-    {
-      "id": "d141ffad3dcfc5e705bfb923e9be1f2439b3dfbb",
-      "titulo": "Desenvolvedor(a) Full Stack Angular/ionic/node",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5895773581?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-09-23T20:34:18Z",
-      "descricao": "Descrição da empresa Empresa voltada para o segmento de soluções para o Varejo. Atividades e Responsabilidades: Tipo de Contratação: CLT 1 vaga presencial Tatuapé / SP Programar, desenvolver e implantar sistemas em linguagem de Aplicativos Angular Ionic. Realizar correções em sistemas para atender às necessidades dos usuários. Ter boa comunicação com o time para aprimoramento e entendimento dos requisitos. Requisitos: Requisitos: Linguagens: Angular Ionic PHP Laravel (API) Javascript/Jquery N…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "jQuery",
-        "PHP",
-        "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:59Z",
-      "ultima_vista": "2026-09-24",
       "expirada": true
     },
     {
@@ -5606,6 +5606,31 @@
       "expirada": true
     },
     {
+      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
+      "titulo": "Consultor(a) FullStack",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5937514461?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-22T03:05:14Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T07:00:51Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
@@ -5999,31 +6024,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:36:54Z",
       "ultima_vista": "2026-10-15",
-      "expirada": false
-    },
-    {
-      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
-      "titulo": "Consultor(a) FullStack",
-      "empresa": "Avanade Inc.",
-      "url": "https://www.adzuna.com.br/details/5922956068?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-11T02:56:51Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T07:00:51Z",
-      "ultima_vista": "2026-10-16",
       "expirada": false
     },
     {
@@ -7491,6 +7491,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
+      "id": "79cea000dc8eb00ecf6167922a7fadf38110dc9e",
+      "titulo": "Desenvolvedor de Back End",
+      "empresa": "itaim bibi",
+      "url": "https://www.adzuna.com.br/details/5937199453?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-21T21:58:45Z",
+      "descricao": "Sobre a empresa; Apresentamos uma jornada de mais de 12 anos no mercado, provendo soluções financeiras digitais inovadoras. Habilidades API, JavaScript, JSON, Node.js, RESTful, TypeScript, Nest.Js O que nós buscamos Desenvolver e dar manutenção em aplicações, recursos e algoritmos para Sistemas Web, focado no desenvolvimento Backend. O profissional deve dominar programação em JavaScript, TypeScript e Node.js, além de conhecimento de outras tecnologias que fazem parte do desenvolvimento Web, com…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "NestJS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T07:01:12Z",
       "ultima_vista": "2026-10-22",
       "expirada": false
     },
@@ -9263,31 +9288,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
       "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
-      "id": "79cea000dc8eb00ecf6167922a7fadf38110dc9e",
-      "titulo": "Desenvolvedor de Back End",
-      "empresa": "itaim bibi",
-      "url": "https://www.adzuna.com.br/details/5895771748?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T20:33:59Z",
-      "descricao": "Sobre a empresa; Apresentamos uma jornada de mais de 12 anos no mercado, provendo soluções financeiras digitais inovadoras. Habilidades API, JavaScript, JSON, Node.js, RESTful, TypeScript, Nest.Js O que nós buscamos Desenvolver e dar manutenção em aplicações, recursos e algoritmos para Sistemas Web, focado no desenvolvimento Backend. O profissional deve dominar programação em JavaScript, TypeScript e Node.js, além de conhecimento de outras tecnologias que fazem parte do desenvolvimento Web, com…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "NestJS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T07:01:12Z",
-      "ultima_vista": "2026-09-25",
       "expirada": true
     },
     {
