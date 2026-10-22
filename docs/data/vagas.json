@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-22T03:02:25Z",
+  "atualizado_em": "2026-10-22T05:02:29Z",
   "total": 548,
   "vagas": [
     {
@@ -1588,6 +1588,32 @@
       "expirada": true
     },
     {
+      "id": "c5138c63efef7ba8a2c434bba718a042050a25ea",
+      "titulo": "Pessoa Desenvolvedora Java Junior",
+      "empresa": "Datum",
+      "url": "https://www.adzuna.com.br/details/5937193161?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-21T21:57:52Z",
+      "descricao": "Estamos buscando uma pessoa que ouse protagonizar com a gente. Responsabilidades e atribuições: Requisitos e qualificações: - Hibernate/JPA - Jboss - Wildfly - Spring Boot - Spring MVC - Oracle - Conhecimento em construção e padrões de APIs Desejável: - VueJS e/ou Angular - Conhecimento em seguros - PL/SQL - Conhecimento em Mensageria Informações adicionais: - Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas. - Quer mais bem-estar? Oferecemos…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Spring",
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:59Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
       "id": "8956f93afe16ec47427595ea73d5e751095a4b46",
       "titulo": "Dev Front",
       "empresa": "NAVA - Technology for Business",
@@ -1966,32 +1992,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:59Z",
       "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
-      "id": "c5138c63efef7ba8a2c434bba718a042050a25ea",
-      "titulo": "Pessoa Desenvolvedora Java Junior",
-      "empresa": "Datum",
-      "url": "https://www.adzuna.com.br/details/5895766565?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T20:32:59Z",
-      "descricao": "Estamos buscando uma pessoa que ouse protagonizar com a gente. Responsabilidades e atribuições: Requisitos e qualificações: - Hibernate/JPA - Jboss - Wildfly - Spring Boot - Spring MVC - Oracle - Conhecimento em construção e padrões de APIs Desejável: - VueJS e/ou Angular - Conhecimento em seguros - PL/SQL - Conhecimento em Mensageria Informações adicionais: - Para sua saúde, oferecemos assistência médica e odontológica sem coparticipação em exames e consultas. - Quer mais bem-estar? Oferecemos…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "Spring",
-        "Oracle"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:59Z",
-      "ultima_vista": "2026-09-24",
       "expirada": true
     },
     {
@@ -7495,6 +7495,26 @@
       "expirada": false
     },
     {
+      "id": "ce4bb666155d9c1d17a2409465d7476a59f3e0eb",
+      "titulo": "Desenvolvedor React Native",
+      "empresa": "innolevels - Leveraging your Business",
+      "url": "https://www.adzuna.com.br/details/5937192377?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-21T21:57:43Z",
+      "descricao": "Estamos contratando Desenvolvedor Mobile - React Native para participar da implementação de novas funcionalidades em um app já existente. Entendemos que para essa evolução, é necessário experiência avançada em: - React Native. Home Office. Tem interesse?",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:50Z",
+      "ultima_vista": "2026-10-22",
+      "expirada": false
+    },
+    {
       "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
       "titulo": "Banco de Talentos React/Node",
       "empresa": "Conquest one",
@@ -9268,26 +9288,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T07:01:12Z",
       "ultima_vista": "2026-09-25",
-      "expirada": true
-    },
-    {
-      "id": "ce4bb666155d9c1d17a2409465d7476a59f3e0eb",
-      "titulo": "Desenvolvedor React Native",
-      "empresa": "innolevels - Leveraging your Business",
-      "url": "https://www.adzuna.com.br/details/5895765737?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-23T20:32:54Z",
-      "descricao": "Estamos contratando Desenvolvedor Mobile - React Native para participar da implementação de novas funcionalidades em um app já existente. Entendemos que para essa evolução, é necessário experiência avançada em: - React Native. Home Office. Tem interesse?",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-09-24",
       "expirada": true
     },
     {
