@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-23T03:02:26Z",
+  "atualizado_em": "2026-10-23T05:02:32Z",
   "total": 550,
   "vagas": [
     {
@@ -2540,12 +2540,19 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-10-23",
       "expirada": false
@@ -5633,6 +5640,35 @@
       "expirada": true
     },
     {
+      "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
+      "titulo": "Desenvolvedor ReactJS e React Native",
+      "empresa": "Taking",
+      "url": "https://www.adzuna.com.br/details/5938485742?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-22T22:00:38Z",
+      "descricao": "Cód. 2603 - Desenvolvedor ReactJS e React Native Sr. - Contratação PJ_ - Horário de Trabalho Comercial_ - Atuação 100% Home_ Requisitos da vaga: - Experiência em desenvolvimento de aplicações Web utilizando React, Javascript, HTML e CSS e/ou mobile utilizando React Native; - Experiência com Typescript e Next.JS; - Experiência em consumo de APIs RESTFul; - Experiência com versionamento de código, utilizando Github; - Habilidade e preocupação com a excelência técnica e boas práticas de desenvolvi…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T23:50:19Z",
+      "ultima_vista": "2026-10-23",
+      "expirada": false
+    },
+    {
       "id": "8851045883a1fdd19f34f25c68c4a7fc3f28e430",
       "titulo": "Consultor(a) FullStack",
       "empresa": "Avanade",
@@ -5654,7 +5690,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:03Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -5679,7 +5715,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T07:00:51Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -6804,35 +6840,6 @@
       "expirada": true
     },
     {
-      "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
-      "titulo": "Desenvolvedor ReactJS e React Native",
-      "empresa": "Taking",
-      "url": "https://www.adzuna.com.br/details/5897468336?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-24T20:29:24Z",
-      "descricao": "Cód. 2603 - Desenvolvedor ReactJS e React Native Sr. - Contratação PJ_ - Horário de Trabalho Comercial_ - Atuação 100% Home_ Requisitos da vaga: - Experiência em desenvolvimento de aplicações Web utilizando React, Javascript, HTML e CSS e/ou mobile utilizando React Native; - Experiência com Typescript e Next.JS; - Experiência em consumo de APIs RESTFul; - Experiência com versionamento de código, utilizando Github; - Habilidade e preocupação com a excelência técnica e boas práticas de desenvolvi…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T23:50:19Z",
-      "ultima_vista": "2026-09-25",
-      "expirada": true
-    },
-    {
       "id": "50e6148385238d1f28dbba4d4753425b7d9bcded",
       "titulo": "Consultor(a) Full Stack",
       "empresa": "Avanade",
@@ -7819,7 +7826,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -10541,7 +10548,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -10585,7 +10592,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -10695,7 +10702,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-22",
+      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
