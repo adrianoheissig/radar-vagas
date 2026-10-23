@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-23T07:02:42Z",
-  "total": 551,
+  "atualizado_em": "2026-10-23T13:02:44Z",
+  "total": 552,
   "vagas": [
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -5656,6 +5656,41 @@
       "expirada": true
     },
     {
+      "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
+      "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-vaga-afirmativa-pcds-em-minas-gerais__12148165.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-23T12:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente?\nATIVIDADES\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno para integrar nosso time de Tecnologia, com atuação focada no desenvolvimento e evolução de aplicações Web, contribuindo para a construção de interfaces modernas, responsivas, eficientes e escaláveis.\nPrincipais responsabilidades:\nDesenvolver e evoluir aplicações Web Front-End, utilizando tecnologias e frameworks modernos;\nCriar interfaces responsivas, reutilizáveis e orientadas a uma boa experiência do usuário;\nAtuar na integração do Front-End com APIs e serviços de Backend;\nRealizar a sustentação das aplicações de negócio, atuando na análise e correção de falhas, melhorias de funcionalidades e otimização de performance;\nApoiar a investigação e resolução de problemas envolvendo aplicações e banco de dados;\nParticipar de projetos priorizados pela Up Brasil, contribuindo desde o entendimento da necessidade e definição da solução…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "SQL Server",
+        "MongoDB",
+        "Docker",
+        "Azure",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-23T13:01:45Z",
+      "ultima_vista": "2026-10-23",
+      "expirada": false
+    },
+    {
       "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
       "titulo": "Desenvolvedor ReactJS e React Native",
       "empresa": "Taking",
@@ -6249,39 +6284,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T16:56:05Z",
       "ultima_vista": "2026-10-11",
-      "expirada": false
-    },
-    {
-      "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
-      "titulo": "Analista De Sistemas Pleno",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-em-minas-gerais__12106920.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-09T11:47:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \n\nATIVIDADES \nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\n- Atuar nos projetos conforme priorização da Up Brasil.\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\n\nREQUISITOS \n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, áreas afins.…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "MongoDB",
-        "Docker",
-        "Azure"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-10-10T00:41:14Z",
-      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -13098,6 +13100,24 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
+    },
+    {
+      "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
+      "titulo": "Analista De Sistemas Pleno",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-em-minas-gerais__12106920.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-09T11:47:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente? \n\nATIVIDADES \nEstamos buscando um(a) Desenvolvedor(a) Web Pleno com forte expertise em desenvolvimento FrontEnd e experiência em programação reativa para atuar na criação de interfaces web modernas, dinâmicas e altamente responsivas. Você será responsável por implementar soluções reativas que garantam uma experiência de usuário fluida, eficiente e escalável, contribuindo para o sucesso dos nossos produtos digitais.\n- Cuidar da sustentação das aplicações de negócio, atuando em melhorias de funcionalidades e performance, correções em aplicações e banco de dados.\n- Atuar nos projetos conforme priorização da Up Brasil.\n- Definir, Planejar, implementar, testar, implantar e acompanhar soluções entregues.\n- Manter atualizado o repositório de fontes das aplicações e ambientes de desenvolvimento.\n\nREQUISITOS \n•\tEnsino Superior completo em Sistemas de Informação, Ciência da Computação, áreas afins.…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T00:41:14Z",
+      "ultima_vista": "2026-10-23",
+      "expirada": false
     },
     {
       "id": "0beb3b04e66491eeb6ee39582b6a582325d1d868",
