@@ -1,37 +1,7 @@
 {
-  "atualizado_em": "2026-10-24T03:02:28Z",
+  "atualizado_em": "2026-10-24T07:02:22Z",
   "total": 554,
   "vagas": [
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5935166849?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-20T02:48:00Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-23",
-      "expirada": false
-    },
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
       "titulo": "Desenvolvedor Front-end",
@@ -444,6 +414,38 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5940102730?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-24T02:51:04Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
     },
@@ -2647,19 +2649,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -7532,6 +7529,31 @@
       "expirada": true
     },
     {
+      "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
+      "titulo": "Programador(a) Back-end Júnior",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5939781958?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-23T21:58:34Z",
+      "descricao": "Descrição da empresa Startup em desenvolvimento. Atividades e Responsabilidades: Buscamos profissional com experiência em desenvolvimento de software utilizando tecnologia Node.js para manutenção e customização de códigos de um projeto startup. Requisitos: Requisitos Fundamentais: Experiência com desenvolvimento Node.js; TypeScript; Banco de Dados Mongo DB. Requisitos Desejáveis: Cultura DevOps; Google Cloud; Linux",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "MongoDB",
+        "Google Cloud",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:39Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "32ddcaaa20ee7cdce1b377833051d0d9474a4aa5",
       "titulo": "Java - Desenvolvedor(a) Jr de Software - Remoto",
       "empresa": "Underwriters Laboratories Inc.",
@@ -9268,31 +9290,6 @@
       "expirada": true
     },
     {
-      "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
-      "titulo": "Programador(a) Back-end Júnior",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5898833880?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:34:25Z",
-      "descricao": "Descrição da empresa Startup em desenvolvimento. Atividades e Responsabilidades: Buscamos profissional com experiência em desenvolvimento de software utilizando tecnologia Node.js para manutenção e customização de códigos de um projeto startup. Requisitos: Requisitos Fundamentais: Experiência com desenvolvimento Node.js; TypeScript; Banco de Dados Mongo DB. Requisitos Desejáveis: Cultura DevOps; Google Cloud; Linux",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "MongoDB",
-        "Google Cloud",
-        "Linux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:39Z",
-      "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
       "id": "4cbf76f008ff79affae8e3fc75d49d96879907d9",
       "titulo": "Python Engineer PL",
       "empresa": "Encora",
@@ -10550,6 +10547,51 @@
       "expirada": true
     },
     {
+      "id": "b7cc095ad4cefc665be2220b463e46df60146ba1",
+      "titulo": "Desenvolvedor Java Jr",
+      "empresa": "wau work",
+      "url": "https://www.adzuna.com.br/details/5939781306?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-23T21:58:29Z",
+      "descricao": "WAU Somos a plataforma para você que busca o trabalho ideal em grandes empresas. Queremos entregar a vaga perfeita para profissionais únicos, independentes e talentosos. A WAU conecta você aos seus jobs. - 1 anos de experiência em desenvolvimento Java - Experiência com desenvolvimento de aplicações web, webservices, microserviços; - Experiência com mecanismos de testes como JUnit; - Participação nas cerimônias de entendimento e planejamento do backlog; - Java versão 1.8 e 11: Servlet, JSP, JDBC…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-09-25T23:55:27Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
+      "id": "4de9b6d03fc3dfad5a7205de2043af29bd6e8086",
+      "titulo": "Desenvolvedor Full Stack Java Jr/pleno",
+      "empresa": "Segware",
+      "url": "https://www.adzuna.com.br/details/5939780372?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-23T21:58:23Z",
+      "descricao": "Desenvolvedor Full Stack Java Junior/Pleno: Estamos buscando profissionais loucos por tecnologia, que sejam criativos e gostem de inovar todos os dias! Requisitos - Superior completo ou cursando em Ciência da Computação, Sistemas de Informação e áreas afins - Conhecimento de Desenvolvimento Full Stack - Consumo de API Rest - Java - Metodologia Ágil - Facilidade de comunicação; - Organização; - Pro atividade; - Facilidade de trabalhar em equipe - Melhoria contínua nos processos de trabalho. - Se…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:33Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "e4e1a2c8a0662e434bab2b177b6c863c1e84de74",
       "titulo": "Pessoa Desenvolvedora Full Stack (React .Net IA)",
       "empresa": "Mjv Innovation",
@@ -10617,7 +10659,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-23",
+      "ultima_vista": "2026-10-24",
       "expirada": false
     },
     {
@@ -10661,7 +10703,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-23",
+      "ultima_vista": "2026-10-24",
       "expirada": false
     },
     {
@@ -12496,29 +12538,6 @@
       "expirada": true
     },
     {
-      "id": "b7cc095ad4cefc665be2220b463e46df60146ba1",
-      "titulo": "Desenvolvedor Java Jr",
-      "empresa": "wau work",
-      "url": "https://www.adzuna.com.br/details/5898832677?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:34:16Z",
-      "descricao": "WAU Somos a plataforma para você que busca o trabalho ideal em grandes empresas. Queremos entregar a vaga perfeita para profissionais únicos, independentes e talentosos. A WAU conecta você aos seus jobs. - 1 anos de experiência em desenvolvimento Java - Experiência com desenvolvimento de aplicações web, webservices, microserviços; - Experiência com mecanismos de testes como JUnit; - Participação nas cerimônias de entendimento e planejamento do backlog; - Java versão 1.8 e 11: Servlet, JSP, JDBC…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-09-25T23:55:27Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": true
-    },
-    {
       "id": "0c3a62d41492971d13a4fc602aea26f827a6b095",
       "titulo": "Desenvolvedor(a) Java Pleno",
       "empresa": "Confitec",
@@ -12536,28 +12555,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:27Z",
       "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
-      "id": "4de9b6d03fc3dfad5a7205de2043af29bd6e8086",
-      "titulo": "Desenvolvedor Full Stack Java Jr/pleno",
-      "empresa": "Segware",
-      "url": "https://www.adzuna.com.br/details/5898831135?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:34:04Z",
-      "descricao": "Desenvolvedor Full Stack Java Junior/Pleno: Estamos buscando profissionais loucos por tecnologia, que sejam criativos e gostem de inovar todos os dias! Requisitos - Superior completo ou cursando em Ciência da Computação, Sistemas de Informação e áreas afins - Conhecimento de Desenvolvimento Full Stack - Consumo de API Rest - Java - Metodologia Ágil - Facilidade de comunicação; - Organização; - Pro atividade; - Facilidade de trabalhar em equipe - Melhoria contínua nos processos de trabalho. - Se…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:33Z",
-      "ultima_vista": "2026-09-27",
       "expirada": true
     },
     {
