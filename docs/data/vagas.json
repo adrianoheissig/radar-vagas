@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-24T17:01:34Z",
+  "atualizado_em": "2026-10-24T18:03:24Z",
   "total": 556,
   "vagas": [
     {
@@ -325,10 +325,12 @@
       "score": 75,
       "skills_match": [
         "React",
+        "Angular",
         "TypeScript",
         "JavaScript",
         "Node.js",
         "MySQL",
+        "Firebase",
         "Git",
         "Metodologias ágeis"
       ],
@@ -340,7 +342,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -380,6 +382,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
+      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
+      "titulo": "Desenvolvedor(A) Full Stack",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-17T09:11:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
+      "score": 75,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "SQL",
+        "Firebase",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
     },
@@ -555,9 +589,10 @@
         "Python",
         "PostgreSQL",
         "Oracle",
-        "AWS"
+        "AWS",
+        "Inglês"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -871,7 +906,7 @@
         "Ruby",
         "Azure"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-09-25T15:01:46Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -1884,6 +1919,39 @@
       "expirada": false
     },
     {
+      "id": "a814f60860aabba5cbc757854ed52ab935421a4b",
+      "titulo": "Programador",
+      "empresa": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-em-sao-paulo__12092265.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-06T08:27:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nResponsabilidades:\nEntende a integração entre camadas (front-end, back-end e APIs). Realiza testes básicos e faz análise de logs. Domina o uso de ferramentas de versionamento e o setup do ambiente local.\nImplementar funcionalidades com base em requisitos técnicos definidos;\nCorrigir bugs e realizar melhorias simples em sistemas existentes;\nParticipar de revisões de código e sugerir boas práticas;\nDocumentar código e procedimentos técnicos;\nTrabalhar de forma colaborativa com analistas e desenvolvedores mais experientes;\nElaborar requisitos de sistemas com base nos requerimentos dos usuários;\nCodificar sistemas através de programação em linguagens de alto nível voltadas a objeto, bem como SQL para base de dados;\nControlar versões;\nTestar aplicações e programas para garantir que o código funcione;\nImplantar de aplicações;\nPreparar computadores para rodar o projeto (instalar dependências, banco etc.).\n Requisitos:\nDomínio básico de PHP / HTML / CSS / JavaScript \nExperiência de 1 ano em programação.\nVersionamento de códigos / Análise de Requisitos / Documentações\nLógica de programação e Consumo de APIs\nConhecimento de Banco de Dados e linguagem de consulta estruturada\nMetodologias Ágeis\nDiferenciais:\nExperiência com integração entre sistemas (APIs).\nNoções de testes automatizados.\nDevOps (Docker, CI/CD...)\nBancos de dados (MYSQL / ORACLE)\nReact / C#\nTerminais (Ubuntu, Windows)\nProtocolos (TCP/IP, SMTP, UDP, FTP, SSH)\r\n Benef…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MySQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "PHP",
+        "C#",
+        "Oracle",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-10-06T21:01:39Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "070ea100bd6208c08ab5fbfda636d86145a8c577",
       "titulo": "Desenvolvedor(a) Fullstack",
       "empresa": "Avanade",
@@ -2137,6 +2205,40 @@
       "expirada": true
     },
     {
+      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
+      "titulo": "Desenvolvedor Back-End Pleno",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T07:51:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "PHP",
+        "C#",
+        ".NET",
+        "Redis",
+        "Docker",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:23:01Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "348625d068d95649f29fe453bf468cc671d5598b",
       "titulo": "Desenvolvedor(a) de Sistemas | FRONTEND",
       "empresa": "Brisanet",
@@ -2338,11 +2440,15 @@
         "JavaScript",
         "Node.js",
         "APIs REST",
+        "Microsserviços",
+        "SQL",
         "Git",
         "Clean Code"
       ],
       "lacunas": [
         "React Native",
+        "Docker",
+        "AWS",
         "CI/CD",
         "Testes automatizados"
       ],
@@ -2513,12 +2619,19 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -2536,14 +2649,19 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -3907,16 +4025,24 @@
         "JavaScript",
         "Node.js",
         "APIs REST",
+        "Microsserviços",
         "Git",
         "Metodologias ágeis",
         "Clean Code"
       ],
       "lacunas": [
+        "React Native",
         "GraphQL",
         "PostgreSQL",
-        "MongoDB"
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -4480,6 +4606,35 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T09:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Figma",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-15T11:11:43Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
     },
     {
       "id": "d95569f9d2bf54f3b51b958b4e825b76cefcd603",
@@ -5506,6 +5661,41 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
+      "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-vaga-afirmativa-pcds-em-minas-gerais__12148165.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-23T12:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente?\nATIVIDADES\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno para integrar nosso time de Tecnologia, com atuação focada no desenvolvimento e evolução de aplicações Web, contribuindo para a construção de interfaces modernas, responsivas, eficientes e escaláveis.\nPrincipais responsabilidades:\nDesenvolver e evoluir aplicações Web Front-End, utilizando tecnologias e frameworks modernos;\nCriar interfaces responsivas, reutilizáveis e orientadas a uma boa experiência do usuário;\nAtuar na integração do Front-End com APIs e serviços de Backend;\nRealizar a sustentação das aplicações de negócio, atuando na análise e correção de falhas, melhorias de funcionalidades e otimização de performance;\nApoiar a investigação e resolução de problemas envolvendo aplicações e banco de dados;\nParticipar de projetos priorizados pela Up Brasil, contribuindo desde o entendimento da necessidade e definição da solução…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "SQL Server",
+        "MongoDB",
+        "Docker",
+        "Azure",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-23T13:01:45Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
     },
     {
       "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
@@ -7075,14 +7265,21 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "APIs REST"
+        "APIs REST",
+        "Git",
+        "Clean Code"
       ],
       "lacunas": [
         "Redux",
         "Sass",
+        "Python",
         ".NET",
         "SQL Server",
-        "Testes automatizados"
+        "Redis",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
@@ -7236,30 +7433,6 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-16",
       "expirada": true
-    },
-    {
-      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T09:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "ccf04dbe031510df3cf623dcea2c2786fb334022",
@@ -8926,7 +9099,7 @@
         "CI/CD",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -9288,6 +9461,37 @@
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-24",
       "expirada": true
+    },
+    {
+      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
+      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
+      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
+      "fonte": "infojobs",
+      "local": "Todo Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-21T07:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Vue.js",
+        "Python",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T21:01:30Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
     },
     {
       "id": "1c1f7e4ab140cd9e32c6ec4289fc0f11ff5d02c3",
@@ -10161,24 +10365,6 @@
       "data_coleta": "2026-10-08T03:01:08Z",
       "ultima_vista": "2026-10-08",
       "expirada": true
-    },
-    {
-      "id": "a814f60860aabba5cbc757854ed52ab935421a4b",
-      "titulo": "Programador",
-      "empresa": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
-      "url": "https://www.adzuna.com.br/details/5914586015?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T21:48:20Z",
-      "descricao": "Responsabilidades: Entende a integração entre camadas (front-end, back-end e APIs). Realiza testes básicos e faz análise de logs. Domina o uso de ferramentas de versionamento e o setup do ambiente local. Implementar funcionalidades com base em requisitos técnicos definidos; Corrigir bugs e realizar melhorias simples em sistemas existentes; Participar de revisões de código e sugerir boas práticas; Documentar código e procedimentos técnicos; Trabalhar de forma colaborativa com analistas e desenvo…",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T21:01:39Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "0e714c21e65ca523e18a0d2391d40d1713ad6c24",
@@ -12993,26 +13179,6 @@
       "expirada": true
     },
     {
-      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
-      "titulo": "Desenvolvedor(A) Full Stack",
-      "empresa": "Empresa confidencial",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-17T09:11:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
-      "score": 25,
-      "skills_match": [
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
-    },
-    {
       "id": "718b7a7cff4c82bcd980dd69677381d741cd5ec3",
       "titulo": "Desenvolvedor Fullstack Pleno (PL/SQL)",
       "empresa": "Nexdom Healthtech",
@@ -13033,24 +13199,6 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
-    },
-    {
-      "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
-      "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-vaga-afirmativa-pcds-em-minas-gerais__12148165.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-23T12:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente?\nATIVIDADES\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno para integrar nosso time de Tecnologia, com atuação focada no desenvolvimento e evolução de aplicações Web, contribuindo para a construção de interfaces modernas, responsivas, eficientes e escaláveis.\nPrincipais responsabilidades:\nDesenvolver e evoluir aplicações Web Front-End, utilizando tecnologias e frameworks modernos;\nCriar interfaces responsivas, reutilizáveis e orientadas a uma boa experiência do usuário;\nAtuar na integração do Front-End com APIs e serviços de Backend;\nRealizar a sustentação das aplicações de negócio, atuando na análise e correção de falhas, melhorias de funcionalidades e otimização de performance;\nApoiar a investigação e resolução de problemas envolvendo aplicações e banco de dados;\nParticipar de projetos priorizados pela Up Brasil, contribuindo desde o entendimento da necessidade e definição da solução…",
-      "score": 15,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-23T13:01:45Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
@@ -13140,24 +13288,6 @@
       "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
-    },
-    {
-      "id": "a268dadcb1d526ea41e36ca4020350ee3f7feee2",
-      "titulo": "Desenvolvedor(A) Full Stack JÚNIOR",
-      "empresa": "B2FINANCE BPO E TECNOLOGIA LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-junior-em-__12039067.aspx",
-      "fonte": "infojobs",
-      "local": "Todo Brasil",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-21T07:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nH&CO atua como um hub global de Business Transformation Outsourcing (BTO), integrando BPO, ERPs e Inteligência Artificial aplicada a dados estratégicos, em mais de 30 países, com um time de 1100 colaboradores, Nosso papel é transformar e escalar operações financeiras, contábeis, fiscais e de folha de pagamento, em qualquer país, com eficiência, governança e visão estratégica, apoiando empresas em jornadas de crescimento internacional sustentado. Apoiamos gestores que buscam mais eficiência, governança e visão estratégica em sua operação.\nFicou interessado e deseja fazer parte da nossa equipe?\n\nSobre a oportunidade\nVocê é uma pessoa desenvolvedora apaixonada por tecnologia e com vontade de aprender cada vez mais?\nGosta de programar e tem curiosidade em entender como sistemas funcionam por trás das telas?\nEstamos procurando alguém em início de carreira que queira desenvolver soluções modernas, aprender com profissionais experientes e crescer em um ambiente que estimula inovação, colaboração e tecnologia com foco em Inteligência Artificial.\nBuscamos pessoas com boa base em desenvolvimento web, interesse por frontend e backend, e vontade de explorar novas tecnologias e ferramentas de IA aplicadas ao dia a dia.\nResponsabilidades\nApoiar o desenvolvimento de aplicações web modernas com foco em qualidade e boas práticas.\nParticipar da construção e manutenção de interfaces e integrações entre sistemas.\nConectar aplicações a APIs…",
-      "score": 15,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
@@ -13258,32 +13388,6 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
-    },
-    {
-      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
-      "titulo": "Desenvolvedor Back-End Pleno",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T07:51:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
-      "score": 15,
-      "skills_match": [
-        "APIs REST",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
