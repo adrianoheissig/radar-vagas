@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-24T07:02:22Z",
+  "atualizado_em": "2026-10-24T09:02:37Z",
   "total": 554,
   "vagas": [
     {
@@ -450,6 +450,31 @@
       "expirada": false
     },
     {
+      "id": "f186fb12f3c33252a3fd6c0f8831c09329586b55",
+      "titulo": "Desenvolvedor(a) Front-end Vtex Io",
+      "empresa": "Agência 2b Digital",
+      "url": "https://www.adzuna.com.br/details/5939781186?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-23T21:58:28Z",
+      "descricao": "Estamos procurando um(a) Desenvolvedor(a) apaixonado pelo que faz, para juntar-se ao nosso squad de Projetos. Nosso trabalho é feito com base na metodologia ágil, e atuamos com squads independentes que nos permitem atuar com mais velocidade e assertividade no dia a dia das execuções. Requisitos HTML CSS Javascript React.js Graph QL Node.js Conhecimentos: Scrum, Kanban, VTEX. Desejável Vivência com e-commerce. Benefícios Auxilio home office.",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:29Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "7d859f2222cfd6c7535cb15e9bf958846f6a6027",
       "titulo": "Desenvolvedor Front End React",
       "empresa": "Moot It Consulting",
@@ -855,31 +880,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T07:01:02Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "f186fb12f3c33252a3fd6c0f8831c09329586b55",
-      "titulo": "Desenvolvedor(a) Front-end Vtex Io",
-      "empresa": "Agência 2b Digital",
-      "url": "https://www.adzuna.com.br/details/5898832494?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-25T20:34:15Z",
-      "descricao": "Estamos procurando um(a) Desenvolvedor(a) apaixonado pelo que faz, para juntar-se ao nosso squad de Projetos. Nosso trabalho é feito com base na metodologia ágil, e atuamos com squads independentes que nos permitem atuar com mais velocidade e assertividade no dia a dia das execuções. Requisitos HTML CSS Javascript React.js Graph QL Node.js Conhecimentos: Scrum, Kanban, VTEX. Desejável Vivência com e-commerce. Benefícios Auxilio home office.",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:29Z",
-      "ultima_vista": "2026-09-29",
       "expirada": true
     },
     {
@@ -2619,19 +2619,12 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "APIs REST"
       ],
       "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Testes automatizados"
+        "PostgreSQL"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -2649,14 +2642,19 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-24",
       "expirada": false
@@ -10570,6 +10568,26 @@
       "expirada": false
     },
     {
+      "id": "0c3a62d41492971d13a4fc602aea26f827a6b095",
+      "titulo": "Desenvolvedor(a) Java Pleno",
+      "empresa": "Confitec",
+      "url": "https://www.adzuna.com.br/details/5939780533?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-23T21:58:24Z",
+      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar. Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante. Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil.…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:27Z",
+      "ultima_vista": "2026-10-24",
+      "expirada": false
+    },
+    {
       "id": "4de9b6d03fc3dfad5a7205de2043af29bd6e8086",
       "titulo": "Desenvolvedor Full Stack Java Jr/pleno",
       "empresa": "Segware",
@@ -12535,26 +12553,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:01:15Z",
       "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
-      "id": "0c3a62d41492971d13a4fc602aea26f827a6b095",
-      "titulo": "Desenvolvedor(a) Java Pleno",
-      "empresa": "Confitec",
-      "url": "https://www.adzuna.com.br/details/5898831380?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-25T20:34:06Z",
-      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar. Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante. Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil.…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:27Z",
-      "ultima_vista": "2026-09-26",
       "expirada": true
     },
     {
