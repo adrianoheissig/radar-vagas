@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T05:02:23Z",
+  "atualizado_em": "2026-10-25T07:02:38Z",
   "total": 556,
   "vagas": [
     {
@@ -2343,14 +2343,40 @@
       "expirada": false
     },
     {
+      "id": "b738531653ed166363c43e33a2d912c824f10a1c",
+      "titulo": "Analista de Sistemas",
+      "empresa": "BuscarVagas - Empregos e Consultoria Brasil",
+      "url": "https://www.adzuna.com.br/details/5940909688?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-24T21:59:07Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Salário a Combinar Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Carga Horária: Segunda a Sexta ás 9:00 a 18:00 Sem informação Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T09:01:17Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "257de9e587208bb9f3914b480f993a11ac61b349",
       "titulo": "React Native Developer (Latin America, Remote Position)",
       "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5940907986?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5940907819?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
-      "local": "Salvador, Bahia",
+      "local": "Recife, Pernambuco",
       "modalidade": "remoto",
-      "data_publicacao": "2026-10-24T21:59:01Z",
+      "data_publicacao": "2026-10-24T21:59:00Z",
       "descricao": "Job Summary: Required Skills & Qualifications: - 4 years of professional experience in React Native development - Strong proficiency in JavaScript / TypeScript - Solid understanding of React hooks, state management (Redux, Context API, etc.) - Experience with REST APIs and asynchronous programming - Familiarity with Android and iOS build processes, including Expo / EAS builds - Experience with version control systems like Git - Knowledge of mobile UI/UX best practices in both Android and iOS - …",
       "score": 55,
       "skills_match": [
@@ -2975,6 +3001,27 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T19:00:45Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
+      "id": "16b79087d2e630d1c4c4eeb8117acd6d3fa003fc",
+      "titulo": "Desenvolvedor Full Stack Pleno (Java React)",
+      "empresa": "Strada",
+      "url": "https://www.adzuna.com.br/details/5932320565?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-17T12:15:40Z",
+      "descricao": "Modelo de trabalho: 100% remoto Estamos em busca de uma pessoa para atuar no time de Tecnologia, com foco em desenvolvimento e sustentação de aplicações full stack, contribuindo para a evolução contínua dos produtos digitais, sendo importante ter colaboração, organização, capacidade de aprendizado contínuo e boa comunicação. A posição será responsável por desenvolver novas funcionalidades, evoluir integrações e contribuir para a estabilidade das aplicações, trabalhando em parceria com pessoas d…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-17T17:00:49Z",
       "ultima_vista": "2026-10-25",
       "expirada": false
     },
@@ -3922,32 +3969,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T05:00:52Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "b738531653ed166363c43e33a2d912c824f10a1c",
-      "titulo": "Analista de Sistemas",
-      "empresa": "BuscarVagas - Empregos e Consultoria Brasil",
-      "url": "https://www.adzuna.com.br/details/5900026087?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-26T20:29:12Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Salário a Combinar Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Carga Horária: Segunda a Sexta ás 9:00 a 18:00 Sem informação Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T09:01:17Z",
-      "ultima_vista": "2026-09-27",
       "expirada": true
     },
     {
@@ -6023,27 +6044,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:01:02Z",
       "ultima_vista": "2026-10-18",
-      "expirada": false
-    },
-    {
-      "id": "16b79087d2e630d1c4c4eeb8117acd6d3fa003fc",
-      "titulo": "Desenvolvedor Full Stack Pleno (Java React)",
-      "empresa": "Strada",
-      "url": "https://www.adzuna.com.br/details/5932320565?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-17T12:15:40Z",
-      "descricao": "Estamos em busca de uma pessoa para atuar no time de Tecnologia, com foco em desenvolvimento e sustentação de aplicações full stack, contribuindo para a evolução contínua dos produtos digitais, sendo importante ter colaboração, organização, capacidade de aprendizado contínuo e boa comunicação. A posição será responsável por desenvolver novas funcionalidades, evoluir integrações e contribuir para a estabilidade das aplicações, trabalhando em parceria com pessoas de engenharia e produto para entr…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-17T17:00:49Z",
-      "ultima_vista": "2026-10-21",
       "expirada": false
     },
     {
@@ -10547,6 +10547,36 @@
       "expirada": true
     },
     {
+      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
+      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5941148693?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-25T02:47:59Z",
+      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:23Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "37f68131734c0602cd7f051bae443285672a44a1",
       "titulo": "Desenvolvedor Full Stack Pleno (.NET / React / SQL)",
       "empresa": "Zummit",
@@ -11191,36 +11221,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:00:55Z",
       "ultima_vista": "2026-10-18",
-      "expirada": false
-    },
-    {
-      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
-      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5931759371?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-17T02:54:32Z",
-      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:23Z",
-      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
