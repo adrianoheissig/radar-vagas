@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-25T21:02:33Z",
-  "total": 557,
+  "atualizado_em": "2026-10-25T23:02:37Z",
+  "total": 559,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -71,6 +71,46 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-28",
       "expirada": true
+    },
+    {
+      "id": "029387289d2351024c01c752de6ee925a503b6f0",
+      "titulo": "Desenvolvedor Full Stack Pleno",
+      "empresa": "3corp Technology",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-pleno-em-sao-paulo__11979422.aspx",
+      "fonte": "infojobs",
+      "local": "Santana de Parnaíba - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-09-02T05:30:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDescrição das atividades que irá realizar:\nDesenvolver, evoluir e manter aplicações web responsivas, escaláveis e de alta disponibilidade.\nDesenvolver, consumir e integrar APIs REST e SOAP, conectando diferentes sistemas e plataformas.\nDesenvolver integrações entre sistemas utilizando APIs, microsserviços e serviços de terceiros.\nImplementar e administrar aplicações em ambientes containerizados, utilizando Docker e, quando aplicável, Kubernetes.\nRealizar análise, desenvolvimento e otimização de bancos de dados relacionais e não relacionais.\nParticipar da definição de soluções técnicas e arquitetura das aplicações.\nAtuar na identificação e correção de problemas de performance, disponibilidade e integração.\nTrabalhar em conjunto com equipes multidisciplinares, contribuindo para projetos de inovação, automação e transformação digital.\nAplicar boas práticas de desenvolvimento, incluindo versionamento de código, testes, revisão de código, segurança e documentação técnica.\nParticipar da sustentação e evolução das soluções desenvolvidas, garantindo qualidade e continuidade operacional.\nRequisitos obrigatórios para a vaga:\nExperiência com desenvolvimento Full Stack de 3 a 5 anos.\nConhecimento em JavaScript/TypeScript, especialmente Node.js.\nExperiência com frameworks frontend como React, Angular ou Vue.js.\nConhecimento em pelo menos uma linguagem adicional, como Python, Java ou C#.\nExperiência com bancos de dados relacionais, co…",
+      "score": 80,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Python",
+        "C#",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-25T23:01:37Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
     },
     {
       "id": "6f982b39af0697f8ee33e4579512fa07145e0f12",
@@ -4657,35 +4697,6 @@
       "expirada": true
     },
     {
-      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T09:07:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Figma",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-15T11:11:43Z",
-      "ultima_vista": "2026-10-25",
-      "expirada": false
-    },
-    {
       "id": "d95569f9d2bf54f3b51b958b4e825b76cefcd603",
       "titulo": "Desenvolvedor Full Stack - Angular",
       "empresa": "Grupo Real",
@@ -7463,6 +7474,30 @@
       "expirada": true
     },
     {
+      "id": "ff68714ca36f5c16ac7f58e0ccba09aade9c64a7",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-front-end-em-sao-paulo__11918773.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T09:07:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Front-end | Angular\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Front-end para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento e evolução de aplicações web com foco em Angular.\nBuscamos uma pessoa que tenha boa experiência em desenvolvimento Front-end, preocupação com qualidade de código e interesse em construir interfaces eficientes, reutilizáveis e com boa experiência para o usuário.\nPrincipais responsabilidades\nDesenvolver interfaces utilizando Angular, HTML, CSS e JavaScript/TypeScript;\nImplementar interfaces a partir de especificações de UI/UX;\nDesenvolver componentes reutilizáveis e contribuir para a evolução do Design System;\nIntegrar aplicações Front-end com APIs e serviços de Back-end;\nAtuar na identificação e correção de bugs e problemas de performance;\nGarantir código organizado, eficiente, reutilizável e de fácil manutenção;\nRealizar testes e contribuir para a qualidade das aplicações;\nTrabalhar em conjunto com desenvolvedores Back-end, designers e demais profissionais do time;\nParticipar de discussões técnicas e contribuir com soluções para os desafios do projeto;\nManter documentação técnica e apoiar a evolução contínua das aplicações;\nAcompanhar novas tecnologias e boas práticas relacionadas ao desenvolvimento Front-end/Angular.\nRequisitos\nExperiência profissional com Angular;\nConhecimento em JavaScript e/ou TypeScript;\nDomínio de HTML e CSS;\nExperiên…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:43Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "ccf04dbe031510df3cf623dcea2c2786fb334022",
       "titulo": "Meio Oficial Serralheiro",
       "empresa": "NZA COM SERV ESPECIALIZADOS EM CONSTRUÇÕES",
@@ -7560,6 +7595,26 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "05102becf623782813c84b64f1caae004284b1d8",
+      "titulo": "Remote Full-time Contractor - Full Stack TypeScript Software Developer - Brazil",
+      "empresa": "Stack Builders",
+      "url": "https://www.adzuna.com.br/details/5941743082?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-25T17:59:59Z",
+      "descricao": "At Stack Builders, we’re an international software consultancy that helps globally admired companies build exceptional software. We’re looking for an experienced Software Developer to contribute to the development and rollout of a modern subscription and order management platform, focusing on backend development, data migration, system integrations, and reliable production deployments. Learn more about us here ! We're passionate about solving complex engineering challenges while fostering a cul…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-25T23:01:16Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
     },
     {
       "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
