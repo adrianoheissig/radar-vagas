@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T09:02:27Z",
+  "atualizado_em": "2026-10-25T11:02:28Z",
   "total": 557,
   "vagas": [
     {
@@ -10296,6 +10296,28 @@
       "expirada": true
     },
     {
+      "id": "3c953c11a872ff5be522adbbf33ea5216dcca6f2",
+      "titulo": "Desenvolvedor(a) Fullstack - Remoto",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5940911322?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-24T21:59:13Z",
+      "descricao": "Revisar e refatorar os códigos existentes em códigos de alta qualidade. - Projetar e desenhar códigos que sejam confiáveis e reutilizáveis. - Garantir a melhor performance e usabilidade das aplicações. - Saber identificar e corrigir gargalos, realizar debugs e fixes. - Junto com o restante da equipe, ajudar a manter a qualidade, organização e automação de toda a aplicação. Experiências e qualificações: - PHP7 - MySQL - Laravel - Experiência em projetos Web (Hotsites, Intranets, E-Commerce e Int…",
+      "score": 35,
+      "skills_match": [
+        "MySQL"
+      ],
+      "lacunas": [
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:00:42Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "7bab56bb3e23248c12a2aee379ceac7eae1980bb",
       "titulo": "Desenvolvedor Nodejs Jr",
       "empresa": "Chat2desk Brasil",
@@ -10449,28 +10471,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-30T13:01:19Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "3c953c11a872ff5be522adbbf33ea5216dcca6f2",
-      "titulo": "Desenvolvedor(a) Fullstack - Remoto",
-      "empresa": "Gateware",
-      "url": "https://www.adzuna.com.br/details/5900027799?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-26T20:29:44Z",
-      "descricao": "Revisar e refatorar os códigos existentes em códigos de alta qualidade. - Projetar e desenhar códigos que sejam confiáveis e reutilizáveis. - Garantir a melhor performance e usabilidade das aplicações. - Saber identificar e corrigir gargalos, realizar debugs e fixes. - Junto com o restante da equipe, ajudar a manter a qualidade, organização e automação de toda a aplicação. Experiências e qualificações: - PHP7 - MySQL - Laravel - Experiência em projetos Web (Hotsites, Intranets, E-Commerce e Int…",
-      "score": 35,
-      "skills_match": [
-        "MySQL"
-      ],
-      "lacunas": [
-        "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:00:42Z",
-      "ultima_vista": "2026-09-27",
       "expirada": true
     },
     {
