@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T01:02:40Z",
+  "atualizado_em": "2026-10-25T03:02:22Z",
   "total": 556,
   "vagas": [
     {
@@ -2321,6 +2321,56 @@
       "expirada": true
     },
     {
+      "id": "085fc3e2826c77e6df8cf1ec499722d889d28bdd",
+      "titulo": "Desenvolvedor Front End Jr",
+      "empresa": "Stefanini",
+      "url": "https://www.adzuna.com.br/details/5940910687?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-24T21:59:10Z",
+      "descricao": "Desenvolvedor Front End JR Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo. Estamos presentes em 41 países com 30k colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital. E queremos mais! (Modelo remoto) (P4844343) Essencial: - Dev Front: TypeScript - JavaScript - Angular CLI - RXJS - Roteamento - Servi…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:01:07Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
+      "id": "257de9e587208bb9f3914b480f993a11ac61b349",
+      "titulo": "React Native Developer (Latin America, Remote Position)",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5940907986?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-24T21:59:01Z",
+      "descricao": "Job Summary: Required Skills & Qualifications: - 4 years of professional experience in React Native development - Strong proficiency in JavaScript / TypeScript - Solid understanding of React hooks, state management (Redux, Context API, etc.) - Experience with REST APIs and asynchronous programming - Familiarity with Android and iOS build processes, including Expo / EAS builds - Experience with version control systems like Git - Knowledge of mobile UI/UX best practices in both Android and iOS - …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "APIs REST",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "React Native",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:01:01Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
       "titulo": "Desenvolvedor Full Stack Node.js",
       "empresa": "Innolevels",
@@ -2619,14 +2669,21 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
-      "ultima_vista": "2026-10-24",
+      "ultima_vista": "2026-10-25",
       "expirada": false
     },
     {
@@ -3847,28 +3904,6 @@
       "expirada": true
     },
     {
-      "id": "085fc3e2826c77e6df8cf1ec499722d889d28bdd",
-      "titulo": "Desenvolvedor Front End Jr",
-      "empresa": "Stefanini",
-      "url": "https://www.adzuna.com.br/details/5900027131?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-26T20:29:35Z",
-      "descricao": "Desenvolvedor Front End JR Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo. Estamos presentes em 41 países com 30k colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital. E queremos mais! (Modelo remoto) (P4844343) Essencial: - Dev Front: TypeScript - JavaScript - Angular CLI - RXJS - Roteamento - Servi…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:01:07Z",
-      "ultima_vista": "2026-09-27",
-      "expirada": true
-    },
-    {
       "id": "b738531653ed166363c43e33a2d912c824f10a1c",
       "titulo": "Analista de Sistemas",
       "empresa": "BuscarVagas - Empregos e Consultoria Brasil",
@@ -3892,34 +3927,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T09:01:17Z",
       "ultima_vista": "2026-09-27",
-      "expirada": true
-    },
-    {
-      "id": "257de9e587208bb9f3914b480f993a11ac61b349",
-      "titulo": "React Native Developer (Latin America, Remote Position)",
-      "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5900024169?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Recife, Pernambuco",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-26T20:28:47Z",
-      "descricao": "Job Summary: Required Skills & Qualifications: - 4 years of professional experience in React Native development - Strong proficiency in JavaScript / TypeScript - Solid understanding of React hooks, state management (Redux, Context API, etc.) - Experience with REST APIs and asynchronous programming - Familiarity with Android and iOS build processes, including Expo / EAS builds - Experience with version control systems like Git - Knowledge of mobile UI/UX best practices in both Android and iOS - …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST",
-        "Git",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "React Native",
-        "Redux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:01:01Z",
-      "ultima_vista": "2026-09-29",
       "expirada": true
     },
     {
@@ -7527,6 +7534,26 @@
       "expirada": true
     },
     {
+      "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
+      "titulo": "React Developer Remote",
+      "empresa": "Outlier Ai",
+      "url": "https://www.adzuna.com.br/details/5940903725?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Belo Horizonte, Minas Gerais",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-24T21:58:43Z",
+      "descricao": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:01:01Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
       "titulo": "Programador(a) Back-end Júnior",
       "empresa": "",
@@ -9215,26 +9242,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T23:44:39Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
-      "titulo": "React Developer Remote",
-      "empresa": "Outlier Ai",
-      "url": "https://www.adzuna.com.br/details/5900019947?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasilia, Distrito Federal",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-26T20:27:46Z",
-      "descricao": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:01:01Z",
-      "ultima_vista": "2026-09-27",
       "expirada": true
     },
     {
@@ -11280,7 +11287,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-16T17:00:57Z",
-      "ultima_vista": "2026-10-21",
+      "ultima_vista": "2026-10-25",
       "expirada": false
     },
     {
