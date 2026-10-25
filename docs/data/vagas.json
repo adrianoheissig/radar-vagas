@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T13:02:28Z",
+  "atualizado_em": "2026-10-25T14:15:51Z",
   "total": 557,
   "vagas": [
     {
@@ -2779,19 +2779,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-25",
       "expirada": false
@@ -10580,6 +10575,36 @@
       "expirada": true
     },
     {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5941335639?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-25T08:11:41Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
       "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
       "empresa": "",
@@ -10606,6 +10631,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
+      "id": "8adb61f414e29518dc2a44f84724180868e448c0",
+      "titulo": "Desenvolvedor Junior Pl/SQL com (Asp Clássico E/ou",
+      "empresa": "Softtek",
+      "url": "https://www.adzuna.com.br/details/5940910673?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-24T21:59:10Z",
+      "descricao": "Junte-se a Softtek Brasil! Se procuras oportunidades como Desenvolvedor Junior PL/SQL com (Asp clássico e/ou.NET e/ou Java), na Softtek te damos essa oportunidade! Queremos contar com o seu talento, apoiá-lo no seu desenvolvimento profissional e que você faça parte da SofttekLife. O que precisamos? Atribuições Entender as necessidades do negócio, acompanhando as mesmas com os PO’s das áreas; Desenhar soluções de tecnologia para atender às necessidades levantadas; Alinhar as soluções e acompanha…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        ".NET",
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:00:55Z",
       "ultima_vista": "2026-10-25",
       "expirada": false
     },
@@ -11223,36 +11272,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:43Z",
-      "ultima_vista": "2026-10-18",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5931996002?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-17T07:57:08Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
       "ultima_vista": "2026-10-18",
       "expirada": false
     },
@@ -12588,30 +12607,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T17:01:19Z",
       "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
-      "id": "8adb61f414e29518dc2a44f84724180868e448c0",
-      "titulo": "Desenvolvedor Junior Pl/SQL com (Asp Clássico E/ou",
-      "empresa": "Softtek",
-      "url": "https://www.adzuna.com.br/details/5900027071?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-26T20:29:34Z",
-      "descricao": "Junte-se a Softtek Brasil! Se procuras oportunidades como Desenvolvedor Junior PL/SQL com (Asp clássico e/ou.NET e/ou Java), na Softtek te damos essa oportunidade! Queremos contar com o seu talento, apoiá-lo no seu desenvolvimento profissional e que você faça parte da SofttekLife. O que precisamos? Atribuições Entender as necessidades do negócio, acompanhando as mesmas com os PO’s das áreas; Desenhar soluções de tecnologia para atender às necessidades levantadas; Alinhar as soluções e acompanha…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        ".NET",
-        "Oracle"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:00:55Z",
-      "ultima_vista": "2026-09-27",
       "expirada": true
     },
     {
