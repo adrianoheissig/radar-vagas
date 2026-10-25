@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T15:02:28Z",
+  "atualizado_em": "2026-10-25T17:02:36Z",
   "total": 557,
   "vagas": [
     {
@@ -229,14 +229,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -249,7 +249,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-10-25",
       "expirada": false
@@ -5712,6 +5712,56 @@
       "expirada": true
     },
     {
+      "id": "7675ba2ad5efad076ebeddf6c930faa4fbe4f1bb",
+      "titulo": "Desenvolvedor(a) Full Stack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5941607977?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-25T13:38:37Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T03:01:08Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
+      "id": "8851045883a1fdd19f34f25c68c4a7fc3f28e430",
+      "titulo": "Consultor(a) FullStack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5941546922?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-25T12:39:11Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T18:17:03Z",
+      "ultima_vista": "2026-10-25",
+      "expirada": false
+    },
+    {
       "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
       "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
       "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
@@ -5773,31 +5823,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:19Z",
       "ultima_vista": "2026-10-23",
-      "expirada": false
-    },
-    {
-      "id": "8851045883a1fdd19f34f25c68c4a7fc3f28e430",
-      "titulo": "Consultor(a) FullStack",
-      "empresa": "Avanade",
-      "url": "https://www.adzuna.com.br/details/5938214480?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-22T13:50:20Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T18:17:03Z",
-      "ultima_vista": "2026-10-24",
       "expirada": false
     },
     {
@@ -6320,31 +6345,6 @@
       "data_coleta": "2026-10-09T16:56:05Z",
       "ultima_vista": "2026-10-11",
       "expirada": false
-    },
-    {
-      "id": "7675ba2ad5efad076ebeddf6c930faa4fbe4f1bb",
-      "titulo": "Desenvolvedor(a) Full Stack",
-      "empresa": "Avanade",
-      "url": "https://www.adzuna.com.br/details/5917837211?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-07T21:53:20Z",
-      "descricao": "Job Description Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiência em.Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#,.NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas de grande escala. Você será parte essencial no desenvolv…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T03:01:08Z",
-      "ultima_vista": "2026-10-10",
-      "expirada": true
     },
     {
       "id": "bca8ed638d3dae0f6e9bfe6565fcc6cb2c7e4974",
