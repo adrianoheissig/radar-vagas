@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-26T11:02:38Z",
-  "total": 560,
+  "atualizado_em": "2026-10-26T13:03:06Z",
+  "total": 563,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -454,6 +454,35 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
+    },
+    {
+      "id": "602d758bf6eaee3b44f0d27911aa3950c629ef66",
+      "titulo": "Desenvolvedor Web",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-web-em-sao-paulo__12153131.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-26T12:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nCriar e manter aplicações web modernas, garantindo interfaces responsivas e sistemas back-end robustos\r\n\r\nImplementar padrões de DDD (Domain-Driven Design), CQRS e garantir que o código seja testável e semântico\r\n\r\nTrabalhar com tecnologias de ponta como .NET 8+ e frameworks front-end líderes (React/Angular)\r\n\r\nOtimizar aplicações para máxima velocidade, colaborando com o time de Growth e SEO\r\n\r\nParticipar de code reviews e compartilhar conhecimentos sobre melhores práticas e novas tendências do mercado\r\n\r\nExperiência sólida em C#, .NET e desenvolvimento de APIs RESTful/GraphQL\r\n\r\nConhecimento em SQL Server e familiaridade com bancos não-relacionais\r\n\r\nExperiência com Scrum ou Kanban e versionamento via Git\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Curso Técnico\nBenefícios\nAssistência médica\nAssistência odontológica\nVale-alimentação\nVale-refeição",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "GraphQL",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T13:02:01Z",
       "ultima_vista": "2026-10-26",
       "expirada": false
     },
@@ -1683,6 +1712,35 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "17ecc779663bfcf3f676cd639651a75c82a4ae00",
+      "titulo": "Desenvolvedor Web",
+      "empresa": "RH Online Expert",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-web-em-sao-paulo__12153375.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T12:28:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nCriar e manter aplicações web modernas, garantindo interfaces responsivas e sistemas back-end robustos\r\n\r\nImplementar padrões de DDD (Domain-Driven Design), CQRS e garantir que o código seja testável e semântico\r\n\r\nTrabalhar com tecnologias de ponta como .NET 8+ e frameworks front-end líderes (React/Angular)\r\n\r\nOtimizar aplicações para máxima velocidade, colaborando com o time de Growth e SEO\r\n\r\nParticipar de code reviews e compartilhar conhecimentos sobre melhores práticas e novas tendências do mercado\r\n\r\nExperiência sólida em C#, .NET e desenvolvimento de APIs RESTful/GraphQL\r\n\r\nConhecimento em SQL Server e familiaridade com bancos não-relacionais\r\n\r\nExperiência com Scrum ou Kanban e versionamento via Git\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Curso Técnico\nBenefícios\nAssistência médica\nAssistência odontológica\nVale-alimentação\nVale-refeição",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "GraphQL",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T13:02:01Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
     },
     {
       "id": "9b7b7dc68ab59da38306d37155b5cd2a08747dfa",
@@ -7613,6 +7671,26 @@
       "expirada": true
     },
     {
+      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
+      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5942141772?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-26T08:11:21Z",
+      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
+    },
+    {
       "id": "87549725a1b43527ba124c6412ce280574360791",
       "titulo": "Remote React Developer",
       "empresa": "",
@@ -8667,26 +8745,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:01Z",
       "ultima_vista": "2026-10-12",
-      "expirada": false
-    },
-    {
-      "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
-      "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5923103447?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T07:57:44Z",
-      "descricao": "Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica.",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-14",
       "expirada": false
     },
     {
@@ -10370,6 +10428,24 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-16",
       "expirada": true
+    },
+    {
+      "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T13:02:05Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
     },
     {
       "id": "3c953c11a872ff5be522adbbf33ea5216dcca6f2",
