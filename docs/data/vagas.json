@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-26T19:02:37Z",
-  "total": 563,
+  "atualizado_em": "2026-10-26T21:02:33Z",
+  "total": 564,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -241,6 +241,35 @@
       "expirada": true
     },
     {
+      "id": "593c823f7b1c66d68161cfb4d0e01855accddaaa",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Actionline Brasil",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-em-sao-paulo__12157329.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-26T08:12:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nA Toolkit está em busca de uma pessoa Desenvolvedora Full Stack para atuar em projetos que exigem visão de engenharia e curiosidade técnica.\nBuscamos alguém que pense em arquitetura, segurança, qualidade e manutenção. Alguém com autonomia para estruturar projetos do zero, investigar problemas e propor soluções.\nÉ importante ter experiência com React, Next.js, TypeScript, Node.js, desenvolvimento e integração com APIs, PostgreSQL ou MySQL e Git/GitHub.\nExperiência com cloud, infraestrutura, Docker, CI/CD, arquiteturas multi-tenant e integrações com IA/LLMs será um diferencial.\n?? Local: Barra Funda, São Paulo\n?? Modelo de trabalho: Híbrido\r\n Benefícios:\r\n -. Vale-alimentação\r\n -. Seguro de Vida\r\n -. Universidade corporativa\r\n -. Vale-transporte\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nHabilidades\nDesenvolvimento\nGithub\nintegração com APIs\nMySQL\nNext.js\nNode.js\nPostgresql\nReact\nTypeScript",
+      "score": 75,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "Docker",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T21:01:28Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
+    },
+    {
       "id": "8eb39427f3a0f34127099dc0bc640e8255644060",
       "titulo": "Programador de Software - Pleno",
       "empresa": "Grupo Top Brasil Rh",
@@ -422,38 +451,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": false
-    },
-    {
-      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
-      "titulo": "Desenvolvedor(A) Full Stack",
-      "empresa": "Empresa confidencial",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-17T09:11:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-10-26",
       "expirada": false
     },
@@ -13337,6 +13334,26 @@
       "data_coleta": "2026-09-16T11:22:57Z",
       "ultima_vista": "2026-09-16",
       "expirada": true
+    },
+    {
+      "id": "2bce1bd8643865b7690cd244683619c1f0584620",
+      "titulo": "Desenvolvedor(A) Full Stack",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-em-sao-paulo__11924470.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-17T09:11:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos buscando uma pessoa Desenvolvedora Full Stack com forte domínio de Inteligência Artificial aplicada ao desenvolvimento para fazer parte do nosso time de Tecnologia.\nMais do que alguém para executar demandas técnicas, buscamos uma pessoa capaz de transformar ideias e problemas de negócio em soluções digitais, utilizando tecnologia e IA para desenvolver projetos de forma ágil, inteligente e escalável.\nPrincipais responsabilidades:\nDesenvolver projetos digitais do conceito à implementação;\nAtuar no desenvolvimento Full Stack, Front-end e Back-end;\nTransformar necessidades das áreas de negócio em soluções tecnológicas;\nCriar aplicações, sistemas, plataformas, automações e ferramentas internas;\nUtilizar Inteligência Artificial de forma prática no processo de desenvolvimento;\nUtilizar ferramentas de IA para geração, revisão, refatoração, testes e documentação de código;\nExplorar ferramentas de desenvolvimento assistido por IA para aumentar produtividade e qualidade;\nDesenvolver integrações entre sistemas e APIs;\nCriar e consumir APIs;\nTrabalhar com bancos de dados;\nRealizar testes, correções, deploy e manutenção das soluções;\nAvaliar novas tecnologias e ferramentas que possam gerar ganhos para o negócio;\nTrabalhar em parceria com diferentes áreas para entender problemas e desenvolver soluções;\nDocumentar projetos e soluções desenvolvidas;\nIdentificar oportunidades de automação e digitalização de processos.\nEsperamos ex…",
+      "score": 25,
+      "skills_match": [
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:57Z",
+      "ultima_vista": "2026-10-26",
+      "expirada": false
     },
     {
       "id": "718b7a7cff4c82bcd980dd69677381d741cd5ec3",
