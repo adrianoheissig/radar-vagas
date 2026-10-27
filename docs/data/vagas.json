@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-27T13:02:38Z",
-  "total": 564,
+  "atualizado_em": "2026-10-27T15:02:30Z",
+  "total": 565,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -298,14 +298,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -318,7 +318,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
@@ -451,6 +451,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "693795ba8960829bea858e5ee773edf2ffc3e967",
+      "titulo": "Desenvolvedor(A) Full Stack Pleno (React + Typescript + LLM)",
+      "empresa": "Vettrus Soluções Internacionais",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-pleno-react-typescript-llm-em-sao-paulo__12159580.aspx",
+      "fonte": "infojobs",
+      "local": "Santos - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-10-27T14:23:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Full Stack Pleno para atuar no desenvolvimento e evolução de aplicações web modernas, com foco em React, TypeScript e soluções baseadas em Large Language Models (LLMs).\n \nRequisitos\n* Mínimo de 3 anos de experiência como Desenvolvedor(a) Full Stack.\n* Experiência comprovada com React, TypeScript e Node.js.\n* Experiência prática com integração e desenvolvimento de aplicações utilizando LLMs (OpenAI, Anthropic, Gemini ou similares).\n* Conhecimento em Prompt Engineering.\n* Experiência com Function Calling/Tools, Structured Outputs e streaming de respostas.\n* Experiência no desenvolvimento e consumo de APIs REST.\n* Conhecimento em bancos de dados SQL e/ou NoSQL.\n* Domínio de Git.\n* Capacidade de atuar com autonomia em demandas de média complexidade.\n \nDiferenciais (desejáveis)\n* Experiência com deploy e manutenção de aplicações em produção.\n* Experiência com análise de dados, métricas e criação de dashboards.\n* Experiência com RAG (Retrieval-Augmented Generation).\n* Experiência com bancos vetoriais (pgvector, Pinecone, Qdrant, Weaviate ou similares).\n* Conhecimento em LangChain, LangGraph, OpenAI Agents SDK ou Vercel AI SDK.\n* Experiência com Docker.\n* Conhecimento em filas (BullMQ, RabbitMQ ou similares).\n* Experiência com AWS, GCP ou Azure.\n \nO que buscamos\n* Proatividade e senso de responsabilidade.\n* Boa comunicação e trabalho em equipe.\n* Facilidade para aprender novas tecnolog…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-27T15:01:29Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
     },
@@ -2316,40 +2348,6 @@
       "expirada": true
     },
     {
-      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
-      "titulo": "Desenvolvedor Back-End Pleno",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T07:51:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "PHP",
-        "C#",
-        ".NET",
-        "Redis",
-        "Docker",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-27",
-      "expirada": false
-    },
-    {
       "id": "348625d068d95649f29fe453bf468cc671d5598b",
       "titulo": "Desenvolvedor(a) de Sistemas | FRONTEND",
       "empresa": "Brisanet",
@@ -2430,6 +2428,30 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "618728d4efebf269423a1441b546fb465eed2182",
+      "titulo": "DESENVOLVEDOR ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5943352799?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-27T08:12:48Z",
+      "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
     },
     {
       "id": "61bcd502f5f5cdf70ea28faf36c5947281f6c390",
@@ -4102,36 +4124,6 @@
       "data_coleta": "2026-09-25T21:00:56Z",
       "ultima_vista": "2026-10-01",
       "expirada": true
-    },
-    {
-      "id": "618728d4efebf269423a1441b546fb465eed2182",
-      "titulo": "Desenvolvedor Angular",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5897696162?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-24T22:17:03Z",
-      "descricao": "Desenvolvedor Angular - Nível Sênior - 90 Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12), Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS, Experiência com integração e consumo de APIs RESTful, Experiência com troubleshooting, debugging e otimização de aplicações front-end, Vivência com Git e metodologias ágeis (Scrum/Kanban), Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG, Desejável experiência no segmento Finance…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-24",
-      "expirada": false
     },
     {
       "id": "b0e157c7cb578ab30c9cb2af02b316cde2b6ffe9",
@@ -13563,6 +13555,32 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
+      "titulo": "Desenvolvedor Back-End Pleno",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T07:51:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
+      "score": 15,
+      "skills_match": [
+        "APIs REST",
+        "SQL",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:23:01Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
     },
     {
       "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
