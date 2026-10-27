@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-27T03:02:39Z",
+  "atualizado_em": "2026-10-27T05:02:42Z",
   "total": 564,
   "vagas": [
     {
@@ -451,6 +451,54 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "a4ab7fa6efeffe5d5278e965cb2feacfa6222749",
+      "titulo": "Desenvolvedor(a) Full-Stack Web",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5942865325?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T22:12:25Z",
+      "descricao": "Descrição da empresa Soluções inteligentes que agregam valor e desempenho. Atividades e Responsabilidades: Desenvolver e planejar features e implementações junto da equipe. Requisitos: - Formação em andamento em Engenharia da Computação, Ciências da Computação ou similar; - Conhecimento no desenvolvimento de front end e back end utilizando uma dessas tecnologias React Native, React.js, Angular 2, Nest.js; - Inglês intermediário para conversação, escrita e leitura;",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "React Native",
+        "NestJS",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T03:00:58Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "92500cc4182d37117b660bad642745df671af7ef",
+      "titulo": "PHP/react/angular Fullstack Developer- Remote",
+      "empresa": "FullStack Labs",
+      "url": "https://www.adzuna.com.br/details/5942864176?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-26T22:12:17Z",
+      "descricao": "FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, Stanford University, and the State of California, build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their gre…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T07:01:02Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
     },
@@ -926,54 +974,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T03:01:03Z",
       "ultima_vista": "2026-10-03",
-      "expirada": true
-    },
-    {
-      "id": "a4ab7fa6efeffe5d5278e965cb2feacfa6222749",
-      "titulo": "Desenvolvedor(a) Full-Stack Web",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5902036743?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-28T22:05:51Z",
-      "descricao": "Descrição da empresa Soluções inteligentes que agregam valor e desempenho. Atividades e Responsabilidades: Desenvolver e planejar features e implementações junto da equipe. Requisitos: - Formação em andamento em Engenharia da Computação, Ciências da Computação ou similar; - Conhecimento no desenvolvimento de front end e back end utilizando uma dessas tecnologias React Native, React.js, Angular 2, Nest.js; - Inglês intermediário para conversação, escrita e leitura;",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular"
-      ],
-      "lacunas": [
-        "React Native",
-        "NestJS",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-29T03:00:58Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
-      "id": "92500cc4182d37117b660bad642745df671af7ef",
-      "titulo": "PHP/react/angular Fullstack Developer- Remote",
-      "empresa": "FullStack Labs",
-      "url": "https://www.adzuna.com.br/details/5902035736?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-28T22:05:49Z",
-      "descricao": "FullStack is the fastest-growing software consultancy in the Americas. We help organizations like Uber, GoDaddy, MGM, Siemens, Stanford University, and the State of California, build distributed software development teams, and deliver transformational digital solutions. As an employee-first company, we focus on hiring the most talented software designers and developers in the western hemisphere, by creating a positive, respectful, and supportive work environment where they can achieve their gre…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular"
-      ],
-      "lacunas": [
-        "PHP"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-29T07:01:02Z",
-      "ultima_vista": "2026-09-30",
       "expirada": true
     },
     {
@@ -2432,6 +2432,34 @@
       "expirada": true
     },
     {
+      "id": "61bcd502f5f5cdf70ea28faf36c5947281f6c390",
+      "titulo": "Desenvolvedor(a) Web",
+      "empresa": "Focus Têxtil",
+      "url": "https://www.adzuna.com.br/details/5942865448?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T22:12:26Z",
+      "descricao": "Responsabilidades: - Analisar, desenvolver e manter componentes de software; - Efetuar análises e correções no código legado; - Desenvolvimento de novas aplicações; - Escrever e testar códigos de modo incremental, ágil e bem-documentado; - Fazer ótimos code-reviews; - Testar, fazer deploy e acompanhar o código em produção - de forma contínua; - Documentar todo código e repassar para equipe. Requisitos React/React Native/Next; JavaScript e Typescript; Experiência com AWS; Node JS; Mongo DB; Sist…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "MongoDB",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-29T05:00:52Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "97b4aa95f3c1faaf72ffcf9c64c1bbde8046ee39",
       "titulo": "Desenvolvedor Front (React / React Native)",
       "empresa": "Jaqueline Kreitlow",
@@ -2454,6 +2482,38 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T05:00:52Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
+      "titulo": "Desenvolvedor Full Stack Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5942791715?utm_medium=api&utm_source=267e525f&v=B25ACDCFF760B23F3A19A1A994285BE8EE0A07BE",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T20:47:57Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:50Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
     },
@@ -2835,38 +2895,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:37:03Z",
       "ultima_vista": "2026-10-22",
-      "expirada": false
-    },
-    {
-      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
-      "titulo": "Desenvolvedor Full Stack Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5935694183?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T14:41:32Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-10-21",
       "expirada": false
     },
     {
@@ -4055,34 +4083,6 @@
       "expirada": true
     },
     {
-      "id": "61bcd502f5f5cdf70ea28faf36c5947281f6c390",
-      "titulo": "Desenvolvedor(a) Web",
-      "empresa": "Focus Têxtil",
-      "url": "https://www.adzuna.com.br/details/5902036617?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-28T22:05:51Z",
-      "descricao": "Responsabilidades: - Analisar, desenvolver e manter componentes de software; - Efetuar análises e correções no código legado; - Desenvolvimento de novas aplicações; - Escrever e testar códigos de modo incremental, ágil e bem-documentado; - Fazer ótimos code-reviews; - Testar, fazer deploy e acompanhar o código em produção - de forma contínua; - Documentar todo código e repassar para equipe. Requisitos React/React Native/Next; JavaScript e Typescript; Experiência com AWS; Node JS; Mongo DB; Sist…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "MongoDB",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-29T05:00:52Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
       "id": "e8b771696f08ef7bb30864626e42024ca1749219",
       "titulo": "Desenvolvedor(a) Front-end React Pleno",
       "empresa": "BRQ",
@@ -5022,6 +5022,30 @@
       "expirada": true
     },
     {
+      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
+      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5942013340?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-26T02:47:39Z",
+      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
+      "score": 50,
+      "skills_match": [
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
       "titulo": "Desenvolvedor Mobile (React Native E Node.Js)",
       "empresa": "",
@@ -5296,30 +5320,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
-    },
-    {
-      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
-      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5922927933?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T02:36:35Z",
-      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
-      "score": 50,
-      "skills_match": [
-        "JavaScript",
-        "Node.js",
-        "SQL"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-13",
       "expirada": false
     },
     {
@@ -5756,6 +5756,58 @@
       "expirada": false
     },
     {
+      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
+      "titulo": "Desenvolvedor",
+      "empresa": "Fisacorp -",
+      "url": "https://www.adzuna.com.br/details/5942865229?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T22:12:25Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T23:00:51Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
+      "titulo": "Desenvolvedor Fullstack - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5942791695?utm_medium=api&utm_source=267e525f&v=AB7E7AB9EC8568678DFBBE9284FAAE48BF5F5AD1",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-26T20:47:57Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T05:00:40Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack.Net Angular",
       "empresa": "",
@@ -6037,31 +6089,6 @@
       "expirada": false
     },
     {
-      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
-      "titulo": "Desenvolvedor Fullstack - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5935696664?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T14:41:55Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T05:00:40Z",
-      "ultima_vista": "2026-10-23",
-      "expirada": false
-    },
-    {
       "id": "6433cdb7450289f049865b20a5df006798d93b7a",
       "titulo": "Desenvolvedor Fullstack Java/React Pleno",
       "empresa": "Nava | Tech For Business",
@@ -6172,33 +6199,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-14T13:00:44Z",
       "ultima_vista": "2026-10-20",
-      "expirada": false
-    },
-    {
-      "id": "65c29896b57f7a859806e9224373ad4d91acad01",
-      "titulo": "Desenvolvedor",
-      "empresa": "Fisacorp -",
-      "url": "https://www.adzuna.com.br/details/5932683827?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-17T21:54:49Z",
-      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Estacionamento Descrição: Front End Developer - HTML - CSS, Sass, Metodología Bem - JavaScript, TypeScript - React - Entendimiento en estructura de programación funcional y por clases - Arquitecturas de desarrollo como Atomic Design y desarrollo modular - Metodologia Scrum Contratação PJ, por gentileza informar pretensão salarial",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-10-18",
       "expirada": false
     },
     {
@@ -10395,14 +10395,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
