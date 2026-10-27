@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-27T19:02:39Z",
+  "atualizado_em": "2026-10-27T21:02:39Z",
   "total": 568,
   "vagas": [
     {
@@ -239,35 +239,6 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
-    },
-    {
-      "id": "593c823f7b1c66d68161cfb4d0e01855accddaaa",
-      "titulo": "Desenvolvedor Full Stack",
-      "empresa": "Actionline Brasil",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-em-sao-paulo__12157329.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-26T08:12:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nA Toolkit está em busca de uma pessoa Desenvolvedora Full Stack para atuar em projetos que exigem visão de engenharia e curiosidade técnica.\nBuscamos alguém que pense em arquitetura, segurança, qualidade e manutenção. Alguém com autonomia para estruturar projetos do zero, investigar problemas e propor soluções.\nÉ importante ter experiência com React, Next.js, TypeScript, Node.js, desenvolvimento e integração com APIs, PostgreSQL ou MySQL e Git/GitHub.\nExperiência com cloud, infraestrutura, Docker, CI/CD, arquiteturas multi-tenant e integrações com IA/LLMs será um diferencial.\n?? Local: Barra Funda, São Paulo\n?? Modelo de trabalho: Híbrido\r\n Benefícios:\r\n -. Vale-alimentação\r\n -. Seguro de Vida\r\n -. Universidade corporativa\r\n -. Vale-transporte\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nHabilidades\nDesenvolvimento\nGithub\nintegração com APIs\nMySQL\nNext.js\nNode.js\nPostgresql\nReact\nTypeScript",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Docker",
-        "CI/CD"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-26T21:01:28Z",
-      "ultima_vista": "2026-10-27",
-      "expirada": false
     },
     {
       "id": "8eb39427f3a0f34127099dc0bc640e8255644060",
@@ -1406,6 +1377,33 @@
       "expirada": true
     },
     {
+      "id": "593c823f7b1c66d68161cfb4d0e01855accddaaa",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Actionline Brasil",
+      "url": "https://www.adzuna.com.br/details/5943562260?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-27T12:50:53Z",
+      "descricao": "A Toolkit está em busca de uma pessoa Desenvolvedora Full Stack para atuar em projetos que exigem visão de engenharia e curiosidade técnica. Buscamos alguém que pense em arquitetura, segurança, qualidade e manutenção. Alguém com autonomia para estruturar projetos do zero, investigar problemas e propor soluções. É importante ter experiência com React, Next.js, TypeScript, Node.js, desenvolvimento e integração com APIs, PostgreSQL ou MySQL e Git/GitHub. Experiência com cloud, infraestrutura, Dock…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T21:01:28Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
       "titulo": "DESENVOLVEDOR .NET",
       "empresa": "",
@@ -2401,6 +2399,40 @@
       "expirada": true
     },
     {
+      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
+      "titulo": "Desenvolvedor Back-End Pleno",
+      "empresa": "RDC VIAGENS",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
+      "fonte": "infojobs",
+      "local": "São Caetano do Sul - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-08-14T07:51:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Metodologias ágeis",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "PHP",
+        "C#",
+        ".NET",
+        "Redis",
+        "Docker",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:23:01Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "348625d068d95649f29fe453bf468cc671d5598b",
       "titulo": "Desenvolvedor(a) de Sistemas | FRONTEND",
       "empresa": "Brisanet",
@@ -2593,7 +2625,7 @@
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5942791715?utm_medium=api&utm_source=267e525f&v=B25ACDCFF760B23F3A19A1A994285BE8EE0A07BE",
+      "url": "https://www.adzuna.com.br/details/5942791715?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -5858,7 +5890,7 @@
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5942791695?utm_medium=api&utm_source=267e525f&v=AB7E7AB9EC8568678DFBBE9284FAAE48BF5F5AD1",
+      "url": "https://www.adzuna.com.br/details/5942791695?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -10467,14 +10499,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -13637,32 +13669,6 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
-    },
-    {
-      "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
-      "titulo": "Desenvolvedor Back-End Pleno",
-      "empresa": "RDC VIAGENS",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-back-end-pleno-em-sao-paulo__11918309.aspx",
-      "fonte": "infojobs",
-      "local": "São Caetano do Sul - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T07:51:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nDesenvolvedor(a) Back-end Pleno | C#/.NET\nEstamos buscando um(a) Desenvolvedor(a) Back-end Pleno para fazer parte do nosso time de Tecnologia, atuando no desenvolvimento, evolução e manutenção de aplicações e serviços em C#/.NET.\nSe você gosta de desafios técnicos, desenvolvimento de APIs, arquitetura de software e busca trabalhar em um ambiente colaborativo, essa oportunidade pode ser para você!\nPrincipais responsabilidades\nDesenvolver e manter aplicações web e sistemas empresariais;\nDesenvolver novas funcionalidades e realizar melhorias em aplicações existentes;\nDesenvolver e manter APIs e serviços web;\nAtuar na manutenção e evolução de sistemas;\nRealizar integrações entre aplicações, sistemas e bancos de dados;\nParticipar da definição e implementação de soluções técnicas;\nAplicar boas práticas de desenvolvimento e padrões de projeto;\nContribuir para arquitetura, qualidade e manutenibilidade das aplicações;\nDesenvolver e executar testes unitários e de integração;\nRealizar análise e correção de problemas;\nParticipar de Code Reviews;\nCriar e manter documentação técnica;\nTrabalhar em conjunto com outros desenvolvedores e áreas de Tecnologia;\nParticipar de cerimônias e rotinas de metodologias ágeis.\nRequisitos\nExperiência profissional de 3 anos ou mais com desenvolvimento Back-end;\nSólidos conhecimentos em C# e .NET Core;\nExperiência com ASP.NET Web API / REST;\nConhecimentos em bancos de dados SQL e NoSQL;\nConhecimentos em…",
-      "score": 15,
-      "skills_match": [
-        "APIs REST",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-27",
-      "expirada": false
     },
     {
       "id": "760972bf73e8df35cc69af5e68697d6ef2f69763",
