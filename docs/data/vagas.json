@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-27T15:02:30Z",
-  "total": 565,
+  "atualizado_em": "2026-10-27T15:51:03Z",
+  "total": 567,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -298,14 +298,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador De Software",
+      "titulo": "Programador de Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T14:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
+      "data_publicacao": "2026-10-20T22:20:26Z",
+      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
       "score": 75,
       "skills_match": [
         "React",
@@ -318,7 +318,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
@@ -483,6 +483,59 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-27T15:01:29Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "1eb3bfe50d7141b3c1c6ba885a1214f803d35379",
+      "titulo": "Desenvolvedor(a) de Software Fullstack Pleno (Java Angular)",
+      "empresa": "Avantti",
+      "url": "https://www.adzuna.com.br/details/5943518541?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-27T12:23:11Z",
+      "descricao": "Descrição Local: Vila Olímpia – São Paulo/SP Modelo : Híbrido – mínimo 2x por semana no escritório do cliente Senioridade : Pleno Tecnologias principais : Java Spring Boot Angular TypeScript Inglês: Intermediário desejável Sobre a vaga A Avantti Tecnologia está em busca de um(a) Desenvolvedor(a) de Software Fullstack Pleno para atuar em um projeto estratégico, contribuindo para o desenvolvimento, manutenção e evolução de aplicações web corporativas. O profissional será responsável por atuar …",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-27T15:49:22Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
+      "id": "cc0c2621a38c5da2589faf011b72ad48d061a499",
+      "titulo": "Desenvolvedor(a) Web Pleno - SP",
+      "empresa": "Sempre It",
+      "url": "https://www.adzuna.com.br/details/5943311297?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-27T06:37:57Z",
+      "descricao": "Requisitos técnicos: ? Experiência sólida em desenvolvimento web Front-end e Back-end ; ? Domínio de React e/ou Angular, TypeScript e JavaScript ; ? Experiência com .NET (C#) para desenvolvimento de APIs e serviços; ? Conhecimento em Node.js para desenvolvimento de aplicações server-side; ? Experiência prática com SharePoint , incluindo desenvolvimento e customização; ? Conhecimento em Microsoft Power Platform ; ? Experiência com versionamento de código utilizando Git . ?? Informações da vaga: …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-27T15:49:33Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
     },
@@ -10699,6 +10752,29 @@
       "expirada": true
     },
     {
+      "id": "27f95c6108ae5a027f4006476b71056cb85be321",
+      "titulo": "Desenvolvedor Junior - SP",
+      "empresa": "Grupo Skill",
+      "url": "https://www.adzuna.com.br/details/5943267736?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-27T06:31:09Z",
+      "descricao": "Estamos em busca de um(a) profissional comprometido(a), com perfil analítico e paixão por tecnologia, para integrar nossa equipe. Se você possui experiência em desenvolvimento de sistemas e deseja atuar em projetos desafiadores, queremos conhecer você. Conhecimentos específicos: Experiência com desenvolvimento de aplicações web. Conhecimento de React ou tecnologias similares de desenvolvimento front-end. Conhecimentos básicos de .NET / C# ou interesse em atuar nesse ecossistema. Conhecimentos d…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-20T19:07:35Z",
+      "ultima_vista": "2026-10-27",
+      "expirada": false
+    },
+    {
       "id": "26a2b8cf591f6293e5886763889b8b3602e85c36",
       "titulo": "UI Developer- Brazil",
       "empresa": "Exadel Inc",
@@ -11178,29 +11254,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-26",
-      "expirada": false
-    },
-    {
-      "id": "27f95c6108ae5a027f4006476b71056cb85be321",
-      "titulo": "Desenvolvedor Junior - SP",
-      "empresa": "Grupo Skill",
-      "url": "https://www.adzuna.com.br/details/5935722278?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T14:44:04Z",
-      "descricao": "Estamos em busca de um(a) profissional comprometido(a), com perfil analítico e paixão por tecnologia, para integrar nossa equipe. Se você possui experiência em desenvolvimento de sistemas e deseja atuar em projetos desafiadores, queremos conhecer você. Conhecimentos específicos: Experiência com desenvolvimento de aplicações web. Conhecimento de React ou tecnologias similares de desenvolvimento front-end. Conhecimentos básicos de .NET / C# ou interesse em atuar nesse ecossistema. Conhecimentos d…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-20T19:07:35Z",
-      "ultima_vista": "2026-10-21",
       "expirada": false
     },
     {
