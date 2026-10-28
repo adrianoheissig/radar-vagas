@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28T07:02:32Z",
+  "atualizado_em": "2026-10-28T09:02:31Z",
   "total": 568,
   "vagas": [
     {
@@ -2515,6 +2515,57 @@
       "expirada": true
     },
     {
+      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
+      "titulo": "Analista De Sistemas - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5944155877?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T03:08:46Z",
+      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:17Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5944154780?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T03:08:35Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
       "id": "c57a946d69b7b164be888c4ee9bb2137635badad",
       "titulo": "Desenvolvedor Full Stack (Node.js / React / MongoDB)",
       "empresa": "Wtime",
@@ -2553,6 +2604,78 @@
       "modalidade": "hibrido",
       "data_publicacao": "2026-10-27T08:12:48Z",
       "descricao": "Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
+      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
+      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5943352893?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-27T08:12:48Z",
+      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5943161032?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-27T02:48:56Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5943161000?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-27T02:48:55Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
       "score": 55,
       "skills_match": [
         "Angular",
@@ -3106,69 +3229,16 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-28",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933973157?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-19T03:00:42Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933972981?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-19T03:00:41Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-21",
       "expirada": false
     },
     {
@@ -3243,30 +3313,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
-      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
-      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933195085?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-18T07:58:14Z",
-      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
@@ -3455,31 +3501,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T17:00:44Z",
       "ultima_vista": "2026-10-28",
-      "expirada": false
-    },
-    {
-      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
-      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5928561934?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-15T02:41:42Z",
-      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-16",
       "expirada": false
     },
     {
@@ -3841,32 +3862,6 @@
       "data_coleta": "2026-10-07T17:22:48Z",
       "ultima_vista": "2026-10-19",
       "expirada": false
-    },
-    {
-      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
-      "titulo": "Analista De Sistemas - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5915638957?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-07T02:35:34Z",
-      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T07:01:17Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": true
     },
     {
       "id": "5821d801cd3b885591347d47174f52b72842d2b0",
@@ -7813,6 +7808,26 @@
       "expirada": false
     },
     {
+      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
+      "titulo": "React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5943827919?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Jaboatão dos Guararapes, Pernambuco",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-27T22:22:12Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. React Native Developer at BairesDev Being a React Native Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a …",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:55Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
       "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
       "titulo": "DESENVOLVEDOR MOBILE FLUTTER OU REACT NATIVE | TRABALHO REMOTO | CONTRATO PJ – PORTO ALEGRE – RS",
       "empresa": "",
@@ -8153,26 +8168,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:33Z",
       "ultima_vista": "2026-10-25",
-      "expirada": false
-    },
-    {
-      "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
-      "titulo": "React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5937201859?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Palhoça, Santa Catarina",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-21T21:59:07Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Native Developer at BairesDev Being a React Native Senior Developer in our Development Team is just like bei…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:55Z",
-      "ultima_vista": "2026-10-23",
       "expirada": false
     },
     {
@@ -10506,14 +10501,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -10818,6 +10813,47 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
+      "titulo": "Desenvolvedor React Native Junior",
+      "empresa": "Mayo Company Ltda",
+      "url": "https://www.adzuna.com.br/details/5943850381?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-27T22:28:24Z",
+      "descricao": "Buscamos Desenvolvedor React Native para compor nosso time! Somos uma healthtech de Ribeirão Preto - SP. Atividades e responsabilidades: Trabalho em equipe: compartilhar experiências entre colegas de trabalho, enxergar o projeto como um todo e não só a parte específica de desenvolvimento; Gestão de tempo: entregar as atividades dentro do prazo proposto com qualidade e conseguir se organizar com as entregas; Criatividade: entender as tarefas de forma profunda e trazer soluções criativas tanto em…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T07:01:05Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
+    },
+    {
+      "id": "3df83c95ba03a3b20de9cf8ba29986e0510b0750",
+      "titulo": "Desenvolvedor(a) React",
+      "empresa": "Take and Go",
+      "url": "https://www.adzuna.com.br/details/5943849713?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-27T22:28:18Z",
+      "descricao": "TECNOLOGIA: Desenvolvedor(a) React Ribeirão Preto, SP Observação: Se você encontrar algum problema no envio do currículo através do formulário ao lado, por favor, entre em contato com a gente através do Linkedin - . Dia a Dia: - Desenvolverá interfaces completas em colaboração com times de Back-End e Produto; - Participará de ciclos de desenvolvimento, através de metodologia ágil, em integração com outros times; - Deverá escrever código limpo, testável e de fácil manutenção. São requisitos míni…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T07:01:05Z",
+      "ultima_vista": "2026-10-28",
+      "expirada": false
     },
     {
       "id": "27f95c6108ae5a027f4006476b71056cb85be321",
@@ -12790,47 +12826,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-30T16:22:08Z",
       "ultima_vista": "2026-10-05",
-      "expirada": true
-    },
-    {
-      "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
-      "titulo": "Desenvolvedor React Native Junior",
-      "empresa": "Mayo Company Ltda",
-      "url": "https://www.adzuna.com.br/details/5903144932?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-29T20:37:29Z",
-      "descricao": "Buscamos Desenvolvedor React Native para compor nosso time! Somos uma healthtech de Ribeirão Preto - SP. Atividades e responsabilidades: Trabalho em equipe: compartilhar experiências entre colegas de trabalho, enxergar o projeto como um todo e não só a parte específica de desenvolvimento; Gestão de tempo: entregar as atividades dentro do prazo proposto com qualidade e conseguir se organizar com as entregas; Criatividade: entender as tarefas de forma profunda e trazer soluções criativas tanto em…",
-      "score": 30,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T07:01:05Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": true
-    },
-    {
-      "id": "3df83c95ba03a3b20de9cf8ba29986e0510b0750",
-      "titulo": "Desenvolvedor(a) React",
-      "empresa": "Take and Go",
-      "url": "https://www.adzuna.com.br/details/5903144094?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-29T20:37:24Z",
-      "descricao": "TECNOLOGIA: Desenvolvedor(a) React Ribeirão Preto, SP Observação: Se você encontrar algum problema no envio do currículo através do formulário ao lado, por favor, entre em contato com a gente através do Linkedin - . Dia a Dia: - Desenvolverá interfaces completas em colaboração com times de Back-End e Produto; - Participará de ciclos de desenvolvimento, através de metodologia ágil, em integração com outros times; - Deverá escrever código limpo, testável e de fácil manutenção. São requisitos míni…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T07:01:05Z",
-      "ultima_vista": "2026-10-01",
       "expirada": true
     },
     {
