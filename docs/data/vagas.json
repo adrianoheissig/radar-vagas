@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T00:46:43Z",
+  "atualizado_em": "2026-10-29T03:02:29Z",
   "total": 569,
   "vagas": [
     {
@@ -291,14 +291,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -311,7 +311,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
@@ -5864,6 +5864,48 @@
       "expirada": true
     },
     {
+      "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
+      "titulo": "Desenvolvedor(a) Front-end React Vtex",
+      "empresa": "Visie Padrões Web",
+      "url": "https://www.adzuna.com.br/details/5945003132?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:28:32Z",
+      "descricao": "Estamos em busca de um(a) desenvolvedor(a) front-end React VTEX para integrar um de nossos times de desenvolvimento. Se você tem experiência com o framework React (e Typescript), conhecimento sobre VTEX (ou abertura para conhecer), é proativo(a), tem facilidade em se comunicar, e gosta de um ambiente dinâmico e colaborativo, queremos te conhecer! Utilizamos a metodologia SCRUM para desenvolvimento (caso não a conheça, você aprende com a gente). Em sua rotina, você fará parte de um time com dese…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "b160c1d6fd3938b8fba03e900fa1d58785c6b447",
+      "titulo": "Front End Angular",
+      "empresa": "Capgemini",
+      "url": "https://www.adzuna.com.br/details/5945003037?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:28:31Z",
+      "descricao": "Nossa Oportunidade Estamos à procura de um/ uma Desenvolvedor/Desenvolvedora Front - End Angular, responsável por implementar a lógica e as funcionalidades que rodam no servidor, garantindo que os dados sejam processados e entregues corretamente para os usuários ou para outras partes da aplicação. Responsabilidades: - Gerenciamento de obsolescência e vulnerabilidades. - Conformidade com regulamentos. - Reutilização de documentos. - Expansão da iniciativa para operações de importação e exportaçã…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T03:00:57Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
       "titulo": "IT Analyst III (C# Angular)",
       "empresa": "Banco Santander",
@@ -6955,48 +6997,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T01:00:45Z",
       "ultima_vista": "2026-10-03",
-      "expirada": true
-    },
-    {
-      "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
-      "titulo": "Desenvolvedor(a) Front-end React Vtex",
-      "empresa": "Visie Padrões Web",
-      "url": "https://www.adzuna.com.br/details/5904339134?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:18:26Z",
-      "descricao": "Estamos em busca de um(a) desenvolvedor(a) front-end React VTEX para integrar um de nossos times de desenvolvimento. Se você tem experiência com o framework React (e Typescript), conhecimento sobre VTEX (ou abertura para conhecer), é proativo(a), tem facilidade em se comunicar, e gosta de um ambiente dinâmico e colaborativo, queremos te conhecer! Utilizamos a metodologia SCRUM para desenvolvimento (caso não a conheça, você aprende com a gente). Em sua rotina, você fará parte de um time com dese…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": true
-    },
-    {
-      "id": "b160c1d6fd3938b8fba03e900fa1d58785c6b447",
-      "titulo": "Front End Angular",
-      "empresa": "Capgemini",
-      "url": "https://www.adzuna.com.br/details/5904339017?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:18:25Z",
-      "descricao": "Nossa Oportunidade Estamos à procura de um/ uma Desenvolvedor/Desenvolvedora Front - End Angular, responsável por implementar a lógica e as funcionalidades que rodam no servidor, garantindo que os dados sejam processados e entregues corretamente para os usuários ou para outras partes da aplicação. Responsabilidades: - Gerenciamento de obsolescência e vulnerabilidades. - Conformidade com regulamentos. - Reutilização de documentos. - Expansão da iniciativa para operações de importação e exportaçã…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T03:00:57Z",
-      "ultima_vista": "2026-10-02",
       "expirada": true
     },
     {
@@ -10523,14 +10523,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -10835,6 +10835,26 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Norte Marketing",
+      "url": "https://www.adzuna.com.br/details/5945002942?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:28:30Z",
+      "descricao": "Buscamos um Desenvolvedor Front-End experiente em React para atuar na personalização e otimização de lojas Magento 2, garantindo experiências de usuário fluídas e de alto desempenho. Somos conteúdo em forma de experiência. Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos. Somos a maior produtora de eventos esportivos da América Latina. Tem sinergia com este ambiente, venha fazer parte! Respons…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
     },
     {
       "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
@@ -12759,26 +12779,6 @@
       "data_coleta": "2026-10-01T16:58:41Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
-    },
-    {
-      "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
-      "titulo": "Desenvolvedor Front-end React",
-      "empresa": "Norte Marketing",
-      "url": "https://www.adzuna.com.br/details/5904338875?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:18:23Z",
-      "descricao": "Buscamos um Desenvolvedor Front-End experiente em React para atuar na personalização e otimização de lojas Magento 2, garantindo experiências de usuário fluídas e de alto desempenho. Somos conteúdo em forma de experiência. Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos. Somos a maior produtora de eventos esportivos da América Latina. Tem sinergia com este ambiente, venha fazer parte! Respons…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": true
     },
     {
       "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
