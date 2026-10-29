@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T11:02:31Z",
+  "atualizado_em": "2026-10-29T13:02:40Z",
   "total": 569,
   "vagas": [
     {
@@ -3388,19 +3388,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
@@ -5850,6 +5845,32 @@
       "expirada": true
     },
     {
+      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
+      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5945568511?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-29T09:18:05Z",
+      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
       "titulo": "Consultor(a) FullStack",
       "empresa": "Avanade Inc.",
@@ -6426,32 +6447,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T13:00:52Z",
       "ultima_vista": "2026-10-22",
-      "expirada": false
-    },
-    {
-      "id": "59b1e9e53ba8e2cc0f88268f0fc6d18f214d50fb",
-      "titulo": "DESENVOLVEDOR FULL-STACK - CLAUDE CODE, NEXT.JS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933197438?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T07:58:37Z",
-      "descricao": "Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-20",
       "expirada": false
     },
     {
