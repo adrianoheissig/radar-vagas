@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T05:02:41Z",
+  "atualizado_em": "2026-10-29T07:02:47Z",
   "total": 569,
   "vagas": [
     {
@@ -2512,6 +2512,33 @@
       "expirada": true
     },
     {
+      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
+      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5945345052?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-29T02:47:31Z",
+      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "64d5908b7f2b129ea8bede747fa0d27f6fb105e8",
       "titulo": "Analista Desenvolvedor Jr",
       "empresa": "Stefanini",
@@ -2562,6 +2589,30 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
+      "titulo": "Desenvolvedores Mobile",
+      "empresa": "HrSoul",
+      "url": "https://www.adzuna.com.br/details/5945006769?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T22:29:29Z",
+      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
     },
@@ -2668,6 +2719,36 @@
       "expirada": false
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5944153621?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T03:08:24Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "c57a946d69b7b164be888c4ee9bb2137635badad",
       "titulo": "Desenvolvedor Full Stack (Node.js / React / MongoDB)",
       "empresa": "Wtime",
@@ -2741,30 +2822,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-29",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5943161032?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-27T02:48:56Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
     },
@@ -3301,19 +3358,12 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "APIs REST"
       ],
       "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Testes automatizados"
+        "PostgreSQL"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
@@ -3331,43 +3381,21 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-19T23:01:35Z",
-      "ultima_vista": "2026-10-28",
-      "expirada": false
-    },
-    {
-      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
-      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933970042?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-19T03:00:30Z",
-      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS",
-        "Inglês"
-      ],
       "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-21",
+      "data_coleta": "2026-10-19T23:01:35Z",
+      "ultima_vista": "2026-10-29",
       "expirada": false
     },
     {
@@ -3387,30 +3415,6 @@
       ],
       "lacunas": [
         "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
-      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
-      "titulo": "Desenvolvedores Mobile",
-      "empresa": "HrSoul",
-      "url": "https://www.adzuna.com.br/details/5933715808?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-18T21:54:04Z",
-      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Kotlin"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
@@ -5839,6 +5843,31 @@
       "expirada": true
     },
     {
+      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
+      "titulo": "Consultor(a) FullStack",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5945383874?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-29T03:15:02Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T07:00:51Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
       "titulo": "Desenvolvedor Frontend React Js Junior",
       "empresa": "unike.TECH",
@@ -6193,31 +6222,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:17:03Z",
-      "ultima_vista": "2026-10-27",
-      "expirada": false
-    },
-    {
-      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
-      "titulo": "Consultor(a) FullStack",
-      "empresa": "Avanade Inc.",
-      "url": "https://www.adzuna.com.br/details/5941184988?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-25T03:03:20Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T07:00:51Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
     },
@@ -10857,6 +10861,32 @@
       "expirada": false
     },
     {
+      "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
+      "titulo": "Pessoa Desenvolvedora Front-end (Next.js / React)",
+      "empresa": "MJV Technology & Innovation",
+      "url": "https://www.adzuna.com.br/details/5945002287?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:28:20Z",
+      "descricao": "Atuará num squad de um dos maiores bancos de montadora, particularmente com produtos de seguros e financiamento automotivo, site e app. Responsabilidades e atribuições Desenvolvedor Front end SR com experiência mobile, Next.js e react Desejável e um diferencial experiência com UX Requisitos e qualificações \\Experiência com serviços em nuvem, como AWS, Azure ou Google Cloud. \\Conhecimento em metodologias ágeis, incluindo SCRUM, Kanban, LEAN ou SAFe. \\Experiência em Design, com habilidades em fer…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
       "titulo": "Desenvolvedor React Native Junior",
       "empresa": "Mayo Company Ltda",
@@ -12779,32 +12809,6 @@
       "data_coleta": "2026-10-01T16:58:41Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
-    },
-    {
-      "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
-      "titulo": "Pessoa Desenvolvedora Front-end (Next.js / React)",
-      "empresa": "MJV Technology & Innovation",
-      "url": "https://www.adzuna.com.br/details/5904338303?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:18:18Z",
-      "descricao": "Atuará num squad de um dos maiores bancos de montadora, particularmente com produtos de seguros e financiamento automotivo, site e app. Responsabilidades e atribuições Desenvolvedor Front end SR com experiência mobile, Next.js e react Desejável e um diferencial experiência com UX Requisitos e qualificações \\Experiência com serviços em nuvem, como AWS, Azure ou Google Cloud. \\Conhecimento em metodologias ágeis, incluindo SCRUM, Kanban, LEAN ou SAFe. \\Experiência em Design, com habilidades em fer…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Next.js",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-01",
-      "expirada": true
     },
     {
       "id": "eea41fbb6b8c8906a42a5b8b4aaec7ee5d215c2c",
