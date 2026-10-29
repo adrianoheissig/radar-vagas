@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T03:02:29Z",
+  "atualizado_em": "2026-10-29T05:02:41Z",
   "total": 569,
   "vagas": [
     {
@@ -291,14 +291,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador De Software",
+      "titulo": "Programador de Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T14:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
+      "data_publicacao": "2026-10-20T22:20:26Z",
+      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
       "score": 75,
       "skills_match": [
         "React",
@@ -311,7 +311,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
@@ -2189,31 +2189,6 @@
       "expirada": true
     },
     {
-      "id": "070ea100bd6208c08ab5fbfda636d86145a8c577",
-      "titulo": "Desenvolvedor(a) Fullstack",
-      "empresa": "Avanade",
-      "url": "https://www.adzuna.com.br/details/5906605273?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:21:28Z",
-      "descricao": "Job Description Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiência em Angular e Spring Boot. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#,.NET, Angular, Spring Boot e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas de grande escala. Você será parte essencial…",
-      "score": 60,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "Spring",
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-26T17:01:23Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": true
-    },
-    {
       "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
       "titulo": "Fullstack Developer Java Angular - SP",
       "empresa": "Decision group",
@@ -2535,6 +2510,111 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "64d5908b7f2b129ea8bede747fa0d27f6fb105e8",
+      "titulo": "Analista Desenvolvedor Jr",
+      "empresa": "Stefanini",
+      "url": "https://www.adzuna.com.br/details/5945006929?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:29:31Z",
+      "descricao": "Objetivo do Cargo: Atividades: Desenvolvimento de aplicações web Atividades: Front-End: Angular 2, HTML, CSS, JavaScript Back-End: node.js, Node-red, python Webservice Restful, Webservice Soap, API Manager, Swagger, Microserviço Banco de Dados: Oracle, SQL Server Integração continua: Docker, Sonar, Git Formação: Superior Incompleto",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Oracle",
+        "SQL Server",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T03:00:57Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "c8742d42809f5ef74f64820cbcdb77a081e8c408",
+      "titulo": "Desenvolvedor Frontend Jr",
+      "empresa": "SOW",
+      "url": "https://www.adzuna.com.br/details/5945006923?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T22:29:31Z",
+      "descricao": "Desenvolvedor FrontEnd - Nível Júnior Desejável conhecimentos com Angular/CSS/HTML/JavaScript/JSP Atuação 100% remota. Duração: 06 meses. Disponibilidade para início imediato. Modalidade de contratação PJ.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5944412883?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T08:15:11Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
+      "titulo": "ANALISTA DE SISTEMAS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5944412002?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T08:15:05Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:20Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
     },
     {
       "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
@@ -3338,57 +3418,6 @@
       "expirada": false
     },
     {
-      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
-      "titulo": "ANALISTA DE SISTEMAS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933192698?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T07:57:47Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:20Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
-      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
-      "titulo": "DESENVOLVEDOR UI / REACT",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5933190979?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-18T07:57:25Z",
-      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T13:01:04Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": false
-    },
-    {
       "id": "885fd2ffadb2ad31f15572ce319f223a1777d17e",
       "titulo": "Desenvolvedor Fullstack Node/React/Java - Pleno",
       "empresa": "FCamara",
@@ -4139,60 +4168,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:37Z",
       "ultima_vista": "2026-10-06",
-      "expirada": true
-    },
-    {
-      "id": "64d5908b7f2b129ea8bede747fa0d27f6fb105e8",
-      "titulo": "Analista Desenvolvedor Jr",
-      "empresa": "Stefanini",
-      "url": "https://www.adzuna.com.br/details/5904343554?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:19:13Z",
-      "descricao": "Objetivo do Cargo: Atividades: Desenvolvimento de aplicações web Atividades: Front-End: Angular 2, HTML, CSS, JavaScript Back-End: node.js, Node-red, python Webservice Restful, Webservice Soap, API Manager, Swagger, Microserviço Banco de Dados: Oracle, SQL Server Integração continua: Docker, Sonar, Git Formação: Superior Incompleto",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "Oracle",
-        "SQL Server",
-        "Docker"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T03:00:57Z",
-      "ultima_vista": "2026-10-02",
-      "expirada": true
-    },
-    {
-      "id": "c8742d42809f5ef74f64820cbcdb77a081e8c408",
-      "titulo": "Desenvolvedor Frontend Jr",
-      "empresa": "SOW",
-      "url": "https://www.adzuna.com.br/details/5904343418?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-30T21:19:11Z",
-      "descricao": "Desenvolvedor FrontEnd - Nível Júnior Desejável conhecimentos com Angular/CSS/HTML/JavaScript/JSP Atuação 100% remota. Duração: 06 meses. Disponibilidade para início imediato. Modalidade de contratação PJ.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:45Z",
-      "ultima_vista": "2026-10-03",
       "expirada": true
     },
     {
@@ -5864,6 +5839,29 @@
       "expirada": true
     },
     {
+      "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
+      "titulo": "Desenvolvedor Frontend React Js Junior",
+      "empresa": "unike.TECH",
+      "url": "https://www.adzuna.com.br/details/5945007111?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T22:29:34Z",
+      "descricao": "COMO VOCÊ VAI CONSTRUIR UM MUNDO MAIS FRICTIONLESS Seu papel como Desenvolvedor FrontEnd JS Jr na UNIKE será desenvolver FrontEnd para atuar no desenvolvimento e sustentação de aplicação React.JS O QUE VOCÊ VAI FAZER - Sustenção de aplicação instalada nos clientes. - Integração de componentes com APIs desenvolvidas em JAVA e KOTLIN. - Desenvolvimento de componentes reutilizáveis e modularizados. - Solucionar problemas, debugar e melhorar soluções existentes. O QUE BUSCAMOS - Ensino superior com…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
       "titulo": "Desenvolvedor(a) Front-end React Vtex",
       "empresa": "Visie Padrões Web",
@@ -5924,6 +5922,31 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "070ea100bd6208c08ab5fbfda636d86145a8c577",
+      "titulo": "Desenvolvedor(a) FullStack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5944699979?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T13:11:41Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-26T17:01:23Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
     },
@@ -6977,29 +7000,6 @@
       "expirada": true
     },
     {
-      "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
-      "titulo": "Desenvolvedor Frontend React Js Junior",
-      "empresa": "unike.TECH",
-      "url": "https://www.adzuna.com.br/details/5904343757?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-30T21:19:15Z",
-      "descricao": "COMO VOCÊ VAI CONSTRUIR UM MUNDO MAIS FRICTIONLESS Seu papel como Desenvolvedor FrontEnd JS Jr na UNIKE será desenvolver FrontEnd para atuar no desenvolvimento e sustentação de aplicação React.JS O QUE VOCÊ VAI FAZER - Sustenção de aplicação instalada nos clientes. - Integração de componentes com APIs desenvolvidas em JAVA e KOTLIN. - Desenvolvimento de componentes reutilizáveis e modularizados. - Solucionar problemas, debugar e melhorar soluções existentes. O QUE BUSCAMOS - Ensino superior com…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:45Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": true
-    },
-    {
       "id": "9ff60399d26efa0648634f7a6c71b82dd442e363",
       "titulo": "Desenvolvedor(a) Full Stack Pleno (.NET Angular)",
       "empresa": "Domvs IT",
@@ -7763,6 +7763,46 @@
       "expirada": true
     },
     {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5945004775?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T22:29:00Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
+      "titulo": "Junior React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5945002263?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-28T22:28:20Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
       "id": "9d6431ea01758e0d6de813d85d62be681ec9c9c9",
       "titulo": "React Developer Intern - Remote Work",
       "empresa": "BairesDev",
@@ -7806,26 +7846,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-10-29",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5943827938?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Fortaleza, Ceará",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-27T22:22:13Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
       "ultima_vista": "2026-10-29",
       "expirada": false
     },
@@ -8324,26 +8344,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T03:00:54Z",
-      "ultima_vista": "2026-10-23",
-      "expirada": false
-    },
-    {
-      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
-      "titulo": "Junior React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5935940135?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-20T22:22:50Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
       "ultima_vista": "2026-10-23",
       "expirada": false
     },
@@ -10523,14 +10523,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
