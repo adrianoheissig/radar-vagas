@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T03:02:23Z",
+  "atualizado_em": "2026-10-30T05:02:28Z",
   "total": 571,
   "vagas": [
     {
@@ -1814,6 +1814,31 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "070ea100bd6208c08ab5fbfda636d86145a8c577",
+      "titulo": "Desenvolvedor(a) Fullstack",
+      "empresa": "Avanade",
+      "url": "https://www.adzuna.com.br/details/5946229819?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-29T23:01:02Z",
+      "descricao": "Job Description Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiência em Angular e Spring Boot. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#,.NET, Angular, Spring Boot e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas de grande escala. Você será parte essencial…",
+      "score": 60,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "Spring",
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-26T17:01:23Z",
+      "ultima_vista": "2026-10-30",
+      "expirada": false
     },
     {
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
@@ -5867,6 +5892,31 @@
       "expirada": true
     },
     {
+      "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
+      "titulo": "Jr Front End Developer",
+      "empresa": "MATH",
+      "url": "https://www.adzuna.com.br/details/5946241276?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-29T23:06:10Z",
+      "descricao": "/O dia a dia consiste em: - Desenvolver pequenos elementos em HTML, CSS e JavaScript; - Desenvolver relatórios de acompanhamento da frente de sustentação; - Desenvolver elementos em HTM, CSS e JavaScript que acelerem a atualização de conteúdo; - Desenvolver páginas web. /O que você precisa ter: - Superior completo em Tecnologia, Marketing ou áreas correlatas a atuação da MATH; - Conhecimento em CMS; - Conhecimento em linguagens de programação (HTML, Javascript, Angular, Python etc.); - Conhecim…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T07:01:11Z",
+      "ultima_vista": "2026-10-30",
+      "expirada": false
+    },
+    {
       "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
       "titulo": "Desenvolvedor Front-end React.js",
       "empresa": "TailorIT",
@@ -6051,31 +6101,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
-      "id": "070ea100bd6208c08ab5fbfda636d86145a8c577",
-      "titulo": "Desenvolvedor(a) FullStack",
-      "empresa": "Avanade",
-      "url": "https://www.adzuna.com.br/details/5944699979?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T13:11:41Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React. Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador. Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistema…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-26T17:01:23Z",
       "ultima_vista": "2026-10-30",
       "expirada": false
     },
@@ -6976,31 +7001,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
       "ultima_vista": "2026-10-04",
-      "expirada": true
-    },
-    {
-      "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
-      "titulo": "Jr Front End Developer",
-      "empresa": "MATH",
-      "url": "https://www.adzuna.com.br/details/5906620841?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:22:18Z",
-      "descricao": "/O dia a dia consiste em: - Desenvolver pequenos elementos em HTML, CSS e JavaScript; - Desenvolver relatórios de acompanhamento da frente de sustentação; - Desenvolver elementos em HTM, CSS e JavaScript que acelerem a atualização de conteúdo; - Desenvolver páginas web. /O que você precisa ter: - Superior completo em Tecnologia, Marketing ou áreas correlatas a atuação da MATH; - Conhecimento em CMS; - Conhecimento em linguagens de programação (HTML, Javascript, Angular, Python etc.); - Conhecim…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-02T07:01:11Z",
-      "ultima_vista": "2026-10-03",
       "expirada": true
     },
     {
