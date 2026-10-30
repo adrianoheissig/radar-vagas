@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T00:47:28Z",
+  "atualizado_em": "2026-10-30T03:02:23Z",
   "total": 571,
   "vagas": [
     {
@@ -5867,6 +5867,32 @@
       "expirada": true
     },
     {
+      "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
+      "titulo": "Desenvolvedor Front-end React.js",
+      "empresa": "TailorIT",
+      "url": "https://www.adzuna.com.br/details/5946240875?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-29T23:05:59Z",
+      "descricao": "React - Typescript - HTML, CSS, Javascript - Git Requisitos API Rest Experiência com React Hooks, Context API, entre outros",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T03:01:22Z",
+      "ultima_vista": "2026-10-30",
+      "expirada": false
+    },
+    {
       "id": "c911cd2cadf0546e6217f21e4e30eb2c43d525cd",
       "titulo": "Desenvolvedor(a) Backend (C# | .NET) e/ou Frontend Angular",
       "empresa": "BTG Pactual",
@@ -6974,32 +7000,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T07:01:11Z",
-      "ultima_vista": "2026-10-03",
-      "expirada": true
-    },
-    {
-      "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
-      "titulo": "Desenvolvedor Front-end React.js",
-      "empresa": "TailorIT",
-      "url": "https://www.adzuna.com.br/details/5906620359?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-01T22:22:17Z",
-      "descricao": "React - Typescript - HTML, CSS, Javascript - Git Requisitos API Rest Experiência com React Hooks, Context API, entre outros",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-02T03:01:22Z",
       "ultima_vista": "2026-10-03",
       "expirada": true
     },
