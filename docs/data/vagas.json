@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-10-30T23:02:30Z",
+  "atualizado_em": "2026-10-31T00:39:33Z",
   "total": 575,
   "vagas": [
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5946580618?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-30T02:54:32Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
+      "score": 80,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "MySQL"
+      ],
+      "lacunas": [
+        "Spring",
+        "Oracle",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
+      "ultima_vista": "2026-10-31",
+      "expirada": false
+    },
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
       "titulo": "Pessoa Desenvolvedora FullStack (NodeJS / Angular / Java) - Junior (Remoto)",
@@ -21,7 +51,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-28T17:00:48Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -131,7 +161,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-25T23:01:37Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -286,7 +316,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-22T19:00:53Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -313,7 +343,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -406,7 +436,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -448,38 +478,6 @@
       "expirada": false
     },
     {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5946580607?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-30T02:54:32Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Sass",
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
       "id": "693795ba8960829bea858e5ee773edf2ffc3e967",
       "titulo": "Desenvolvedor(A) Full Stack Pleno (React + Typescript + LLM)",
       "empresa": "Vettrus Soluções Internacionais",
@@ -508,7 +506,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-27T15:01:29Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -533,7 +531,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T15:49:22Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -814,7 +812,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -895,7 +893,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -954,7 +952,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -1419,7 +1417,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:36Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -1443,7 +1441,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:01:03Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -1500,7 +1498,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-14T05:01:08Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "8b99b3aa0d23cdc22eb82b117d137e95236026a3",
@@ -1837,7 +1835,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -1866,7 +1864,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -2451,7 +2449,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -2555,7 +2553,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:44Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -2821,7 +2819,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T19:01:02Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3253,7 +3251,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-23T07:01:10Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3313,7 +3311,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T21:01:34Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3419,7 +3417,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3435,16 +3433,21 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-19T23:01:35Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3584,7 +3587,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b07923dea13a5a873cd918edd2a0e1fd505ae1b7",
@@ -3604,7 +3607,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T17:00:44Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3634,7 +3637,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "c4dfa14b71a2cc3441143406f975a41d237c8671",
@@ -3782,7 +3785,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-11T07:01:02Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -3873,7 +3876,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T17:00:48Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -4327,7 +4330,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -4404,7 +4407,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -5195,7 +5198,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T07:00:57Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -5497,7 +5500,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:29Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "a6c4a686d09554d8941ae84fdbaa5b90a94d7d47",
@@ -5773,7 +5776,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -5931,7 +5934,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -5956,7 +5959,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T07:01:11Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -5982,7 +5985,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T03:01:22Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6006,7 +6009,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:50Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6032,7 +6035,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6144,7 +6147,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6169,7 +6172,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:00:37Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6450,7 +6453,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-23T13:01:45Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -6708,7 +6711,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T11:01:02Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
@@ -7583,7 +7586,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -7877,7 +7880,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T19:01:36Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8413,7 +8416,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T17:00:42Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8680,7 +8683,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-22T19:00:57Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8745,7 +8748,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T19:00:46Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8767,7 +8770,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T17:00:44Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8787,7 +8790,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T09:01:02Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -8813,7 +8816,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:32Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "12e5a2ade7cd88f7ab1f0f74d2472fd936854b24",
@@ -9067,7 +9070,7 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-17T14:50:09Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "a1fac2aa01ed38b933616bba60635c909d647a18",
@@ -9090,7 +9093,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-11T15:01:12Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "57efd9c3f065431889bc1d3e00ce31f27e8c6973",
@@ -9558,7 +9561,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-09-30T15:01:52Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -9857,7 +9860,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -10654,7 +10657,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-26T13:02:05Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -10973,7 +10976,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -11756,7 +11759,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
@@ -11935,7 +11938,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "5f8d064d193cb6ba854877fbbabb0bda07005552",
@@ -11977,7 +11980,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T18:52:23Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "3adc64fe1c4cb8a1ee79b1ba7d6ac72a3a48131a",
@@ -12019,7 +12022,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "42e7ff1f3ad16ca1912c0cf6165d155dd9cdf0de",
@@ -12039,7 +12042,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T14:50:17Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "f4d9766175864c3595bb78037afd8da643986490",
@@ -12061,7 +12064,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T14:50:17Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "2cd02c513a6d8fd834f3f0bf79be43a98ecdc871",
@@ -12136,7 +12139,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-13T17:01:36Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "6dd41ce68f138299b7490a50d67348a83f47167f",
@@ -12178,7 +12181,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-12T07:01:02Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "8b78cf4ef7cc51eaf3b5ea1ad1f3ed3263d7b66c",
@@ -12248,7 +12251,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-11T15:01:12Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b876b56d07b7ab016a4f45d8c8887039de617ee5",
@@ -12503,7 +12506,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T03:01:08Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "a10462908959ecd0c553732ccd6660ffd2c7c9ff",
@@ -12523,7 +12526,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T07:01:04Z",
       "ultima_vista": "2026-10-16",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "65fc9a7399367fc3417c5f948c60592275410a51",
@@ -12943,7 +12946,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T16:58:41Z",
-      "ultima_vista": "2026-10-30",
+      "ultima_vista": "2026-10-31",
       "expirada": false
     },
     {
