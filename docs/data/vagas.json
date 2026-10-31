@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-31T15:43:05Z",
-  "total": 575,
+  "atualizado_em": "2026-10-31T17:02:41Z",
+  "total": 577,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -3457,19 +3457,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-10-31",
       "expirada": false
@@ -5154,6 +5149,27 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "1688f30a302d9f550719d3a127ef36376db15f2c",
+      "titulo": "Desenvolvedor(a) Full Stack Pleno – Node.js | React - Full Remoto - PJ",
+      "empresa": "Iterative",
+      "url": "https://www.adzuna.com.br/details/5948231413?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-31T13:14:09Z",
+      "descricao": "Descrição Buscamos um(a) Desenvolvedor(a) Full Stack Pleno para atuar no desenvolvimento e evolução de aplicações web, participando de todo o ciclo de desenvolvimento, desde o entendimento da necessidade e definição da solução até implementação, testes e acompanhamento das entregas em produção. Procuramos uma pessoa com boa experiência em Node.js e React, capacidade de atuar de forma integrada entre back-end e front-end e preocupação com qualidade, manutenção e evolução das soluções. Principais…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-31T17:00:59Z",
+      "ultima_vista": "2026-10-31",
+      "expirada": false
     },
     {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
@@ -7859,6 +7875,33 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "bdc0740ffca718febb260867cd6704448f354f24",
+      "titulo": "Analista De QA",
+      "empresa": "PAPJR RECURSOS HUMANOS",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-qa-em-sao-paulo__12176064.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-31T04:21:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nBuscamos um QA Pleno/Sênior com forte conhecimento em automação de testes e visão de qualidade de ponta a ponta, para atuar em uma squad ágil com foco em todo o ecossistema de TVs de um de nossos clientes.\r\n\r\nO profissional terá papel ativo na promoção da cultura de qualidade, evolução das automações e apoio à gestão de pipelines CI/CD, contribuindo para entregas mais seguras, eficientes e escaláveis.\r\n\r\nModalidade de contratação: CLT.\r\n\r\nModalidade de trabalho: Híbrido (2 a 3 vezes presencial).\r\n\r\nLocalização de preferência: Rio de Janeiro/RJ ou São Paulo/SP.\r\n\r\n \r\n\r\nResponsabilidades:\r\n\r\nAtuar como referência de qualidade e automação dentro da squad.\r\nPlanejar, desenvolver e evoluir automações de testes funcionais, regressivos, de integração e APIs.\r\nPromover a cultura de qualidade desde o refinamento até a entrega.\r\nApoiar a definição, manutenção e melhoria dos pipelines CI/CD.\r\nTrabalhar em conjunto com times de desenvolvimento, infraestrutura, DevOps e SRE.\r\nGarantir a confiabilidade dos ambientes e estabilidade das execuções automatizadas.\r\nParticipar dos rituais ágeis da squad.\r\nAcompanhar métricas e indicadores de qualidade e automação.\r\nApoiar análises de falhas, incidentes e problemas relacionados à qualidade.\r\nRequisitos\r\nRequisitos Obrigatórios:\r\n\r\nExperiência sólida como QA PLeno/Sênior, com forte atuação em automação. Mínimo de 3 anos em QA, sendo ao menos 2 anos com automação de testes; \r\nExperiência com P…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Python",
+        "CI/CD",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-10-31T17:01:49Z",
+      "ultima_vista": "2026-10-31",
+      "expirada": false
     },
     {
       "id": "87549725a1b43527ba124c6412ce280574360791",
@@ -10958,6 +11001,32 @@
       "expirada": true
     },
     {
+      "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
+      "titulo": "Desenvolvedor .NET – Foco em Mercado Financeiro/ Meios de Pagamento",
+      "empresa": "IEBT Innovation",
+      "url": "https://www.adzuna.com.br/details/5948237549?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-31T13:23:47Z",
+      "descricao": "Descrição Buscamos um(a) Desenvolvedor(a) .NET para atuar no desenvolvimento e evolução de aplicações voltadas ao mercado financeiro e meios de pagamento. Procuramos uma pessoa com sólida experiência em C#/.NET, arquitetura de microsserviços, APIs e bancos de dados, além de vivência com React, RabbitMQ, Azure e práticas de DevOps. É importante ter experiência em ambientes ágeis e atenção a qualidade, segurança, performance e boas práticas de desenvolvimento. Principais atividades: Desenvolvimen…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Microsserviços",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T18:10:18Z",
+      "ultima_vista": "2026-10-31",
+      "expirada": false
+    },
+    {
       "id": "27f95c6108ae5a027f4006476b71056cb85be321",
       "titulo": "Desenvolvedor Junior - SP",
       "empresa": "Grupo Skill",
@@ -13103,32 +13172,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-09-24",
-      "expirada": true
-    },
-    {
-      "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
-      "titulo": "Desenvolvedor .NET – Foco em Mercado Financeiro/ Meios de Pagamento",
-      "empresa": "IEBT Innovation",
-      "url": "https://www.adzuna.com.br/details/5891894478?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-20T13:16:20Z",
-      "descricao": "Buscamos um(a) Desenvolvedor(a) .NET para atuar no desenvolvimento e evolução de aplicações voltadas ao mercado financeiro e meios de pagamento. Procuramos uma pessoa com sólida experiência em C#/.NET, arquitetura de microsserviços, APIs e bancos de dados, além de vivência com React, RabbitMQ, Azure e práticas de DevOps. É importante ter experiência em ambientes ágeis e atenção a qualidade, segurança, performance e boas práticas de desenvolvimento. Principais atividades: Desenvolvimento e evolu…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "Microsserviços",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T18:10:18Z",
-      "ultima_vista": "2026-09-20",
       "expirada": true
     },
     {
