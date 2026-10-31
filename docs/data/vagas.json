@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-31T17:02:41Z",
-  "total": 577,
+  "atualizado_em": "2026-10-31T19:02:41Z",
+  "total": 578,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -7875,6 +7875,28 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "56f0688c1f30afee33cba3917379b6489436c70c",
+      "titulo": "Engenharia de Software Fullsatck Pleno - Python e React | RD Station (Remoto)",
+      "empresa": "RD Station",
+      "url": "https://www.adzuna.com.br/details/5948247754?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-31T13:35:38Z",
+      "descricao": "Quer fazer parte de um time que cria oportunidades e potencializa a evolução? Como alcançamos tudo isso? Através de um ecossistema de mais de 12 mil pessoas inconformadas que, juntas, oferecem soluções, produtos e educam o mercado. Atuamos como uma Única TOTVS, integrando diferentes soluções e expertises para educar o mercado e simplificar o mundo dos negócios. Para nós, a evolução é constante e acontece de gente para gente: usamos nossa inquietude para antecipar tendências e transformar o cres…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-31T19:01:06Z",
+      "ultima_vista": "2026-10-31",
+      "expirada": false
     },
     {
       "id": "bdc0740ffca718febb260867cd6704448f354f24",
