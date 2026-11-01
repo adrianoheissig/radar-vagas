@@ -1,37 +1,7 @@
 {
-  "atualizado_em": "2026-11-01T11:02:44Z",
-  "total": 578,
+  "atualizado_em": "2026-11-01T13:02:34Z",
+  "total": 579,
   "vagas": [
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "DESENVOLVEDORES JAVA/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5946786808?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-30T08:51:56Z",
-      "descricao": "Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desejável experiên…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-11-01",
-      "expirada": false
-    },
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
       "titulo": "Pessoa Desenvolvedora FullStack (NodeJS / Angular / Java) - Junior (Remoto)",
@@ -895,6 +865,38 @@
       "data_coleta": "2026-10-10T15:49:38Z",
       "ultima_vista": "2026-10-15",
       "expirada": true
+    },
+    {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "Desenvolvedores JAVA /Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921397841?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T22:24:23Z",
+      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90 remoto Sólida experiência com desenvolvimento utilizando JAVA 11, Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS, Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate, Experiência com SQL Server, Oracle ou PostgreSQL, Imprescindível inglês avançado/fluente, Desejável experiência anterior em projetos globais, Atuação 90 remota, disponibilidade para eventuais atuações pres…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
     },
     {
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
@@ -2510,6 +2512,33 @@
       "expirada": true
     },
     {
+      "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
+      "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5949114235?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-01T08:51:19Z",
+      "descricao": "Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compatibilidade cr…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T11:01:03Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
+    },
+    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -3042,33 +3071,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T05:00:52Z",
-      "ultima_vista": "2026-10-28",
-      "expirada": false
-    },
-    {
-      "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
-      "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5941328606?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-25T08:05:17Z",
-      "descricao": "Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compatibilidade cr…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T11:01:03Z",
       "ultima_vista": "2026-10-28",
       "expirada": false
     },
@@ -10709,14 +10711,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11021,6 +11023,29 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "de3d1575581cdbf8044b932a4e07bf4611509639",
+      "titulo": "AI Engineer / Forward Deployed Engineer (FDE)",
+      "empresa": "Huntin",
+      "url": "https://www.infojobs.com.br/vaga-de-ai-engineer-forward-deployed-engineer-fde-em-sao-paulo__12176355.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-01T11:34:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nBuscamos profissionais de engenharia que gostam de colocar soluções de IA para funcionar no mundo real: entender o problema de cada empresa, construir integrações, agentes e fluxos com modelos de linguagem e levá-los até a produção com qualidade, custo e confiabilidade. A vaga abrange AI Engineers, no time de produto, e Forward Deployed Engineers, lado a lado com os clientes.\r\n\r\nAs oportunidades são em empresas que atendemos: startups em altíssimo crescimento, com IA no centro do negócio, de machine learning e deep learning a IA generativa e agentes em produção.\r\n\r\nNão exigimos tempo mínimo de experiência nem nível específico: cada pessoa é avaliada pelas suas competências e pelo que já construiu. As empresas costumam buscar perfis mais seniores, mas profissionais em início de carreira com entregas consistentes também têm espaço.\r\n\r\nO perfil que buscamos\r\n Transformar problemas de clientes e usuários em soluções de IA viáveis, com escopo e critérios de sucesso claros.\r\n Construir agentes e aplicações com modelos de linguagem: uso de ferramentas, integrações com APIs e sistemas, RAG e revisão humana.\r\n Criar avaliações de qualidade, falhas, tempo de resposta e custo, e decidir quando a solução está pronta para produção.\r\n Operar em produção com observabilidade e segurança, diagnosticando se a falha está nos dados, no modelo, nas instruções ou na integração.\r\n Comunicar com clareza o que a solução entrega e seus limites; c…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Python",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-01T13:01:38Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
     },
     {
       "id": "1abfdd066dbdcf2800e53efb1c40d9a898554152",
