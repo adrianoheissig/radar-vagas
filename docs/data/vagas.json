@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-01T01:02:35Z",
+  "atualizado_em": "2026-11-01T03:02:26Z",
   "total": 578,
   "vagas": [
     {
@@ -321,14 +321,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -341,7 +341,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-01",
       "expirada": false
@@ -5156,6 +5156,30 @@
       "expirada": true
     },
     {
+      "id": "7e8d2103db4ddb354486d608ed5fb46a74bd8242",
+      "titulo": "Desenvolvedores Mobile - 100% Remoto",
+      "empresa": "HrSoul -",
+      "url": "https://www.adzuna.com.br/details/5948363018?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-31T22:24:45Z",
+      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: CLT Benefícios: Assistência Médica, Assistência odontológica, Seguro de Vida, Vale-refeição Descrição: Experiência com análise e desenvolvimento de sistemas utilizando Android Studio e Firebase; Vivência com banco de dados SQL Server; Desejável experiência com Eclipse e React; Imprescindível Inglês Avançado; Graduação completa em TI e/ou áreas correlatas; Atuação 100% remota.",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Firebase"
+      ],
+      "lacunas": [
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T07:00:56Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
+    },
+    {
       "id": "1688f30a302d9f550719d3a127ef36376db15f2c",
       "titulo": "Desenvolvedor(a) Full Stack Pleno – Node.js | React - Full Remoto - PJ",
       "empresa": "Iterative",
@@ -5568,30 +5592,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:19Z",
       "ultima_vista": "2026-10-10",
-      "expirada": true
-    },
-    {
-      "id": "7e8d2103db4ddb354486d608ed5fb46a74bd8242",
-      "titulo": "Desenvolvedores Mobile - 100% Remoto",
-      "empresa": "HrSoul -",
-      "url": "https://www.adzuna.com.br/details/5910715792?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-03T21:48:36Z",
-      "descricao": "Escolaridade: Curso Superior - Graduação - Completo PCD: Não Contratação: CLT Benefícios: Assistência Médica, Assistência odontológica, Seguro de Vida, Vale-refeição Descrição: Experiência com análise e desenvolvimento de sistemas utilizando Android Studio e Firebase; Vivência com banco de dados SQL Server; Desejável experiência com Eclipse e React; Imprescindível Inglês Avançado; Graduação completa em TI e/ou áreas correlatas; Atuação 100% remota.",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Firebase"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-04T07:00:56Z",
-      "ultima_vista": "2026-10-05",
       "expirada": true
     },
     {
@@ -7882,6 +7882,26 @@
       "expirada": true
     },
     {
+      "id": "b63b9bab0bf077b9a7236ab0b14d4753b0bfeeef",
+      "titulo": "Vt/ajuda de Custo.desenvolvedor React (Pj) Remoto",
+      "empresa": "BuscarVagas",
+      "url": "https://www.adzuna.com.br/details/5948362513?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Canoas, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-31T22:24:38Z",
+      "descricao": "Atribuições: Trabalho Remoto Experiência Comprovada com a tecnologia; Desejável mais de 2 anos em contato com a tecnologia ou comprovação em portfólio. Salário a combinar Carga Horária: Horário a combinar Sem informação",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T01:00:58Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
+    },
+    {
       "id": "56f0688c1f30afee33cba3917379b6489436c70c",
       "titulo": "Engenharia de Software Fullsatck Pleno - Python e React | RD Station (Remoto)",
       "empresa": "RD Station",
@@ -9486,26 +9506,6 @@
       "expirada": true
     },
     {
-      "id": "b63b9bab0bf077b9a7236ab0b14d4753b0bfeeef",
-      "titulo": "Vt/ajuda de Custo.desenvolvedor React (Pj) Remoto",
-      "empresa": "BuscarVagas",
-      "url": "https://www.adzuna.com.br/details/5910715363?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Canoas, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-03T21:48:32Z",
-      "descricao": "Atribuições: Trabalho Remoto Experiência Comprovada com a tecnologia; Desejável mais de 2 anos em contato com a tecnologia ou comprovação em portfólio. Salário a combinar Carga Horária: Horário a combinar Sem informação",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-04T01:00:58Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": true
-    },
-    {
       "id": "c611bf8f0af83213fc7f5466bd0ec4264f40977e",
       "titulo": "Pessoa Desenvolvedora Full Stack Júnior",
       "empresa": "Digital Republic",
@@ -10714,14 +10714,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11026,6 +11026,26 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "1abfdd066dbdcf2800e53efb1c40d9a898554152",
+      "titulo": "Desenvolvedor (a) de Frontend Junior - React.js",
+      "empresa": "ZENVIA",
+      "url": "https://www.adzuna.com.br/details/5948363608?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-31T22:24:53Z",
+      "descricao": "Sobre a equipe, você trabalhará diretamente: Sirena é a solução que ajuda as empresas a serem descobertas, se comunicarem e impulsionarem o crescimento na nova era do envio de mensagens. Somos parte de Zenvia, a principal plataforma de comunicação da América Latina! Somos uma empresa totalmente independente! Adaptamos todos os nossos processos para permitir que todos os membros de nossa equipe possam trabalhar a partir de suas casas. Seus desafios para fazer a diferença nesta equipe Auxiliar na…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-04T01:00:43Z",
+      "ultima_vista": "2026-11-01",
+      "expirada": false
     },
     {
       "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
@@ -12783,26 +12803,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T21:00:36Z",
       "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "1abfdd066dbdcf2800e53efb1c40d9a898554152",
-      "titulo": "Desenvolvedor (a) de Frontend Junior - React.js",
-      "empresa": "ZENVIA",
-      "url": "https://www.adzuna.com.br/details/5910716346?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-03T21:48:41Z",
-      "descricao": "Sobre a equipe, você trabalhará diretamente: Sirena é a solução que ajuda as empresas a serem descobertas, se comunicarem e impulsionarem o crescimento na nova era do envio de mensagens. Somos parte de Zenvia, a principal plataforma de comunicação da América Latina! Somos uma empresa totalmente independente! Adaptamos todos os nossos processos para permitir que todos os membros de nossa equipe possam trabalhar a partir de suas casas. Seus desafios para fazer a diferença nesta equipe Auxiliar na…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-04T01:00:43Z",
-      "ultima_vista": "2026-10-05",
       "expirada": true
     },
     {
