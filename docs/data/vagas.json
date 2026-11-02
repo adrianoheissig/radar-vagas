@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-02T03:02:56Z",
-  "total": 579,
+  "atualizado_em": "2026-11-02T07:02:40Z",
+  "total": 582,
   "vagas": [
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
@@ -2512,6 +2512,151 @@
       "expirada": true
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5950269405?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-02T02:49:56Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5950269404?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-02T02:49:56Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
+      "titulo": "Analista De Sistemas - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5950263628?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T02:49:05Z",
+      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:17Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5950263048?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-02T02:49:00Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "440c890f9928860b896c9bf804c34aec2643e947",
+      "titulo": "Desenvolvedor Front Angular",
+      "empresa": "Conquest One",
+      "url": "https://www.adzuna.com.br/details/5949942932?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-01T22:05:37Z",
+      "descricao": "Requisitos mandatórios: Experiência com desenvolvimento em Angular 9; Capacidade de realizar requisições em API’s back-end; Conhecimento em estilização de Componentes Angular CSS / SASS; Vivência com metodologias ágeis. Capacidade de criar códigos limpos e reaproveitáveis; Experiência com testes unitários com jasmine e karma no angular (preferencialmente); Conhecimento de Git. Atuação: 100% remoto.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "CSS",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-05T01:01:02Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "6b2a10cea49c12654a27912ac3037991e4ce089f",
+      "titulo": "Angular Front-End Developer Mid | Remoto",
+      "empresa": "Compass UOL",
+      "url": "https://www.adzuna.com.br/details/5949558749?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-01T13:52:09Z",
+      "descricao": "Description . Responsibilities Implementar a camada visual da aplicação de acordo com os requisitos especificados e o layout definido pelo time de UX/UI; Realizar a integração da camada de front-end com os serviços e APIs de back-end; Desenvolver aplicações utilizando Angular como tecnologia principal; Codificar com qualidade, seguindo os padrões técnicos e de desenvolvimento estabelecidos; Buscar continuamente a melhor experiência para o usuário final; Garantir a qualidade do código-fonte e da…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-02T07:01:10Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
       "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
       "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
       "empresa": "",
@@ -2535,6 +2680,26 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T11:01:03Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "bf69dc3eb7e0141bcef37fd3341c4ec33a11e02a",
+      "titulo": "Pessoa Desenvolvedora Front-End Angular (HIBRIDO)",
+      "empresa": "NTT America, Inc.",
+      "url": "https://www.adzuna.com.br/details/5948739215?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-01T03:16:24Z",
+      "descricao": "Projetos desafiadores , que buscam cada vez mais soluções tecnológicas e humanas na experiência e no contato com as pessoas. Nossa cultura de mente aberta torna o ambiente horizontal para que as decisões sejam tomadas com base em fatos e dados, colocando os interesses dos clientes sempre em primeiro lugar. Uma empresa de pessoas que trabalham com autonomia e criatividade . Com espírito empreendedor, cada um de nós protagoniza a sua própria história . Apesar de todos terem autonomia para assumir…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-02T07:01:05Z",
       "ultima_vista": "2026-11-02",
       "expirada": false
     },
@@ -2839,87 +3004,6 @@
       "expirada": false
     },
     {
-      "id": "441bb31861cee1fca5b362cd56a9827c3b6f0bfc",
-      "titulo": "Analista De Sistemas - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5944155877?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T03:08:46Z",
-      "descricao": "ATRIBUIÇÕES: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS REQUISITOS: Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS JORNADA: Segunda a Sexta ás 9:00 a 18:00 BENEFÍCIOS: CLT V.R PLR VT ou Estacionamento Assistencia Medica e Dental Seguro de vida Gympass Incentivo com relação da avaliação anual Auxilio Creche Vaga aberta e verificada pelo portal Buscar…",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T07:01:17Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
-      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
-      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5944154780?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-28T03:08:35Z",
-      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5944153621?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-28T03:08:24Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
       "id": "c57a946d69b7b164be888c4ee9bb2137635badad",
       "titulo": "Desenvolvedor Full Stack (Node.js / React / MongoDB)",
       "empresa": "Wtime",
@@ -2982,30 +3066,6 @@
       "modalidade": "hibrido",
       "data_publicacao": "2026-10-27T08:12:48Z",
       "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-10-29",
-      "expirada": false
-    },
-    {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5943161000?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-27T02:48:55Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
       "score": 55,
       "skills_match": [
         "Angular",
@@ -3429,19 +3489,12 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "APIs REST"
       ],
       "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Testes automatizados"
+        "PostgreSQL"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-11-02",
       "expirada": false
@@ -4042,32 +4095,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-10-09",
-      "expirada": true
-    },
-    {
-      "id": "440c890f9928860b896c9bf804c34aec2643e947",
-      "titulo": "Desenvolvedor Front Angular",
-      "empresa": "Conquest One",
-      "url": "https://www.adzuna.com.br/details/5911923383?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-04T21:48:23Z",
-      "descricao": "Requisitos mandatórios: Experiência com desenvolvimento em Angular 9; Capacidade de realizar requisições em API’s back-end; Conhecimento em estilização de Componentes Angular CSS / SASS; Vivência com metodologias ágeis. Capacidade de criar códigos limpos e reaproveitáveis; Experiência com testes unitários com jasmine e karma no angular (preferencialmente); Conhecimento de Git. Atuação: 100% remoto.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "CSS",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-05T01:01:02Z",
-      "ultima_vista": "2026-10-07",
       "expirada": true
     },
     {
@@ -5158,6 +5185,27 @@
       "expirada": true
     },
     {
+      "id": "7cb4a467fb2248a57b13611b9d0d94d8e09edea7",
+      "titulo": "Desenvolvedor(a) Fullstack PL - Node.js / React | Remoto",
+      "empresa": "Objective",
+      "url": "https://www.adzuna.com.br/details/5949546623?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-01T13:35:22Z",
+      "descricao": "Tecnologia, aprendizado contínuo e impacto real fazem parte do nosso jeito de evoluir. Na Objective, você encontra um ambiente colaborativo, com espaço para evoluir, trocar conhecimento e construir soluções com qualidade ao lado de pessoas que valorizam conexões, desenvolvimento e inovação na prática. Valorizamos a diversidade porque acreditamos que diferentes perspectivas fortalecem a inovação e a entrega de valor. Todas as nossas vagas estão abertas a todas as pessoas, com ou sem deficiência,…",
+      "score": 50,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-02T07:00:37Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
       "id": "7e8d2103db4ddb354486d608ed5fb46a74bd8242",
       "titulo": "Desenvolvedores Mobile - 100% Remoto",
       "empresa": "HrSoul -",
@@ -5914,24 +5962,32 @@
       "expirada": true
     },
     {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C#Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5949472534?utm_medium=api&utm_source=267e525f",
+      "id": "15dfb7481279bdbb18f6f443e483e78ead8add0e",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "INEX",
+      "url": "https://www.adzuna.com.br/details/5949942694?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-11-01T12:48:23Z",
-      "descricao": "IT Analyst III (C#Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contínua…",
+      "data_publicacao": "2026-11-01T22:05:32Z",
+      "descricao": "Tecnologias: C#;.Net Framework;.Net;.Net Core;.Net 5 ; VB.NET; Asp.Net; Web Forms; Entity Framework; Fluent Migrations; Windows Services; Windows Installer; SOLID; DDD Domain Driven Development; Gerenciamento de IIS básico - > MSSQL; PostgreSQL; DynamoDB; - AWS; SQS; SES; ECS; EC2; - Docker; Jenkins; - AngularJS; Angular; Angular 4; Angular 11 - Adicional - Python e Azure Devops Atuação: Como desenvolvedor em sustentação/ Analista Programador onde realiza manutenção e melhoria de sistemas Legad…",
       "score": 45,
       "skills_match": [
-        "Angular"
+        "Angular",
+        "Clean Code"
       ],
       "lacunas": [
-        "C#"
+        "Python",
+        "C#",
+        ".NET",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Azure",
+        "CI/CD"
       ],
       "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
+      "data_coleta": "2026-10-05T07:01:05Z",
       "ultima_vista": "2026-11-02",
       "expirada": false
     },
@@ -6195,6 +6251,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T03:00:57Z",
       "ultima_vista": "2026-10-30",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5944764411?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T14:11:17Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contín…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-11-02",
       "expirada": false
     },
     {
@@ -6968,36 +7046,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T09:01:09Z",
-      "ultima_vista": "2026-10-07",
-      "expirada": true
-    },
-    {
-      "id": "15dfb7481279bdbb18f6f443e483e78ead8add0e",
-      "titulo": "Desenvolvedor Full Stack",
-      "empresa": "INEX",
-      "url": "https://www.adzuna.com.br/details/5911923154?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-04T21:48:21Z",
-      "descricao": "Tecnologias: C#;.Net Framework;.Net;.Net Core;.Net 5 ; VB.NET; Asp.Net; Web Forms; Entity Framework; Fluent Migrations; Windows Services; Windows Installer; SOLID; DDD Domain Driven Development; Gerenciamento de IIS básico - > MSSQL; PostgreSQL; DynamoDB; - AWS; SQS; SES; ECS; EC2; - Docker; Jenkins; - AngularJS; Angular; Angular 4; Angular 11 - Adicional - Python e Azure Devops Atuação: Como desenvolvedor em sustentação/ Analista Programador onde realiza manutenção e melhoria de sistemas Legad…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Python",
-        "C#",
-        ".NET",
-        "PostgreSQL",
-        "Docker",
-        "AWS",
-        "Azure",
-        "CI/CD"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-05T07:01:05Z",
       "ultima_vista": "2026-10-07",
       "expirada": true
     },
@@ -10715,15 +10763,35 @@
       "expirada": true
     },
     {
+      "id": "0e714c21e65ca523e18a0d2391d40d1713ad6c24",
+      "titulo": "Desenvolvedor Back-end Nodejs Junior (Remoto)",
+      "empresa": "JBQ Global",
+      "url": "https://www.adzuna.com.br/details/5949943566?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-01T22:05:53Z",
+      "descricao": "Vamos juntos fazer história! Venha Ser Você Para atuação remota de qualquer lugar do mundo; A JBQ.Global proporciona um ambiente inovador, colaborativo e transformador. Através de uma cultura de liderança horizontal que proporciona empoderamento e voz para todos. Transformamos e desenvolvemos grandes ideias por meio de soluções tecnológicas, que geram valor para os clientes e colaboradores, com qualidade e transparência. Buscamos pessoas que desejam fazer história e fazer a diferença. Que desej…",
+      "score": 35,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-05T07:01:15Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -10865,26 +10933,6 @@
       "data_coleta": "2026-10-06T21:01:39Z",
       "ultima_vista": "2026-10-27",
       "expirada": false
-    },
-    {
-      "id": "0e714c21e65ca523e18a0d2391d40d1713ad6c24",
-      "titulo": "Desenvolvedor Back-end Nodejs Junior (Remoto)",
-      "empresa": "JBQ Global",
-      "url": "https://www.adzuna.com.br/details/5911923984?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-04T21:48:29Z",
-      "descricao": "Vamos juntos fazer história! Venha Ser Você Para atuação remota de qualquer lugar do mundo; A JBQ.Global proporciona um ambiente inovador, colaborativo e transformador. Através de uma cultura de liderança horizontal que proporciona empoderamento e voz para todos. Transformamos e desenvolvemos grandes ideias por meio de soluções tecnológicas, que geram valor para os clientes e colaboradores, com qualidade e transparência. Buscamos pessoas que desejam fazer história e fazer a diferença. Que desej…",
-      "score": 35,
-      "skills_match": [
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-05T07:01:15Z",
-      "ultima_vista": "2026-10-07",
-      "expirada": true
     },
     {
       "id": "744fd34a52b2090cc44d05f46d5d0d2c6a12f44f",
@@ -11049,6 +11097,36 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-01T13:01:38Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5949116221?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-01T08:51:51Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
       "ultima_vista": "2026-11-02",
       "expirada": false
     },
@@ -11488,36 +11566,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T23:44:39Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5941335639?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-25T08:11:41Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
       "ultima_vista": "2026-10-26",
       "expirada": false
     },
