@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-02T21:02:53Z",
-  "total": 582,
+  "atualizado_em": "2026-11-02T23:02:30Z",
+  "total": 583,
   "vagas": [
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
@@ -5999,6 +5999,28 @@
       "expirada": false
     },
     {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C#Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5949472534?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-01T12:48:23Z",
+      "descricao": "IT Analyst III (C#Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contínua…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
+    },
+    {
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
@@ -6258,28 +6280,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T03:00:57Z",
       "ultima_vista": "2026-10-30",
-      "expirada": false
-    },
-    {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C# Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5944764411?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T14:11:17Z",
-      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contín…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-11-02",
       "expirada": false
     },
     {
@@ -7937,6 +7937,32 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "58a25fd279de307759c7ece31dcccc02e29978c8",
+      "titulo": "HOME OFFICE - TÉCNICO DE SUPORTE DE TI / Helpdesk - AMBEV - (Obrigatório Enviar Currículo, Seguindo Descrição Da Vaga)",
+      "empresa": "AMBEV S/A",
+      "url": "https://www.infojobs.com.br/vaga-de-home-office-tecnico-suporte-ti-helpdesk-ambev-em-sao-paulo__12176862.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-02T08:56:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nProcesso seletivo:\r\nPara participar do processo seletivo, envie seu currículo atualizado, nome completo e tempo de experiência na área para e-mail; cervejariacultura (a) outlook.com, com o assunto Técnico de Suporte de TI Home Office. Após a análise, entraremos em contato com os candidatos selecionados.\r\n\r\nO Seu Dia a Dia:\r\nVocê irá auxiliar no [desenvolvimento de telas / execução de testes / análise de relatórios], garantindo a qualidade das entregas, documentar processos para manter nossos repositórios organizados e participar ativamente das reuniões diárias de alinhamento (Dailies) e planejamento da equipe. Também ficará sob sua responsabilidade investigar, reportar e ajudar a corrigir eventuais falhas (bugs) apontadas pelo time ou clientes, além de estudar e aplicar novas tecnologias sugeridas pelos profissionais seniores da equipe.\r\n\r\nO Que Buscamos:\r\nBuscamos profissionais com conhecimento teórico e prático básico em [Lógica de programação / HTML e CSS / SQL], que possuam projetos pessoais ou acadêmicos para demonstrar em um portfólio (como GitHub) e noções básicas de controle de versão com Git. É fundamental ter curiosidade intelectual, mentalidade focada na resolução de problemas, comunicação clara e proativa para o trabalho à distância, autodisciplina no home office e facilidade para trabalhar em equipe.\r\n\r\nDiferenciais e Qualificações:\r\nSerá considerado um diferencial estar cursando ou ter concluído faculdade o…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-02T23:01:25Z",
+      "ultima_vista": "2026-11-02",
+      "expirada": false
     },
     {
       "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
