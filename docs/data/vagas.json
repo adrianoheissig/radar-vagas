@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03T13:02:42Z",
+  "atualizado_em": "2026-11-03T15:02:43Z",
   "total": 584,
   "vagas": [
     {
@@ -3489,12 +3489,19 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "APIs REST"
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
       ],
       "lacunas": [
-        "PostgreSQL"
+        "Next.js",
+        "PostgreSQL",
+        "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 1,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -3512,19 +3519,14 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
+        "TypeScript"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -7955,32 +7957,6 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
-    },
-    {
-      "id": "58a25fd279de307759c7ece31dcccc02e29978c8",
-      "titulo": "HOME OFFICE - TÉCNICO DE SUPORTE DE TI / Helpdesk - AMBEV - (Obrigatório Enviar Currículo, Seguindo Descrição Da Vaga)",
-      "empresa": "AMBEV S/A",
-      "url": "https://www.infojobs.com.br/vaga-de-home-office-tecnico-suporte-ti-helpdesk-ambev-em-sao-paulo__12176862.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-02T08:56:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nProcesso seletivo:\r\nPara participar do processo seletivo, envie seu currículo atualizado, nome completo e tempo de experiência na área para e-mail; cervejariacultura (a) outlook.com, com o assunto Técnico de Suporte de TI Home Office. Após a análise, entraremos em contato com os candidatos selecionados.\r\n\r\nO Seu Dia a Dia:\r\nVocê irá auxiliar no [desenvolvimento de telas / execução de testes / análise de relatórios], garantindo a qualidade das entregas, documentar processos para manter nossos repositórios organizados e participar ativamente das reuniões diárias de alinhamento (Dailies) e planejamento da equipe. Também ficará sob sua responsabilidade investigar, reportar e ajudar a corrigir eventuais falhas (bugs) apontadas pelo time ou clientes, além de estudar e aplicar novas tecnologias sugeridas pelos profissionais seniores da equipe.\r\n\r\nO Que Buscamos:\r\nBuscamos profissionais com conhecimento teórico e prático básico em [Lógica de programação / HTML e CSS / SQL], que possuam projetos pessoais ou acadêmicos para demonstrar em um portfólio (como GitHub) e noções básicas de controle de versão com Git. É fundamental ter curiosidade intelectual, mentalidade focada na resolução de problemas, comunicação clara e proativa para o trabalho à distância, autodisciplina no home office e facilidade para trabalhar em equipe.\r\n\r\nDiferenciais e Qualificações:\r\nSerá considerado um diferencial estar cursando ou ter concluído faculdade o…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-02T23:01:25Z",
-      "ultima_vista": "2026-11-03",
-      "expirada": false
     },
     {
       "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
@@ -13565,6 +13541,29 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-22",
       "expirada": true
+    },
+    {
+      "id": "58a25fd279de307759c7ece31dcccc02e29978c8",
+      "titulo": "HOME OFFICE - TÉCNICO DE SUPORTE DE TI / Helpdesk - AMBEV - (Obrigatório Enviar Currículo, Seguindo Descrição Da Vaga)",
+      "empresa": "AMBEV S/A",
+      "url": "https://www.infojobs.com.br/vaga-de-home-office-tecnico-suporte-ti-helpdesk-ambev-em-sao-paulo__12176862.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-02T08:56:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nProcesso seletivo:\r\nPara participar do processo seletivo, envie seu currículo atualizado, nome completo e tempo de experiência na área para e-mail; cervejariacultura (a) outlook.com, com o assunto Técnico de Suporte de TI Home Office. Após a análise, entraremos em contato com os candidatos selecionados.\r\n\r\nO Seu Dia a Dia:\r\nVocê irá auxiliar no [desenvolvimento de telas / execução de testes / análise de relatórios], garantindo a qualidade das entregas, documentar processos para manter nossos repositórios organizados e participar ativamente das reuniões diárias de alinhamento (Dailies) e planejamento da equipe. Também ficará sob sua responsabilidade investigar, reportar e ajudar a corrigir eventuais falhas (bugs) apontadas pelo time ou clientes, além de estudar e aplicar novas tecnologias sugeridas pelos profissionais seniores da equipe.\r\n\r\nO Que Buscamos:\r\nBuscamos profissionais com conhecimento teórico e prático básico em [Lógica de programação / HTML e CSS / SQL], que possuam projetos pessoais ou acadêmicos para demonstrar em um portfólio (como GitHub) e noções básicas de controle de versão com Git. É fundamental ter curiosidade intelectual, mentalidade focada na resolução de problemas, comunicação clara e proativa para o trabalho à distância, autodisciplina no home office e facilidade para trabalhar em equipe.\r\n\r\nDiferenciais e Qualificações:\r\nSerá considerado um diferencial estar cursando ou ter concluído faculdade o…",
+      "score": 25,
+      "skills_match": [
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-02T23:01:25Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
     },
     {
       "id": "b4fa2242facbaaf30cc0dbef5da266d473b3c367",
