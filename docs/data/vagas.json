@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03T09:02:45Z",
+  "atualizado_em": "2026-11-03T11:02:38Z",
   "total": 584,
   "vagas": [
     {
@@ -291,14 +291,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -311,7 +311,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -3519,14 +3519,19 @@
       "score": 55,
       "skills_match": [
         "React",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
       ],
       "lacunas": [
         "Next.js",
         "PostgreSQL",
         "Testes automatizados"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-19T23:01:35Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -10837,14 +10842,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11129,6 +11134,27 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "2fc491a7833e4575c053dacd231c99eebc79aaf0",
+      "titulo": "Desenvolvedor Javascript Fullstack",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5951057903?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T22:27:03Z",
+      "descricao": "Estamos contratando Desenvolvedor JavaScript Fullstack para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Desenvolver aplicações em Java usando SpringBoot e J2EE; - Criar aplicações consultando APIs desenvolvidas em Java; - Montar ambiente de integração com legados; - Conhecimento em WSDL para consumo de dados; - …",
+      "score": 30,
+      "skills_match": [
+        "JavaScript",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:00:41Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
     },
     {
       "id": "486725198fd713755ea9a712f7e86720ccdde4e5",
@@ -12885,27 +12911,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T01:01:01Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "2fc491a7833e4575c053dacd231c99eebc79aaf0",
-      "titulo": "Desenvolvedor Javascript Fullstack",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913084950?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:54:47Z",
-      "descricao": "Estamos contratando Desenvolvedor JavaScript Fullstack para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Desenvolver aplicações em Java usando SpringBoot e J2EE; - Criar aplicações consultando APIs desenvolvidas em Java; - Montar ambiente de integração com legados; - Conhecimento em WSDL para consumo de dados; - …",
-      "score": 30,
-      "skills_match": [
-        "JavaScript",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T09:00:41Z",
       "ultima_vista": "2026-10-08",
       "expirada": true
     },
