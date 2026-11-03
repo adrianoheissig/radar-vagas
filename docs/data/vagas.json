@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03T01:02:49Z",
+  "atualizado_em": "2026-11-03T02:53:19Z",
   "total": 583,
   "vagas": [
     {
@@ -445,6 +445,58 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "54445c7ebb6a4125983a3cb5bd3d680369ab4e24",
+      "titulo": "Desenvolvedor Front-end Pleno",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5951056075?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-02T22:25:54Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Angular e/ou React; - HTML; - CSS; - Javascript. Atuação 100% remota. Tem interesse? “Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas” Tipo de vaga: Tempo …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T01:00:49Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
+      "id": "391637c26c32eb11855415c2ad925f3fb2194cc9",
+      "titulo": "Desenvolvedor PHP",
+      "empresa": "Peak One Dev",
+      "url": "https://www.adzuna.com.br/details/5951055055?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T22:25:15Z",
+      "descricao": "Welcome to Peak One In this role, you’ll be collaborating with a growthing international startup, so excellent English communication skills are a must, as the client values direct communication with our developers. Responsibilities - Utilize extensive experience in PHP to develop robust backend systems. - Convert Figma designs into pixel-perfect HTML/CSS/JS code, adhering to design specifications. - Implement frontend functionality using React, Angular, or Vue.js, contributing to a smooth user …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Figma"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "PHP",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T01:00:49Z",
+      "ultima_vista": "2026-11-03",
       "expirada": false
     },
     {
@@ -956,58 +1008,6 @@
       "data_coleta": "2026-10-08T15:01:36Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
-    },
-    {
-      "id": "54445c7ebb6a4125983a3cb5bd3d680369ab4e24",
-      "titulo": "Desenvolvedor Front-end Pleno",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5913083073?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-05T21:54:38Z",
-      "descricao": "Estamos contratando Desenvolvedor Front-end Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Angular e/ou React; - HTML; - CSS; - Javascript. Atuação 100% remota. Tem interesse? “Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoas” Tipo de vaga: Tempo …",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T01:00:49Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "391637c26c32eb11855415c2ad925f3fb2194cc9",
-      "titulo": "Desenvolvedor PHP",
-      "empresa": "Peak One Dev",
-      "url": "https://www.adzuna.com.br/details/5913082096?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:54:32Z",
-      "descricao": "Welcome to Peak One In this role, you’ll be collaborating with a growthing international startup, so excellent English communication skills are a must, as the client values direct communication with our developers. Responsibilities - Utilize extensive experience in PHP to develop robust backend systems. - Convert Figma designs into pixel-perfect HTML/CSS/JS code, adhering to design specifications. - Implement frontend functionality using React, Angular, or Vue.js, contributing to a smooth user …",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "HTML",
-        "CSS",
-        "Figma"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "PHP",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T01:00:49Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": true
     },
     {
       "id": "4d467fe52107053211c4370ef2c5caebbcde798b",
@@ -3489,19 +3489,12 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "APIs REST"
       ],
       "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Testes automatizados"
+        "PostgreSQL"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -5969,6 +5962,26 @@
       "expirada": true
     },
     {
+      "id": "dae9851889c6aaf5d67b9220a6c9b268bc0df49a",
+      "titulo": "Desenvolvedor Front End - Angular",
+      "empresa": "Itaú",
+      "url": "https://www.adzuna.com.br/details/5951058020?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T22:27:07Z",
+      "descricao": "Vem construir a área de tecnologia Itaú_ Somos o Maior banco da América Latina, a marca mais valiosa do Brasil e a segunda melhor empresa para trabalhar segundo o ranking da Great Place to Work US 2021, estamos presentes em 18 países impactando diariamente mais de 55 milhões de clientes através dos nossos produtos e soluções. Queremos ser uma empresa onde pessoas de todos os gêneros, raça, idade, orientação sexual e com deficiência escolham para se desenvolver, com diversidade em clientes, tecn…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:00:57Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
       "id": "15dfb7481279bdbb18f6f443e483e78ead8add0e",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "INEX",
@@ -7010,26 +7023,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-10-09",
-      "expirada": true
-    },
-    {
-      "id": "dae9851889c6aaf5d67b9220a6c9b268bc0df49a",
-      "titulo": "Desenvolvedor Front End - Angular",
-      "empresa": "Itaú",
-      "url": "https://www.adzuna.com.br/details/5913085186?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:54:48Z",
-      "descricao": "Vem construir a área de tecnologia Itaú_ Somos o Maior banco da América Latina, a marca mais valiosa do Brasil e a segunda melhor empresa para trabalhar segundo o ranking da Great Place to Work US 2021, estamos presentes em 18 países impactando diariamente mais de 55 milhões de clientes através dos nossos produtos e soluções. Queremos ser uma empresa onde pessoas de todos os gêneros, raça, idade, orientação sexual e com deficiência escolham para se desenvolver, com diversidade em clientes, tecn…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T09:00:57Z",
-      "ultima_vista": "2026-10-07",
       "expirada": true
     },
     {
@@ -11111,6 +11104,32 @@
       "expirada": true
     },
     {
+      "id": "486725198fd713755ea9a712f7e86720ccdde4e5",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Futura Sistemas",
+      "url": "https://www.adzuna.com.br/details/5951057607?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T22:26:52Z",
+      "descricao": "Responsabilidades: Desenvolvimento e manutenção de aplicações web; Realizar a manutenção e criação de novas funcionalidades; Desenvolvimento de funcionalidades no Front-End; Desenvolvimento de APIs de integração. Requisitos: Ter 4 anos de experiência React.js, React Hooks, javascript, html, css, git. Diferenciais: - Conhecimentos em conceitos S.O.L.I.D; - Conhecimentos em Vanilla JS (es6); - Gerenciamento de estado com Redux e Context API; - Otimização de desempenho de componentes React; - Cons…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux"
+      ],
+      "experiencia_exigida": 4,
+      "data_coleta": "2026-10-06T09:00:57Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
       "id": "de3d1575581cdbf8044b932a4e07bf4611509639",
       "titulo": "AI Engineer / Forward Deployed Engineer (FDE)",
       "empresa": "Huntin",
@@ -12861,32 +12880,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T09:00:41Z",
       "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "486725198fd713755ea9a712f7e86720ccdde4e5",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "Futura Sistemas",
-      "url": "https://www.adzuna.com.br/details/5913084560?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:54:46Z",
-      "descricao": "Responsabilidades: Desenvolvimento e manutenção de aplicações web; Realizar a manutenção e criação de novas funcionalidades; Desenvolvimento de funcionalidades no Front-End; Desenvolvimento de APIs de integração. Requisitos: Ter 4 anos de experiência React.js, React Hooks, javascript, html, css, git. Diferenciais: - Conhecimentos em conceitos S.O.L.I.D; - Conhecimentos em Vanilla JS (es6); - Gerenciamento de estado com Redux e Context API; - Otimização de desempenho de componentes React; - Cons…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux"
-      ],
-      "experiencia_exigida": 4,
-      "data_coleta": "2026-10-06T09:00:57Z",
-      "ultima_vista": "2026-10-06",
       "expirada": true
     },
     {
