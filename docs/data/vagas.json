@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-03T05:02:55Z",
-  "total": 583,
+  "atualizado_em": "2026-11-03T07:02:36Z",
+  "total": 584,
   "vagas": [
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
@@ -3489,19 +3489,12 @@
       "skills_match": [
         "React",
         "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
+        "APIs REST"
       ],
       "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "Testes automatizados"
+        "PostgreSQL"
       ],
-      "experiencia_exigida": 1,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-19T21:01:41Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
@@ -5192,6 +5185,30 @@
       "expirada": true
     },
     {
+      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
+      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5950268066?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-02T02:49:44Z",
+      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
+      "score": 50,
+      "skills_match": [
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
       "id": "7cb4a467fb2248a57b13611b9d0d94d8e09edea7",
       "titulo": "Desenvolvedor(a) Fullstack PL - Node.js / React | Remoto",
       "empresa": "Objective",
@@ -5319,30 +5336,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T07:00:57Z",
       "ultima_vista": "2026-11-03",
-      "expirada": false
-    },
-    {
-      "id": "a9d8c50c1825488279e0fc89ddaa085625bd70de",
-      "titulo": "Desenvolvedor Mobile Flutter Ou React Native | Trabalho Remoto | Contrato PJ - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5942013340?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-26T02:47:39Z",
-      "descricao": "ATRIBUIÇÕES: Atribuições: Desenvolvimento e manutenção de aplicações mobile; Desenvolvimento de funcionalidades no Front-End; Aplicar melhores práticas de testes e de qualidade de software; Aplicar melhores práticas de documentação de código desenvolvido; Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas; Apoiar nas definições técnicas e na melhoria contínua da arquitetura técnica. REQUISITOS: Requisitos: Flutter ou React Native; Node.JS; Linguaguem SQL; Javascript…",
-      "score": 50,
-      "skills_match": [
-        "JavaScript",
-        "Node.js",
-        "SQL"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-29",
       "expirada": false
     },
     {
@@ -5989,6 +5982,55 @@
       "expirada": false
     },
     {
+      "id": "f2f848f9158bdcf2bf47c6121e453010d7c6fcf5",
+      "titulo": "Desenvolvedor(a) Full Stack Júnior / Pleno (Angular C# .NET SQL)",
+      "empresa": "GOL Linhas Aéreas",
+      "url": "https://www.adzuna.com.br/details/5951046415?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T22:19:57Z",
+      "descricao": "Para esta vaga, estamos em busca de profissionais com experiência como desenvolvedor. Em seu plano de voo, está prevista uma interação com P.O.s (Product Owner de TI) que atendem projetos e demandas das áreas de Backoffice (Recursos Humanos, Auditoria Interna, Compliance, Financeiro, Revenue, Faturamento e Jurídico). Responsabilidades e atribuições: - Os desafios que aguardam por você no próximo destino são: - Realizar o planejamento e execução dos cards nas sprints; - Garantir o escopo solicit…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T09:01:09Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
+      "id": "e6cd86829bb527c724e9fe08b23f930e2ae1c126",
+      "titulo": "Desenvolvedor(a) Fullstack Snior | .NET & Angular | English Required",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5950287469?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-02T03:18:41Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Fullstack Sênior para atuar em projetos internacionais, colaborando com equipes globais no desenvolvimento e evolução de aplicações corporativas modernas. Essa posição terá papel fundamental na construção de soluções end-to-end utilizando C#/.NET, Python e Angular, contribuindo para a inovação, transformação digital e entrega de valor aos clientes por meio de tecnologias modernas e boas práticas de desenvolvimento. Na Avanade, você terá a oportunidade …",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "Python",
+        "C#",
+        ".NET",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-03T07:01:05Z",
+      "ultima_vista": "2026-11-03",
+      "expirada": false
+    },
+    {
       "id": "15dfb7481279bdbb18f6f443e483e78ead8add0e",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "INEX",
@@ -6015,28 +6057,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-05T07:01:05Z",
-      "ultima_vista": "2026-11-03",
-      "expirada": false
-    },
-    {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C#Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5949472534?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-01T12:48:23Z",
-      "descricao": "IT Analyst III (C#Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contínua…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-11-03",
       "expirada": false
     },
@@ -6300,6 +6320,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T03:00:57Z",
       "ultima_vista": "2026-10-30",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5944764411?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T14:11:17Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contín…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-11-03",
       "expirada": false
     },
     {
@@ -7030,30 +7072,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T01:00:55Z",
       "ultima_vista": "2026-10-09",
-      "expirada": true
-    },
-    {
-      "id": "f2f848f9158bdcf2bf47c6121e453010d7c6fcf5",
-      "titulo": "Desenvolvedor(a) Full Stack Júnior / Pleno (Angular C# .NET SQL)",
-      "empresa": "GOL Linhas Aéreas",
-      "url": "https://www.adzuna.com.br/details/5913073902?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-05T21:53:37Z",
-      "descricao": "Para esta vaga, estamos em busca de profissionais com experiência como desenvolvedor. Em seu plano de voo, está prevista uma interação com P.O.s (Product Owner de TI) que atendem projetos e demandas das áreas de Backoffice (Recursos Humanos, Auditoria Interna, Compliance, Financeiro, Revenue, Faturamento e Jurídico). Responsabilidades e atribuições: - Os desafios que aguardam por você no próximo destino são: - Realizar o planejamento e execução dos cards nas sprints; - Garantir o escopo solicit…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "SQL"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T09:01:09Z",
-      "ultima_vista": "2026-10-07",
       "expirada": true
     },
     {
@@ -10817,14 +10835,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
