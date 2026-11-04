@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T05:02:21Z",
+  "atualizado_em": "2026-11-04T07:02:28Z",
   "total": 584,
   "vagas": [
     {
@@ -263,6 +263,35 @@
       "expirada": true
     },
     {
+      "id": "bef7618c734281029c08196956c00c8bc8514a1b",
+      "titulo": "Desenvolvedor Frontend Pleno Remoto Next e",
+      "empresa": "FourHands Brasil",
+      "url": "https://www.adzuna.com.br/details/5952244056?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Serra, Espirito Santo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-03T22:50:18Z",
+      "descricao": "Desenvolvimento - Remoto Descrição da vaga: Habilidades: Next e TypeScript ou Node e React Conhecimento e uso de bibliotecas como React e React Native; Experiência em TypeScrip, Git e repositório de versionamento. Proficiência em SQL em pelo menos um banco de dados relacional (MySQL, SQL Server, PostgreSQL). Fortes habilidades em resolução de problemas complexos e habilidades analíticas. Capacidade de ser autodidata e aprender rapidamente. Foco total na entrega acordada. Qualidade do código esc…",
+      "score": 75,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "SQL",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "PostgreSQL",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T03:00:46Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
       "id": "8eb39427f3a0f34127099dc0bc640e8255644060",
       "titulo": "Programador de Software - Pleno",
       "empresa": "Grupo Top Brasil Rh",
@@ -343,35 +372,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:11Z",
       "ultima_vista": "2026-10-11",
-      "expirada": true
-    },
-    {
-      "id": "bef7618c734281029c08196956c00c8bc8514a1b",
-      "titulo": "Desenvolvedor Frontend Pleno Remoto Next e",
-      "empresa": "FourHands Brasil",
-      "url": "https://www.adzuna.com.br/details/5914631882?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Serra, Espirito Santo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-06T21:52:23Z",
-      "descricao": "Desenvolvimento - Remoto Descrição da vaga: Habilidades: Next e TypeScript ou Node e React Conhecimento e uso de bibliotecas como React e React Native; Experiência em TypeScrip, Git e repositório de versionamento. Proficiência em SQL em pelo menos um banco de dados relacional (MySQL, SQL Server, PostgreSQL). Fortes habilidades em resolução de problemas complexos e habilidades analíticas. Capacidade de ser autodidata e aprender rapidamente. Foco total na entrega acordada. Qualidade do código esc…",
-      "score": 75,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "SQL",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "PostgreSQL",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T03:00:46Z",
-      "ultima_vista": "2026-10-08",
       "expirada": true
     },
     {
@@ -2512,6 +2512,33 @@
       "expirada": true
     },
     {
+      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
+      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5952632223?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-04T03:00:01Z",
+      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL",
+        "AWS",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-16T11:22:36Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
       "id": "5821d801cd3b885591347d47174f52b72842d2b0",
       "titulo": "Pessoa Desenvolvedora Front-end React Pleno",
       "empresa": "GeekHunter",
@@ -2965,33 +2992,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:44Z",
       "ultima_vista": "2026-11-04",
-      "expirada": false
-    },
-    {
-      "id": "b7d0ead2a5d29e8d2f1f751bbc9d9b5b775bc996",
-      "titulo": "DESENVOLVEDOR FULL - STACK - CLAUDE CODE, NEXT.JS - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5945345052?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-29T02:47:31Z",
-      "descricao": "ATRIBUIÇÕES: Habilidades Necessárias: Next.js, Claude Code, PostgreSQL, APIs RESTful, AWS, React.js, TypeScript REQUISITOS: Senioridade: 2 a 3 anos de experiência | Nível de Inglês: C1 JORNADA: Modelo de Trabalho: Curto prazo · 3 meses · 40h/semana BENEFÍCIOS: Remoto Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL",
-        "AWS",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-10-30",
       "expirada": false
     },
     {
@@ -11098,6 +11098,33 @@
       "expirada": true
     },
     {
+      "id": "65fc9a7399367fc3417c5f948c60592275410a51",
+      "titulo": "Desenvolvedor(a) Web Vtex Io",
+      "empresa": "SERI.E DESIGN",
+      "url": "https://www.adzuna.com.br/details/5952242747?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-03T22:49:49Z",
+      "descricao": "Responsabilidades: Compreender e implementar os projetos, com suas particularidades e o layout proposto, utilizando-se das melhores práticas em HTML, CSS e JAVASCRIPT (e suas bibliotecas, principalmente React e Jquery), além de outras linguagens como PHP, Laravel, Twig etc.; Garantir o cumprimento dos prazos de entrega previamente definidos; Comprometer-se com a excelente qualidade visual, desempenho, fluxo e funcionamento dos projetos e funcionalidades nos diversos navegadores, dispositivos e …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "jQuery",
+        "PHP",
+        "Laravel"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
       "id": "086bef3c03ed02967f9c56764292233b218ea734",
       "titulo": "Desenvolvedor Front-end React",
       "empresa": "Digital Interactions",
@@ -12847,33 +12874,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T07:01:04Z",
       "ultima_vista": "2026-10-16",
-      "expirada": true
-    },
-    {
-      "id": "65fc9a7399367fc3417c5f948c60592275410a51",
-      "titulo": "Desenvolvedor(a) Web Vtex Io",
-      "empresa": "SERI.E DESIGN",
-      "url": "https://www.adzuna.com.br/details/5914629650?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T21:52:12Z",
-      "descricao": "Responsabilidades: Compreender e implementar os projetos, com suas particularidades e o layout proposto, utilizando-se das melhores práticas em HTML, CSS e JAVASCRIPT (e suas bibliotecas, principalmente React e Jquery), além de outras linguagens como PHP, Laravel, Twig etc.; Garantir o cumprimento dos prazos de entrega previamente definidos; Comprometer-se com a excelente qualidade visual, desempenho, fluxo e funcionamento dos projetos e funcionalidades nos diversos navegadores, dispositivos e …",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [
-        "jQuery",
-        "PHP",
-        "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T07:01:01Z",
-      "ultima_vista": "2026-10-09",
       "expirada": true
     },
     {
