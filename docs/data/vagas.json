@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T11:02:45Z",
+  "atualizado_em": "2026-11-04T13:02:34Z",
   "total": 584,
   "vagas": [
     {
@@ -8032,11 +8032,11 @@
       "id": "640ea0d0ae85dcfea2f7e2c9223731764e4fafb0",
       "titulo": "Laravel and React Developer (Latin America, Remote Position)",
       "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5952238457?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5952238395?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
+      "local": "Curitiba, Paraná",
       "modalidade": "remoto",
-      "data_publicacao": "2026-11-03T22:48:27Z",
+      "data_publicacao": "2026-11-03T22:48:26Z",
       "descricao": "What we are looking for: - 4 years of experience with Laravel, specifically with Laravel 8 and above. - Experience with: Eloquent ORM, Laravel Authentication, Laravel Query Builder. - Experience with testing tools, such as Pest PHP, PHPUnit, Laravel Dusk, Playwright. - Experience with Inertia.js and RESTful API in Laravel. - Experience with frontend development (React, Vue.js, Laravel Livewire, etc). - Experience with Tailwind CSS is a bonus. - Ability to take extreme ownership over your work. …",
       "score": 40,
       "skills_match": [
