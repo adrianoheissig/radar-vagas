@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T03:02:23Z",
+  "atualizado_em": "2026-11-04T05:02:21Z",
   "total": 584,
   "vagas": [
     {
@@ -7952,6 +7952,63 @@
       "expirada": true
     },
     {
+      "id": "8c41012dedfc60095b56017153a59e9720b7ddac",
+      "titulo": "Desenvolvedor(a) Full Stack",
+      "empresa": "Iterative",
+      "url": "https://www.adzuna.com.br/details/5952244621?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-03T22:50:33Z",
+      "descricao": "Experiência com as linguagens: Node, Javascript / ES6 e React; Autogerenciamento; Conhecimento de Bancos de Dados; Conhecimento de Infraestrutura Web, Git. Quais conhecimentos aumentam as chances: Docker, Python, pgSQL e experiência com AWS. Atuar com desenvolvimento Node",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
+      "id": "36a298f65c667cdd3cb7480e6705687a78f6d8c3",
+      "titulo": "Desenvolvedor Javascript",
+      "empresa": "CMV SEBR COMERCIO E IMPORTAÇÃO S/A",
+      "url": "https://www.adzuna.com.br/details/5952244636?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-03T22:50:33Z",
+      "descricao": "Desenvolver e testar aplicações dentro do ERP com linguagem Javascript e monitorar aplicações e garantir a funcionalidade das mesmas. Requisitos: - Conhecimentos em Javascript; - Conhecimentos em APIs RESTFul; - Experiência em desenvolvimento de aplicações Web; - Versionamento Git; - Autodidata na pesquisa por soluções; Desejável - Conhecimentos em PHP e do framework Laravel; - Conhecimentos em MySQL ou PostgreSql; - Conhecimento do ambiente Oracle Netsuite - Conhecimento em VueJS e ou React; -…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "APIs REST",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "PHP",
+        "Laravel",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
       "id": "4be36a2572c627601ab52441c61589b62105f014",
       "titulo": "Desenvolvedor(a) Front-end (React) - Pleno Remoto",
       "empresa": "Tecla T",
@@ -7995,6 +8052,26 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T03:00:54Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
+    },
+    {
+      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
+      "titulo": "Typescript Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5952224819?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-03T22:43:42Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:08Z",
       "ultima_vista": "2026-11-04",
       "expirada": false
     },
@@ -9118,26 +9195,6 @@
       "expirada": true
     },
     {
-      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
-      "titulo": "Typescript Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5926407130?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Santo André, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-13T21:51:54Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:08Z",
-      "ultima_vista": "2026-10-15",
-      "expirada": true
-    },
-    {
       "id": "e10b18785fb1580db36f37b3c28701a413fd2292",
       "titulo": "Engenheiro React Native - Trabalho Remoto",
       "empresa": "BairesDev",
@@ -9509,63 +9566,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:56Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "8c41012dedfc60095b56017153a59e9720b7ddac",
-      "titulo": "Desenvolvedor(a) Full Stack",
-      "empresa": "Iterative",
-      "url": "https://www.adzuna.com.br/details/5914633091?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T21:52:29Z",
-      "descricao": "Experiência com as linguagens: Node, Javascript / ES6 e React; Autogerenciamento; Conhecimento de Bancos de Dados; Conhecimento de Infraestrutura Web, Git. Quais conhecimentos aumentam as chances: Docker, Python, pgSQL e experiência com AWS. Atuar com desenvolvimento Node",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Node.js",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T07:01:01Z",
-      "ultima_vista": "2026-10-08",
-      "expirada": true
-    },
-    {
-      "id": "36a298f65c667cdd3cb7480e6705687a78f6d8c3",
-      "titulo": "Desenvolvedor Javascript",
-      "empresa": "CMV SEBR COMERCIO E IMPORTAÇÃO S/A",
-      "url": "https://www.adzuna.com.br/details/5914633018?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T21:52:29Z",
-      "descricao": "Desenvolver e testar aplicações dentro do ERP com linguagem Javascript e monitorar aplicações e garantir a funcionalidade das mesmas. Requisitos: - Conhecimentos em Javascript; - Conhecimentos em APIs RESTFul; - Experiência em desenvolvimento de aplicações Web; - Versionamento Git; - Autodidata na pesquisa por soluções; Desejável - Conhecimentos em PHP e do framework Laravel; - Conhecimentos em MySQL ou PostgreSql; - Conhecimento do ambiente Oracle Netsuite - Conhecimento em VueJS e ou React; -…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "APIs REST",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "PHP",
-        "Laravel",
-        "PostgreSQL",
-        "Oracle"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T07:01:01Z",
       "ultima_vista": "2026-10-08",
       "expirada": true
     },
@@ -11096,6 +11096,31 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "086bef3c03ed02967f9c56764292233b218ea734",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Digital Interactions",
+      "url": "https://www.adzuna.com.br/details/5952242566?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-03T22:49:44Z",
+      "descricao": "Experiência: - Experiência sólida em desenvolvimento Front-End com ReactJS; - Familiaridade com ferramentas de controle de versão, como Git; - Capacidade de traduzir designs em interfaces de usuário visualmente atraentes; - Experiência com frameworks e bibliotecas relacionadas ao React, como Redux, Next.JS; - Familiaridade com metodologias ágeis de desenvolvimento de software; - Habilidades de resolução de problemas e depuração; - Habilidades de comunicação e capacidade de trabalhar em equipe. …",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-07T07:01:01Z",
+      "ultima_vista": "2026-11-04",
+      "expirada": false
     },
     {
       "id": "3a0bb0c7cf9a1499b4b7a2bacf97ad74c79a33bc",
@@ -12845,31 +12870,6 @@
         "jQuery",
         "PHP",
         "Laravel"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-07T07:01:01Z",
-      "ultima_vista": "2026-10-09",
-      "expirada": true
-    },
-    {
-      "id": "086bef3c03ed02967f9c56764292233b218ea734",
-      "titulo": "Desenvolvedor Front-end React",
-      "empresa": "Digital Interactions",
-      "url": "https://www.adzuna.com.br/details/5914629364?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-06T21:52:10Z",
-      "descricao": "Experiência: - Experiência sólida em desenvolvimento Front-End com ReactJS; - Familiaridade com ferramentas de controle de versão, como Git; - Capacidade de traduzir designs em interfaces de usuário visualmente atraentes; - Experiência com frameworks e bibliotecas relacionadas ao React, como Redux, Next.JS; - Familiaridade com metodologias ágeis de desenvolvimento de software; - Habilidades de resolução de problemas e depuração; - Habilidades de comunicação e capacidade de trabalhar em equipe. …",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Redux"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-07T07:01:01Z",
