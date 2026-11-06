@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-11-06T05:02:14Z",
-  "total": 587,
+  "atualizado_em": "2026-11-06T07:02:43Z",
+  "total": 588,
   "vagas": [
+    {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "DESENVOLVEDORES JAVA/ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5954221377?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-05T09:59:45Z",
+      "descricao": "Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desejável experiên…",
+      "score": 80,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "MySQL"
+      ],
+      "lacunas": [
+        "Spring",
+        "Oracle",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
       "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
@@ -379,14 +409,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador De Software",
+      "titulo": "Programador de Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T14:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
+      "data_publicacao": "2026-10-20T22:20:26Z",
+      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
       "score": 75,
       "skills_match": [
         "React",
@@ -399,7 +429,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-06",
       "expirada": false
@@ -915,38 +945,6 @@
       "data_coleta": "2026-10-10T15:49:38Z",
       "ultima_vista": "2026-10-15",
       "expirada": true
-    },
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "Desenvolvedores JAVA /Angular",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5921397841?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-09T22:24:23Z",
-      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90 remoto Sólida experiência com desenvolvimento utilizando JAVA 11, Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS, Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate, Experiência com SQL Server, Oracle ou PostgreSQL, Imprescindível inglês avançado/fluente, Desejável experiência anterior em projetos globais, Atuação 90 remota, disponibilidade para eventuais atuações pres…",
-      "score": 70,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Sass",
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-11-06",
-      "expirada": false
     },
     {
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
@@ -1831,6 +1829,27 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-09T01:01:11Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
+      "id": "686077be5dab0d8dfc0a80619d503ca1064954d5",
+      "titulo": "Pessoa Desenvolvedora Full Stack Java (Angular)",
+      "empresa": "Mjv Innovation",
+      "url": "https://www.adzuna.com.br/details/5954536261?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T13:52:25Z",
+      "descricao": "Estamos em busca de uma Pessoa Desenvolvedora de Software Sênior para atuar no desenvolvimento e sustentação de aplicações, com foco em análise e resolução de problemas técnicos, observabilidade, estabilidade e performance de sistemas. Buscamos um profissional com sólida experiência em Java, que também possua conhecimentos em Angular para atuar em demandas de desenvolvimento Full Stack. É importante ter experiência com investigação de incidentes e ferramentas de observabilidade. Responsabilidad…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-06T07:01:08Z",
       "ultima_vista": "2026-11-06",
       "expirada": false
     },
@@ -10877,14 +10896,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
