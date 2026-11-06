@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-06T17:23:03Z",
-  "total": 588,
+  "atualizado_em": "2026-11-06T19:02:38Z",
+  "total": 589,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -6002,6 +6002,36 @@
       "expirada": true
     },
     {
+      "id": "b1f4d7ce75fd376c8ba48fafe90f270bacd85c88",
+      "titulo": "Pessoa Desenvolvedora Front End",
+      "empresa": "PAYTEC",
+      "url": "https://www.infojobs.com.br/vaga-de-pessoa-desenvolvedora-front-end-em-sao-paulo__12195301.aspx",
+      "fonte": "infojobs",
+      "local": "Barueri - SP",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-06T06:19:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSomos a Mobyan empresa destaque no desenvolvimento e implantação de soluções logísticas pautadas em tecnologia de ponta, atendendo grandes clientes com capilaridade nacional.\r\n\r\nEstamos em constante evolução- Aqui você encontrara pessoas diversas, colaborativas e engajadas. Todas dispostas a construir um ecossistema logístico de soluções cada vez mais tecnológico e sem fronteiras.\r\n\r\nA nossa área de conexões digitais é estratégica e cheias de desafios, está em fase de implantação e desenvolvimento de novos produtos. Estamos em busca de uma pessoa desenvolvedora front end para construir esta jornada conosco. \r\n\r\nRESPONSABILIDADES E ATRIBUIÇÕES\r\nComo será o seu dia a dia\r\n\r\nProjetar e desenvolver componentes Web;\r\nIndicar melhorias de processos no desenvolvimento de soluções e projetos;\r\nDesenvolver e sustentar aplicações Web (JavaScript, TypeScript, JQuery, Ajax, CSS, HTML, Aspx, React.js);\r\nRealizar testes unitários;\r\nCompartilhar experiências e conhecimento técnico com os colegas, condução de entrevistas.\r\nAtuar com versionamento de código usando Git.\r\n\r\nREQUISITOS E QUALIFICAÇÕES\r\nO que você precisa ter\r\n\r\nFormação em cursos e certificações da área. Processamento de Dados ou afins;\r\nExperiencia com desenvolvimento front.\r\nEstar familiarizado com integrações desenvolvidas em REST API;\r\nExperiência em trabalhar em ambiente Ágil;\r\nDesejável conhecimento em UX.\r\nSer resiliente para atuar em um ambiente dinâmico , colaborat…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "jQuery",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-11-06T19:01:47Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
@@ -10896,14 +10926,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
