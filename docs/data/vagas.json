@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-06T01:02:29Z",
+  "atualizado_em": "2026-11-06T01:29:47Z",
   "total": 587,
   "vagas": [
     {
@@ -293,6 +293,35 @@
       "expirada": true
     },
     {
+      "id": "5226306c00d490f1043066bc2ea523f7d6ded89b",
+      "titulo": "Líder Técnico",
+      "empresa": "4Solution Group",
+      "url": "https://www.adzuna.com.br/details/5954936137?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-05T22:12:33Z",
+      "descricao": "Código da Vaga:1445 Empresa: Área(s) de Atuação: TI - Projetos Descrição da Vaga: Período: 6 meses, com possibilidade de extensão a depender da evolução dos profissionais. 100% Remoto Requisitos: Habilidades Técnicas: Frontend: Angular (9.0 Web e 17.0 Mobile), Ionic, Bootstrap, Material UI; Backend: Node.js, Java, Firebase, Banco de dados Relacional (PostgreSQL); Conhecimentos: Git, GitHub Actions, Jenkins, NGINX, Openshift, Publicação nas lojas Apple/Google, Metodologias Ágeis (Scrum) e tradic…",
+      "score": 75,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Java",
+        "Firebase",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Bootstrap",
+        "PostgreSQL",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T01:01:11Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
       "id": "bef7618c734281029c08196956c00c8bc8514a1b",
       "titulo": "Desenvolvedor Frontend Pleno Remoto Next e",
       "empresa": "FourHands Brasil",
@@ -374,35 +403,6 @@
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-06",
       "expirada": false
-    },
-    {
-      "id": "5226306c00d490f1043066bc2ea523f7d6ded89b",
-      "titulo": "Líder Técnico",
-      "empresa": "4Solution Group",
-      "url": "https://www.adzuna.com.br/details/5919819653?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T21:51:44Z",
-      "descricao": "Código da Vaga:1445 Empresa: Área(s) de Atuação: TI - Projetos Descrição da Vaga: Período: 6 meses, com possibilidade de extensão a depender da evolução dos profissionais. 100% Remoto Requisitos: Habilidades Técnicas: Frontend: Angular (9.0 Web e 17.0 Mobile), Ionic, Bootstrap, Material UI; Backend: Node.js, Java, Firebase, Banco de dados Relacional (PostgreSQL); Conhecimentos: Git, GitHub Actions, Jenkins, NGINX, Openshift, Publicação nas lojas Apple/Google, Metodologias Ágeis (Scrum) e tradic…",
-      "score": 75,
-      "skills_match": [
-        "Angular",
-        "Node.js",
-        "Java",
-        "Firebase",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Bootstrap",
-        "PostgreSQL",
-        "CI/CD"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T01:01:11Z",
-      "ultima_vista": "2026-10-11",
-      "expirada": true
     },
     {
       "id": "6208fd5c0bbea53b326e374582ea5f54767c1ce9",
@@ -1397,6 +1397,33 @@
       "expirada": true
     },
     {
+      "id": "593c823f7b1c66d68161cfb4d0e01855accddaaa",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Actionline Brasil",
+      "url": "https://www.adzuna.com.br/details/5954950381?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:14:44Z",
+      "descricao": "A Toolkit está em busca de uma pessoa Desenvolvedora Full Stack para atuar em projetos que exigem visão de engenharia e curiosidade técnica. Buscamos alguém que pense em arquitetura, segurança, qualidade e manutenção. Alguém com autonomia para estruturar projetos do zero, investigar problemas e propor soluções. É importante ter experiência com React, Next.js, TypeScript, Node.js, desenvolvimento e integração com APIs, PostgreSQL ou MySQL e Git/GitHub. Experiência com cloud, infraestrutura, Dock…",
+      "score": 65,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-26T21:01:28Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
       "id": "6726963124bf3335e414a9b1ffe6575457eb40ea",
       "titulo": "DESENVOLVEDOR .NET",
       "empresa": "",
@@ -1442,33 +1469,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:01:03Z",
       "ultima_vista": "2026-11-06",
-      "expirada": false
-    },
-    {
-      "id": "593c823f7b1c66d68161cfb4d0e01855accddaaa",
-      "titulo": "Desenvolvedor Full Stack",
-      "empresa": "Actionline Brasil",
-      "url": "https://www.adzuna.com.br/details/5943562260?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-27T12:50:53Z",
-      "descricao": "A Toolkit está em busca de uma pessoa Desenvolvedora Full Stack para atuar em projetos que exigem visão de engenharia e curiosidade técnica. Buscamos alguém que pense em arquitetura, segurança, qualidade e manutenção. Alguém com autonomia para estruturar projetos do zero, investigar problemas e propor soluções. É importante ter experiência com React, Next.js, TypeScript, Node.js, desenvolvimento e integração com APIs, PostgreSQL ou MySQL e Git/GitHub. Experiência com cloud, infraestrutura, Dock…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "MySQL",
-        "Git"
-      ],
-      "lacunas": [
-        "Next.js",
-        "PostgreSQL"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-26T21:01:28Z",
-      "ultima_vista": "2026-10-30",
       "expirada": false
     },
     {
@@ -1812,6 +1812,27 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "1672226ec02fbe2f366e12c0f2a24ec566a1346e",
+      "titulo": "Engenharia de Software Fullstack Pleno - Java/angular Recuperação Pf",
+      "empresa": "Itaú",
+      "url": "https://www.adzuna.com.br/details/5954911304?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:10:11Z",
+      "descricao": "Sobre o Itaú Unibanco O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das di…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T01:01:11Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
     },
     {
       "id": "d7fc681e1f7b00f5704fc5b243146d2efb626f0d",
@@ -2163,27 +2184,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-10-12",
-      "expirada": true
-    },
-    {
-      "id": "1672226ec02fbe2f366e12c0f2a24ec566a1346e",
-      "titulo": "Engenharia de Software Fullstack Pleno - Java/angular Recuperação Pf",
-      "empresa": "Itaú",
-      "url": "https://www.adzuna.com.br/details/5919805919?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T21:49:37Z",
-      "descricao": "Sobre o Itaú Unibanco O Itaú é a marca mais valiosa do Brasil, a melhor empresa para trabalhar segundo o Great Place to Work e o maior banco da América Latina. Nós impactamos diariamente mais de 98 milhões de clientes em 18 países. Somos feitos de pessoas e acreditamos que ter um time com pluralidade de origens, culturas, crenças, experiências, raças, deficiências, gêneros, orientações afetivo-sexuais e gerações ampliam as perspectivas e contribuem para um clima de respeito e valorização das di…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T01:01:11Z",
-      "ultima_vista": "2026-10-10",
       "expirada": true
     },
     {
@@ -2669,7 +2669,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-05",
+      "ultima_vista": "2026-11-06",
       "expirada": false
     },
     {
@@ -5206,6 +5206,31 @@
       "expirada": true
     },
     {
+      "id": "8dd21668dbf5b5a09559db31d01311fe36daf997",
+      "titulo": "Desenvolvedor Node Js",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5954941820?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-05T22:13:08Z",
+      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Node.Js; - Typescript; - Jest; - AWS; - Metodologias Ágeis. Atuação 100% remoto. Tem interesse? - Typescript; - Jest; - AWS; - Metodologias Ágeis. São feitas por uma equipe de pessoas”",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T01:01:19Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
       "id": "c4364f1d7be5fb4b34187289bb3c91ee325e6aa0",
       "titulo": "Desenvolvedor Mobile (React Native E Node.Js)",
       "empresa": "",
@@ -5638,31 +5663,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-19T11:00:56Z",
       "ultima_vista": "2026-10-15",
-      "expirada": true
-    },
-    {
-      "id": "8dd21668dbf5b5a09559db31d01311fe36daf997",
-      "titulo": "Desenvolvedor Node Js",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5919823043?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-08T21:52:15Z",
-      "descricao": "Estamos contratando Desenvolvedor Back-end Node.js para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - Node.Js; - Typescript; - Jest; - AWS; - Metodologias Ágeis. Atuação 100% remoto. Tem interesse? - Typescript; - Jest; - AWS; - Metodologias Ágeis. São feitas por uma equipe de pessoas”",
-      "score": 50,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T01:01:19Z",
-      "ultima_vista": "2026-10-10",
       "expirada": true
     },
     {
@@ -11145,6 +11145,93 @@
       "expirada": true
     },
     {
+      "id": "cf0b3f2e76c66cfa3ce022f92bd49684908e0f2e",
+      "titulo": "Desenvolvedor(a) Front End Júnior",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5954944736?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:13:28Z",
+      "descricao": "Frontend HTML5, CSS3, React, Java Script e Type Script - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos Informática: - HTML - Intermediário - Obrigatório - CSS3 - Intermediário - Obrigatório - React - Intermediário - Obrigatório - Java Script - Intermediário - Obrigatório - Type Script - Intermed…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
+      "id": "0eae0ac6156ebebbf2ddebd4d0c606d7ce08dd21",
+      "titulo": "Desenvolvedor(a) Java",
+      "empresa": "IBM",
+      "url": "https://www.adzuna.com.br/details/5954942591?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:13:14Z",
+      "descricao": "Introduction Have you ever thought about making history in the customer service area of the world's largest technology consulting company? Diversity is not just a strategic priority, it is part of our set of values. We believe that valuing diversity allows us to see differences as an opportunity instead of barriers, ensuring conditions for the full development of our professionals and, also, for society. Your Role and Responsibilities Nesta função, você trabalhará em nosso IBM Client Innovation…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T09:01:07Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
+      "id": "6450bf18169fe5da082126a9de5ce0b18096db5b",
+      "titulo": "Desenvolvedor Front-end Junior/pleno",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5954940096?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:12:56Z",
+      "descricao": "Estamos contratando Desenvolvedor Front-end Junior/Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - ReactJS e NextJS para web; - Hooks (useState, useEffect, etc) e saber criar novos hooks; - Redux e Context API para gerenciamento de estados globais; - Ideia de componentização para que consiga ter um reapro…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
+      "id": "50a3b770ff0f5603072a5313d8944b609a4a25c7",
+      "titulo": "Desenvolvedor Back End Pleno (Java)",
+      "empresa": "GREEN NET INSTITUICAO DE PAGAMENTO LTDA",
+      "url": "https://www.adzuna.com.br/details/5954914170?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-05T22:10:24Z",
+      "descricao": "Descrição da Vaga: Estamos em busca de uma pessoa para atuar no time de Tecnologia (Frete e Pagamentos), com foco em desenvolvimento e evolucao de aplicacoes backend em Java, sendo importante ter curiosidade para aprender, boa comunicacao e colaboracao com outros times. Nesta posicao voce sera responsável por apoiar a construcao e manutencao de APIs e servicos em Java, contribuindo com evolucoes técnicas e migracao para arquitetura de microservicos, em um ambiente com suporte proximo de pessoas…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-09T07:00:56Z",
+      "ultima_vista": "2026-11-06",
+      "expirada": false
+    },
+    {
       "id": "0a1b596061af41a5a6fc50f622e31f8962f2024e",
       "titulo": "Founding Engineer (Python / FastAPI / Next.js), Supply Chain SaaS",
       "empresa": "Sierra Studio",
@@ -12771,93 +12858,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:28Z",
       "ultima_vista": "2026-10-11",
-      "expirada": true
-    },
-    {
-      "id": "cf0b3f2e76c66cfa3ce022f92bd49684908e0f2e",
-      "titulo": "Desenvolvedor(a) Front End Júnior",
-      "empresa": "Gateware",
-      "url": "https://www.adzuna.com.br/details/5919825009?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T21:52:33Z",
-      "descricao": "Frontend HTML5, CSS3, React, Java Script e Type Script - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos Informática: - HTML - Intermediário - Obrigatório - CSS3 - Intermediário - Obrigatório - React - Intermediário - Obrigatório - Java Script - Intermediário - Obrigatório - Type Script - Intermed…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-11",
-      "expirada": true
-    },
-    {
-      "id": "0eae0ac6156ebebbf2ddebd4d0c606d7ce08dd21",
-      "titulo": "Desenvolvedor(a) Java",
-      "empresa": "IBM",
-      "url": "https://www.adzuna.com.br/details/5919823633?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T21:52:21Z",
-      "descricao": "Introduction Have you ever thought about making history in the customer service area of the world's largest technology consulting company? Diversity is not just a strategic priority, it is part of our set of values. We believe that valuing diversity allows us to see differences as an opportunity instead of barriers, ensuring conditions for the full development of our professionals and, also, for society. Your Role and Responsibilities Nesta função, você trabalhará em nosso IBM Client Innovation…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T09:01:07Z",
-      "ultima_vista": "2026-10-10",
-      "expirada": true
-    },
-    {
-      "id": "6450bf18169fe5da082126a9de5ce0b18096db5b",
-      "titulo": "Desenvolvedor Front-end Junior/pleno",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5919822109?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T21:52:06Z",
-      "descricao": "Estamos contratando Desenvolvedor Front-end Junior/Pleno para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - ReactJS e NextJS para web; - Hooks (useState, useEffect, etc) e saber criar novos hooks; - Redux e Context API para gerenciamento de estados globais; - Ideia de componentização para que consiga ter um reapro…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Redux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-10",
-      "expirada": true
-    },
-    {
-      "id": "50a3b770ff0f5603072a5313d8944b609a4a25c7",
-      "titulo": "Desenvolvedor Back End Pleno (Java)",
-      "empresa": "GREEN NET INSTITUICAO DE PAGAMENTO LTDA",
-      "url": "https://www.adzuna.com.br/details/5919807432?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-08T21:49:52Z",
-      "descricao": "Descrição da Vaga: Estamos em busca de uma pessoa para atuar no time de Tecnologia (Frete e Pagamentos), com foco em desenvolvimento e evolucao de aplicacoes backend em Java, sendo importante ter curiosidade para aprender, boa comunicacao e colaboracao com outros times. Nesta posicao voce sera responsável por apoiar a construcao e manutencao de APIs e servicos em Java, contribuindo com evolucoes técnicas e migracao para arquitetura de microservicos, em um ambiente com suporte proximo de pessoas…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-09T07:00:56Z",
-      "ultima_vista": "2026-10-10",
       "expirada": true
     },
     {
