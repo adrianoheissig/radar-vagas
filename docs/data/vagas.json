@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-07T05:02:37Z",
+  "atualizado_em": "2026-11-07T07:02:40Z",
   "total": 589,
   "vagas": [
     {
@@ -30,36 +30,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:01:07Z",
       "ultima_vista": "2026-11-07",
-      "expirada": false
-    },
-    {
-      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
-      "titulo": "Desenvolvedores JAVA/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5953910612?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-05T03:46:00Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desej…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-11-06",
       "expirada": false
     },
     {
@@ -505,6 +475,38 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
+      "expirada": false
+    },
+    {
+      "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
+      "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5956536239?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-07T02:51:16Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA 11; Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS; Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate; Experiência com SQL Server, Oracle ou PostgreSQL; Imprescindível inglês avançado/fluente; Desejável experiência anterior em projetos globais; Atuação 90% remota, disponibilidade para eventuai…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
+      "ultima_vista": "2026-11-07",
       "expirada": false
     },
     {
@@ -1812,6 +1814,27 @@
       "expirada": true
     },
     {
+      "id": "b0abbfc031bee565a12df83dbe241d3b980d8d72",
+      "titulo": "Pgx Anl Ti Pl",
+      "empresa": "SMB Getnet Technology And Operations Brasil LTDA",
+      "url": "https://www.adzuna.com.br/details/5956207905?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-06T23:03:59Z",
+      "descricao": "PGX ANL TI PL Country: Brazil Desenvolvedor Fullstack Pleno: Responsabilidades: - Desenvolver código em Front-end Angular e Back-end Java para um App do mercado financeiro, seguindo especificações técnicas definidas pela equipe; - Participar de revisões de código (code reviews) e aplicar boas práticas de arquitetura e componentização com orientação do time sênior. Experiência e conhecimentos necessários: - Mínimo de 3 anosem desenvolvimento com Java 8 ou superior; - Mínimo de 3 anosem desenvolv…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
       "id": "1672226ec02fbe2f366e12c0f2a24ec566a1346e",
       "titulo": "Engenharia de Software Fullstack Pleno - Java/angular Recuperação Pf",
       "empresa": "Itaú",
@@ -2185,27 +2208,6 @@
       "expirada": true
     },
     {
-      "id": "b0abbfc031bee565a12df83dbe241d3b980d8d72",
-      "titulo": "Pgx Anl Ti Pl",
-      "empresa": "SMB Getnet Technology And Operations Brasil LTDA",
-      "url": "https://www.adzuna.com.br/details/5921344120?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-09T21:50:30Z",
-      "descricao": "PGX ANL TI PL Country: Brazil Desenvolvedor Fullstack Pleno: Responsabilidades: - Desenvolver código em Front-end Angular e Back-end Java para um App do mercado financeiro, seguindo especificações técnicas definidas pela equipe; - Participar de revisões de código (code reviews) e aplicar boas práticas de arquitetura e componentização com orientação do time sênior. Experiência e conhecimentos necessários: - Mínimo de 3 anosem desenvolvimento com Java 8 ou superior; - Mínimo de 3 anosem desenvolv…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-10-12",
-      "expirada": true
-    },
-    {
       "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
       "titulo": "Fullstack Developer Java Angular - SP",
       "empresa": "Decision group",
@@ -2546,6 +2548,28 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T13:01:02Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
+      "id": "7642774468d9492d7b701deaf9e6206ae696e8de",
+      "titulo": "Dev Full Stack Angular Node",
+      "empresa": "MJV",
+      "url": "https://www.adzuna.com.br/details/5956238032?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-06T23:21:29Z",
+      "descricao": "Somos colaboradores, ágeis, plurais, criativos e inovadores. Somos MJV! Sobre o desafio - Será responsável por por criar a interface de utilização de um site ou aplicação web. A camada visual das aplicações web, na qual os usuários interagem; criar websites, landing pages, hotsites, blogs ou aplicações web otimizadas e responsivas; realizar a manutenção e melhoria constante dessas plataformas; garantir que plataformas funcionem bem em diferentes navegadores e dispositivos; trabalhar juntamente…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T07:00:56Z",
       "ultima_vista": "2026-11-07",
       "expirada": false
     },
@@ -4015,28 +4039,6 @@
       "data_coleta": "2026-10-11T07:01:02Z",
       "ultima_vista": "2026-11-07",
       "expirada": false
-    },
-    {
-      "id": "7642774468d9492d7b701deaf9e6206ae696e8de",
-      "titulo": "Dev Full Stack Angular Node",
-      "empresa": "MJV",
-      "url": "https://www.adzuna.com.br/details/5921359712?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-09T21:52:49Z",
-      "descricao": "Somos colaboradores, ágeis, plurais, criativos e inovadores. Somos MJV! Sobre o desafio - Será responsável por por criar a interface de utilização de um site ou aplicação web. A camada visual das aplicações web, na qual os usuários interagem; criar websites, landing pages, hotsites, blogs ou aplicações web otimizadas e responsivas; realizar a manutenção e melhoria constante dessas plataformas; garantir que plataformas funcionem bem em diferentes navegadores e dispositivos; trabalhar juntamente…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-10T07:00:56Z",
-      "ultima_vista": "2026-10-11",
-      "expirada": true
     },
     {
       "id": "894a7c58a1dc3983b0acd1eaa643240f34e193dd",
@@ -6002,6 +6004,27 @@
       "expirada": true
     },
     {
+      "id": "76023160fb8a7a2de5ff582f36fb67cd2d106b74",
+      "titulo": "Pessoa Desenvolvedora Front-end Angular - Pleno",
+      "empresa": "CATSKILLET",
+      "url": "https://www.adzuna.com.br/details/5956238754?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-06T23:22:10Z",
+      "descricao": "Descrição: Sobre a Catskillet: Construímos soluções em tecnologia usando métodos ágeis, para entregar a melhor experiência para o usuário gerando resultados para seu negócio. Acreditamos que a tecnologia transforma a vida das pessoas, e buscamos profissionais para participarem desse processo de transformação juntamente com o nosso time de talentos. Se você acredita que pode transformar o mundo através da tecnologia, com espírito de criatividade, inovação, iniciativa e que gosta de fazer coisas …",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-10T07:00:56Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
       "id": "94d99bc23caf3bfa28cb1264dbb3d041fc8f0e88",
       "titulo": "0e46: Analista Desenvolvedor Front End Web/mobile Pleno",
       "empresa": "mazzatech",
@@ -6083,6 +6106,31 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-06T19:01:47Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
+      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
+      "titulo": "Consultor(a) FullStack",
+      "empresa": "Avanade Inc.",
+      "url": "https://www.adzuna.com.br/details/5955363467?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-06T04:33:18Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T07:00:51Z",
       "ultima_vista": "2026-11-07",
       "expirada": false
     },
@@ -6401,31 +6449,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:50Z",
       "ultima_vista": "2026-11-05",
-      "expirada": false
-    },
-    {
-      "id": "dfab670837b6b8f8f778b446fbeaa7139d7f2ca7",
-      "titulo": "Consultor(a) FullStack",
-      "empresa": "Avanade Inc.",
-      "url": "https://www.adzuna.com.br/details/5945383874?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-29T03:15:02Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack, com experiencia em .Net e React.Aqui, você terá a oportunidade de aprimorar suas habilidades com C#, .NET, React, TypeScript e Azure DevOps, além de trabalhar em um ambiente colaborativo e inovador.Se identifica com o perfil? Então não perca tempo e se candidate agora! Bem-vindo ao universo do desenvolvimento FullStack! Aqui você construirá e automatizará funcionalidades empresariais, modelando soluções complexas e potencializando sistemas …",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T07:00:51Z",
-      "ultima_vista": "2026-10-30",
       "expirada": false
     },
     {
@@ -7070,27 +7093,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-10T03:00:55Z",
-      "ultima_vista": "2026-10-11",
-      "expirada": true
-    },
-    {
-      "id": "76023160fb8a7a2de5ff582f36fb67cd2d106b74",
-      "titulo": "Pessoa Desenvolvedora Front-end Angular - Pleno",
-      "empresa": "CATSKILLET",
-      "url": "https://www.adzuna.com.br/details/5921360408?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-09T21:52:55Z",
-      "descricao": "Descrição: Sobre a Catskillet: Construímos soluções em tecnologia usando métodos ágeis, para entregar a melhor experiência para o usuário gerando resultados para seu negócio. Acreditamos que a tecnologia transforma a vida das pessoas, e buscamos profissionais para participarem desse processo de transformação juntamente com o nosso time de talentos. Se você acredita que pode transformar o mundo através da tecnologia, com espírito de criatividade, inovação, iniciativa e que gosta de fazer coisas …",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-10T07:00:56Z",
       "ultima_vista": "2026-10-11",
       "expirada": true
     },
@@ -8073,6 +8075,26 @@
       "expirada": false
     },
     {
+      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
+      "titulo": "Typescript Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5956228622?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Teresina, Piaui",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-06T23:14:53Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:08Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
       "id": "122d3762452ada84edd5bbec7a2eb24bd47438db",
       "titulo": "React / Next.Js Developer",
       "empresa": "",
@@ -8396,26 +8418,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:56Z",
-      "ultima_vista": "2026-11-06",
-      "expirada": false
-    },
-    {
-      "id": "2006ddcd3bccec17740d48e1e5c2df4532c733b5",
-      "titulo": "Typescript Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5953534959?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Ribeirão Preto, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-04T22:01:34Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. We are looking for TypeScript Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world…",
-      "score": 40,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:08Z",
       "ultima_vista": "2026-11-06",
       "expirada": false
     },
