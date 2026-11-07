@@ -1,37 +1,7 @@
 {
-  "atualizado_em": "2026-11-07T13:02:33Z",
+  "atualizado_em": "2026-11-07T16:18:03Z",
   "total": 589,
   "vagas": [
-    {
-      "id": "178a792c231db2dc9af805af1976427ea879419a",
-      "titulo": "DESENVOLVEDORES JAVA/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5954221377?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-05T09:59:45Z",
-      "descricao": "Desenvolvedores JAVA/Angular Nível Sênior (4 vagas) - 90% remoto Sólida experiência com desenvolvimento utilizando JAVA e Angular; Experiência com Frameworks Java, como: Spring e Hibernate; Sólido conhecimento REST/SOAP e arquitetura de microsserviços; Experiência com frameworks de testes como JUnit, TestNG, Mockito ou Spock; Bancos de dados relacionais (Oracle, MySQL e SQL); Conhecimento prático no uso de tecnologias relacionadas à IA; Imprescindível inglês avançado/fluente; Desejável experiên…",
-      "score": 80,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "MySQL"
-      ],
-      "lacunas": [
-        "Spring",
-        "Oracle",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:01:07Z",
-      "ultima_vista": "2026-11-07",
-      "expirada": false
-    },
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
       "titulo": "Pessoa Desenvolvedora FullStack (NodeJS / Angular / Java) - Junior (Remoto)",
@@ -947,6 +917,38 @@
       "data_coleta": "2026-10-10T15:49:38Z",
       "ultima_vista": "2026-10-15",
       "expirada": true
+    },
+    {
+      "id": "178a792c231db2dc9af805af1976427ea879419a",
+      "titulo": "Desenvolvedores JAVA /Angular",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5921397841?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-10-09T22:24:23Z",
+      "descricao": "Desenvolvedores JAVA /Angular Nível Sênior (4 vagas) - 90 remoto Sólida experiência com desenvolvimento utilizando JAVA 11, Sólida experiência com Angular 14, TypeScript, JavaScript, HTML5 e CSS/SCSS, Experiência com Frameworks Java, como: Spring Boot, Spring MVC, Spring Security e Hibernate, Experiência com SQL Server, Oracle ou PostgreSQL, Imprescindível inglês avançado/fluente, Desejável experiência anterior em projetos globais, Atuação 90 remota, disponibilidade para eventuais atuações pres…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Sass",
+        "Spring",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:01:07Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
     },
     {
       "id": "d04c11cb12692056dc82cbdf0e8cb82d6f77b62c",
@@ -11196,6 +11198,36 @@
       "expirada": true
     },
     {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5957036447?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-07T10:35:55Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
+    },
+    {
       "id": "2b5e9a53172f8456c46cb305f405696f99097faa",
       "titulo": "0f35: Analista Desenvolvedor Front-end Web/mobile Pleno",
       "empresa": "mazzatech",
@@ -11642,36 +11674,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-01T13:01:38Z",
       "ultima_vista": "2026-11-07",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5949116221?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-01T08:51:51Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-11-02",
       "expirada": false
     },
     {
