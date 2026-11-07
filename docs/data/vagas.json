@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-07T17:02:45Z",
-  "total": 590,
+  "atualizado_em": "2026-11-07T19:02:36Z",
+  "total": 591,
   "vagas": [
     {
       "id": "1da293b852d578107de1046528e8fcfaa70c509d",
@@ -8050,6 +8050,28 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "0fd576ed14f6d18932a6b63aa881941a48c18d94",
+      "titulo": "3717: Full Stack Pleno (React C# / Arquitetura)",
+      "empresa": "mazzatech",
+      "url": "https://www.adzuna.com.br/details/5957251991?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-07T14:24:28Z",
+      "descricao": "Atuação Híbrida: 3x por semana no escritório (Paraíso) Sobre o projeto Estamos em busca de Desenvolvedores(as) Full Stack Pleno com foco em ARQUITETURA , para atuar em um dos projetos mais estratégicos do setor financeiro. Você fará parte de um modelo inovador e desafiador, com atuação direta em um ambiente distribuído entre empresas de um conglomerado. O desenvolvimento será conduzido em parceria com o time do cliente. Trata-se de um projeto altamente colaborativo, com forte interação com tim…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-07T19:00:56Z",
+      "ultima_vista": "2026-11-07",
+      "expirada": false
     },
     {
       "id": "a5acfb521bdbf80d67d3dd19b59217eaa5e5fda7",
