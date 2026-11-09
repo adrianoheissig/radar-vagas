@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-09T05:02:31Z",
+  "atualizado_em": "2026-11-09T07:02:40Z",
   "total": 592,
   "vagas": [
     {
@@ -2554,6 +2554,50 @@
       "expirada": true
     },
     {
+      "id": "d8ca51788780c6cc7846d2806661a44f8a9578b2",
+      "titulo": "Desenvolvedor Mobile",
+      "empresa": "Curriculum.com.br",
+      "url": "https://www.adzuna.com.br/details/5958606904?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:40Z",
+      "descricao": "Desenvolvedora Mobile - Pleno. O que você precisa ter: Conhecimentos em linguagens de programação Mobile; Experiência sólida atuando com Java/Kotlin; Conhecimentos em Swift, React Native, IOS e Android, Flutter, JSON; Hard User de tecnologias smartphones; Diferencial: Conhecimentos de IIB; Atuação com metodologias Cascade e Ágeis, especialmente Scrum; Local: Home Office - Aceitamos Pessoas Candidatas de todo Brasil",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "7563ad2f7bf95bfc6958fa8c1ffc8a5f8fff6b39",
+      "titulo": "Desenvolvedor Angular / Pd - Trabalho Remoto",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5958606710?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:39Z",
+      "descricao": "A Bairesdev tem orgulho de ser a empresa que mais cresce nas Américas. Nossos times são formados por pessoas do mundo todo e somos tão fortes quanto nossas equipes multiculturais. Para entregar consistentemente as soluções da mais alta qualidade, contratamos apenas o 1% entre os melhores talentos e os desafiamos em projetos empolgantes. Desenvolvedor Angular na BairesDev Buscamos um excelente Desenvolvedor Angular para se juntar à equipe de Pesquisa e Desenvolvimento (P&D) da BairesDev. Nossa e…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:13Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
       "id": "7295967f35d62896ca60cba63f377b904ea9a8a5",
       "titulo": "DESENVOLVEDOR FRONTEND - ANGULAR",
       "empresa": "",
@@ -2581,6 +2625,30 @@
       "expirada": false
     },
     {
+      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
+      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5958130139?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-08T10:22:00Z",
+      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
       "id": "618728d4efebf269423a1441b546fb465eed2182",
       "titulo": "DESENVOLVEDOR ANGULAR",
       "empresa": "",
@@ -2601,6 +2669,57 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
+      "titulo": "DESENVOLVEDOR UI / REACT",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5958126835?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T10:21:25Z",
+      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T13:01:04Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
+      "titulo": "ANALISTA DE SISTEMAS",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5958126240?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-08T10:21:18Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-19T11:01:20Z",
       "ultima_vista": "2026-11-09",
       "expirada": false
     },
@@ -2631,6 +2750,31 @@
       "expirada": false
     },
     {
+      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
+      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5957842911?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T03:35:59Z",
+      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Git"
+      ],
+      "lacunas": [
+        "Redux",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
       "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
       "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
       "empresa": "",
@@ -2651,6 +2795,30 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5957839391?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-08T03:35:32Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-11-09",
       "expirada": false
     },
@@ -2906,130 +3074,6 @@
       "experiencia_exigida": 4,
       "data_coleta": "2026-10-07T03:00:54Z",
       "ultima_vista": "2026-11-05",
-      "expirada": false
-    },
-    {
-      "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
-      "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5950503658?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-02T08:52:21Z",
-      "descricao": "Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-04",
-      "expirada": false
-    },
-    {
-      "id": "53f9b9634fd0e6f9851114481620f74f16f5aa5a",
-      "titulo": "DESENVOLVEDOR UI / REACT",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5950499157?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-02T08:50:24Z",
-      "descricao": "Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais.",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T13:01:04Z",
-      "ultima_vista": "2026-11-05",
-      "expirada": false
-    },
-    {
-      "id": "26b0430424f781b3185ebd4cf220206ce0600441",
-      "titulo": "ANALISTA DE SISTEMAS",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5950498506?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-02T08:50:04Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-19T11:01:20Z",
-      "ultima_vista": "2026-11-05",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5950269405?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-02T02:49:56Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-11-05",
-      "expirada": false
-    },
-    {
-      "id": "4761e0c68cefdda2a6b38fa2ab61d87a2fb6040f",
-      "titulo": "Desenvolvedor UI / React - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5950263048?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-02T02:49:00Z",
-      "descricao": "ATRIBUIÇÕES: Atuação remota; Sólida experiência com desenvolvimento de interfaces (UI) utilizando React e TypeScript; Experiência com AG Grid para gerenciamento e apresentação de dados; Vivência com bibliotecas de gerenciamento de estado (Redux, MobX), além de conhecimento em WebSockets e sistemas de controle de versão (Git); Imprescindível inglês avançado para atuação em projeto global; Disponibilidade para eventuais reuniões presenciais. REQUISITOS: Nível Sênior JORNADA: A combinar BENEFÍCIOS…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Git"
-      ],
-      "lacunas": [
-        "Redux",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-11-03",
       "expirada": false
     },
     {
@@ -3993,50 +4037,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-10-14",
-      "expirada": true
-    },
-    {
-      "id": "d8ca51788780c6cc7846d2806661a44f8a9578b2",
-      "titulo": "Desenvolvedor Mobile",
-      "empresa": "Curriculum.com.br",
-      "url": "https://www.adzuna.com.br/details/5923689711?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T21:50:57Z",
-      "descricao": "Desenvolvedora Mobile - Pleno. O que você precisa ter: Conhecimentos em linguagens de programação Mobile; Experiência sólida atuando com Java/Kotlin; Conhecimentos em Swift, React Native, IOS e Android, Flutter, JSON; Hard User de tecnologias smartphones; Diferencial: Conhecimentos de IIB; Atuação com metodologias Cascade e Ágeis, especialmente Scrum; Local: Home Office - Aceitamos Pessoas Candidatas de todo Brasil",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-10-12",
-      "expirada": true
-    },
-    {
-      "id": "7563ad2f7bf95bfc6958fa8c1ffc8a5f8fff6b39",
-      "titulo": "Desenvolvedor Angular / Pd - Trabalho Remoto",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5923689624?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T21:50:57Z",
-      "descricao": "A Bairesdev tem orgulho de ser a empresa que mais cresce nas Américas. Nossos times são formados por pessoas do mundo todo e somos tão fortes quanto nossas equipes multiculturais. Para entregar consistentemente as soluções da mais alta qualidade, contratamos apenas o 1% entre os melhores talentos e os desafiamos em projetos empolgantes. Desenvolvedor Angular na BairesDev Buscamos um excelente Desenvolvedor Angular para se juntar à equipe de Pesquisa e Desenvolvimento (P&D) da BairesDev. Nossa e…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:13Z",
-      "ultima_vista": "2026-10-12",
       "expirada": true
     },
     {
@@ -6353,28 +6353,6 @@
       "expirada": false
     },
     {
-      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
-      "titulo": "IT Analyst III (C#Angular)",
-      "empresa": "Banco Santander",
-      "url": "https://www.adzuna.com.br/details/5949472534?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-01T12:48:23Z",
-      "descricao": "IT Analyst III (C#Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contínua…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
@@ -6559,6 +6537,28 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T03:00:57Z",
       "ultima_vista": "2026-10-30",
+      "expirada": false
+    },
+    {
+      "id": "23644b4a6c90d94fc58295a7c014ed556fe26e97",
+      "titulo": "IT Analyst III (C# Angular)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5944764411?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-10-28T14:11:17Z",
+      "descricao": "IT Analyst III (C# Angular) Country: Brazil A Toro Corretora agora é Santander Investimentos, e o seu DNA de agilidade, tecnologia e Corretagem Zero se une à solidez e credibilidade global do Santander. Nosso propósito é gerar liberdade financeira para as pessoas. Santander Investimentos como a casa completa de investimentos, oferecendo solidez e infraestrutura para operar e a marca Toro como plataforma de trading do Santander Brasil, dedicada a quem respira o mercado. Buscamos inovação contín…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T18:48:24Z",
+      "ultima_vista": "2026-11-09",
       "expirada": false
     },
     {
@@ -8073,26 +8073,6 @@
       "expirada": true
     },
     {
-      "id": "70cd30216dd066813e92e5606604065ac8bfea88",
-      "titulo": "Software Developer React - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5958606869?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasilia, Distrito Federal",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-08T22:14:40Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Developer at BairesDev Being a React Senior Developer in our Development Team is just like being a full-time…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:07Z",
-      "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
       "id": "43be02c251ffa6fa24206545039f73abafb3a76e",
       "titulo": "Pessoa Desenvolvedora React - Trabalho Remoto",
       "empresa": "BairesDev",
@@ -8109,6 +8089,86 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "70cd30216dd066813e92e5606604065ac8bfea88",
+      "titulo": "Software Developer React - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5958606806?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:39Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Developer at BairesDev Being a React Senior Developer in our Development Team is just like being a full-time…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5958606698?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:39Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "47d3be88d7333f0e40417599b25250e90bbe539a",
+      "titulo": "React Frontend Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5958606741?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:39Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Frontend Developer at BairesDev Being a React Frontend Developer in our Development Team is just like being …",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:07Z",
+      "ultima_vista": "2026-11-09",
+      "expirada": false
+    },
+    {
+      "id": "49eede5e24208c6abaa293cb95542d8a32328f6b",
+      "titulo": "Desenvolvedor Frontend React - Trabalho Remoto",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5958606647?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Curitiba, Paraná",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-08T22:14:39Z",
+      "descricao": "A Bairesdev tem orgulho de ser a empresa que mais cresce nas Américas. Nossos times são formados por pessoas do mundo todo e somos tão fortes quanto nossas equipes multiculturais. Para entregar consistentemente as soluções da mais alta qualidade, contratamos apenas o 1% entre os melhores talentos e os desafiamos em projetos empolgantes. Desenvolvedor Frontend React na BairesDev Ser um Desenvolvedor Frontend React em nossa equipe de desenvolvimento é como ser um solucionador de problemas em temp…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:01Z",
       "ultima_vista": "2026-11-09",
       "expirada": false
     },
@@ -8551,26 +8611,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T01:00:55Z",
-      "ultima_vista": "2026-11-06",
-      "expirada": false
-    },
-    {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5953535706?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Natal, Rio Grande do Norte",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-04T22:01:38Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
       "ultima_vista": "2026-11-06",
       "expirada": false
     },
@@ -9622,46 +9662,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:20Z",
       "ultima_vista": "2026-10-14",
-      "expirada": true
-    },
-    {
-      "id": "47d3be88d7333f0e40417599b25250e90bbe539a",
-      "titulo": "React Frontend Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5923689607?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Curitiba, Paraná",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T21:50:57Z",
-      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. React Frontend Developer at BairesDev Being a React Frontend Developer in our Development Team is just like being …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:07Z",
-      "ultima_vista": "2026-10-12",
-      "expirada": true
-    },
-    {
-      "id": "49eede5e24208c6abaa293cb95542d8a32328f6b",
-      "titulo": "Desenvolvedor Frontend React - Trabalho Remoto",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5923689596?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Belo Horizonte, Minas Gerais",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-11T21:50:57Z",
-      "descricao": "A Bairesdev tem orgulho de ser a empresa que mais cresce nas Américas. Nossos times são formados por pessoas do mundo todo e somos tão fortes quanto nossas equipes multiculturais. Para entregar consistentemente as soluções da mais alta qualidade, contratamos apenas o 1% entre os melhores talentos e os desafiamos em projetos empolgantes. Desenvolvedor Frontend React na BairesDev Ser um Desenvolvedor Frontend React em nossa equipe de desenvolvimento é como ser um solucionador de problemas em temp…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:01Z",
-      "ultima_vista": "2026-10-12",
       "expirada": true
     },
     {
