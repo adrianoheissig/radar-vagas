@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-10T03:24:47Z",
+  "atualizado_em": "2026-11-10T05:02:27Z",
   "total": 594,
   "vagas": [
     {
@@ -8086,6 +8086,26 @@
       "expirada": false
     },
     {
+      "id": "87549725a1b43527ba124c6412ce280574360791",
+      "titulo": "Remote React Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5959671262?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-09T22:22:19Z",
+      "descricao": "Remote React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for React Senior Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Participate i…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-11-10",
+      "expirada": false
+    },
+    {
       "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
       "titulo": "Remote Junior React Developer",
       "empresa": "",
@@ -8512,26 +8532,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
-      "id": "87549725a1b43527ba124c6412ce280574360791",
-      "titulo": "Remote React Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5953560234?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-04T22:14:48Z",
-      "descricao": "Remote React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for React Senior Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Participate i…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
       "ultima_vista": "2026-11-09",
       "expirada": false
     },
