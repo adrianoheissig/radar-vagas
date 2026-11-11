@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-11T11:02:45Z",
-  "total": 594,
+  "atualizado_em": "2026-11-11T13:02:45Z",
+  "total": 595,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -8071,6 +8071,40 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "8989dda86a19abe7b22a882eb7cc7803f7653252",
+      "titulo": "Desenvolvedor(A) De Software Júnior | Santo André",
+      "empresa": "Cooperativa de Consumo",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-software-junior-santo-andre-em-sao-paulo__12207768.aspx",
+      "fonte": "infojobs",
+      "local": "Santo André - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-11-11T12:39:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nA Coop – Cooperativa de Consumo está em busca de um(a) Desenvolvedor(a) de Software Júnior para integrar nossa equipe de Engenharia de Software. Como a maior cooperativa de consumo da América Latina, a Coop valoriza a diversidade e a inclusão, acreditando que diferentes experiências e perspectivas fortalecem nosso time e impulsionam nosso crescimento.\nPrezamos pela excelência no atendimento ao cliente e pela eficiência em nossas operações, e buscamos pessoas que compartilhem desses valores e queiram contribuir para o sucesso da nossa cooperativa.\nTodas as nossas oportunidades também são abertas a pessoas com deficiência (PCD), reforçando nosso compromisso com um ambiente inclusivo e plural.\nSobre a vaga:\nBuscamos um(a) profissional em início de carreira, com interesse em desenvolvimento de software, vontade de aprender e desejo de evoluir tecnicamente. A pessoa fará parte de um ambiente colaborativo, atuando em conjunto com desenvolvedores, profissionais de QA e demais integrantes da equipe de tecnologia, contribuindo para o desenvolvimento e a evolução de aplicações, APIs, integrações e soluções que apoiam o negócio.\nPrincipais atribuições:\nDesenvolver novas funcionalidades e realizar melhorias nas aplicações;\nApoiar na manutenção e evolução dos sistemas;\nAnalisar e corrigir erros e incidentes relacionados às aplicações;\nDesenvolver e consumir APIs REST;\nApoiar integrações entre sistemas;\nDesenvolver consultas e trabalh…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T13:01:43Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
     },
     {
       "id": "12e5a2ade7cd88f7ab1f0f74d2472fd936854b24",
