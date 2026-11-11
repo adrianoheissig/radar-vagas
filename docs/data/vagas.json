@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-11T21:02:52Z",
-  "total": 605,
+  "atualizado_em": "2026-11-11T23:02:52Z",
+  "total": 606,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -473,6 +473,34 @@
       "expirada": false
     },
     {
+      "id": "cc0c2621a38c5da2589faf011b72ad48d061a499",
+      "titulo": "Desenvolvedor(a) Web Pleno - SP",
+      "empresa": "Sempre It",
+      "url": "https://www.adzuna.com.br/details/5962200169?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T18:02:06Z",
+      "descricao": "Requisitos técnicos: ? Experiência sólida em desenvolvimento web Front-end e Back-end ; ? Domínio de React e/ou Angular, TypeScript e JavaScript ; ? Experiência com .NET (C#) para desenvolvimento de APIs e serviços; ? Conhecimento em Node.js para desenvolvimento de aplicações server-side; ? Experiência prática com SharePoint , incluindo desenvolvimento e customização; ? Conhecimento em Microsoft Power Platform ; ? Experiência com versionamento de código utilizando Git . ?? Informações da vaga: …",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-27T15:49:33Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
       "titulo": "Desenvolvedores JAVA /Angular - Recrutamento Aberto",
       "empresa": "",
@@ -554,34 +582,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T01:00:49Z",
       "ultima_vista": "2026-11-04",
-      "expirada": false
-    },
-    {
-      "id": "cc0c2621a38c5da2589faf011b72ad48d061a499",
-      "titulo": "Desenvolvedor(a) Web Pleno - SP",
-      "empresa": "Sempre It",
-      "url": "https://www.adzuna.com.br/details/5947640824?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-31T01:02:30Z",
-      "descricao": "Requisitos técnicos: ? Experiência sólida em desenvolvimento web Front-end e Back-end ; ? Domínio de React e/ou Angular, TypeScript e JavaScript ; ? Experiência com .NET (C#) para desenvolvimento de APIs e serviços; ? Conhecimento em Node.js para desenvolvimento de aplicações server-side; ? Experiência prática com SharePoint , incluindo desenvolvimento e customização; ? Conhecimento em Microsoft Power Platform ; ? Experiência com versionamento de código utilizando Git . ?? Informações da vaga: …",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "Git"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-27T15:49:33Z",
-      "ultima_vista": "2026-11-05",
       "expirada": false
     },
     {
@@ -2664,6 +2664,38 @@
       "expirada": true
     },
     {
+      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
+      "titulo": "Desenvolvedor Full Stack Node.js - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5962180872?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:59:21Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:50Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "e93c491c37e8c0638bac1d15e248b59bbd28a6b3",
       "titulo": "Desenvolvedor FullStack - Node e Angular - SP",
       "empresa": "Brq Informática",
@@ -3349,38 +3381,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-02T07:01:05Z",
       "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
-      "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
-      "titulo": "Desenvolvedor Full Stack Node.js - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5947616998?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-31T00:59:05Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:50Z",
-      "ultima_vista": "2026-11-05",
       "expirada": false
     },
     {
@@ -6183,6 +6183,31 @@
       "expirada": false
     },
     {
+      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
+      "titulo": "Desenvolvedor Fullstack - SP",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5962180864?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:59:21Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-06T05:00:40Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "d58ba4d864c49454b825e15f2b9214a3b42a6496",
       "titulo": "Desenvolvedor Front-end Angular",
       "empresa": "AM53 Tech Recruitment",
@@ -6550,31 +6575,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
-      "titulo": "Desenvolvedor Fullstack - SP",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5947617098?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-31T00:59:05Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-06T05:00:40Z",
-      "ultima_vista": "2026-11-05",
       "expirada": false
     },
     {
@@ -8227,6 +8227,27 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "296ba868d85c5f5a18141cf209eb680643f9ba6a",
+      "titulo": "Banco de Talentos React/Node - SP",
+      "empresa": "Conquest one",
+      "url": "https://www.adzuna.com.br/details/5962148741?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:54:40Z",
+      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T23:00:56Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
     },
     {
       "id": "99d70974dbd9c30cc3553782222ca31d7d9ff1ce",
@@ -11511,6 +11532,29 @@
       "expirada": true
     },
     {
+      "id": "27f95c6108ae5a027f4006476b71056cb85be321",
+      "titulo": "Desenvolvedor Junior - SP",
+      "empresa": "Grupo Skill",
+      "url": "https://www.adzuna.com.br/details/5962152731?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:55:13Z",
+      "descricao": "Estamos em busca de um(a) profissional comprometido(a), com perfil analítico e paixão por tecnologia, para integrar nossa equipe. Se você possui experiência em desenvolvimento de sistemas e deseja atuar em projetos desafiadores, queremos conhecer você. Conhecimentos específicos: Experiência com desenvolvimento de aplicações web. Conhecimento de React ou tecnologias similares de desenvolvimento front-end. Conhecimentos básicos de .NET / C# ou interesse em atuar nesse ecossistema. Conhecimentos d…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-20T19:07:35Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "cb5d9f1c097d63bfc65d7a49825cdc1062ec63d3",
       "titulo": "Analista de T.I. III Java 8",
       "empresa": "Realparceria",
@@ -12256,29 +12300,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T18:10:18Z",
       "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
-      "id": "27f95c6108ae5a027f4006476b71056cb85be321",
-      "titulo": "Desenvolvedor Junior - SP",
-      "empresa": "Grupo Skill",
-      "url": "https://www.adzuna.com.br/details/5947585829?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-31T00:55:04Z",
-      "descricao": "Estamos em busca de um(a) profissional comprometido(a), com perfil analítico e paixão por tecnologia, para integrar nossa equipe. Se você possui experiência em desenvolvimento de sistemas e deseja atuar em projetos desafiadores, queremos conhecer você. Conhecimentos específicos: Experiência com desenvolvimento de aplicações web. Conhecimento de React ou tecnologias similares de desenvolvimento front-end. Conhecimentos básicos de .NET / C# ou interesse em atuar nesse ecossistema. Conhecimentos d…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-20T19:07:35Z",
-      "ultima_vista": "2026-11-05",
       "expirada": false
     },
     {
