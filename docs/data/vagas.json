@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-11T01:02:45Z",
+  "atualizado_em": "2026-11-11T01:12:23Z",
   "total": 594,
   "vagas": [
     {
@@ -11281,6 +11281,35 @@
       "expirada": true
     },
     {
+      "id": "56b4f2da884debf026cc6d46a4f9ec16871a9d16",
+      "titulo": "Desenvolvedor Fullstack PHP Pleno",
+      "empresa": "innolevels",
+      "url": "https://www.adzuna.com.br/details/5960840726?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T22:06:18Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack PHP Pleno para funcionalidades com qualidade e manutenibilidade para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - PHP; - Implantação do pipeline de CI/CD; - HTML, CSS, Java Script; - Frameworks MVC (Laravel, Zend, Java Spring, etc) - Padrão REST e testes automatizados (…",
+      "score": 30,
+      "skills_match": [
+        "HTML",
+        "CSS",
+        "Java",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Spring",
+        "PHP",
+        "Laravel",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:36:43Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
       "titulo": "Principal.Net Engineer",
       "empresa": "",
@@ -12818,35 +12847,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:36:54Z",
-      "ultima_vista": "2026-10-15",
-      "expirada": true
-    },
-    {
-      "id": "56b4f2da884debf026cc6d46a4f9ec16871a9d16",
-      "titulo": "Desenvolvedor Fullstack PHP Pleno",
-      "empresa": "innolevels",
-      "url": "https://www.adzuna.com.br/details/5926429935?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-13T21:55:41Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack PHP Pleno para funcionalidades com qualidade e manutenibilidade para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: - PHP; - Implantação do pipeline de CI/CD; - HTML, CSS, Java Script; - Frameworks MVC (Laravel, Zend, Java Spring, etc) - Padrão REST e testes automatizados (…",
-      "score": 30,
-      "skills_match": [
-        "HTML",
-        "CSS",
-        "Java",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Spring",
-        "PHP",
-        "Laravel",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:36:43Z",
       "ultima_vista": "2026-10-15",
       "expirada": true
     },
