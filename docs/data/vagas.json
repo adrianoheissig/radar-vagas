@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-11T19:02:50Z",
-  "total": 601,
+  "atualizado_em": "2026-11-11T21:02:52Z",
+  "total": 605,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -261,6 +261,31 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "e5660a9d5551e6edd38c435ae774f50d13222b09",
+      "titulo": "ADM.NET FSR - SP",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5962181296?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-11T17:59:24Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Hibrido Guarulhos três vezes por semana Habilidades: Main Skill5 years of hands-on software development experience. Strong expertise in one or more programming languages (e.g., C#, .NET, JavaScript/Node.js). Ability to collaborate with cross-functional teams and present ideas clearly. ServiceNOW Knowledge Required Qualifications.NET / Angular Main Activities and ResponsibilitiesCollabo…",
+      "score": 75,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T21:01:17Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
     },
     {
       "id": "5226306c00d490f1043066bc2ea523f7d6ded89b",
@@ -1838,6 +1863,57 @@
       "expirada": true
     },
     {
+      "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
+      "titulo": "Fullstack Developer (Java & Angular) - SP",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5962181502?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:59:25Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas; Inglês avançado (C2), com capacidade de comunicação em ambiente internacional; Experiência em desenvolvimento Java; Forte domínio de Java, Spring Boot e Hibernate; Experiência com Angular e desenvolvimento front-end moderno; Vivência com APIs REST/SOAP e arquitetura de microsserviços; Conhecimento sólido e…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-24T01:00:59Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
+      "id": "bba357a309460f353082df300858ce7d44c0e744",
+      "titulo": "Desenvolvedor Full Stack - SP",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5962181294?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:59:24Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Pleno 'Graduação completa ou cursando em Ciência da Computação, Tecnologia da Informação ou área relacionada; Conhecimento em frameworks como Spring, Quarkus, Hibernate, Angular ou React. Experiência comprovada em desenvolvimento Fullstack com Java. Familiaridade com bancos de dados relacionais e não relacionais. Habilidade em trabalhar com controle de versão (Git). Desejável / Diferen…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Java",
+        "Git"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T21:01:14Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
       "id": "c4f2bf1babeec178b920477b3aecd45392cc7255",
       "titulo": "DESENVOLVEDOR SISTEMAS III",
       "empresa": "Ânima Educação",
@@ -2291,32 +2367,6 @@
       "expirada": true
     },
     {
-      "id": "25a624223bad267cc4b37f9cbf4e3962ba15e9a8",
-      "titulo": "Fullstack Developer Java Angular - SP",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5895883641?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-23T21:55:01Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas; Inglês avançado (C2), com capacidade de comunicação em ambiente internacional; Experiência em desenvolvimento Java; Forte domínio de Java, Spring Boot e Hibernate; Experiência com Angular e desenvolvimento front-end moderno; Vivência com APIs REST/SOAP e arquitetura de microsserviços; Conhecimento sólido e…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Spring",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-24T01:00:59Z",
-      "ultima_vista": "2026-09-26",
-      "expirada": true
-    },
-    {
       "id": "fed72dd2136bdd1fbda8c0ef43ecd9c3ba398d4a",
       "titulo": "Analista Desenvolvedor Fullstack (Java/Angular)",
       "empresa": "Global TI",
@@ -2612,6 +2662,30 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "e93c491c37e8c0638bac1d15e248b59bbd28a6b3",
+      "titulo": "Desenvolvedor FullStack - Node e Angular - SP",
+      "empresa": "Brq Informática",
+      "url": "https://www.adzuna.com.br/details/5962151760?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:55:05Z",
+      "descricao": "Buscamos um(a) profissional com sólida experiência em desenvolvimento Full Stack para atuar em projetos estratégicos no mercado financeiro, envolvendo aplicações de alta criticidade, microsserviços e integração com plataformas de corretagem. Principais responsabilidades: Desenvolver e evoluir aplicações utilizando Node.js no Back-end e Angular 14 no Front-end ; Projetar e manter arquiteturas baseadas em microsserviços ; Desenvolver soluções em AWS , garantindo escalabilidade, segurança e dispon…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T21:00:47Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
     },
     {
       "id": "6062e0d381ad20eb1866b85373995cba5e900491",
@@ -6085,6 +6159,28 @@
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "34068e083a44e28c167f2579a378d43a0aeb7d3e",
+      "titulo": "Desenvolvedor Front End - SP",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/details/5962181127?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T17:59:23Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Responsabilidades: Como Pessoa Desenvolvedora Front-end Associate, você será responsável por projetar, codificar e testar aplicações web utilizando Angular, colaborando em equipes ágeis e participando de reuniões diárias, revisões de código e planejamento de sprints. Atuará na integração com APIs RESTful, manutenção e otimização de código, documentação técnica e desenvolvimento de tes…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-11T21:01:14Z",
+      "ultima_vista": "2026-11-11",
+      "expirada": false
     },
     {
       "id": "d58ba4d864c49454b825e15f2b9214a3b42a6496",
