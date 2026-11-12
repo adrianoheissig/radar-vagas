@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-12T03:02:38Z",
-  "total": 606,
+  "atualizado_em": "2026-11-12T07:02:42Z",
+  "total": 607,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -2664,6 +2664,65 @@
       "expirada": true
     },
     {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5962695662?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-12T03:53:01Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-11-12",
+      "expirada": false
+    },
+    {
+      "id": "b3e69e9249f242ca8555f4d6d6f27e6c28c13d92",
+      "titulo": "Dev Nodejs/angular",
+      "empresa": "CBYK",
+      "url": "https://www.adzuna.com.br/details/5962339257?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T22:06:46Z",
+      "descricao": "Desenvolvimento de aplicações em NodeJS e TypeScript; Experiência com microsserviços, DevOps, Docker e Kubernetes. Design de APIs REST Manutenção de sistemas para correção de falhas/erros; Sugerir melhorias; Atuar como parte da equipe ágil; Desenvolver, implantar e operar aplicações na cultura DevOps(Jenkins, Pipeline scripts); Otimizar a aplicação para melhor velocidade e escalabilidade; Criar código e bibliotecas reutilizáveis para uso futuro; Colaborar com outros membros da equipe, Engenheir…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:32Z",
+      "ultima_vista": "2026-11-12",
+      "expirada": false
+    },
+    {
       "id": "914fd82c5185eeade0071def5b0e36f8105e273e",
       "titulo": "Desenvolvedor Full Stack Node.js - SP",
       "empresa": "Innolevels",
@@ -3077,30 +3136,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5957839391?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-08T03:35:32Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-11-11",
       "expirada": false
     },
@@ -4117,35 +4152,6 @@
       "data_coleta": "2026-10-15T17:00:44Z",
       "ultima_vista": "2026-11-12",
       "expirada": false
-    },
-    {
-      "id": "b3e69e9249f242ca8555f4d6d6f27e6c28c13d92",
-      "titulo": "Dev Nodejs/angular",
-      "empresa": "CBYK",
-      "url": "https://www.adzuna.com.br/details/5928221971?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-14T21:56:49Z",
-      "descricao": "Desenvolvimento de aplicações em NodeJS e TypeScript; Experiência com microsserviços, DevOps, Docker e Kubernetes. Design de APIs REST Manutenção de sistemas para correção de falhas/erros; Sugerir melhorias; Atuar como parte da equipe ágil; Desenvolver, implantar e operar aplicações na cultura DevOps(Jenkins, Pipeline scripts); Otimizar a aplicação para melhor velocidade e escalabilidade; Criar código e bibliotecas reutilizáveis para uso futuro; Colaborar com outros membros da equipe, Engenheir…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Docker",
-        "Kubernetes",
-        "CI/CD"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-10-16",
-      "expirada": true
     },
     {
       "id": "c4dfa14b71a2cc3441143406f975a41d237c8671",
@@ -6231,6 +6237,28 @@
       "expirada": false
     },
     {
+      "id": "97d2b2ef97d428676b690fd86dd48786bfb8707f",
+      "titulo": "Analista de T.I. III - Fullstack Java React",
+      "empresa": "Realparceria",
+      "url": "https://www.adzuna.com.br/details/5961965501?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-11-11T14:40:48Z",
+      "descricao": "Analista de T.I. III - Vaga Temporária Localização da Vaga/Local de trabalho São Paulo - SP (VAGA PRESENCIAL) Requisitos - Ensino Superior completo - Experiência na área - Experiência com Java - Perfil desenvolvedor fullstack JAVAREACT Atividades Realizadas - Desenvolver, manter e evoluir aplicações corporativas web e mobile;Atuar no desenvolvimento backend e frontend de soluções;Implementar e integrar APIs RESTful e serviços SOAP;Participar de definições técnicas, arquitetura e boas prática…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java",
+        "APIs REST"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-12T07:00:50Z",
+      "ultima_vista": "2026-11-12",
+      "expirada": false
+    },
+    {
       "id": "d58ba4d864c49454b825e15f2b9214a3b42a6496",
       "titulo": "Desenvolvedor Front-end Angular",
       "empresa": "AM53 Tech Recruitment",
@@ -8229,6 +8257,31 @@
       "expirada": true
     },
     {
+      "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
+      "titulo": "Desenvolvedor Back End Jr",
+      "empresa": "Inovation IT",
+      "url": "https://www.adzuna.com.br/details/5962338603?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-11T22:06:41Z",
+      "descricao": "A Hyst é uma agencia digital e fábrica de software, atende diferentes cliente. O Dev irá trabalhar em projetos e atividades diversas. Cargo: Desenvolvedor Back End Jr Tipo de Contrato: Prestador de serviço (PJ) Área profissional: Informática/T.I. Carga-horária: Número de vagas: 1 Benefícios: Mil reais para alimentação e transporte. Experiências e qualificações: Desenvolvedor Back End Jr Habilidades necessárias: - Node.js; - PHP; - SQL; - Github Habilidades que são diferenciais: - React.JS e/ou …",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "PHP"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T23:29:32Z",
+      "ultima_vista": "2026-11-12",
+      "expirada": false
+    },
+    {
       "id": "296ba868d85c5f5a18141cf209eb680643f9ba6a",
       "titulo": "Banco de Talentos React/Node - SP",
       "empresa": "Conquest one",
@@ -9891,31 +9944,6 @@
       "expirada": false
     },
     {
-      "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
-      "titulo": "Desenvolvedor Back End Jr",
-      "empresa": "Inovation IT",
-      "url": "https://www.adzuna.com.br/details/5928221289?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-14T21:56:44Z",
-      "descricao": "A Hyst é uma agencia digital e fábrica de software, atende diferentes cliente. O Dev irá trabalhar em projetos e atividades diversas. Cargo: Desenvolvedor Back End Jr Tipo de Contrato: Prestador de serviço (PJ) Área profissional: Informática/T.I. Carga-horária: Número de vagas: 1 Benefícios: Mil reais para alimentação e transporte. Experiências e qualificações: Desenvolvedor Back End Jr Habilidades necessárias: - Node.js; - PHP; - SQL; - Github Habilidades que são diferenciais: - React.JS e/ou …",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "PHP"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T23:29:32Z",
-      "ultima_vista": "2026-10-16",
-      "expirada": true
-    },
-    {
       "id": "a58dfd1bc41d035d907e9239206555ad8453e68a",
       "titulo": "Desenvolvedor Fullstack Pl",
       "empresa": "Addvisor",
@@ -11199,6 +11227,24 @@
       "expirada": true
     },
     {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-12",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11218,24 +11264,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-12",
       "expirada": false
     },
     {
@@ -11286,14 +11314,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
