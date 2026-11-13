@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-13T01:02:51Z",
+  "atualizado_em": "2026-11-13T01:47:09Z",
   "total": 609,
   "vagas": [
     {
@@ -8307,6 +8307,29 @@
       "expirada": true
     },
     {
+      "id": "ef21a3a34d81ea7860f2803ffe458800c5d8a3c9",
+      "titulo": "Fullstack Developer Pleno - Remoto",
+      "empresa": "Verity",
+      "url": "https://www.adzuna.com.br/details/5963775369?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-12T22:04:27Z",
+      "descricao": "A Verity está buscando novos talentos! Somos uma aceleradora de soluções digitais e buscamos Fullstack Developer Pleno para fazer parte dessa jornada. Olha só quais são as experiências e conhecimentos que você precisa ter para acelerar e transformar com a gente: Responsabilidades e atribuições Desenvolver e evoluir aplicações Full Stack utilizando Kotlin/Java e tecnologias modernas de front-end. Construir e manter APIs REST escaláveis, seguras e performáticas. Desenvolver e evoluir interfaces d…",
+      "score": 40,
+      "skills_match": [
+        "Java",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:00:52Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "c1b3f8dd288dd900851d4a490c25c1a5b9073cf6",
       "titulo": "Desenvolvedor Back End Jr",
       "empresa": "Inovation IT",
@@ -8349,7 +8372,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T23:00:56Z",
-      "ultima_vista": "2026-11-12",
+      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -8757,7 +8780,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-12",
+      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -9905,29 +9928,6 @@
       ],
       "experiencia_exigida": 4,
       "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-17",
-      "expirada": true
-    },
-    {
-      "id": "ef21a3a34d81ea7860f2803ffe458800c5d8a3c9",
-      "titulo": "Fullstack Developer Pleno - Remoto",
-      "empresa": "Verity",
-      "url": "https://www.adzuna.com.br/details/5929626381?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-15T21:53:28Z",
-      "descricao": "A Verity está buscando novos talentos! Somos uma aceleradora de soluções digitais e buscamos Fullstack Developer Pleno para fazer parte dessa jornada. Olha só quais são as experiências e conhecimentos que você precisa ter para acelerar e transformar com a gente: Responsabilidades e atribuições Desenvolver e evoluir aplicações Full Stack utilizando Kotlin/Java e tecnologias modernas de front-end. Construir e manter APIs REST escaláveis, seguras e performáticas. Desenvolver e evoluir interfaces d…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-10-17",
       "expirada": true
     },
@@ -11610,6 +11610,26 @@
       "expirada": true
     },
     {
+      "id": "5f8d064d193cb6ba854877fbbabb0bda07005552",
+      "titulo": "Desenvolvedor Java Fullstack",
+      "empresa": "Global TI",
+      "url": "https://www.adzuna.com.br/details/5963775689?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T22:04:30Z",
+      "descricao": "Atividades do projeto: FRONTEND Criar telas no Portal para Consulta, inserções e atualizações do Cadastro BACKEND Tratar regras de validação, integrações e persistência no Banco de Dados Criar APIs para Consulta, inserções e atualizações do Cadastro. Banco de Dados Criação de Tabelas e referencias de acordo com o modelo de dados Pré-Formatado Criação de “Triggers” para Auditar as informações modificadas. Mensageria Conceito Topic - Criar formas de envio de Replicação de Dados de acordo com o co…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:00:36Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "0a386b97e164e060a10c4f58b9ac24d403d6556e",
       "titulo": "Dev Fullstack .NET / React (Pleno)",
       "empresa": "GregHub",
@@ -11651,7 +11671,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T19:07:35Z",
-      "ultima_vista": "2026-11-12",
+      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -13171,26 +13191,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-10-16",
-      "expirada": true
-    },
-    {
-      "id": "5f8d064d193cb6ba854877fbbabb0bda07005552",
-      "titulo": "Desenvolvedor Java Fullstack",
-      "empresa": "Global TI",
-      "url": "https://www.adzuna.com.br/details/5929626648?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-15T21:53:31Z",
-      "descricao": "Atividades do projeto: FRONTEND Criar telas no Portal para Consulta, inserções e atualizações do Cadastro BACKEND Tratar regras de validação, integrações e persistência no Banco de Dados Criar APIs para Consulta, inserções e atualizações do Cadastro. Banco de Dados Criação de Tabelas e referencias de acordo com o modelo de dados Pré-Formatado Criação de “Triggers” para Auditar as informações modificadas. Mensageria Conceito Topic - Criar formas de envio de Replicação de Dados de acordo com o co…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T23:00:36Z",
-      "ultima_vista": "2026-10-17",
       "expirada": true
     },
     {
