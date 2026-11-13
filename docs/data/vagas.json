@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-13T17:39:13Z",
-  "total": 614,
+  "atualizado_em": "2026-11-13T19:02:48Z",
+  "total": 615,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -6315,6 +6315,40 @@
       "expirada": false
     },
     {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T06:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Redux",
+        "Tailwind",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "d6d6379e2e368682e0abc7efb0ea57add25260f9",
       "titulo": "Programador Jr",
       "empresa": "Buscar Vagas - Empregos Brasil",
@@ -8064,21 +8098,14 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Clean Code"
+        "APIs REST"
       ],
       "lacunas": [
         "Redux",
         "Sass",
-        "Python",
         ".NET",
         "SQL Server",
-        "Redis",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
