@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-13T03:02:38Z",
-  "total": 609,
+  "atualizado_em": "2026-11-13T05:02:46Z",
+  "total": 610,
   "vagas": [
     {
       "id": "84da6d98d2b90eaf61d11bf1bed27d36cdbaa987",
@@ -374,14 +374,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -394,7 +394,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-13",
       "expirada": false
@@ -1863,6 +1863,28 @@
       "expirada": true
     },
     {
+      "id": "43d3610f2e117898c97e4158b4a8a7dbb35a2623",
+      "titulo": "Desenvolvedor Java Pleno",
+      "empresa": "Luxfacta Soluções de TI",
+      "url": "https://www.adzuna.com.br/details/5963791453?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T22:06:47Z",
+      "descricao": "Descrição da empresa Luxfacta é uma fábrica de software que possui uma história de quase 2 décadas desenvolvendo produtos digitais. Trabalhamos com os mais complexos projetos nos mais diversos setores da economia, de forma ágil e com alta qualidade. Atualmente, a empresa cria aplicativos e sistemas customizados, oferecendo atendimento exclusivo aos clientes. Atividades e Responsabilidades - Desenvolvimento utilizando linguagem Java - Haverá desenvolvimento utilizando linguagem Angular - Conheci…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:11:22Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "5925bc0043b6eddb702fdf4c9a9009f66f3ad514",
       "titulo": "Desenvolvedor (a) Java Fullstack JR/PL",
       "empresa": "Global TI",
@@ -2395,28 +2417,6 @@
       "expirada": true
     },
     {
-      "id": "43d3610f2e117898c97e4158b4a8a7dbb35a2623",
-      "titulo": "Desenvolvedor Java Pleno",
-      "empresa": "Luxfacta Soluções de TI",
-      "url": "https://www.adzuna.com.br/details/5929642450?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-15T21:56:13Z",
-      "descricao": "Descrição da empresa Luxfacta é uma fábrica de software que possui uma história de quase 2 décadas desenvolvendo produtos digitais. Trabalhamos com os mais complexos projetos nos mais diversos setores da economia, de forma ágil e com alta qualidade. Atualmente, a empresa cria aplicativos e sistemas customizados, oferecendo atendimento exclusivo aos clientes. Atividades e Responsabilidades - Desenvolvimento utilizando linguagem Java - Haverá desenvolvimento utilizando linguagem Angular - Conheci…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T23:11:22Z",
-      "ultima_vista": "2026-10-17",
-      "expirada": true
-    },
-    {
       "id": "fed72dd2136bdd1fbda8c0ef43ecd9c3ba398d4a",
       "titulo": "Analista Desenvolvedor Fullstack (Java/Angular)",
       "empresa": "Global TI",
@@ -2712,6 +2712,63 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "0273c47f5f205435b042eed7f15b5910b511178d",
+      "titulo": "Desenvolvedor Mobile Pl",
+      "empresa": "LEROY MERLIN BR",
+      "url": "https://www.adzuna.com.br/details/5963787960?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T22:06:16Z",
+      "descricao": "O que esperamos de você: - Ensino Superior Completo - Obrigatório ter conhecimentos em react native sem expo - Obrigatório ter conhecimentos de firebase - Obrigatório ter conhecimentos em Redux-sagas - Obrigatório ter conhecimento com testes unitários com jest - Diferencial ter conhecimento com testes E2E com maestro e Test Lab - Diferencial ter conhecimento em java para Android - Diferencial ter conhecimentos em objective-c para iOS - Diferencial ter conhecimentos play console para publicação …",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Firebase"
+      ],
+      "lacunas": [
+        "React Native",
+        "Redux",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:00:52Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
+      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
+      "titulo": "Desenvolvedor Full Stack Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5963576367?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T16:25:19Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:00:54Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
     },
     {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
@@ -3803,38 +3860,6 @@
       "expirada": true
     },
     {
-      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
-      "titulo": "Desenvolvedor Full Stack Node.js",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5938882890?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-23T02:40:28Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
       "id": "c5c8f4c50d36839ef167e95a0bee3c0361241162",
       "titulo": "Desenvolvedor(a) Frontend Angular",
       "empresa": "Sioux digital 1:1",
@@ -4155,31 +4180,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T07:01:01Z",
       "ultima_vista": "2026-10-17",
-      "expirada": true
-    },
-    {
-      "id": "0273c47f5f205435b042eed7f15b5910b511178d",
-      "titulo": "Desenvolvedor Mobile Pl",
-      "empresa": "LEROY MERLIN BR",
-      "url": "https://www.adzuna.com.br/details/5929638729?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-15T21:55:38Z",
-      "descricao": "O que esperamos de você: - Ensino Superior Completo - Obrigatório ter conhecimentos em react native sem expo - Obrigatório ter conhecimentos de firebase - Obrigatório ter conhecimentos em Redux-sagas - Obrigatório ter conhecimento com testes unitários com jest - Diferencial ter conhecimento com testes E2E com maestro e Test Lab - Diferencial ter conhecimento em java para Android - Diferencial ter conhecimentos em objective-c para iOS - Diferencial ter conhecimentos play console para publicação …",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Firebase"
-      ],
-      "lacunas": [
-        "React Native",
-        "Redux",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T23:00:52Z",
-      "ultima_vista": "2026-10-16",
       "expirada": true
     },
     {
@@ -6332,14 +6332,14 @@
     },
     {
       "id": "a91551db45deeee53791a26136102135d6979fec",
-      "titulo": "Developer Fullstack.Net Angular",
+      "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5959670469?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5959669064?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T22:22:14Z",
-      "descricao": "Developer Fullstack.Net Angular - Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Developer Fullstack. Net Angular. Experiência ProfissionalRequisitos Técnicos:Atuar no desenvolvimento Full Stack, com foco em Backend . NET C# e Front End em Angular. Desenvolver APIs RESTful robustas e seguras, com versionamento e documentação. Trabalhar com Dapper pa…",
+      "data_publicacao": "2026-11-09T22:22:02Z",
+      "descricao": "Developer Fullstack .Net Angular - Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. Estamos com uma oportunidade para o nosso time corporativo para: Developer Fullstack. Net Angular. Experiência Profissional Requisitos Técnicos: Atuar no desenvolvimento Full Stack, com foco em Backend . NET C# e Front End em Angular. Desenvolver APIs RESTful robustas e seguras, com versionamento e documentação. Trabalhar com Dapper…",
       "score": 45,
       "skills_match": [
         "Angular",
@@ -6351,7 +6351,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-11",
+      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -8307,6 +8307,28 @@
       "expirada": true
     },
     {
+      "id": "ca48ba2c5b6acde817152d2c69e4e349d051af55",
+      "titulo": "Desenvolvedor(a) React",
+      "empresa": "GeekHunter",
+      "url": "https://www.adzuna.com.br/details/5963793245?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-12T22:07:03Z",
+      "descricao": "PYTHON REACT Localização Joinville, SC Remoto Faixa Salarial R$ 9.500,00 - 9.800,00 (CLT) - R$ 12.000,00 - 13.900,00 (PJ)Senioridade Júnior/Pleno - (2-4 anos de experiência)Curtiu a vaga? Demonstre interesse e seja encontrado pela empresa - Joinville - SC_ - Hardware, Eletrônicos e Telecomunicações_ O Grupo Pixida converte transformação digital em sucesso sustentável ao integrar as capacidades de suas empresas. Oferece consultoria estratégica, serviços profissionais, soluções e produtos end2end…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": 4,
+      "data_coleta": "2026-09-19T09:00:56Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "ef21a3a34d81ea7860f2803ffe458800c5d8a3c9",
       "titulo": "Fullstack Developer Pleno - Remoto",
       "empresa": "Verity",
@@ -8326,6 +8348,30 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
+      "id": "4e32af4900bd0577a32ecfc9aed64d4042cd9be4",
+      "titulo": "Backend Engineer (AWS, Python/Node.js)",
+      "empresa": "TechMagic",
+      "url": "https://www.adzuna.com.br/details/5963515379?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Pacaembu, Zona Oeste",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T14:20:29Z",
+      "descricao": "We are looking for a talented Senior AWS/Back-end Developer with 5 years of programming background to own and evolve the cloud infrastructure and backend services behind an established healthcare and community care platform. You will be responsible for core development, production support, and security across the AWS services and APIs that connect Salesforce with a React Native mobile app. The platform handles sensitive health and personal data, so security, data protection, and reliability are…",
+      "score": 40,
+      "skills_match": [
+        "Node.js"
+      ],
+      "lacunas": [
+        "React Native",
+        "Python",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T05:00:51Z",
       "ultima_vista": "2026-11-13",
       "expirada": false
     },
@@ -9910,28 +9956,6 @@
       "expirada": false
     },
     {
-      "id": "ca48ba2c5b6acde817152d2c69e4e349d051af55",
-      "titulo": "Desenvolvedor(a) React",
-      "empresa": "GeekHunter",
-      "url": "https://www.adzuna.com.br/details/5929645263?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Joinville, Santa Catarina",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-15T21:56:32Z",
-      "descricao": "PYTHON REACT Localização Joinville, SC Remoto Faixa Salarial R$ 9.500,00 - 9.800,00 (CLT) - R$ 12.000,00 - 13.900,00 (PJ)Senioridade Júnior/Pleno - (2-4 anos de experiência)Curtiu a vaga? Demonstre interesse e seja encontrado pela empresa - Joinville - SC_ - Hardware, Eletrônicos e Telecomunicações_ O Grupo Pixida converte transformação digital em sucesso sustentável ao integrar as capacidades de suas empresas. Oferece consultoria estratégica, serviços profissionais, soluções e produtos end2end…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": 4,
-      "data_coleta": "2026-09-19T09:00:56Z",
-      "ultima_vista": "2026-10-17",
-      "expirada": true
-    },
-    {
       "id": "8f842243e4eae86d0710d127b1bdbdbc25643db1",
       "titulo": "Analista De Engenharia De Software React Native Pleno - Remoto",
       "empresa": "Inmetrics S/A",
@@ -11277,6 +11301,24 @@
       "expirada": true
     },
     {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11296,24 +11338,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -11364,14 +11388,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11608,6 +11632,32 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "57b7eac5fe4f1415ba80f81587c744805cf1fc43",
+      "titulo": "Desenvolvedor Front-end Junior",
+      "empresa": "TillBill",
+      "url": "https://www.adzuna.com.br/details/5963792657?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-12T22:06:56Z",
+      "descricao": "Conhecimento em Jquery, React, Html5, Css3; - Conhecimento com integrações de APIs (RESTFul); - Proativo, com ótimo raciocínio lógico e alto nível de comprometimento (responsabilidade é um de nossos principais valores!); Desafios e Responsabilidades - Desenvolver novas funcionalidades; - Manutenção e melhorias de nossos sistemas; - Criar interfaces web que sejam organizadas, responsivas, fluídas, rápidas e intuitivas; - Criar adaptações de maneira ágil buscando atender demandas de urgência. Tra…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "jQuery"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T23:00:52Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
     },
     {
       "id": "5f8d064d193cb6ba854877fbbabb0bda07005552",
@@ -13165,32 +13215,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-16T17:00:57Z",
       "ultima_vista": "2026-10-19",
-      "expirada": true
-    },
-    {
-      "id": "57b7eac5fe4f1415ba80f81587c744805cf1fc43",
-      "titulo": "Desenvolvedor Front-end Junior",
-      "empresa": "TillBill",
-      "url": "https://www.adzuna.com.br/details/5929644364?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-15T21:56:25Z",
-      "descricao": "Conhecimento em Jquery, React, Html5, Css3; - Conhecimento com integrações de APIs (RESTFul); - Proativo, com ótimo raciocínio lógico e alto nível de comprometimento (responsabilidade é um de nossos principais valores!); Desafios e Responsabilidades - Desenvolver novas funcionalidades; - Manutenção e melhorias de nossos sistemas; - Criar interfaces web que sejam organizadas, responsivas, fluídas, rápidas e intuitivas; - Criar adaptações de maneira ágil buscando atender demandas de urgência. Tra…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "jQuery"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T23:00:52Z",
-      "ultima_vista": "2026-10-16",
       "expirada": true
     },
     {
