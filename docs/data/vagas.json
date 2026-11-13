@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-13T19:02:48Z",
-  "total": 615,
+  "atualizado_em": "2026-11-13T21:02:51Z",
+  "total": 617,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -531,6 +531,27 @@
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
       "expirada": true
+    },
+    {
+      "id": "31105de6c5d1578d6a92f675cff30060fd3536fc",
+      "titulo": "Desenvolvedor Fullstack (Java Angular)",
+      "empresa": "Topmind",
+      "url": "https://www.adzuna.com.br/details/5964848375?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-13T14:52:48Z",
+      "descricao": "Descrição Quer fazer parte de uma empresa de grande porte do segmento de seguros e atuar em projetos de tecnologia? Então, essa oportunidade pode ser para você! Estamos em busca de um Desenvolvedor Fullstack (Java Angular) para integrar o time de tecnologia e participar de projetos de desenvolvimento, contribuindo ativamente para a criação de soluções, evolução de sistemas e implementação de melhorias. Modelo híbrido/Local de trabalho: Zona Sul de São Paulo (SP), com 3 dias presenciais e 2 dia…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T21:00:39Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
     },
     {
       "id": "cc0c2621a38c5da2589faf011b72ad48d061a499",
@@ -5488,6 +5509,42 @@
       "data_coleta": "2026-09-14T20:32:51Z",
       "ultima_vista": "2026-09-14",
       "expirada": true
+    },
+    {
+      "id": "30d725fc07f8c1f8c9ca945acd900ba3562e6d4d",
+      "titulo": "Desenvolvedor(A) Backend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-backend-banco-talentos-em-sao-paulo__12219120.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T07:59:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Backend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de APIs, integrações e sistemas com regras de negócio complexas.\nProcuramos um profissional com sólida experiência em Node.js e TypeScript, conhecimento em arquitetura de aplicações backend e capacidade de propor soluções técnicas eficientes, escaláveis e confiáveis.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações Backend utilizando Node.js e TypeScript;\nProjetar, implementar e manter APIs REST;\nDesenvolver integrações com sistemas e serviços externos;\nTrabalhar com bancos de dados relacionais, modelagem de dados e migrations;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nDesenvolver e manter testes automatizados;\nIdentificar e solucionar problemas de performance, escalabilidade e confiabilidade;\nColaborar com as equipes de Frontend, Produto, QA, Infraestrutura e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com Node.js e TypeScript;\nExperiência com NestJS;\nExperiência no desenvolvimento de APIs REST;\nConhecimento em arquitetura de aplicações Backend e separação de responsabilidades;\nExperiência com bancos de dados relacionais, preferencialmente PostgreSQL ou MySQL;\nExperiência com ORMs ou f…",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Express",
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T21:01:35Z",
+      "ultima_vista": "2026-11-13",
+      "expirada": false
     },
     {
       "id": "e7e5236919314856036644fb916d627204ed88b8",
@@ -11378,24 +11435,6 @@
       "expirada": true
     },
     {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-10T10:18:30Z",
-      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-13",
-      "expirada": false
-    },
-    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11415,6 +11454,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-09T13:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -11465,14 +11522,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
