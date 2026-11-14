@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-14T11:03:16Z",
-  "total": 596,
+  "atualizado_em": "2026-11-14T13:02:52Z",
+  "total": 597,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -1779,6 +1779,29 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "ffc37ffdf9e43fc7c0e173e2f054dc4c10f7aea0",
+      "titulo": "Desenvolvedor(A) Fullstack (Java Angular)",
+      "empresa": "Nava",
+      "url": "https://www.adzuna.com.br/details/5965874256?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-14T09:43:17Z",
+      "descricao": "A Nava está buscando Desenvolvedor Fullstack (Spring Boot Angular) para atuar em uma oportunidade no segmento de seguros . Nesta posição, você terá o desafio de desenvolver e evoluir soluções que suportam processos estratégicos do negócio de seguros, atuando no desenvolvimento de aplicações modernas, integrações entre sistemas e entrega de novas funcionalidades. Buscamos um profissional com perfil analítico, colaborativo e orientado a resultados, que contribua ativamente para a evolução dos pr…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T13:00:39Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
     },
     {
       "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
