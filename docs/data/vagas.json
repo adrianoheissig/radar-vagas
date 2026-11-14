@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-14T16:31:20Z",
-  "total": 597,
+  "atualizado_em": "2026-11-14T19:02:51Z",
+  "total": 598,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -531,6 +531,29 @@
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
       "expirada": true
+    },
+    {
+      "id": "127e43348c204ba82a2166542ea2df80d7e21311",
+      "titulo": "FullStack Dotnet Core e Angular/React - Remoto - CLT de até 9k Ótimos Benefícios",
+      "empresa": "FourHands Brasil",
+      "url": "https://www.adzuna.com.br/details/5966166720?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-14T14:55:33Z",
+      "descricao": "Responsabilidades Desenvolver e evoluir aplicações web completas, atuando tanto no frontend quanto no backend; Construir interfaces modernas, responsivas, performáticas e alinhadas às necessidades do negócio; Desenvolver e manter APIs escaláveis, seguras e integradas aos sistemas da empresa; Implementar funcionalidades críticas de ponta a ponta, garantindo qualidade e experiência do usuário; Participar de definições técnicas, arquitetura de soluções e refinamento de requisitos (grooming); Reali…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T19:00:59Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
     },
     {
       "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
