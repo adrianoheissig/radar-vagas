@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-14T03:02:46Z",
+  "atualizado_em": "2026-11-14T05:02:25Z",
   "total": 595,
   "vagas": [
     {
@@ -2654,6 +2654,32 @@
       "expirada": true
     },
     {
+      "id": "b7ce40588eac3578f12f38f7bb32d919c58e913b",
+      "titulo": "Desenvolvedor Angular (Remoto/brasil)",
+      "empresa": "Programmer’s",
+      "url": "https://www.adzuna.com.br/details/5965081225?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-13T22:08:42Z",
+      "descricao": "Nosso negócio Especialistas em desenvolvimento de software e inteligência de dados, temos uma relação de transparência, confiança, credibilidade e reconhecimento neste mercado. Nosso maior sonho? Impactar empresas e pessoas. Buscamos alguém que - Tenha experiência com desenvolvimento em Angular (HTML, CSS e TypeScript) - Conheça testes unitários em Angular - Entenda o uso de design systems (Angular Material) - Conhecimentos essenciais em Cloud Provider (Azure) - Experiência com Metodologias Áge…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "Azure",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:01Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
       "id": "f0289df6ca8b979e20446197bace5a611bcfe2a5",
       "titulo": "Desenvolvedor PHP PL",
       "empresa": "Empresa confidencial",
@@ -4149,32 +4175,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-17T17:00:49Z",
       "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
-      "id": "b7ce40588eac3578f12f38f7bb32d919c58e913b",
-      "titulo": "Desenvolvedor Angular (Remoto/brasil)",
-      "empresa": "Programmer’s",
-      "url": "https://www.adzuna.com.br/details/5931337999?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-16T21:55:46Z",
-      "descricao": "Nosso negócio Especialistas em desenvolvimento de software e inteligência de dados, temos uma relação de transparência, confiança, credibilidade e reconhecimento neste mercado. Nosso maior sonho? Impactar empresas e pessoas. Buscamos alguém que - Tenha experiência com desenvolvimento em Angular (HTML, CSS e TypeScript) - Conheça testes unitários em Angular - Entenda o uso de design systems (Angular Material) - Conhecimentos essenciais em Cloud Provider (Azure) - Experiência com Metodologias Áge…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [
-        "Azure",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:01Z",
-      "ultima_vista": "2026-10-17",
       "expirada": true
     },
     {
@@ -6200,27 +6200,6 @@
       "expirada": false
     },
     {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T22:04:22Z",
-      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6265,6 +6244,40 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T06:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Redux",
+        "Tailwind",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
       "ultima_vista": "2026-11-14",
       "expirada": false
     },
