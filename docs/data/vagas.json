@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-14T19:02:51Z",
-  "total": 598,
+  "atualizado_em": "2026-11-14T21:02:51Z",
+  "total": 599,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -2721,6 +2721,28 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "5bed7a39c984f4f41b70c1285a4270e1c43a9c5b",
+      "titulo": "Desenvolvedor Angular Pleno - Remoto",
+      "empresa": "Lyncas",
+      "url": "https://www.adzuna.com.br/details/5966087048?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-14T13:51:28Z",
+      "descricao": "Estamos buscando um (a) pessoas desenvolvedora de nível PLENO para atuar em um dos nossos principais clientes do ramo de tecnologia. A vaga é 100% remota Atividades a serem realizadas: Projetar, desenvolver e manter interfaces de usuário com Angular; Implementar testes unitários para garantir a qualidade e a funcionalidade do código; Participar ativamente de code reviews, fornecendo feedback construtivo e garantindo que o código atenda aos padrões de qualidade e melhores práticas estabelecidas;…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T21:01:13Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
     },
     {
       "id": "b7ce40588eac3578f12f38f7bb32d919c58e913b",
