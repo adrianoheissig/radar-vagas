@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-14T05:02:25Z",
-  "total": 595,
+  "atualizado_em": "2026-11-14T07:02:51Z",
+  "total": 596,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -533,6 +533,34 @@
       "expirada": true
     },
     {
+      "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
+      "titulo": "Desenvolvedor(a) Frontend React",
+      "empresa": "HUNTINGTI",
+      "url": "https://www.adzuna.com.br/details/5965080303?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-13T22:08:23Z",
+      "descricao": "São Paulo: Pequena ou média empresa: PJ CLT: Remoto: Pleno: Formação necessária: Descrição da Empresa: É uma Venture Builder com plataformas em operação e mais de 14 milhões de clientes. Pré-Requisitos: Requisitos - HTML, CSS e JS - React - Responsive design - Metodologias ágeis - Git - Conhecimentos em SEO - Styled Components Diferenciais - Experiência profissional com desenvolvimento web - Conhecimento em frameworks js como AngularJS, Vue, Next js - Conhecimento em pré processadores como LESS…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Vue.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:00:50Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
       "id": "31105de6c5d1578d6a92f675cff30060fd3536fc",
       "titulo": "Desenvolvedor Fullstack (Java Angular)",
       "empresa": "Topmind",
@@ -882,34 +910,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T09:01:09Z",
       "ultima_vista": "2026-10-18",
-      "expirada": true
-    },
-    {
-      "id": "7849dfd3142cf1ab7fd6b2626bcc57a5187acc0c",
-      "titulo": "Desenvolvedor(a) Frontend React",
-      "empresa": "HUNTINGTI",
-      "url": "https://www.adzuna.com.br/details/5931337110?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-16T21:55:39Z",
-      "descricao": "São Paulo: Pequena ou média empresa: PJ CLT: Remoto: Pleno: Formação necessária: Descrição da Empresa: É uma Venture Builder com plataformas em operação e mais de 14 milhões de clientes. Pré-Requisitos: Requisitos - HTML, CSS e JS - React - Responsive design - Metodologias ágeis - Git - Conhecimentos em SEO - Styled Components Diferenciais - Experiência profissional com desenvolvimento web - Conhecimento em frameworks js como AngularJS, Vue, Next js - Conhecimento em pré processadores como LESS…",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "Angular",
-        "HTML",
-        "CSS",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Vue.js"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:00:50Z",
-      "ultima_vista": "2026-10-17",
       "expirada": true
     },
     {
@@ -1465,6 +1465,30 @@
       "expirada": false
     },
     {
+      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
+      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5964179305?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-13T03:53:04Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
+      "score": 65,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-20T07:01:03Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
       "id": "61d33a60f577ca3946b452523cf1ba264e3c1993",
       "titulo": "Pessoa Desenvolvedora Fullstack Java/React/Node.js Pl (Remoto) - 9446",
       "empresa": "Starian",
@@ -1540,30 +1564,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-26T21:01:28Z",
       "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "34195345cd14e2ea634cfdfb01fc50e71a5bec3d",
-      "titulo": "Desenvolvedor .NET - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5953907842?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-05T03:44:19Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guarulhos/SP. REQUISITOS: Desenvolvedor .NET Níveis Pleno e Sênior – Atuação híbrida Sólida experiência com desenvolvimento de software utilizando .NET e Angular; Vivência com Banco de dados SQL Server; Imprescindível Inglês Avançado; Atuação híbrida em Guar…",
-      "score": 65,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        ".NET",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-20T07:01:03Z",
-      "ultima_vista": "2026-11-06",
       "expirada": false
     },
     {
@@ -1779,6 +1779,29 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
+      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
+      "empresa": "Union it",
+      "url": "https://www.adzuna.com.br/details/5965020761?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T20:02:17Z",
+      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T07:00:41Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
     },
     {
       "id": "fc0db961e1c2249d29d22270540e2c91131a47e8",
@@ -6200,6 +6223,27 @@
       "expirada": false
     },
     {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T22:04:22Z",
+      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6244,40 +6288,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
-      "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T06:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Redux",
-        "Tailwind",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
       "ultima_vista": "2026-11-14",
       "expirada": false
     },
@@ -11148,6 +11158,24 @@
       "expirada": true
     },
     {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11167,24 +11195,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-14",
       "expirada": false
     },
     {
@@ -11235,14 +11245,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
