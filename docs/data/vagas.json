@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-15T13:02:50Z",
+  "atualizado_em": "2026-11-15T15:02:51Z",
   "total": 592,
   "vagas": [
     {
@@ -434,14 +434,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador de Software",
+      "titulo": "Programador De Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T22:20:26Z",
-      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
+      "data_publicacao": "2026-10-20T14:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
       "score": 75,
       "skills_match": [
         "React",
@@ -454,7 +454,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": null,
+      "experiencia_exigida": 3,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-15",
       "expirada": false
@@ -11401,6 +11401,36 @@
       "expirada": true
     },
     {
+      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
+      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5966828374?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-15T10:04:11Z",
+      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T13:00:55Z",
+      "ultima_vista": "2026-11-15",
+      "expirada": false
+    },
+    {
       "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
       "titulo": "Principal.Net Engineer",
       "empresa": "",
@@ -12025,36 +12055,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
       "ultima_vista": "2026-11-09",
-      "expirada": false
-    },
-    {
-      "id": "089814196ab67c83697e600e0a6c603aed1f67df",
-      "titulo": "DESENVOLVEDOR(A) FULL STACK - 83",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5957036447?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-07T10:35:55Z",
-      "descricao": "\" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first; Authenticat…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-11-08",
       "expirada": false
     },
     {
