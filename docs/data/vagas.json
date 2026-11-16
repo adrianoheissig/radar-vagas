@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T09:02:42Z",
+  "atualizado_em": "2026-11-16T15:54:47Z",
   "total": 585,
   "vagas": [
     {
@@ -1857,6 +1857,29 @@
       "expirada": false
     },
     {
+      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
+      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
+      "empresa": "Union IT",
+      "url": "https://www.adzuna.com.br/details/5966104451?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-14T14:02:27Z",
+      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T07:00:41Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
       "id": "ffc37ffdf9e43fc7c0e173e2f054dc4c10f7aea0",
       "titulo": "Desenvolvedor(A) Fullstack (Java Angular)",
       "empresa": "Nava",
@@ -1876,29 +1899,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T13:00:39Z",
-      "ultima_vista": "2026-11-16",
-      "expirada": false
-    },
-    {
-      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
-      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
-      "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5965020761?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T20:02:17Z",
-      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-14T07:00:41Z",
       "ultima_vista": "2026-11-16",
       "expirada": false
     },
@@ -6102,7 +6102,7 @@
       "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5966629651?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5966629651?utm_medium=api&utm_source=267e525f&v=210109D72DEF7F1FAEE23F01DC660D3FC3D3198A",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
