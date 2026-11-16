@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-15T19:02:57Z",
-  "total": 593,
+  "atualizado_em": "2026-11-16T00:56:20Z",
+  "total": 585,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -115,7 +115,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-28T17:00:48Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -191,7 +191,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-25T23:01:37Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -429,7 +429,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-22T19:00:53Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -456,7 +456,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -491,7 +491,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -563,7 +563,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:01:12Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -593,7 +593,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T09:01:09Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -616,7 +616,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T19:00:59Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -665,7 +665,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:00:39Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -777,7 +777,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-27T15:01:29Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -802,7 +802,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T15:49:22Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -963,7 +963,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1071,7 +1071,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1726,35 +1726,6 @@
       "expirada": true
     },
     {
-      "id": "c0a29eb4e51bf1db553e3f8d40971a2c16d45a57",
-      "titulo": "Desenvolvedor(A) De Software Pleno",
-      "empresa": "Start Recrutamento e Treinamento LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-software-pleno-em-sao-paulo__11871282.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-07-31T08:55:00Z",
-      "descricao": "Sobre a vaga\nO Grupo Sarfaty está em busca de um(a) Desenvolvedor(a) de Software Pleno para integrar o time de tecnologia e atuar no desenvolvimento de soluções que impulsionam a transformação digital da empresa.\nVocê participará de projetos envolvendo Inteligência Artificial, automação de processos, integrações entre sistemas, desenvolvimento de APIs e produtos internos que apoiam áreas estratégicas como Crédito, Cobrança, Contabilidade e Operações.\nProcuramos um profissional com perfil versátil, autonomia para propor soluções e interesse em trabalhar com tecnologias modernas e IA aplicada ao desenvolvimento.\nPrincipais responsabilidades\nDesenvolver aplicações utilizando Node.js/NestJS, JavaScript/TypeScript e SQL;\nConstruir APIs e integrações entre sistemas;\nDesenvolver automações e soluções para otimização de processos;\nParticipar de projetos envolvendo Inteligência Artificial e processamento inteligente de documentos;\nAtuar em todas as etapas do desenvolvimento, desde o entendimento da necessidade até testes e implementação;\nTrabalhar em parceria com as áreas de negócio para construir soluções de alto impacto.\nRequisitos\nExperiência em desenvolvimento de software;\nConhecimento sólido em Node.js (preferencialmente NestJS);\nDomínio de JavaScript/TypeScript;\nExperiência com bancos de dados SQL;\nVivência com APIs REST;\nBoa capacidade analítica, autonomia e comunicação.\nSerá considerado um diferencial\nReact ou Next.js;\nAWS;\nInteligência Artificial aplicada ao desenvolvimento;…",
-      "score": 65,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Node.js",
-        "APIs REST",
-        "SQL"
-      ],
-      "lacunas": [
-        "Next.js",
-        "NestJS",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:23:04Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "c7d84ae400303ebd3f5de3b5212ad5dc8ee7b4fd",
       "titulo": "Desenvolvedor(A) Typescript · Fullstack",
       "empresa": "Kikos Fitness",
@@ -1827,7 +1798,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T19:00:42Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1849,7 +1820,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T13:00:42Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1872,7 +1843,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T13:00:39Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1895,7 +1866,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T07:00:41Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1917,7 +1888,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T13:00:57Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -1964,7 +1935,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T18:06:01Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2078,7 +2049,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T19:01:31Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2099,7 +2070,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-08T19:00:39Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2572,38 +2543,6 @@
       "expirada": true
     },
     {
-      "id": "e9b4858a04d501766f66ef3e0e08c991754255c4",
-      "titulo": "Analista De Sistemas Jr | Vargem Grande Paulista",
-      "empresa": "MEGA G ALIMENTOS",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-jr-vargem-grande-paulista-em-sao-paulo__11959624.aspx",
-      "fonte": "infojobs",
-      "local": "Vargem Grande Paulista - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-08-27T15:16:00Z",
-      "descricao": "Seja parte do futuro na MegaG Alimentos!\n\nA MegaG Alimentos, distribuidora de food service, está em busca de um (a) ANALISTA DE SISTEMAS JR\nPrincipais Responsabilidades\nDesenvolver, testar e manter aplicações de software seguindo padrões e boas práticas de codificação;\nParticipar do ciclo completo de desenvolvimento de sistemas, desde a análise de requisitos até a implementação;\nRealizar correção de bugs e otimização de código em aplicações existentes;\nColaborar com a equipe de desenvolvimento na elaboração de soluções técnicas;\nDocumentar sistemas, processos e funcionalidades de forma clara e objetiva;\nApoiar na implantação e suporte de soluções em ambiente de produção;\nParticipar de reuniões técnicas e apresentar progresso das atividades;\n Manter-se atualizado com novas tecnologias e tendências do mercado de desenvolvimento.\nRequisitos\nGraduação em andamento ou completa em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas relacionadas;\nConhecimento em pelo menos uma linguagem de programação (Java, Python, C#, JavaScript ou similar);\nFamiliaridade com versionamento de código (Git/GitHub);\nNoções de banco de dados relacionais (SQL);\nCompreensão básica de arquitetura de sistemas;\nConhecimento de metodologias ágeis (Scrum/Kanban).\nDiferenciais\nConhecimento em mais de uma linguagem de programação;\nExperiência com frameworks populares (Spring, Django, React, Angular, etc.);\nFamiliaridade com testes automatizados e TDD (Test-Driven Development);\nConhe…",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "Java",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Spring",
-        "Python",
-        "Django",
-        "C#",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "1d6b886a63093f429da93060b7d460c9be8841c4",
       "titulo": "Desenvolvedor Back-End Pleno",
       "empresa": "RDC VIAGENS",
@@ -2634,7 +2573,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:23:01Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2736,7 +2675,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2757,7 +2696,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2781,7 +2720,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T05:01:18Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2803,7 +2742,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T21:01:13Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2861,7 +2800,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-13T15:01:44Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2884,7 +2823,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2911,7 +2850,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -3635,7 +3574,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-02T07:01:10Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -3684,7 +3623,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:57Z",
       "ultima_vista": "2026-11-01",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "663c645ce3ecd89c1e45d5b6441c8c7f71bbaed3",
@@ -3705,7 +3644,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T07:01:03Z",
       "ultima_vista": "2026-11-01",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "25a6c418c821b96e42e3cf00a9dbf3bba82c8e10",
@@ -4035,7 +3974,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-23T07:01:10Z",
       "ultima_vista": "2026-11-01",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "d141ffad3dcfc5e705bfb923e9be1f2439b3dfbb",
@@ -4094,7 +4033,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T21:01:34Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -4696,7 +4635,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -4773,7 +4712,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -4803,26 +4742,6 @@
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T14:47:40Z",
       "ultima_vista": "2026-09-29",
-      "expirada": true
-    },
-    {
-      "id": "c84156b68859be0445abc1ebd5e93f9e4c03029d",
-      "titulo": "Analista Desenvolvedor Front - End - Angular/Mobile - REMOTO",
-      "empresa": "FOURSYS",
-      "url": "https://www.adzuna.com.br/land/ad/5885697147?utm_medium=api&utm_source=267e525f&v=4AB7EC0CB3A2624FF61DA59AF69E0D8ED1AE2D02",
-      "fonte": "adzuna",
-      "local": "Brasil",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T02:40:26Z",
-      "descricao": "A Foursys é um time apaixonado por inovação, design e transformação digital. Somos globais, somos GPTW. Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. VemSerFoursys! Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD). Caso você se enq…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:34Z",
-      "ultima_vista": "2026-09-16",
       "expirada": true
     },
     {
@@ -5416,7 +5335,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -5438,7 +5357,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -5462,7 +5381,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:56Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -5547,7 +5466,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:01:35Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -5687,7 +5606,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T17:00:59Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6072,7 +5991,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6232,7 +6151,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T18:43:43Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6256,7 +6175,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6283,7 +6202,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:51Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6303,7 +6222,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:01:02Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6375,7 +6294,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6397,7 +6316,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:16:57Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6515,7 +6434,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T07:00:50Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6643,7 +6562,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-06T19:01:47Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6835,7 +6754,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6857,7 +6776,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -7022,7 +6941,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -7047,7 +6966,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:00:37Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -7202,7 +7121,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-23T13:01:45Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8099,26 +8018,6 @@
       "expirada": true
     },
     {
-      "id": "19828fef6e9fda42a05d965a6de8977621ebe242",
-      "titulo": "Desenvolvedor Front end - Angular",
-      "empresa": "BRQ Digital Solutions",
-      "url": "https://www.adzuna.com.br/land/ad/5884415196?utm_medium=api&utm_source=267e525f&v=134B4868DB49C509CDE5D36E9A43278D5EFEF55D",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-15T04:44:23Z",
-      "descricao": "Código da vaga: 1781e1 Sobre a BRQ Digital Há 33 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior. Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "9abfb21c321a1832890235e8ec06fe156c33b1e7",
       "titulo": "Front End Developer (Angular)",
       "empresa": "Stefanini Latam",
@@ -8136,31 +8035,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "e9deb9f3daabef71b9efe8982e8f425d5f7e543e",
-      "titulo": "Desenvolvedor FullStack (React + .NET) - Pleno",
-      "empresa": "Viva Fidelidade",
-      "url": "https://vivafidelidade.gupy.io/job/eyJqb2JJZCI6MTE5NjA0MTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Rio de Janeiro, Rio de Janeiro",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-18T13:24:11Z",
-      "descricao": "Você é um(a) profissional dinâmico(a), focado(a) em resultados e com vontade de transformar a mobilidade no Brasil? O Viva Fidelidade, o programa de benefícios e relacionamento do Grupo Guanabara, está em busca de talentos para acelerar nossa evolução. Unimos a inteligência de dados e a paixão por servir à força do transporte rodoviário para criar soluções de engajamento que transformam cada quilômetro em vantagens reais para milhões de passageiros. Aqui, sua atuação é o motor de conexão, fidelização e inovação. ✨🚌 O desafio: Buscamos uma Pessoa Desenvolvedora Fullstack Pleno com experiência em React e .Net para integrar nosso time de engenharia, fortalecendo a frente de desenvolvimento da Viva Fidelidade e ganhando espaço para atuar em projetos estratégicos com mais autonomia e protagonismo. Responsabilidades e atribuiçõesDesenvolver e evoluir APIs REST em .NET 9 / ASP.NET Core, seguindo a arquitetura em camadas já estabelecida (Domain, Application, Infrastructure, Repository, WebApi, Worker);Construir telas e fluxos no painel administrativo em React 19 + TypeScript, com foco em usabilidade para operação interna;Integrar serviços internos (Marketplace ↔ Point Engine ↔ Admin) e provedores externos via HTTP clients, filas e proxies;Implementar processamento assíncrono em Workers consumindo mensagens (RabbitMQ);Escrever testes automatizados xUnit e manter a cobertura das camadas de domínio e aplicação;Participar de code review, refinamento técnico e decisões de arquitetura;Apo…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        ".NET",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-16",
       "expirada": true
     },
     {
@@ -8303,7 +8177,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8323,7 +8197,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8347,7 +8221,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8367,7 +8241,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8390,7 +8264,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T23:49:17Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8418,7 +8292,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8446,7 +8320,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8474,7 +8348,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8498,7 +8372,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8543,7 +8417,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-20T23:00:56Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8563,7 +8437,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T09:01:02Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8698,7 +8572,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:50:10Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8718,7 +8592,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:50:10Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -8752,7 +8626,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T13:01:43Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9089,7 +8963,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-07T19:00:56Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9111,7 +8985,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-07T17:00:53Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9416,7 +9290,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T19:01:06Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9443,7 +9317,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-31T17:01:49Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9467,7 +9341,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-11-01",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "43db2d902bddc8bd75343e05ecc3d758db809a75",
@@ -9489,7 +9363,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T19:01:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -9730,7 +9604,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T17:00:42Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -10521,7 +10395,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11098,28 +10972,6 @@
       "expirada": true
     },
     {
-      "id": "b03b7b545d8443f4daae3083a7c7489d332434d5",
-      "titulo": "Hitss | Desenvolvedor Full Stack (Python e React)",
-      "empresa": "Hitss Brasil",
-      "url": "https://globalhitss.gupy.io/job/eyJqb2JJZCI6MTA0MDE1MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2025-11-26T14:04:32Z",
-      "descricao": "Na Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.Venha ser um Hit!Responsabilidades e atribuiçõesDesenvolver e manter aplicações web utilizando Python no backend.Criar interfaces responsivas e performáticas em React, garantindo boa experiência do usuário.Implementar integrações entre sistemas, APIs e serviços externos.Colaborar no desenho de arquitetura, definição de soluções e boa…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
       "titulo": "Dobrador - AÇO INOX",
       "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
@@ -11134,7 +10986,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11220,7 +11072,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-26T13:02:05Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11454,7 +11306,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11477,7 +11329,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11498,7 +11350,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11523,7 +11375,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11545,7 +11397,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11566,7 +11418,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11589,7 +11441,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11613,7 +11465,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11633,7 +11485,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11678,7 +11530,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T07:00:43Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11740,7 +11592,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T17:37:14Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11914,7 +11766,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:49:42Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -12038,7 +11890,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-09T13:01:21Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -12351,7 +12203,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-01T13:01:38Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -12439,7 +12291,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -12990,7 +12842,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -13848,28 +13700,6 @@
       "expirada": true
     },
     {
-      "id": "43d5b6e385c0458c68948cd0d52093c30a894e83",
-      "titulo": "Software Engineer - Python/Typescript",
-      "empresa": "Turing",
-      "url": "https://www.adzuna.com.br/details/5883800365?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-14T14:23:07Z",
-      "descricao": "About Turing: Turing is one of the world's leading AGI infrastructure companies, working with frontier AI labs to accelerate model development through high-quality training data, evaluations, and engineering talent. About the Role: We're looking for a high-taste engineer with a strong eye for quality — someone who's worked hands-on with preference data and rubric creation, and knows what separates a good example from a great one. You communicate clearly and can synthesize complex technical work…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:15Z",
-      "ultima_vista": "2026-09-16",
-      "expirada": true
-    },
-    {
       "id": "cce0645bf49a1d08293b336db836084a013ec5d6",
       "titulo": "Desenvolvedor Fullstack Pleno - Sustentação",
       "empresa": "AnkaTech",
@@ -14097,24 +13927,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "5f31b7d7669b3faa10687e543bf8e85cedcb7d2d",
-      "titulo": "Analista De Programação Jr.",
-      "empresa": "Pia Sociedade de São Paulo",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-programacao-jr-em-sao-paulo__11941138.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-21T06:49:00Z",
-      "descricao": "Analista de Programação Jr.\nVocê será responsável por:\nDesenvolver, testar, implantar e realizar a manutenção dos projetos de Meios Digitais da organização, contribuindo para a criação e evolução de sites, portais, sistemas, aplicativos e livros digitais. Atuar no levantamento de requisitos, desenvolvimento de soluções, correção de problemas e suporte técnico aos usuários, garantindo a qualidade, funcionalidade e cumprimento dos prazos dos projetos.\n\nPrincipais atividades: \n- Participar da análise e desenvolvimento de novos projetos de Meios Digitais, contribuindo para o levantamento de requisitos, definição de soluções e modelagem de dados.\n- Desenvolver e realizar melhorias em sistemas legados, buscando aprimorar seu funcionamento, desempenho e usabilidade.\n- Desenvolver e manter sites, portais e páginas de internet, seguindo os padrões técnicos e visuais estabelecidos pela organização.\n- Participar do desenvolvimento e manutenção dos livros digitais produzidos pela Editora.\n- Programar, atualizar, testar e realizar eventuais modificações em sites e aplicações existentes, garantindo seu funcionamento e contribuindo para a evolução das plataformas.\n- Desenvolver e testar aplicativos destinados a celulares e tablets, identificando problemas e avaliando as melhores alternativas para sua solução.\n- Realizar testes funcionais e técnicos das soluções desenvolvidas, identificando falhas e realizando os ajustes necessários.\n- Apoiar a implantação e homologação de sistemas, sites e…",
-      "score": 25,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:57Z",
-      "ultima_vista": "2026-09-16",
       "expirada": true
     },
     {
