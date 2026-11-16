@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-16T20:16:10Z",
-  "total": 585,
+  "atualizado_em": "2026-11-16T23:02:48Z",
+  "total": 588,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -1775,6 +1775,57 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "a25677434a3837a18909e280a1465bc96cfb3d62",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5968216235?utm_medium=api&utm_source=267e525f&v=0204D135AF922BAC32F1C5505CDF223E090199F0",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:15Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Pleno 'Graduação completa ou cursando em Ciência da Computação, Tecnologia da Informação ou área relacionada; Conhecimento em frameworks como Spring, Quarkus, Hibernate, Angular ou React. Experiência comprovada em desenvolvimento Fullstack com Java. Familiaridade com bancos de dados relacionais e não relacionais. Habilidade em trabalhar com controle de versão (Git). Desejável / Diferen…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "Java",
+        "Git"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-16T23:01:08Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "cb95619b13525ab7d70d068aff98070562256946",
+      "titulo": "Fullstack Developer (Java & Angular)",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5968216275?utm_medium=api&utm_source=267e525f&v=16CBCDACFB58B3CEC618D985DD37DA95B2EC7C95",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:15Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas; Inglês avançado (C2), com capacidade de comunicação em ambiente internacional; Experiência em desenvolvimento Java; Forte domínio de Java, Spring Boot e Hibernate; Experiência com Angular e desenvolvimento front-end moderno; Vivência com APIs REST/SOAP e arquitetura de microsserviços; Conhecimento sólido e…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Spring",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-16T23:01:08Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
     },
     {
       "id": "6e2fa5725ca2ac71933db7898c8970e609e5345f",
@@ -6099,6 +6150,77 @@
       "expirada": true
     },
     {
+      "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5968216081?utm_medium=api&utm_source=267e525f&v=45494F3B4519EAAD71EAC5CEC1A02D2C7AA4EF8A",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:14Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Responsabilidades: Como Pessoa Desenvolvedora Front-end Associate, você será responsável por projetar, codificar e testar aplicações web utilizando Angular, colaborando em equipes ágeis e participando de reuniões diárias, revisões de código e planejamento de sprints. Atuará na integração com APIs RESTful, manutenção e otimização de código, documentação técnica e desenvolvimento de tes…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-16T23:01:08Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5968215735?utm_medium=api&utm_source=267e525f&v=56320EBA2B5917A7C25AAC6D7D36E9C40DFD0D56",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:10Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-14T13:00:44Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
+      "titulo": "Desenvolvedor .NET Pleno",
+      "empresa": "Rhf talentos",
+      "url": "https://www.adzuna.com.br/land/ad/5968207559?utm_medium=api&utm_source=267e525f&v=EE54DD803AB2619E6A891D546B20B4D12B3BE3E9",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:03:04Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T18:43:43Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
       "id": "9156d9b1d01eac27025affbc4d7dcd2616697b0e",
       "titulo": "IT Analyst II (Angular)",
       "empresa": "Banco Santander",
@@ -6115,30 +6237,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
-      "ultima_vista": "2026-11-16",
-      "expirada": false
-    },
-    {
-      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
-      "titulo": "Desenvolvedor .NET Pleno",
-      "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/land/ad/5966629651?utm_medium=api&utm_source=267e525f&v=210109D72DEF7F1FAEE23F01DC660D3FC3D3198A",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-15T04:12:57Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T18:43:43Z",
       "ultima_vista": "2026-11-16",
       "expirada": false
     },
@@ -6265,27 +6363,6 @@
       "expirada": false
     },
     {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T22:04:22Z",
-      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-16",
-      "expirada": false
-    },
-    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6331,6 +6408,40 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
       "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T06:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Redux",
+        "Tailwind",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -7246,31 +7357,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-03T13:00:52Z",
       "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
-      "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5932990208?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T02:30:16Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-14T13:00:44Z",
-      "ultima_vista": "2026-10-30",
       "expirada": true
     },
     {
@@ -10972,24 +11058,6 @@
       "expirada": false
     },
     {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-10T10:18:30Z",
-      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-16",
-      "expirada": false
-    },
-    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11009,6 +11077,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-09T13:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11059,14 +11145,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
