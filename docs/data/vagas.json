@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T07:03:00Z",
+  "atualizado_em": "2026-11-16T09:02:42Z",
   "total": 585,
   "vagas": [
     {
@@ -5333,6 +5333,27 @@
       "expirada": false
     },
     {
+      "id": "eb284feb2182479fbcd634173f0fc283ff0bb60f",
+      "titulo": "Desenvolvedor Back-end (Node.js e Typescript) Pleno",
+      "empresa": "Inklua Servicos Para Inclusao de Pcd Ltda",
+      "url": "https://www.adzuna.com.br/details/5967240507?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-15T22:05:23Z",
+      "descricao": "Aplicar melhores práticas de programação; Planejamento, desenvolvimento e manutenção de backend de aplicações; Analisar e evidenciar os impactos de mudanças nos módulos antes que elas sejam aplicadas; Investigar a causa de problemas e propor soluções definitivas para eles ou propor soluções de contorno enquanto busca soluções definitivas; Criação e revisão da documentação técnica de aplicações. CARGO: Desenvolvedor Back-end LOCAL: remoto SALÁRIO: a combinar HORÁRIO: flexível BENEFÍCIOS: Salário…",
+      "score": 50,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:01:13Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
       "id": "f4e876d4f777695793bd3ba9e394e920c5d5e285",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "",
@@ -5665,27 +5686,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "eb284feb2182479fbcd634173f0fc283ff0bb60f",
-      "titulo": "Desenvolvedor Back-end (Node.js e Typescript) Pleno",
-      "empresa": "Inklua Servicos Para Inclusao de Pcd Ltda",
-      "url": "https://www.adzuna.com.br/details/5933716746?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-18T21:54:12Z",
-      "descricao": "Aplicar melhores práticas de programação; Planejamento, desenvolvimento e manutenção de backend de aplicações; Analisar e evidenciar os impactos de mudanças nos módulos antes que elas sejam aplicadas; Investigar a causa de problemas e propor soluções definitivas para eles ou propor soluções de contorno enquanto busca soluções definitivas; Criação e revisão da documentação técnica de aplicações. CARGO: Desenvolvedor Back-end LOCAL: remoto SALÁRIO: a combinar HORÁRIO: flexível BENEFÍCIOS: Salário…",
-      "score": 50,
-      "skills_match": [
-        "TypeScript",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:01:13Z",
       "ultima_vista": "2026-10-21",
       "expirada": true
     },
