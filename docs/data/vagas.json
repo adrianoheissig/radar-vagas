@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T01:02:27Z",
+  "atualizado_em": "2026-11-16T03:02:49Z",
   "total": 585,
   "vagas": [
     {
@@ -2907,7 +2907,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-11-15",
+      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6277,6 +6277,27 @@
       "expirada": false
     },
     {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T22:04:22Z",
+      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6322,40 +6343,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
       "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T06:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Redux",
-        "Tailwind",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -10985,6 +10972,49 @@
       "expirada": true
     },
     {
+      "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
+      "titulo": "Desenvolvedor Full Stack Pj",
+      "empresa": "Adonai RH",
+      "url": "https://www.adzuna.com.br/details/5967239535?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-15T22:05:16Z",
+      "descricao": "DESENVOLVEDOR FULLSTACK Adonai RH em parceria com Fintech, está com 1 vaga(s) em aberto. RESPONSABILIDADES: Responsável por todo o desenvolvido da ferramenta, back end e front end; Responsável pela arquitetura do sistema e contato direto com o CEO da empresa. REQUISITOS: Imprescindível experiência com as tecnologias JavaScript, Vue.JS, Node.JS, Nuxt.JS e cloud AWS. Faixa salarial de: 15.000,00 a 18.000,00 Observações: Contratação modalidade PJ; Vaga home office nível BRASIL Tipo de vaga: Tempo …",
+      "score": 35,
+      "skills_match": [
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Nuxt",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:37Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11004,24 +11034,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11072,14 +11084,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11129,31 +11141,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-24T23:50:30Z",
       "ultima_vista": "2026-10-23",
-      "expirada": true
-    },
-    {
-      "id": "2021d04e4526d002b4ba20fd4898dce13652e612",
-      "titulo": "Desenvolvedor Full Stack Pj",
-      "empresa": "Adonai RH",
-      "url": "https://www.adzuna.com.br/details/5933715766?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-18T21:54:04Z",
-      "descricao": "DESENVOLVEDOR FULLSTACK Adonai RH em parceria com Fintech, está com 1 vaga(s) em aberto. RESPONSABILIDADES: Responsável por todo o desenvolvido da ferramenta, back end e front end; Responsável pela arquitetura do sistema e contato direto com o CEO da empresa. REQUISITOS: Imprescindível experiência com as tecnologias JavaScript, Vue.JS, Node.JS, Nuxt.JS e cloud AWS. Faixa salarial de: 15.000,00 a 18.000,00 Observações: Contratação modalidade PJ; Vaga home office nível BRASIL Tipo de vaga: Tempo …",
-      "score": 35,
-      "skills_match": [
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "Vue.js",
-        "Nuxt",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:37Z",
-      "ultima_vista": "2026-10-21",
       "expirada": true
     },
     {
@@ -11291,6 +11278,73 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "Gateware",
+      "url": "https://www.adzuna.com.br/details/5967240641?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-15T22:05:24Z",
+      "descricao": "Experiências e qualificações: - Mínimo de 02 anos de experiência ou mais - Junior ou Pleno - Frontend HTML5, CSS3, React, Java Script e Type Script - Formação (Engenharia de software, Ciências da computação e Sistema de Informação) - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos - Contratação pr…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": 2,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
+      "titulo": "Pessoa Desenvolvedora Full Stack Pl",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5967240552?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-15T22:05:24Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora JAVA Full Stack PL para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a Pessoa Desenvolvedora JAVA Full Stack PL é responsável por: Desenvolver soluções com foco na monitoração de infraestrutura e negócio; Desenvolver voltado a testes (TDD); Participar de projetos de softwares escaláveis; Escrever códigos limpos e funcionais back end; Diagnosticar, depurar e atualizar softwares; Fazer análise de códigos, construir e sustentar micr…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:01:04Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
+    },
+    {
+      "id": "87ef3a25d32156f220815f8208c0fa6e850e2ac0",
+      "titulo": "Desenvolvedor Web Front End - React",
+      "empresa": "Moot It Consulting",
+      "url": "https://www.adzuna.com.br/details/5967240505?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-15T22:05:23Z",
+      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT Requisitos necessários para esse novo desafio: - Atuar com desenvolvimento de sistemas Web na área de logística e transportes;: - Programação front-end com React;: - Atuação principal nas áreas de desenvolvimento Front-End: - Experiência em desenvolvimento de sistemas Web utilizando Framework Javascript React: - Familiaridade com os princípios e metodologias ágeis (Scrum, Kanban): - Algoritmos; técnicas de p…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-11-16",
+      "expirada": false
     },
     {
       "id": "089814196ab67c83697e600e0a6c603aed1f67df",
@@ -12766,73 +12820,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
       "ultima_vista": "2026-10-20",
-      "expirada": true
-    },
-    {
-      "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "Gateware",
-      "url": "https://www.adzuna.com.br/details/5933716882?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T21:54:13Z",
-      "descricao": "Experiências e qualificações: - Mínimo de 02 anos de experiência ou mais - Junior ou Pleno - Frontend HTML5, CSS3, React, Java Script e Type Script - Formação (Engenharia de software, Ciências da computação e Sistema de Informação) - Metodologias ágeis - Raciocínio lógico, capacidade analítica, proativo e capacidade de aprender rapidamente novas linguagens e tecnologias. - Desejável experiência com Portais de internet - Permanecer pelo menos um ano em seus respectivos trabalhos - Contratação pr…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": 2,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-10-20",
-      "expirada": true
-    },
-    {
-      "id": "b81178ad2465254962a68c9af6d999a6c5b601b0",
-      "titulo": "Pessoa Desenvolvedora Full Stack Pl",
-      "empresa": "NAVA - Technology for Business",
-      "url": "https://www.adzuna.com.br/details/5933716792?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T21:54:12Z",
-      "descricao": "A NAVA está em busca de uma Pessoa Desenvolvedora JAVA Full Stack PL para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a Pessoa Desenvolvedora JAVA Full Stack PL é responsável por: Desenvolver soluções com foco na monitoração de infraestrutura e negócio; Desenvolver voltado a testes (TDD); Participar de projetos de softwares escaláveis; Escrever códigos limpos e funcionais back end; Diagnosticar, depurar e atualizar softwares; Fazer análise de códigos, construir e sustentar micr…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:01:04Z",
-      "ultima_vista": "2026-10-20",
-      "expirada": true
-    },
-    {
-      "id": "87ef3a25d32156f220815f8208c0fa6e850e2ac0",
-      "titulo": "Desenvolvedor Web Front End - React",
-      "empresa": "Moot It Consulting",
-      "url": "https://www.adzuna.com.br/details/5933716744?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-18T21:54:12Z",
-      "descricao": "Está em busca de novos desafios e crescimento profissional? Você encontra na MOOT Requisitos necessários para esse novo desafio: - Atuar com desenvolvimento de sistemas Web na área de logística e transportes;: - Programação front-end com React;: - Atuação principal nas áreas de desenvolvimento Front-End: - Experiência em desenvolvimento de sistemas Web utilizando Framework Javascript React: - Familiaridade com os princípios e metodologias ágeis (Scrum, Kanban): - Algoritmos; técnicas de p…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-10-21",
       "expirada": true
     },
     {
