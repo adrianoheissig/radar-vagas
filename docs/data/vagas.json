@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T03:02:47Z",
+  "atualizado_em": "2026-11-17T03:41:32Z",
   "total": 589,
   "vagas": [
     {
@@ -1853,33 +1853,10 @@
       "expirada": false
     },
     {
-      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
-      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
-      "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5968220837?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-16T18:04:58Z",
-      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-14T07:00:41Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
       "id": "a25677434a3837a18909e280a1465bc96cfb3d62",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216235?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216235?utm_medium=api&utm_source=267e525f&v=0204D135AF922BAC32F1C5505CDF223E090199F0",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1904,7 +1881,7 @@
       "id": "cb95619b13525ab7d70d068aff98070562256946",
       "titulo": "Fullstack Developer (Java & Angular)",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216275?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216275?utm_medium=api&utm_source=267e525f&v=16CBCDACFB58B3CEC618D985DD37DA95B2EC7C95",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2003,6 +1980,29 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T13:00:42Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
+      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
+      "empresa": "Union IT",
+      "url": "https://www.adzuna.com.br/details/5966104451?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-14T14:02:27Z",
+      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T07:00:41Z",
       "ultima_vista": "2026-11-17",
       "expirada": false
     },
@@ -2703,10 +2703,39 @@
       "expirada": true
     },
     {
+      "id": "c534313f631fa48887b3cf33f5db69d00d6b7257",
+      "titulo": "Typescript/nextjs Frontend Developer - Remote, Latin America",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5968379787?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasilia, Distrito Federal",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-16T22:07:01Z",
+      "descricao": "What we are looking for: - 5 years of professional software development experience. - 3 years of professional experience working with Typescript and NextJS - Significant working experience with RESTful APIs, GraphQL, and Tailwind CSS. - Strong knowledge of GCP, AWS, and Azure. - Meaningful experience working on large, complex systems. - Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon r…",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "CSS",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Tailwind",
+        "GraphQL",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:01:11Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "798c526982c852ae199bdf6783b42983ad331b1b",
       "titulo": "Desenvolvedor FullStack - Node e Angular",
       "empresa": "Brq Informática",
-      "url": "https://www.adzuna.com.br/details/5968183048?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968183048?utm_medium=api&utm_source=267e525f&v=4A31D39C40D2B7C1465BAC579E7B7C04473DC705",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -4150,35 +4179,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T07:01:15Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "c534313f631fa48887b3cf33f5db69d00d6b7257",
-      "titulo": "Typescript/nextjs Frontend Developer - Remote, Latin America",
-      "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5934742236?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Brasilia, Distrito Federal",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-19T21:56:51Z",
-      "descricao": "What we are looking for: - 5 years of professional software development experience. - 3 years of professional experience working with Typescript and NextJS - Significant working experience with RESTful APIs, GraphQL, and Tailwind CSS. - Strong knowledge of GCP, AWS, and Azure. - Meaningful experience working on large, complex systems. - Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon r…",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "CSS",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Tailwind",
-        "GraphQL",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:01:11Z",
       "ultima_vista": "2026-10-21",
       "expirada": true
     },
@@ -6222,7 +6222,7 @@
       "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216081?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216081?utm_medium=api&utm_source=267e525f&v=45494F3B4519EAAD71EAC5CEC1A02D2C7AA4EF8A",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6244,7 +6244,7 @@
       "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5968215735?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968215735?utm_medium=api&utm_source=267e525f&v=56320EBA2B5917A7C25AAC6D7D36E9C40DFD0D56",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6269,7 +6269,7 @@
       "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5968207559?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968207559?utm_medium=api&utm_source=267e525f&v=EE54DD803AB2619E6A891D546B20B4D12B3BE3E9",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -8258,6 +8258,37 @@
       "expirada": true
     },
     {
+      "id": "b25a75a471e1099313b29dca8c9c5c63bc6f7c55",
+      "titulo": "Desenvolvedor Front End Jr - Superior Completo",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5968388013?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:08:01Z",
+      "descricao": "Requisitos: Escolaridade Ensino superior completo. Necessária experiência comprovada em carteira. Conhecimento em Javascript; (React, Styled Components;). Conhecimento em REST API. Conhecimento em CSS3. Conhecimento em HTML5. Desejável.Conhecimento em Node.JS. Conhecimento em Portal Azure. Conhecimento em Azure DevOps. Conhecimento em Módulos/Bibliotecas. Conhecimento em Micro-serviços. Conhecimento em Gestão de dependência. Conhecimento em Git. Conhecimento em SCRUM. Inglês técnico. Atividades…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Azure",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "46d8f8b236bf84c84ca3d0cdf04dd61db111cabd",
       "titulo": "Desenvolvedor Full Stack Pleno (.NET React) - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -9820,37 +9851,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T03:01:06Z",
       "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
-      "id": "b25a75a471e1099313b29dca8c9c5c63bc6f7c55",
-      "titulo": "Desenvolvedor Front End Jr - Superior Completo",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5934752652?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:58:25Z",
-      "descricao": "Requisitos: Escolaridade Ensino superior completo. Necessária experiência comprovada em carteira. Conhecimento em Javascript; (React, Styled Components;). Conhecimento em REST API. Conhecimento em CSS3. Conhecimento em HTML5. Desejável.Conhecimento em Node.JS. Conhecimento em Portal Azure. Conhecimento em Azure DevOps. Conhecimento em Módulos/Bibliotecas. Conhecimento em Micro-serviços. Conhecimento em Gestão de dependência. Conhecimento em Git. Conhecimento em SCRUM. Inglês técnico. Atividades…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Azure",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-21",
       "expirada": true
     },
     {
