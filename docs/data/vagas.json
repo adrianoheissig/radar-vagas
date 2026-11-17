@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-17T01:02:55Z",
-  "total": 588,
+  "atualizado_em": "2026-11-17T03:02:47Z",
+  "total": 589,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -296,7 +296,7 @@
       "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
       "titulo": "ADM.NET FSR",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216195?utm_medium=api&utm_source=267e525f&v=1EE6046175F5A02930E1C8A77375AFF99C3C88F8",
+      "url": "https://www.adzuna.com.br/details/5968216195?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "hibrido",
@@ -1802,10 +1802,84 @@
       "expirada": true
     },
     {
+      "id": "c826d66c502fa2584abf60b59ec46a969ba5f74a",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "Conquest One",
+      "url": "https://www.adzuna.com.br/details/5968386605?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:07:51Z",
+      "descricao": "Atividades: Pesquisar, analisar, projetar, programar, depurar e modificar software, assim como realizar melhorias contínuas em sistemas; Desenvolver sistemas web, focado na camada de front-end; Participar de reuniões com clientes e time de projetos para identificar necessidades e entendimento dos requisitos. Requisitos Mandatóios: Experiência com Angular 2 e React; Conhecimento em HTML, CSS, JavaScript, C#, APIs REST e Git; Conhecimento na utilização de ambiente Cloud (Azure e AWS); Conheciment…",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        "AWS",
+        "Azure"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:00:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "0c0c9952edd1a48d249670bae006cc49b82a7ce9",
+      "titulo": "Pessoa Desenvolvedora Back-end (Java)",
+      "empresa": "MJV Innovation",
+      "url": "https://www.adzuna.com.br/details/5968368006?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:05:29Z",
+      "descricao": "Desenvolvedor(a) Full Stack Pleno | Java Angular: Estamos em busca de um(a) Desenvolvedor(a) Full Stack Sênior para atuar na evolução de aplicações críticas de alta disponibilidade, participando da construção de soluções escaláveis em um ambiente moderno, colaborativo e orientado à qualidade de software. Buscamos profissionais apaixonados por tecnologia, que tenham forte atuação em desenvolvimento backend com Java e experiência em frontend com Angular, contribuindo desde a definição técnica at…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-20T01:01:06Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
+      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
+      "empresa": "Union it",
+      "url": "https://www.adzuna.com.br/details/5968220837?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:58Z",
+      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T07:00:41Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "a25677434a3837a18909e280a1465bc96cfb3d62",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216235?utm_medium=api&utm_source=267e525f&v=0204D135AF922BAC32F1C5505CDF223E090199F0",
+      "url": "https://www.adzuna.com.br/details/5968216235?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1830,7 +1904,7 @@
       "id": "cb95619b13525ab7d70d068aff98070562256946",
       "titulo": "Fullstack Developer (Java & Angular)",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216275?utm_medium=api&utm_source=267e525f&v=16CBCDACFB58B3CEC618D985DD37DA95B2EC7C95",
+      "url": "https://www.adzuna.com.br/details/5968216275?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1929,29 +2003,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T13:00:42Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
-      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
-      "empresa": "Union IT",
-      "url": "https://www.adzuna.com.br/details/5966104451?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-14T14:02:27Z",
-      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-14T07:00:41Z",
       "ultima_vista": "2026-11-17",
       "expirada": false
     },
@@ -2473,57 +2524,6 @@
       "expirada": true
     },
     {
-      "id": "c826d66c502fa2584abf60b59ec46a969ba5f74a",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "Conquest One",
-      "url": "https://www.adzuna.com.br/details/5934750968?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:58:08Z",
-      "descricao": "Atividades: Pesquisar, analisar, projetar, programar, depurar e modificar software, assim como realizar melhorias contínuas em sistemas; Desenvolver sistemas web, focado na camada de front-end; Participar de reuniões com clientes e time de projetos para identificar necessidades e entendimento dos requisitos. Requisitos Mandatóios: Experiência com Angular 2 e React; Conhecimento em HTML, CSS, JavaScript, C#, APIs REST e Git; Conhecimento na utilização de ambiente Cloud (Azure e AWS); Conheciment…",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "C#",
-        "AWS",
-        "Azure"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:00:55Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "0c0c9952edd1a48d249670bae006cc49b82a7ce9",
-      "titulo": "Pessoa Desenvolvedora Back-end (Java)",
-      "empresa": "MJV Innovation",
-      "url": "https://www.adzuna.com.br/details/5934725655?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:54:36Z",
-      "descricao": "Desenvolvedor(a) Full Stack Pleno | Java Angular: Estamos em busca de um(a) Desenvolvedor(a) Full Stack Sênior para atuar na evolução de aplicações críticas de alta disponibilidade, participando da construção de soluções escaláveis em um ambiente moderno, colaborativo e orientado à qualidade de software. Buscamos profissionais apaixonados por tecnologia, que tenham forte atuação em desenvolvimento backend com Java e experiência em frontend com Angular, contribuindo desde a definição técnica at…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-20T01:01:06Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
       "id": "fed72dd2136bdd1fbda8c0ef43ecd9c3ba398d4a",
       "titulo": "Analista Desenvolvedor Fullstack (Java/Angular)",
       "empresa": "Global TI",
@@ -2701,6 +2701,30 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "798c526982c852ae199bdf6783b42983ad331b1b",
+      "titulo": "Desenvolvedor FullStack - Node e Angular",
+      "empresa": "Brq Informática",
+      "url": "https://www.adzuna.com.br/details/5968183048?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T17:59:35Z",
+      "descricao": "Buscamos um(a) profissional com sólida experiência em desenvolvimento Full Stack para atuar em projetos estratégicos no mercado financeiro, envolvendo aplicações de alta criticidade, microsserviços e integração com plataformas de corretagem. Principais responsabilidades: Desenvolver e evoluir aplicações utilizando Node.js no Back-end e Angular 14 no Front-end ; Projetar e manter arquiteturas baseadas em microsserviços ; Desenvolver soluções em AWS , garantindo escalabilidade, segurança e dispon…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "Node.js",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-17T03:01:00Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
     },
     {
       "id": "e42cfabdc59a571e2e32eb65deb28140409d9b95",
@@ -6175,10 +6199,30 @@
       "expirada": true
     },
     {
+      "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
+      "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
+      "empresa": "MJV Innovation",
+      "url": "https://www.adzuna.com.br/details/5968368007?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:05:29Z",
+      "descricao": "Sobre a MJV Ser MJVer é estar em um dos melhores lugares para trabalhar. Acreditamos que a evolução começa de dentro para fora — por isso, promovemos um ambiente colaborativo, acolhedor, plural e com forte senso de pertencimento. Aqui, conquistas e crescimento acontecem em conjunto, com autonomia, criatividade e inovação. Somos MJV! Sobre o Projeto Sobre a Área A área é responsável pelo desenvolvimento e sustentação de aplicações corporativas que apoiam produtos financeiros, serviços digitais e…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:01:00Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216081?utm_medium=api&utm_source=267e525f&v=45494F3B4519EAAD71EAC5CEC1A02D2C7AA4EF8A",
+      "url": "https://www.adzuna.com.br/details/5968216081?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6200,7 +6244,7 @@
       "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/land/ad/5968215735?utm_medium=api&utm_source=267e525f&v=56320EBA2B5917A7C25AAC6D7D36E9C40DFD0D56",
+      "url": "https://www.adzuna.com.br/details/5968215735?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6225,7 +6269,7 @@
       "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
       "titulo": "Desenvolvedor .NET Pleno",
       "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/land/ad/5968207559?utm_medium=api&utm_source=267e525f&v=EE54DD803AB2619E6A891D546B20B4D12B3BE3E9",
+      "url": "https://www.adzuna.com.br/details/5968207559?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -7331,26 +7375,6 @@
       "expirada": true
     },
     {
-      "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
-      "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
-      "empresa": "MJV Innovation",
-      "url": "https://www.adzuna.com.br/details/5934725663?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:54:36Z",
-      "descricao": "Sobre a MJV Ser MJVer é estar em um dos melhores lugares para trabalhar. Acreditamos que a evolução começa de dentro para fora — por isso, promovemos um ambiente colaborativo, acolhedor, plural e com forte senso de pertencimento. Aqui, conquistas e crescimento acontecem em conjunto, com autonomia, criatividade e inovação. Somos MJV! Sobre o Projeto Sobre a Área A área é responsável pelo desenvolvimento e sustentação de aplicações corporativas que apoiam produtos financeiros, serviços digitais e…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:01:00Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
       "id": "9c845a875bc1c51226b6d293d0735bdd1efd687a",
       "titulo": "Desenvolvedor Fullstack Java/React Júnior",
       "empresa": "Nava | Tech For Business",
@@ -8232,6 +8256,34 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "46d8f8b236bf84c84ca3d0cdf04dd61db111cabd",
+      "titulo": "Desenvolvedor Full Stack Pleno (.NET React) - Diversos Benefícios",
+      "empresa": "Caderno Nacional",
+      "url": "https://www.adzuna.com.br/details/5968371707?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-16T22:05:57Z",
+      "descricao": "Desenvolvedor Full Stack Pleno (.NET | React) - São Paulo/SP | Híbrido (3x por semana na Av. Paulista) Modelo de Contratação: Prestador de Serviços. Estamos buscando um(a) Full Stack Pleno (.NET | React ou Blazor) para integrar um time de engenharia que atua em produtos estratégicos. Tem experiência em empresas do segmento bancário, meios de pagamento ou mercado financeiro? Esse é um grande diferencial para a posição! Stack da vaga C# /.NET React e/ou Blazor APIs REST SQL HTML, CSS, JavaScript/…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:44Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
     },
     {
       "id": "9e61332ac7d420828b012bd8cea5771619bf6cbd",
@@ -9826,34 +9878,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T07:01:02Z",
       "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
-      "id": "46d8f8b236bf84c84ca3d0cdf04dd61db111cabd",
-      "titulo": "Desenvolvedor Full Stack Pleno (.NET React) - Diversos Benefícios",
-      "empresa": "Caderno Nacional",
-      "url": "https://www.adzuna.com.br/details/5934731176?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-19T21:55:18Z",
-      "descricao": "Desenvolvedor Full Stack Pleno (.NET | React) - São Paulo/SP | Híbrido (3x por semana na Av. Paulista) Modelo de Contratação: Prestador de Serviços. Estamos buscando um(a) Full Stack Pleno (.NET | React ou Blazor) para integrar um time de engenharia que atua em produtos estratégicos. Tem experiência em empresas do segmento bancário, meios de pagamento ou mercado financeiro? Esse é um grande diferencial para a posição! Stack da vaga C# /.NET React e/ou Blazor APIs REST SQL HTML, CSS, JavaScript/…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:33:44Z",
-      "ultima_vista": "2026-10-21",
       "expirada": true
     },
     {
