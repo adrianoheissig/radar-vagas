@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T03:41:32Z",
+  "atualizado_em": "2026-11-17T05:02:53Z",
   "total": 589,
   "vagas": [
     {
@@ -1853,6 +1853,29 @@
       "expirada": false
     },
     {
+      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
+      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
+      "empresa": "Union it",
+      "url": "https://www.adzuna.com.br/land/ad/5968220837?utm_medium=api&utm_source=267e525f&v=6BED65F70EB5ED9FC8A0BD63D12A616E8F95C751",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T18:04:58Z",
+      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T07:00:41Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "a25677434a3837a18909e280a1465bc96cfb3d62",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "Decision group",
@@ -1980,29 +2003,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T13:00:42Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "14f7122f3c2e0e8bc44378aaf07532dd58385cb0",
-      "titulo": "Desenvolvedor FullStack PL (Springboot Angular)",
-      "empresa": "Union IT",
-      "url": "https://www.adzuna.com.br/details/5966104451?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-14T14:02:27Z",
-      "descricao": "Buscamos um (a) Desenvolvedor Fullstack PL que será responsável pelo desenvolvimento e evolução de aplicações, atuando tanto no frontend quanto no backend. Esperamos uma pessoa proativa, colaborativa e orientada a resultados, com capacidade de analisar problemas, propor soluções e interagir com áreas de negócio e tecnologia. O que você vai fazer: Desenvolvimento Fullstack: Desenvolver e evoluir aplicações utilizando Angular 14 no frontend e Spring Boot no backend, com Java 17. Integração de Sis…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-14T07:00:41Z",
       "ultima_vista": "2026-11-17",
       "expirada": false
     },
@@ -6432,27 +6432,6 @@
       "expirada": false
     },
     {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T22:04:22Z",
-      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6498,6 +6477,40 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
       "ultima_vista": "2026-11-14",
+      "expirada": false
+    },
+    {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T06:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Redux",
+        "Tailwind",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8289,6 +8302,33 @@
       "expirada": false
     },
     {
+      "id": "5424edc638a1bb8c4f8b0b570c2aaee8622b29b4",
+      "titulo": "C# / Dotnet Developer with React Experience - Remote, Latin America",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5968380122?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Goiânia, Goiás",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-16T22:07:04Z",
+      "descricao": "What we are looking for: - Working experience with C# (8),.NET(or.NET Framework), and RESTful API. - Development experience with JavaScript-related technologies: React, NextJS - Familiarity with HighCharts and building geospatial map interactions on the front-end. - Ability to understand business requirements and translate them into technical requirements. - Knowledge of AWS-related technologies such as Lambda, S3, DynamoDB, SQS. - Self-starter with the ability to work independently. - Strong w…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-23T07:01:02Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "46d8f8b236bf84c84ca3d0cdf04dd61db111cabd",
       "titulo": "Desenvolvedor Full Stack Pleno (.NET React) - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -9854,33 +9894,6 @@
       "expirada": true
     },
     {
-      "id": "5424edc638a1bb8c4f8b0b570c2aaee8622b29b4",
-      "titulo": "C# / Dotnet Developer with React Experience - Remote, Latin America",
-      "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5934742463?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Goiânia, Goiás",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-19T21:56:53Z",
-      "descricao": "What we are looking for: - Working experience with C# (8),.NET(or.NET Framework), and RESTful API. - Development experience with JavaScript-related technologies: React, NextJS - Familiarity with HighCharts and building geospatial map interactions on the front-end. - Ability to understand business requirements and translate them into technical requirements. - Knowledge of AWS-related technologies such as Lambda, S3, DynamoDB, SQS. - Self-starter with the ability to work independently. - Strong w…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Next.js",
-        "C#",
-        ".NET",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-23T07:01:02Z",
-      "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
       "id": "99fb9ad1cebf4faa4f577f8db5c0f127abfe2ab3",
       "titulo": "Desenvolvedor Full Stack - Programação",
       "empresa": "Presença Bank",
@@ -11041,24 +11054,6 @@
       "expirada": false
     },
     {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-10T10:18:30Z",
-      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11078,6 +11073,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-09T13:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11128,14 +11141,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11324,6 +11337,53 @@
       "expirada": true
     },
     {
+      "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
+      "titulo": "Desenvolvedor Front-end",
+      "empresa": "SUPER ENSINO",
+      "url": "https://www.adzuna.com.br/details/5968387231?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:07:55Z",
+      "descricao": "Descrição do trabalho Estamos buscando por desenvolvedores front-end qualificados para se juntar ao nosso time de desenvolvimento. Você será responsável por construir o cliente-side para as nossas aplicações React JS e React JS native. Você deve ser capaz de traduzir as necessidades de nossos clientes e colaboradores em aplicações funcionais e atraentes. Esperamos que você seja um profissional experiente em tecnologia, que seja curioso sobre novas tecnologias digitais e aspire combinar usabilid…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:44Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "85866562549a341818fc9bd0485dd101ad0cf8f2",
+      "titulo": "Staff Software Engineer, Search Content Platforms",
+      "empresa": "Google",
+      "url": "https://www.adzuna.com.br/details/5968371752?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T22:05:57Z",
+      "descricao": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development. - 5 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent. - 3 years of experience with software design and architecture. - Experience with extract, transform, and load (ETL), data architecture, and system integration. Preferr…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "lacunas": [
+        "Python",
+        "Go"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T23:33:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "1eb4c849af7c30acf99a62819ddee2eb1709f8ea",
       "titulo": "Desenvolvedor Junior",
       "empresa": "Grupo Skill",
@@ -11343,6 +11403,36 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-17T01:00:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
+      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5967499327?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T03:58:16Z",
+      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "CSS",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Sass",
+        "Bootstrap",
+        "Kotlin",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-11-17",
       "expirada": false
     },
@@ -12606,36 +12696,6 @@
       "expirada": true
     },
     {
-      "id": "d55670a4de7ff2deb70dd832b13d7c327e44565d",
-      "titulo": "Desenvolvedor(a) Full Stack - 83 - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5941148693?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-25T02:47:59Z",
-      "descricao": "ATRIBUIÇÕES: \" Responsabilities: Develop the Front End and Back End of applications on Web, Mobile and embedded responsive platforms using market frameworks, especially in technologies: Java Script, React, Type Script, CSS (LESS / SASS), Webpack, NPM, Docker, Mocha, Single Page Apps, Module based frontends, Code pen (bootstrap), (Babel), (Karma), (Jasmine), (Jai), (Sinon), microservices architecture and RESTfull API, Kotlin; Postgree, AWS RDS Aurora, AWS Dynamo; MongoDB; SQL database, API first…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "CSS",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap",
-        "Kotlin",
-        "MongoDB",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-18T11:02:23Z",
-      "ultima_vista": "2026-10-27",
-      "expirada": true
-    },
-    {
       "id": "8adb61f414e29518dc2a44f84724180868e448c0",
       "titulo": "Desenvolvedor Junior Pl/SQL com (Asp Clássico E/ou",
       "empresa": "Softtek",
@@ -12839,53 +12899,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-16T14:43:50Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "c799202a5b234f2f3ad9b56ce7c8371b1adc745b",
-      "titulo": "Desenvolvedor Front-end",
-      "empresa": "SUPER ENSINO",
-      "url": "https://www.adzuna.com.br/details/5934751842?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:58:16Z",
-      "descricao": "Descrição do trabalho Estamos buscando por desenvolvedores front-end qualificados para se juntar ao nosso time de desenvolvimento. Você será responsável por construir o cliente-side para as nossas aplicações React JS e React JS native. Você deve ser capaz de traduzir as necessidades de nossos clientes e colaboradores em aplicações funcionais e atraentes. Esperamos que você seja um profissional experiente em tecnologia, que seja curioso sobre novas tecnologias digitais e aspire combinar usabilid…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:33:44Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "85866562549a341818fc9bd0485dd101ad0cf8f2",
-      "titulo": "Staff Software Engineer, Search Content Platforms",
-      "empresa": "Google",
-      "url": "https://www.adzuna.com.br/details/5934731207?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-19T21:55:18Z",
-      "descricao": "Minimum qualifications: - Bachelor's degree or equivalent practical experience. - 8 years of experience in software development. - 5 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent. - 3 years of experience with software design and architecture. - Experience with extract, transform, and load (ETL), data architecture, and system integration. Preferr…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java"
-      ],
-      "lacunas": [
-        "Python",
-        "Go"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T23:33:55Z",
       "ultima_vista": "2026-10-21",
       "expirada": true
     },
