@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-17T19:03:01Z",
+  "atualizado_em": "2026-11-17T21:03:01Z",
   "total": 591,
   "vagas": [
     {
@@ -2731,6 +2731,38 @@
       "expirada": true
     },
     {
+      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
+      "titulo": "Desenvolvedor Full Stack Node.js",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5969328061?utm_medium=api&utm_source=267e525f&v=5B554CD0DD5A4F2D5249A89C35F6E7A3D3027A4A",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T16:42:41Z",
+      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Next.js",
+        "GraphQL",
+        "Docker",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-21T23:00:54Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
       "titulo": "DESENVOLVEDOR FLUTTER/ANGULAR",
       "empresa": "",
@@ -3096,38 +3128,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
-      "titulo": "Desenvolvedor Full Stack Node.js",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5963576367?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-12T16:25:19Z",
-      "descricao": "Estamos contratando Desenvolvedor Full Stack Node.js para a execução de projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa. Entendemos que para essa evolução, é necessário o conhecimento em: · JavaScript, TypeScript, Node.js, React.js e Next.js; · HTML5, CSS3 e Microsserviços; · Arquitetura Frontend e Design System; · APIs REST, GraphQL e SOAP, BFFs e Middlewares; · AWS, Docker e bancos …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Next.js",
-        "GraphQL",
-        "Docker",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-21T23:00:54Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6227,6 +6227,55 @@
       "expirada": true
     },
     {
+      "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
+      "titulo": "Desenvolvedor Fullstack",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/land/ad/5969328015?utm_medium=api&utm_source=267e525f&v=D20CD27DD392FF95918DF75472D4E6BDA1F17F29",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T16:42:40Z",
+      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-14T13:00:44Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
+      "titulo": "Desenvolvedor .NET Pleno",
+      "empresa": "Rhf talentos",
+      "url": "https://www.adzuna.com.br/land/ad/5969322975?utm_medium=api&utm_source=267e525f&v=2867231C0C6CCB8B2FB3002E1A8F784ACD17206E",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T16:39:57Z",
+      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T18:43:43Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
       "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
       "empresa": "MJV Innovation",
@@ -6265,55 +6314,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-16T23:01:08Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
-      "titulo": "Desenvolvedor Fullstack",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5968215735?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-16T18:04:10Z",
-      "descricao": "Estamos contratando Desenvolvedor Fullstack Sênior para atuar no desenvolvimento e manutenção de aplicações ponta a ponta, trabalhando tanto no front-end quanto no back-end, além de participar da definição de soluções arquiteturais e integrações. Requisitos: · Domínio de desenvolvimento Front-end e Back-end; · TypeScript e JavaScript; · React; · AWS; · Experiência com banco de dados não relacional, especialmente DynamoDB; · APIGEE e integração de APIs; · DevOps; · Metodologias ágeis (Scrum). Pr…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-14T13:00:44Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "6dfbb9539c372eb4951ecabeef7fbaa0893a9cf3",
-      "titulo": "Desenvolvedor .NET Pleno",
-      "empresa": "Rhf talentos",
-      "url": "https://www.adzuna.com.br/details/5968207559?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-16T18:03:04Z",
-      "descricao": "Desenvolvedor .NET Pleno 1147 Atividades: O profissional participará diretamente da evolução da plataforma da empresa, ajudando no desenvolvimento, sustentação e contribuindo para o desenvolvimento de soluções utilizadas em operações estratégicas de mercado com elevados requisitos de segurança, performance e escalabilidade. Segmento: Plataforma modelo SaaS para área de Inteligência de Mercado Tecnologias Obrigatórias C# .NET 10 http://ASP.NET Core Angular SPA v20 SQL Server Modelagem de Banco d…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T18:43:43Z",
       "ultima_vista": "2026-11-17",
       "expirada": false
     },
