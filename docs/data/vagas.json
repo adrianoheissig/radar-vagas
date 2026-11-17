@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-16T23:02:48Z",
+  "atualizado_em": "2026-11-17T01:02:55Z",
   "total": 588,
   "vagas": [
     {
@@ -85,7 +85,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-28T17:00:48Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -161,7 +161,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-25T23:01:37Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -293,6 +293,31 @@
       "expirada": true
     },
     {
+      "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
+      "titulo": "ADM.NET FSR",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5968216195?utm_medium=api&utm_source=267e525f&v=1EE6046175F5A02930E1C8A77375AFF99C3C88F8",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-16T18:04:14Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Hibrido Guarulhos três vezes por semana Habilidades: Main Skill5 years of hands-on software development experience. Strong expertise in one or more programming languages (e.g., C#, .NET, JavaScript/Node.js). Ability to collaborate with cross-functional teams and present ideas clearly. ServiceNOW Knowledge Required Qualifications.NET / Angular Main Activities and ResponsibilitiesCollabo…",
+      "score": 75,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-17T01:01:11Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "e5660a9d5551e6edd38c435ae774f50d13222b09",
       "titulo": "ADM.NET FSR - SP",
       "empresa": "Decision group",
@@ -399,7 +424,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-22T19:00:53Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -426,7 +451,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -461,7 +486,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -531,7 +556,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -618,7 +643,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T19:00:59Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -667,7 +692,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:00:39Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -779,7 +804,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-27T15:01:29Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -804,7 +829,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T15:49:22Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -965,7 +990,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1073,7 +1098,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1532,7 +1557,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:00:51Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1798,7 +1823,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-16T23:01:08Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1824,7 +1849,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-16T23:01:08Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1855,7 +1880,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1882,7 +1907,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T19:00:42Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1904,7 +1929,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T13:00:42Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1927,7 +1952,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T07:00:41Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -1972,7 +1997,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T13:00:57Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2019,7 +2044,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T18:06:01Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2133,7 +2158,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T19:01:31Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2154,7 +2179,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-08T19:00:39Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2697,7 +2722,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2721,7 +2746,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2741,7 +2766,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2808,7 +2833,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T21:01:13Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2866,7 +2891,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-13T15:01:44Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -2889,7 +2914,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -3640,7 +3665,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-02T07:01:10Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -4075,7 +4100,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T21:01:34Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -4654,7 +4679,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -4731,7 +4756,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5356,7 +5381,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5380,7 +5405,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5401,7 +5426,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T23:01:13Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5422,7 +5447,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5553,7 +5578,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:01:35Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -5673,7 +5698,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T07:00:56Z",
       "ultima_vista": "2026-11-02",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "1688f30a302d9f550719d3a127ef36376db15f2c",
@@ -5693,7 +5718,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T17:00:59Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6010,7 +6035,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6168,7 +6193,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-16T23:01:08Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6193,7 +6218,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-14T13:00:44Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6217,7 +6242,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T18:43:43Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6237,7 +6262,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T18:55:55Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6261,7 +6286,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6363,6 +6388,27 @@
       "expirada": false
     },
     {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T22:04:22Z",
+      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6408,40 +6454,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:04Z",
       "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T06:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Redux",
-        "Tailwind",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -6533,7 +6545,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T07:00:50Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6661,7 +6673,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-06T19:01:47Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6853,7 +6865,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T18:48:24Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -6875,7 +6887,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -7040,7 +7052,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -7065,7 +7077,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T07:00:37Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -7220,7 +7232,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-23T13:01:45Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8021,7 +8033,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8222,6 +8234,47 @@
       "expirada": true
     },
     {
+      "id": "9e61332ac7d420828b012bd8cea5771619bf6cbd",
+      "titulo": "Forward-Deployed Engineer (Vercel / Next.js) - Remote",
+      "empresa": "Braintrust",
+      "url": "https://www.adzuna.com.br/details/5968309588?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Morro dos Ingleses, Zona Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-16T20:29:14Z",
+      "descricao": "Job description Be the engineer a client trusts with the whole engagement: understanding their business, shaping the solution, building it on Vercel with AI coding agents, and showing it off in demos that move the project forward. This role is for a builder whose range matters as much as their depth. Contract · Remote · US Working Hours · Forward-deployed, client-facing, hands-on About the Role Devblock builds modern web products and AI-powered applications for clients who expect to see progres…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "Next.js"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-17T01:00:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
+      "titulo": "Banco de Talentos React/Node",
+      "empresa": "Conquest one",
+      "url": "https://www.adzuna.com.br/land/ad/5968180002?utm_medium=api&utm_source=267e525f&v=CFEB0EA742319DE3448B28169DF0A512F85F2AA3",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T17:59:10Z",
+      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:20:07Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
       "titulo": "Remote Junior React Developer",
       "empresa": "",
@@ -8238,7 +8291,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8258,7 +8311,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8282,7 +8335,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8302,7 +8355,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8409,7 +8462,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8433,7 +8486,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8498,7 +8551,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T09:01:02Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8633,7 +8686,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:50:10Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8653,7 +8706,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:50:10Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -8687,7 +8740,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T13:01:43Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9024,7 +9077,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-07T19:00:56Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9046,7 +9099,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-07T17:00:53Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9288,7 +9341,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:52Z",
       "ultima_vista": "2026-11-02",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b63b9bab0bf077b9a7236ab0b14d4753b0bfeeef",
@@ -9308,7 +9361,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:58Z",
       "ultima_vista": "2026-11-02",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "c611bf8f0af83213fc7f5466bd0ec4264f40977e",
@@ -9330,7 +9383,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:52Z",
       "ultima_vista": "2026-11-02",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "56f0688c1f30afee33cba3917379b6489436c70c",
@@ -9351,7 +9404,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T19:01:06Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9378,7 +9431,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-31T17:01:49Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9424,7 +9477,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T19:01:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -9628,27 +9681,6 @@
       "expirada": true
     },
     {
-      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
-      "titulo": "Banco de Talentos React/Node",
-      "empresa": "Conquest one",
-      "url": "https://www.adzuna.com.br/details/5937076622?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-21T20:28:30Z",
-      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T17:20:07Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
       "id": "a7826ca18fe4353c2cb14c415a0ec074bee6fb77",
       "titulo": "Desenvolvedor(a) Fullstack Pleno (Go React) [Remoto - Brasil]",
       "empresa": "DBServices",
@@ -9665,7 +9697,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T17:00:42Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -10456,7 +10488,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -10552,32 +10584,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T23:49:34Z",
       "ultima_vista": "2026-09-28",
-      "expirada": true
-    },
-    {
-      "id": "fa6e3b9360b6b0b9d1e7ef04bafbd93dd8376751",
-      "titulo": "Desenvolvedor(a) Fullstack Backend - Júnior",
-      "empresa": "Confitec",
-      "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMDEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T18:12:27Z",
-      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante.Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil. Estamos presentes em São Paulo e Rio de Janeiro, duas das principais capitais do país.Estamos crescendo e precisamos de pessoas que amem tecnologia e que sejam fascinadas por aprender!Responsabilidades e atribuiçõesAtuação na equipe de projetos ULTRON da Confitec.Você será responsável pelo desenvolvimento e manutenção de sistemas utilizando Java e Spring Boot.Atuará monitorando e analisando a saúde e performance dos serviços.Requisitos e qualificaçõesPara fazer parte da equipe você precisa ter atuado em projetos ou conhecer muito bem as seguintes ferramentas e práticas de desenvolvimento:Java 8.Spring boot.Familiaridade com APIs.Noções de programação backend.Python Familiaridade com APIs.Frameworks: Flask ou Django.Você se destaca caso conheça: ReactGIT. Web API’s. DDD.AWS.Conhecimento em metodologia ágil.Informações adicionaisIfood Benefícios Horário FlexívelPrograma de custeio e incentivo a cursos e certificaçõesDesconto com faculdades parceirasPlano de SaúdePlano OdontológicoSeguro d…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Spring",
-        "Python",
-        "Django",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-17",
       "expirada": true
     },
     {
@@ -10838,53 +10844,6 @@
       "expirada": true
     },
     {
-      "id": "11c0fe75b868f0198608038d3ef700e90af79b17",
-      "titulo": "DESENVOLVEDOR REACT NATIVE- RHA3318",
-      "empresa": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIwOTQzNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-08-14T22:17:19Z",
-      "descricao": "Venha fazer parte de uma empresa que ama transformar com tecnologia e abraça a diversidade em todas as suas formas!Responsabilidades e atribuiçõesEstamos em busca de um(a) Analista Desenvolvedor React Native Sênior para atuar no desenvolvimento e evolução de aplicativos móveis de alta performance.Você fará parte de projetos estratégicos, contribuindo com decisões técnicas, boas práticas de desenvolvimento e garantindo qualidade, performance e excelente experiência ao usuário.Se você é apaixonado(a) por desenvolvimento mobile, gosta de desafios técnicos e busca atuar em um ambiente colaborativo e ágil, essa vaga é para você!Principais AtividadesDesenvolver e manter aplicativos mobile utilizando React NativeAtuar no desenvolvimento de aplicações Android, integrando com APIs RESTful e WebServices SOAPParticipar da análise e detalhamento de requisitos funcionais e não funcionaisDesenvolver interfaces responsivas, com foco em usabilidade e experiência do usuário (UX)Implementar integrações com serviços externos e bancos de dados (SQL-Lite e SQL)Aplicar boas práticas de arquitetura, versionamento e organização de códigoExecutar e automatizar testes (unidade, integração, carga e desempenho)Atuar em ambiente ágil (Scrum, Kanban, XP, TDD)Apoiar processos de publicação e manutenção de aplicativos na Google PlayContribuir com melhorias contínuas de performance, segurança e qualidadeRequisitos e qualificaçõesRequisitos TécnicosGraduação em TI ou curso superior com pós-graduação na área…",
-      "score": 40,
-      "skills_match": [
-        "APIs REST",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
-      "id": "941f5eb9a48f8295812532bec4f6b63e49c81929",
-      "titulo": "Analista de Desenvolvimento Full Stack Pleno (PHP & React)",
-      "empresa": "Finnet",
-      "url": "https://finnet.gupy.io/job/eyJqb2JJZCI6MTIwNzk5NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-14T14:06:07Z",
-      "descricao": "Inovar para simplificar. Todo dia, quando chegamos à Finnet, não queremos apenas trabalhar. Queremos fazer coisas inovadoras para facilitar o processo de gestão de nossos clientes. Mais do que isso, somos clientocêntricos!Trabalhamos incessantemente para entender suas necessidades e seu comportamento, para criarmos uma experiência incrível de uso. Nós fazemos isso porque acreditamos que podemos contribuir para o sucesso de nossos clientes. E queremos que todas as empresas usem os nossos sistemas.Agora, criar algo extraordinário não é nada fácil. As melhores ideias surgem quando as pessoas estão se divertindo e trabalhando para um propósito maior. Você será desafiado, aprenderá e se divertirá!Somos o complemento do ERP de muitas empresas em todos Brasil, com soluções para:CONTAS A RECEBER ● CONTAS A PAGAR ● GESTÃO FINANCEIRA ● GATEWAY DE PAGAMENTOS ● MARKETPLACE DE ANTECIPAÇÃO ● Open BankingQuer saber mais? Acesse https://finnet.com.br/Estamos Crescendo! Venha ser um #Finneter 🚀Responsabilidades e atribuições Buscamos um(a) Analista de Desenvolvimento Full Stack Pleno (PHP e React) para atuar na sustentação, manutenção evolutiva e desenvolvimento de sistemas críticos de negócio. Esse profissional será responsável por atuar tanto no backend quanto no frontend das aplicações, participando da resolução de incidentes, implementação de melhorias, desenvolvimento de novas funcionalidades e evolução técnica das soluções. Procuramos alguém com sólida experiência em PHP, bons conhecim…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [
-        "PHP"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:48Z",
-      "ultima_vista": "2026-09-17",
-      "expirada": true
-    },
-    {
       "id": "98dc521cce67b41d0b6401796badce9bd9878135",
       "titulo": "Desenvolvedor(a) Full Stack Pleno (JavaScript/PHP/React)",
       "empresa": "Carreiras SoftExpert",
@@ -11054,7 +11013,25 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:37Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11077,24 +11054,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -11145,20 +11104,20 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-26T13:02:05Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11341,6 +11300,29 @@
       "expirada": true
     },
     {
+      "id": "1eb4c849af7c30acf99a62819ddee2eb1709f8ea",
+      "titulo": "Desenvolvedor Junior",
+      "empresa": "Grupo Skill",
+      "url": "https://www.adzuna.com.br/land/ad/5968184084?utm_medium=api&utm_source=267e525f&v=C786E9E3E14AAC546198C5CAD9DBF10183A52564",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-16T17:59:44Z",
+      "descricao": "Estamos em busca de um(a) profissional comprometido(a), com perfil analítico e paixão por tecnologia, para integrar nossa equipe. Se você possui experiência em desenvolvimento de sistemas e deseja atuar em projetos desafiadores, queremos conhecer você. Conhecimentos específicos: Experiência com desenvolvimento de aplicações web. Conhecimento de React ou tecnologias similares de desenvolvimento front-end. Conhecimentos básicos de .NET / C# ou interesse em atuar nesse ecossistema. Conhecimentos d…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-17T01:00:55Z",
+      "ultima_vista": "2026-11-17",
+      "expirada": false
+    },
+    {
       "id": "7b7967a48c9ea21e624e03db873ac69debfaf864",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Gateware",
@@ -11360,7 +11342,7 @@
       "lacunas": [],
       "experiencia_exigida": 2,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11382,7 +11364,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:01:04Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11410,7 +11392,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11432,7 +11414,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11462,7 +11444,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T13:00:55Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11485,7 +11467,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11506,7 +11488,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11531,7 +11513,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11553,7 +11535,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11574,7 +11556,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11748,7 +11730,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T17:37:14Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -11922,7 +11904,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:49:42Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -12046,7 +12028,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-09T13:01:21Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -12359,7 +12341,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-01T13:01:38Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -12380,7 +12362,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-04T01:00:43Z",
       "ultima_vista": "2026-11-02",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "b8f04d090bbffcd802cf7c66438d21131f51eb76",
@@ -12447,7 +12429,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
@@ -12903,7 +12885,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-16",
+      "ultima_vista": "2026-11-17",
       "expirada": false
     },
     {
