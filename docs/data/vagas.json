@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-18T17:03:02Z",
-  "total": 588,
+  "atualizado_em": "2026-11-18T18:47:49Z",
+  "total": 591,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -429,14 +429,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador De Software",
+      "titulo": "Programador de Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T14:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
+      "data_publicacao": "2026-10-20T22:20:26Z",
+      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
       "score": 75,
       "skills_match": [
         "React",
@@ -449,7 +449,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-18",
       "expirada": false
@@ -526,6 +526,27 @@
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
       "expirada": true
+    },
+    {
+      "id": "73fdbefbcf0f4e4db84c75bf4d81ff0fbb2c8aa6",
+      "titulo": "Desenvolvedor(a) Full Stack Pleno — Engenharia & Sustentação (Java/Angular)",
+      "empresa": "Avantti",
+      "url": "https://www.adzuna.com.br/details/5970643757?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-18T14:35:48Z",
+      "descricao": "Descrição Contratante: Avantti Consultoria Local: 100% Remoto Contrato: PJ Buscamos um(a) Desenvolvedor(a) Full Stack Pleno com alto senso de dono, protagonismo e tempestividade para atuar na linha de frente da sustentação crítica ao negócio. Requisitos Principais responsabilidades: - Resposta a incidentes e troubleshooting: atuar com urgência e precisão na investigação de falhas em produção, analisando logs, métricas e debugando códigos para restaurar serviços e eliminar causas-raiz (não apena…",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-18T18:46:12Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
     },
     {
       "id": "e3629ae73847e3be5f36ab83dc088d6b879d038f",
@@ -2285,7 +2306,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-08T19:00:39Z",
-      "ultima_vista": "2026-11-17",
+      "ultima_vista": "2026-11-18",
       "expirada": false
     },
     {
@@ -6198,6 +6219,27 @@
       "expirada": true
     },
     {
+      "id": "34e99297172522467065fac7b7817b7cfde1ea7a",
+      "titulo": "Desenvolvedor(a) Full Stack React e TypeScript",
+      "empresa": "Grupo Mater",
+      "url": "https://www.adzuna.com.br/details/5970587818?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-18T14:16:09Z",
+      "descricao": "Description Somos o Grupo Mater , formado pelas marcas: PJNeblina Materiais Elétricos e Artegra Soluções em Energia . Temos uma sólida experiência no mundo da energia a mais de 61 anos , dentro dos mais elevados padrões de atendimento e soluções que englobam gestão de itens e projetos técnicos. Somos uma empresa 100% nacional e um dos maiores distribuidores de materiais elétricos do Brasil. Ao todo contamos com 9 filiais e 5 centros de distribuição espalhados pelo país. Convidamos você para tam…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-18T18:46:05Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Innolevels",
@@ -8220,6 +8262,29 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "670741cb5a16e83edde7540a39341ac30c1841cf",
+      "titulo": "Engenheiro de Software",
+      "empresa": "Paketa Servicos Financeiros Sa",
+      "url": "https://www.adzuna.com.br/details/5970555665?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Jardim Europa, Zona Oeste",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-18T13:58:53Z",
+      "descricao": "Missão do Cargo Como Engenheiro de software, você entrega com autonomia as tarefas de um épico (conjunto de tarefas de uma entrega maior), com código testado e documentado. O objetivo é que as ofertas de crédito sejam confiáveis, calculadas corretamente e estejam de acordo com as regras da Dataprev (operadora da plataforma do programa), dos bancos parceiros e das seguradoras. Você vai atuar em aplicações backend serverless na AWS, com NodeJS e TypeScript, junto com a liderança técnica, a gestão…",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-18T18:46:18Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
     },
     {
       "id": "1e6b70a5c7e8140f1b47149aabbe3aae8e4a220c",
