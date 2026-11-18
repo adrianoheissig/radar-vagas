@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-18T01:02:50Z",
+  "atualizado_em": "2026-11-18T02:51:17Z",
   "total": 588,
   "vagas": [
     {
@@ -1830,6 +1830,33 @@
       "expirada": true
     },
     {
+      "id": "8956f93afe16ec47427595ea73d5e751095a4b46",
+      "titulo": "Dev Front",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5969558771?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T22:09:42Z",
+      "descricao": "A NAVA está em busca de uma pessoa FrontEnd para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a pessoa FrontEnd é responsável por: - Atuar com desenvolvimento no FrontEnd. E para ser do time, é importante que você tenha: - Flutter - React ou Angular - HTML - CSS - JavaScript - Banco de dados Oracle ou SQL Local de trabalho:São Paulo - SP Sobre a NAVA Somos uma empresa de tecnologia apaixonada por pessoas e inovação. Inspiramos nossos times a criar soluções para que as maiores e …",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL"
+      ],
+      "lacunas": [
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T05:00:54Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "c826d66c502fa2584abf60b59ec46a969ba5f74a",
       "titulo": "Desenvolvedor Front-end",
       "empresa": "Conquest One",
@@ -2496,33 +2523,6 @@
       "expirada": true
     },
     {
-      "id": "8956f93afe16ec47427595ea73d5e751095a4b46",
-      "titulo": "Dev Front",
-      "empresa": "NAVA - Technology for Business",
-      "url": "https://www.adzuna.com.br/details/5935955654?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T22:25:48Z",
-      "descricao": "A NAVA está em busca de uma pessoa FrontEnd para fazer parte do nosso time de pessoas incríveis! Aqui na NAVA a pessoa FrontEnd é responsável por: - Atuar com desenvolvimento no FrontEnd. E para ser do time, é importante que você tenha: - Flutter - React ou Angular - HTML - CSS - JavaScript - Banco de dados Oracle ou SQL Local de trabalho:São Paulo - SP Sobre a NAVA Somos uma empresa de tecnologia apaixonada por pessoas e inovação. Inspiramos nossos times a criar soluções para que as maiores e …",
-      "score": 60,
-      "skills_match": [
-        "React",
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL"
-      ],
-      "lacunas": [
-        "Oracle"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-21T05:00:54Z",
-      "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
       "id": "32a787032ddd04399f39ca683c4c75cde4d16bd0",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "Plus-It Consulting",
@@ -2729,6 +2729,52 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "f52b54e1b1d3e334886127ad7ca1883545ff332f",
+      "titulo": "Desenvolvedor React Native",
+      "empresa": "Innolevels",
+      "url": "https://www.adzuna.com.br/details/5969558075?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-17T22:09:37Z",
+      "descricao": "Estamos contratandoDesenvolvedor React Native para construção de novos aplicativos, sustentação e melhorias. Entendemos que para essa evolução, é necessário o conhecimento em: - React Native; - Git. Conhecimentos desejáveis: - Typescript em projetos React; - Pipeline integrado; - Metodologias ágeis; - Banco de dados Mobile; - Realm; - Banco de dados SQL. Atuação 100% remoto. Tem interesse? \"Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoa…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "SQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T07:01:15Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
+      "id": "38efef73e7c0d1272f608e4c0d97270321cf8ab6",
+      "titulo": "Full-Stack Angular Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5969543229?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-17T22:07:48Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Full-stack Angular Developer at BairesDev What You'll Do: - Develop and implement highly-workload backend APIs and processes. - Build reusable components and front-end lib…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T23:37:03Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
     },
     {
       "id": "3b5d6b689db985bd71466c2184818db506d2bf38",
@@ -3271,26 +3317,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T23:36:51Z",
-      "ultima_vista": "2026-11-12",
-      "expirada": false
-    },
-    {
-      "id": "38efef73e7c0d1272f608e4c0d97270321cf8ab6",
-      "titulo": "Full-Stack Angular Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5960817647?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Manaus, Amazonas",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-10T22:03:17Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Full-stack Angular Developer at BairesDev What You'll Do: - Develop and implement highly-workload backend APIs and processes. - Build reusable components and front-end lib…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:03Z",
       "ultima_vista": "2026-11-12",
       "expirada": false
     },
@@ -4183,32 +4209,6 @@
       "data_coleta": "2026-10-21T21:01:34Z",
       "ultima_vista": "2026-11-18",
       "expirada": false
-    },
-    {
-      "id": "f52b54e1b1d3e334886127ad7ca1883545ff332f",
-      "titulo": "Desenvolvedor React Native",
-      "empresa": "Innolevels",
-      "url": "https://www.adzuna.com.br/details/5935954866?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-20T22:25:37Z",
-      "descricao": "Estamos contratandoDesenvolvedor React Native para construção de novos aplicativos, sustentação e melhorias. Entendemos que para essa evolução, é necessário o conhecimento em: - React Native; - Git. Conhecimentos desejáveis: - Typescript em projetos React; - Pipeline integrado; - Metodologias ágeis; - Banco de dados Mobile; - Realm; - Banco de dados SQL. Atuação 100% remoto. Tem interesse? \"Grandes coisas em termos de negócios nunca são feitas por uma pessoa. São feitas por uma equipe de pessoa…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-21T07:01:15Z",
-      "ultima_vista": "2026-10-21",
-      "expirada": true
     },
     {
       "id": "2ca5b6a103d250930e6fb92ba51516259abc7088",
@@ -6204,6 +6204,29 @@
       "expirada": true
     },
     {
+      "id": "1de5e6acb1f1ea9dfcf18cffb7b3833a76f9ebd2",
+      "titulo": "Python Developer",
+      "empresa": "Amaris Consulting",
+      "url": "https://www.adzuna.com.br/details/5969534935?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T22:07:04Z",
+      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack para construir experiências de usuário modernas e serviços de backend escaláveis que suportem fluxos de trabalho comerciais impulsionados por IA. Você atuará em todo o ciclo de desenvolvimento da nossa plataforma, desde o front-end em Angular até microserviços de backend e integrações com sistemas internos. Responsabilidades: - Desenvolver novas funcionalidades para a plataforma - Construir aplicações responsivas utilizando Angular - Desenvo…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T03:01:06Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Innolevels",
@@ -7314,29 +7337,6 @@
       "expirada": true
     },
     {
-      "id": "1de5e6acb1f1ea9dfcf18cffb7b3833a76f9ebd2",
-      "titulo": "Python Developer",
-      "empresa": "Amaris Consulting",
-      "url": "https://www.adzuna.com.br/details/5935931811?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T22:21:30Z",
-      "descricao": "Estamos em busca de um(a) Desenvolvedor(a) Full Stack para construir experiências de usuário modernas e serviços de backend escaláveis que suportem fluxos de trabalho comerciais impulsionados por IA. Você atuará em todo o ciclo de desenvolvimento da nossa plataforma, desde o front-end em Angular até microserviços de backend e integrações com sistemas internos. Responsabilidades: - Desenvolver novas funcionalidades para a plataforma - Construir aplicações responsivas utilizando Angular - Desenvo…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-21T03:01:06Z",
-      "ultima_vista": "2026-10-22",
-      "expirada": true
-    },
-    {
       "id": "3a6a8cd7421040b86daefa75fe07b27a79513023",
       "titulo": "Programador .NET - SP",
       "empresa": "Urbano Informatica",
@@ -8261,6 +8261,48 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "e26e5e92479d8d7aa95626f99a8a29f9ba0b8a04",
+      "titulo": "Desenvolvedor Front-end React Remoto",
+      "empresa": "W1",
+      "url": "https://www.adzuna.com.br/details/5969546414?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-17T22:08:06Z",
+      "descricao": "Descrição da vaga: Buscamos Desenvolvedor(a) Front-end React para atuar no desenvolvimento e evolução de aplicações web, contribuindo para a construção de interfaces modernas, performáticas e integradas a serviços e APIs. Essa posição é ideal para profissionais com experiência sólida em React, atenção à qualidade de código e interesse em trabalhar em ambientes colaborativos, com processos ágeis e foco em evolução contínua da plataforma. Principais Responsabilidades: - Desenvolver e manter aplic…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T03:00:54Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
+      "id": "f2b4043e2a84188c0504c3b98a4dc8f6817ec0fb",
+      "titulo": "Desenvolvedor Full Stack (Java Node) Pleno - Morumbi, Sp (83772)",
+      "empresa": "Grupo Amil",
+      "url": "https://www.adzuna.com.br/details/5969535170?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Morumbi, Zona Sul",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T22:07:05Z",
+      "descricao": "Transformar vidas com saúde é o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negócios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede própria de hospitais, clínicas, centros de tratamento, home care e transporte médico. Com uma missão clara e valores sólidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na população que atendemos. Estamos em busca…",
+      "score": 40,
+      "skills_match": [
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-21T03:01:06Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
     },
     {
       "id": "73fb008f0a784d0c7ab66b69b7c9213fec44db78",
@@ -9864,48 +9906,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T07:01:15Z",
       "ultima_vista": "2026-10-21",
-      "expirada": true
-    },
-    {
-      "id": "e26e5e92479d8d7aa95626f99a8a29f9ba0b8a04",
-      "titulo": "Desenvolvedor Front-end React Remoto",
-      "empresa": "W1",
-      "url": "https://www.adzuna.com.br/details/5935949417?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-20T22:24:38Z",
-      "descricao": "Estamos em busca de um Desenvolvedor Front-end Reactpara atuar em um ambiente dinâmico e colaborativo, com foco em entregar experiências digitais de alta performance e qualidade. Responsabilidades e Requisitos Técnicos: - Domínio no desenvolvimento Front-End com React; - Experiência com integrações via APIsde mercado; - Conhecimento em testes automatizadose boas práticas de versionamento de código ( Git); - Vivência com metodologias ágeise trabalho em equipe; - Capacidade de colaborar com times…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-21T03:00:54Z",
-      "ultima_vista": "2026-10-23",
-      "expirada": true
-    },
-    {
-      "id": "f2b4043e2a84188c0504c3b98a4dc8f6817ec0fb",
-      "titulo": "Desenvolvedor Full Stack (Java Node) Pleno - Morumbi, Sp (83772)",
-      "empresa": "Grupo Amil",
-      "url": "https://www.adzuna.com.br/details/5935932071?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Morumbi, Zona Sul",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-20T22:21:34Z",
-      "descricao": "Transformar vidas com saúde é o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negócios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede própria de hospitais, clínicas, centros de tratamento, home care e transporte médico. Com uma missão clara e valores sólidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na população que atendemos. Estamos em busca…",
-      "score": 40,
-      "skills_match": [
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-21T03:01:06Z",
-      "ultima_vista": "2026-10-22",
       "expirada": true
     },
     {
