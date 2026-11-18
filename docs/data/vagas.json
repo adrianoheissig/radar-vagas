@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-18T05:02:37Z",
+  "atualizado_em": "2026-11-18T07:03:10Z",
   "total": 588,
   "vagas": [
     {
@@ -296,7 +296,7 @@
       "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
       "titulo": "ADM.NET FSR",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216195?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216195?utm_medium=api&utm_source=267e525f&v=1EE6046175F5A02930E1C8A77375AFF99C3C88F8",
       "fonte": "adzuna",
       "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "hibrido",
@@ -1857,6 +1857,29 @@
       "expirada": false
     },
     {
+      "id": "ffc37ffdf9e43fc7c0e173e2f054dc4c10f7aea0",
+      "titulo": "Desenvolvedor(A) Fullstack (Java Angular)",
+      "empresa": "Nava",
+      "url": "https://www.adzuna.com.br/details/5968975828?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-17T09:44:28Z",
+      "descricao": "A Nava está buscando Desenvolvedor Fullstack (Spring Boot Angular) para atuar em uma oportunidade no segmento de seguros.Nesta posição, você terá o desafio de desenvolver e evoluir soluções que suportam processos estratégicos do negócio de seguros, atuando no desenvolvimento de aplicações modernas, integrações entre sistemas e entrega de novas funcionalidades. Buscamos um profissional com perfil analítico, colaborativo e orientado a resultados, que contribua ativamente para a evolução dos prod…",
+      "score": 60,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-14T13:00:39Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "c826d66c502fa2584abf60b59ec46a969ba5f74a",
       "titulo": "Desenvolvedor Front-end",
       "empresa": "Conquest One",
@@ -1911,7 +1934,7 @@
       "id": "a25677434a3837a18909e280a1465bc96cfb3d62",
       "titulo": "Desenvolvedor Full Stack",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216235?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216235?utm_medium=api&utm_source=267e525f&v=0204D135AF922BAC32F1C5505CDF223E090199F0",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1936,7 +1959,7 @@
       "id": "cb95619b13525ab7d70d068aff98070562256946",
       "titulo": "Fullstack Developer (Java & Angular)",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216275?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216275?utm_medium=api&utm_source=267e525f&v=16CBCDACFB58B3CEC618D985DD37DA95B2EC7C95",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2059,29 +2082,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T07:00:41Z",
       "ultima_vista": "2026-11-18",
-      "expirada": false
-    },
-    {
-      "id": "ffc37ffdf9e43fc7c0e173e2f054dc4c10f7aea0",
-      "titulo": "Desenvolvedor(A) Fullstack (Java Angular)",
-      "empresa": "Nava",
-      "url": "https://www.adzuna.com.br/details/5965874256?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-14T09:43:17Z",
-      "descricao": "A Nava está buscando Desenvolvedor Fullstack (Spring Boot Angular) para atuar em uma oportunidade no segmento de seguros . Nesta posição, você terá o desafio de desenvolver e evoluir soluções que suportam processos estratégicos do negócio de seguros, atuando no desenvolvimento de aplicações modernas, integrações entre sistemas e entrega de novas funcionalidades. Buscamos um profissional com perfil analítico, colaborativo e orientado a resultados, que contribua ativamente para a evolução dos pr…",
-      "score": 60,
-      "skills_match": [
-        "Angular",
-        "Java"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-14T13:00:39Z",
-      "ultima_vista": "2026-11-16",
       "expirada": false
     },
     {
@@ -2857,6 +2857,54 @@
       "expirada": false
     },
     {
+      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
+      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5968730969?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-17T03:55:28Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:11:09Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
+      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
+      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5968730937?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-17T03:55:27Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvimento FrontEnd utilizando Angular e TypeScript; Conhecimento em HTML, CSS, Git e integração via APIs; Imprescindível disponibilidade para atuação híbrida na região de S…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:31Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "c534313f631fa48887b3cf33f5db69d00d6b7257",
       "titulo": "Typescript/nextjs Frontend Developer - Remote, Latin America",
       "empresa": "Bluelight Consulting",
@@ -2889,7 +2937,7 @@
       "id": "798c526982c852ae199bdf6783b42983ad331b1b",
       "titulo": "Desenvolvedor FullStack - Node e Angular",
       "empresa": "Brq Informática",
-      "url": "https://www.adzuna.com.br/details/5968183048?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968183048?utm_medium=api&utm_source=267e525f&v=4A31D39C40D2B7C1465BAC579E7B7C04473DC705",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -3174,36 +3222,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T23:00:52Z",
       "ultima_vista": "2026-11-14",
-      "expirada": false
-    },
-    {
-      "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
-      "titulo": "Desenvolvedor Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5962695662?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-12T03:53:01Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Angular - Nível Sênior - 90% Remoto Sólida experiência com desenvolvimento de aplicações web utilizando Angular (v12); Experiência com TypeScript, JavaScript, HTML5 e CSS3/SCSS; Experiência com integração e consumo de APIs RESTful; Experiência com troubleshooting, debugging e otimização de aplicações front-end; Vivência com Git e metodologias ágeis (Scrum/Kanban); Desejável conhecimento em Angular Material, NgRx, RxJS, Bootstrap ou PrimeNG; Desejável experiência no se…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Sass",
-        "Bootstrap"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-11-13",
       "expirada": false
     },
     {
@@ -3517,30 +3535,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-23T07:00:55Z",
       "ultima_vista": "2026-11-10",
-      "expirada": false
-    },
-    {
-      "id": "5a546f4ac69ffbfa3fd94286662ba65c040c8979",
-      "titulo": "Desenvolvedor Flutter/Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5957839389?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-08T03:35:32Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor Flutter/Angular Níveis Pleno e Sênior - São Paulo/SP Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindível disponibilidade para atuação híbrida na região de Santo Amaro/SP. REQUISITOS: Sólida experiência em desenvolvilmento mobile com Flutter e Dart; Experiência em Angular, TypeScript e integração via APIs; Conhecimento em HTML, CSS e Git; Imprescindív…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-11",
       "expirada": false
     },
     {
@@ -6299,7 +6293,7 @@
       "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5968216081?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968216081?utm_medium=api&utm_source=267e525f&v=45494F3B4519EAAD71EAC5CEC1A02D2C7AA4EF8A",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -8450,7 +8444,7 @@
       "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
       "titulo": "Banco de Talentos React/Node",
       "empresa": "Conquest one",
-      "url": "https://www.adzuna.com.br/details/5968180002?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5968180002?utm_medium=api&utm_source=267e525f&v=CFEB0EA742319DE3448B28169DF0A512F85F2AA3",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -11036,6 +11030,24 @@
       "expirada": false
     },
     {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -11055,24 +11067,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-18",
       "expirada": false
     },
     {
@@ -11123,14 +11117,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
