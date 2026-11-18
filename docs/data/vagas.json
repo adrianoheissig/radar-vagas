@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-18T11:02:52Z",
+  "atualizado_em": "2026-11-18T13:02:54Z",
   "total": 588,
   "vagas": [
     {
@@ -429,14 +429,14 @@
     },
     {
       "id": "2d5ce518497258e99f0048a86cfa0017c66f5ebc",
-      "titulo": "Programador De Software",
+      "titulo": "Programador de Software",
       "empresa": "GRUPO TOP BRASIL RH",
-      "url": "https://www.infojobs.com.br/vaga-de-programador-software-em-sao-paulo__12134809.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "url": "https://www.adzuna.com.br/details/5935926994?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "presencial",
-      "data_publicacao": "2026-10-20T14:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\n?? VAGA: PROGRAMADOR(A) PLENO\n\n?? Centro de Guarulhos | Presencial  \n?? Salário a combinar  \n?? Benefícios: Vale-transporte e vale-refeição\n\nRequisitos:\n- Experiência comprovada em programação e desenvolvimento de sistemas;\n- Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL;\n- Integração com APIs REST e webhooks;\n- Git e publicação em nuvem;\n- Boa comunicação para explicar soluções técnicas a gestores não técnicos.\n\nPrincipais atividades:\n- Manutenção e evolução de sistemas em produção;\n- Desenvolvimento de integrações com APIs de gestão, bancos, pagamentos e WhatsApp;\n- Proposição de soluções, documentação e garantia da estabilidade dos sistemas.\n\n?? Interessados, enviar currículo pelo WhatsApp: (11) 98661-2435\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nPrestador de Serviços (PJ) - Período Integral\nÁrea Profissional:\nEspecialista em Informática, TI, Telecomunicações - Programador / Desenvolvedor\nExigências\nEscolaridade Mínima:  Ensino Superior\nValorizado\nExperiência desejada: Entre 3 e 5 anos",
+      "data_publicacao": "2026-10-20T22:20:26Z",
+      "descricao": "?? VAGA: PROGRAMADOR(A) PLENO ?? Centro de Guarulhos | Presencial ?? Salário a combinar ?? Benefícios: Vale-transporte e vale-refeição Requisitos: - Experiência comprovada em programação e desenvolvimento de sistemas; - Conhecimento em TypeScript, React, Tailwind, Node.js e banco de dados SQL; - Integração com APIs REST e webhooks; - Git e publicação em nuvem; - Boa comunicação para explicar soluções técnicas a gestores não técnicos. Principais atividades: - Manutenção e evolução de sistemas em…",
       "score": 75,
       "skills_match": [
         "React",
@@ -449,7 +449,7 @@
       "lacunas": [
         "Tailwind"
       ],
-      "experiencia_exigida": 3,
+      "experiencia_exigida": null,
       "data_coleta": "2026-10-20T14:54:45Z",
       "ultima_vista": "2026-11-18",
       "expirada": false
@@ -7267,41 +7267,6 @@
       "expirada": true
     },
     {
-      "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
-      "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
-      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
-      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-vaga-afirmativa-pcds-em-minas-gerais__12148165.aspx",
-      "fonte": "infojobs",
-      "local": "Uberlândia - MG",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-23T12:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente?\nATIVIDADES\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno para integrar nosso time de Tecnologia, com atuação focada no desenvolvimento e evolução de aplicações Web, contribuindo para a construção de interfaces modernas, responsivas, eficientes e escaláveis.\nPrincipais responsabilidades:\nDesenvolver e evoluir aplicações Web Front-End, utilizando tecnologias e frameworks modernos;\nCriar interfaces responsivas, reutilizáveis e orientadas a uma boa experiência do usuário;\nAtuar na integração do Front-End com APIs e serviços de Backend;\nRealizar a sustentação das aplicações de negócio, atuando na análise e correção de falhas, melhorias de funcionalidades e otimização de performance;\nApoiar a investigação e resolução de problemas envolvendo aplicações e banco de dados;\nParticipar de projetos priorizados pela Up Brasil, contribuindo desde o entendimento da necessidade e definição da solução…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Microsserviços",
-        "SQL",
-        "Git",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "SQL Server",
-        "MongoDB",
-        "Docker",
-        "Azure",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-10-23T13:01:45Z",
-      "ultima_vista": "2026-11-18",
-      "expirada": false
-    },
-    {
       "id": "479bc227a135130c67deff0c3c4a33634cdb3f9a",
       "titulo": "Desenvolvedor ReactJS e React Native",
       "empresa": "Taking",
@@ -8306,6 +8271,26 @@
       "expirada": false
     },
     {
+      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
+      "titulo": "Junior React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5969543156?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Porto Alegre, Rio Grande do Sul",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-17T22:07:48Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
+    },
+    {
       "id": "f2b4043e2a84188c0504c3b98a4dc8f6817ec0fb",
       "titulo": "Desenvolvedor Full Stack (Java Node) Pleno - Morumbi, Sp (83772)",
       "empresa": "Grupo Amil",
@@ -9022,26 +9007,6 @@
       "modalidade": "remoto",
       "data_publicacao": "2026-11-10T22:03:18Z",
       "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. What You'll Do: - Integrate native modules and handle platform-specific configurations for both iOS and Android environments. - Leverage Expo and modern mobile development…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
-      "ultima_vista": "2026-11-12",
-      "expirada": false
-    },
-    {
-      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
-      "titulo": "Junior React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5960817799?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Joinville, Santa Catarina",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-10T22:03:18Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
       "score": 40,
       "skills_match": [],
       "lacunas": [
@@ -14013,6 +13978,24 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-23",
       "expirada": true
+    },
+    {
+      "id": "6458cd234f140536b4b2e65785d4fdb1c4e3b1ce",
+      "titulo": "Analista De Sistemas Pleno | Vaga Afirmativa Para Pcd´S",
+      "empresa": "UP BRASIL ADMINISTRACAO E SERVICOS LTDA.",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-sistemas-pleno-vaga-afirmativa-pcds-em-minas-gerais__12148165.aspx",
+      "fonte": "infojobs",
+      "local": "Uberlândia - MG",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-10-23T12:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nFaça parte de uma das maiores empresas de benefícios do mundo! Somos a Up Brasil, multinacional francesa com presença em 25 países e com mais de 23 milhões de beneficiários. Oferecemos soluções simples e completas para facilitar o dia a dia de empresas, estabelecimentos e usuários. Promovemos um ambiente interno de crescimento com valores sólidos: equidade, solidariedade, empreendedorismo, inovação e compromisso. Queremos gente com brilho nos olhos, que goste de desafios e que queira escrever sua própria história. E aí, vem com a gente?\nATIVIDADES\nEstamos buscando um(a) Desenvolvedor(a) Web Pleno para integrar nosso time de Tecnologia, com atuação focada no desenvolvimento e evolução de aplicações Web, contribuindo para a construção de interfaces modernas, responsivas, eficientes e escaláveis.\nPrincipais responsabilidades:\nDesenvolver e evoluir aplicações Web Front-End, utilizando tecnologias e frameworks modernos;\nCriar interfaces responsivas, reutilizáveis e orientadas a uma boa experiência do usuário;\nAtuar na integração do Front-End com APIs e serviços de Backend;\nRealizar a sustentação das aplicações de negócio, atuando na análise e correção de falhas, melhorias de funcionalidades e otimização de performance;\nApoiar a investigação e resolução de problemas envolvendo aplicações e banco de dados;\nParticipar de projetos priorizados pela Up Brasil, contribuindo desde o entendimento da necessidade e definição da solução…",
+      "score": 15,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-23T13:01:45Z",
+      "ultima_vista": "2026-11-18",
+      "expirada": false
     },
     {
       "id": "fa545ddc198ee0db0baf949c45d30b37826de5c8",
