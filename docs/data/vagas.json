@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-21T17:19:38Z",
-  "total": 581,
+  "atualizado_em": "2026-11-21T19:02:54Z",
+  "total": 582,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -526,6 +526,27 @@
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
       "expirada": true
+    },
+    {
+      "id": "5a38d903d11b4be497c5e87fc6605f58a0e0a89d",
+      "titulo": "Engenheiro de Software Fullstack Pleno (Java/Angular) - Híbrido/SP",
+      "empresa": "TQI",
+      "url": "https://www.adzuna.com.br/details/5974392855?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-21T14:28:18Z",
+      "descricao": "Qual o tamanho dos seus objetivos? Deseja novos desafios? Então, vem para TQI! A TQI é uma empresa de tecnologia e inovação que há mais de 30 anos, desenvolve soluções para suportar e alavancar os negócios de seus clientes no Brasil e no exterior. Com escritórios em Uberlândia (MG) e em São Paulo (SP), e colaboradores em centenas de cidades, a TQI conquistou e mantém há mais de 7 anos o selo Great Place to Work (GPTW), e está no ranking 80 do GPTW de Tecnologia, reforçando seu compromisso para …",
+      "score": 70,
+      "skills_match": [
+        "Angular",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-21T19:01:07Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
     },
     {
       "id": "f186fb12f3c33252a3fd6c0f8831c09329586b55",
