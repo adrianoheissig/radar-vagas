@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-21T01:03:02Z",
+  "atualizado_em": "2026-11-21T02:06:22Z",
   "total": 580,
   "vagas": [
     {
@@ -528,6 +528,31 @@
       "expirada": true
     },
     {
+      "id": "f186fb12f3c33252a3fd6c0f8831c09329586b55",
+      "titulo": "Desenvolvedor(a) Front-end Vtex Io",
+      "empresa": "Agência 2b Digital",
+      "url": "https://www.adzuna.com.br/details/5973358295?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-20T22:09:47Z",
+      "descricao": "Estamos procurando um(a) Desenvolvedor(a) apaixonado pelo que faz, para juntar-se ao nosso squad de Projetos. Nosso trabalho é feito com base na metodologia ágil, e atuamos com squads independentes que nos permitem atuar com mais velocidade e assertividade no dia a dia das execuções. Requisitos HTML CSS Javascript React.js Graph QL Node.js Conhecimentos: Scrum, Kanban, VTEX. Desejável Vivência com e-commerce. Benefícios Auxilio home office.",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:29Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
       "id": "73fdbefbcf0f4e4db84c75bf4d81ff0fbb2c8aa6",
       "titulo": "Desenvolvedor(a) Full Stack Pleno — Engenharia & Sustentação (Java/Angular)",
       "empresa": "Avantti",
@@ -713,7 +738,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:00:39Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -850,7 +875,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T15:49:22Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -956,31 +981,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-25T09:00:58Z",
       "ultima_vista": "2026-10-27",
-      "expirada": true
-    },
-    {
-      "id": "f186fb12f3c33252a3fd6c0f8831c09329586b55",
-      "titulo": "Desenvolvedor(a) Front-end Vtex Io",
-      "empresa": "Agência 2b Digital",
-      "url": "https://www.adzuna.com.br/details/5939781186?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-23T21:58:28Z",
-      "descricao": "Estamos procurando um(a) Desenvolvedor(a) apaixonado pelo que faz, para juntar-se ao nosso squad de Projetos. Nosso trabalho é feito com base na metodologia ágil, e atuamos com squads independentes que nos permitem atuar com mais velocidade e assertividade no dia a dia das execuções. Requisitos HTML CSS Javascript React.js Graph QL Node.js Conhecimentos: Scrum, Kanban, VTEX. Desejável Vivência com e-commerce. Benefícios Auxilio home office.",
-      "score": 70,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:29Z",
-      "ultima_vista": "2026-10-25",
       "expirada": true
     },
     {
@@ -1866,7 +1866,7 @@
       "id": "2f9140b0d46a29a66e4d1fd57bb469d190144929",
       "titulo": "Desenvolvedor FullStack PL (Springboot Angular) - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/land/ad/5971417255?utm_medium=api&utm_source=267e525f&v=C05BEF7CE4B5F440BFC9B0201A8465797A148DCA",
+      "url": "https://www.adzuna.com.br/details/5971417255?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -1882,7 +1882,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-19T11:00:43Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -1982,7 +1982,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T13:00:39Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -2169,7 +2169,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T19:00:42Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -2214,7 +2214,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T07:00:41Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -2283,7 +2283,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T18:06:01Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -2367,7 +2367,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-08T19:00:39Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -6274,7 +6274,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-06T05:00:40Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -6620,7 +6620,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T07:00:50Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -6962,7 +6962,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -8105,6 +8105,26 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "32ddcaaa20ee7cdce1b377833051d0d9474a4aa5",
+      "titulo": "Java - Desenvolvedor(a) Jr de Software - Remoto",
+      "empresa": "Underwriters Laboratories Inc.",
+      "url": "https://www.adzuna.com.br/details/5973358867?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-20T22:09:52Z",
+      "descricao": "Â: At UL, we know why we come to work.: Na UL, nós sabemos porque viemos para o trabalho diariamente. - Milhares de nós ao redor do mundo acordamos todos os dias com um propósito em comum: tornar o mundo um lugar mais seguro e sustentável. A ciência está em nosso DNA; nós somos infinitamente curiosos e apaixonados para procurar e falar a verdade. Nos sentimos felizes em saber que nosso trabalho oferece contribuições que tem importância para a sociedade, e temos orgulho em ter uma cultura centra…",
+      "score": 40,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:33Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
     },
     {
       "id": "6c67d2381988f5ea6bc17e46b20d4abd8d6088ff",
@@ -9736,26 +9756,6 @@
       "expirada": true
     },
     {
-      "id": "32ddcaaa20ee7cdce1b377833051d0d9474a4aa5",
-      "titulo": "Java - Desenvolvedor(a) Jr de Software - Remoto",
-      "empresa": "Underwriters Laboratories Inc.",
-      "url": "https://www.adzuna.com.br/details/5939781851?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-23T21:58:33Z",
-      "descricao": "Â: At UL, we know why we come to work.: Na UL, nós sabemos porque viemos para o trabalho diariamente. - Milhares de nós ao redor do mundo acordamos todos os dias com um propósito em comum: tornar o mundo um lugar mais seguro e sustentável. A ciência está em nosso DNA; nós somos infinitamente curiosos e apaixonados para procurar e falar a verdade. Nos sentimos felizes em saber que nosso trabalho oferece contribuições que tem importância para a sociedade, e temos orgulho em ter uma cultura centra…",
-      "score": 40,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:33Z",
-      "ultima_vista": "2026-10-25",
-      "expirada": true
-    },
-    {
       "id": "a7826ca18fe4353c2cb14c415a0ec074bee6fb77",
       "titulo": "Desenvolvedor(a) Fullstack Pleno (Go React) [Remoto - Brasil]",
       "empresa": "DBServices",
@@ -11104,6 +11104,49 @@
       "expirada": true
     },
     {
+      "id": "b7cc095ad4cefc665be2220b463e46df60146ba1",
+      "titulo": "Desenvolvedor Java Jr",
+      "empresa": "wau work",
+      "url": "https://www.adzuna.com.br/details/5973358379?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-20T22:09:48Z",
+      "descricao": "WAU Somos a plataforma para você que busca o trabalho ideal em grandes empresas. Queremos entregar a vaga perfeita para profissionais únicos, independentes e talentosos. A WAU conecta você aos seus jobs. - 1 anos de experiência em desenvolvimento Java - Experiência com desenvolvimento de aplicações web, webservices, microserviços; - Experiência com mecanismos de testes como JUnit; - Participação nas cerimônias de entendimento e planejamento do backlog; - Java versão 1.8 e 11: Servlet, JSP, JDBC…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "Microsserviços"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-09-25T23:55:27Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
+      "id": "0c3a62d41492971d13a4fc602aea26f827a6b095",
+      "titulo": "Desenvolvedor(a) Java Pleno",
+      "empresa": "Confitec",
+      "url": "https://www.adzuna.com.br/details/5973357848?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-20T22:09:43Z",
+      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar. Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante. Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil.…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:27Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
       "id": "e7b91c9ce435fc171d9ae0c2f01721a1bd5578a6",
       "titulo": "Frontend Developer",
       "empresa": "",
@@ -11644,7 +11687,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T17:37:14Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -11818,7 +11861,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:49:42Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -12310,7 +12353,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-20",
+      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -12530,49 +12573,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-24T17:00:52Z",
       "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
-      "id": "b7cc095ad4cefc665be2220b463e46df60146ba1",
-      "titulo": "Desenvolvedor Java Jr",
-      "empresa": "wau work",
-      "url": "https://www.adzuna.com.br/details/5939781306?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-23T21:58:29Z",
-      "descricao": "WAU Somos a plataforma para você que busca o trabalho ideal em grandes empresas. Queremos entregar a vaga perfeita para profissionais únicos, independentes e talentosos. A WAU conecta você aos seus jobs. - 1 anos de experiência em desenvolvimento Java - Experiência com desenvolvimento de aplicações web, webservices, microserviços; - Experiência com mecanismos de testes como JUnit; - Participação nas cerimônias de entendimento e planejamento do backlog; - Java versão 1.8 e 11: Servlet, JSP, JDBC…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-09-25T23:55:27Z",
-      "ultima_vista": "2026-10-25",
-      "expirada": true
-    },
-    {
-      "id": "0c3a62d41492971d13a4fc602aea26f827a6b095",
-      "titulo": "Desenvolvedor(a) Java Pleno",
-      "empresa": "Confitec",
-      "url": "https://www.adzuna.com.br/details/5939780533?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-23T21:58:24Z",
-      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar. Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante. Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil.…",
-      "score": 30,
-      "skills_match": [
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:27Z",
-      "ultima_vista": "2026-10-25",
       "expirada": true
     },
     {
