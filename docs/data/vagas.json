@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-21T03:02:46Z",
-  "total": 580,
+  "atualizado_em": "2026-11-21T05:02:49Z",
+  "total": 581,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -296,7 +296,7 @@
       "id": "e5660a9d5551e6edd38c435ae774f50d13222b09",
       "titulo": "ADM.NET FSR - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5971412564?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5971412564?utm_medium=api&utm_source=267e525f&v=B532C25B8A159C82BAB6CF0CB63FA8DB8B39E3B5",
       "fonte": "adzuna",
       "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "hibrido",
@@ -2711,6 +2711,32 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "f144c3cb84cfa6b83fcd4ca2a65f09db2d9722d7",
+      "titulo": "Desenvolvedor(a) Full Stack Jr.",
+      "empresa": "Attractfy Consultoria em Recursos Humanos",
+      "url": "https://www.adzuna.com.br/details/5973114730?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-20T14:08:28Z",
+      "descricao": "Descrição DESENVOLVEDOR(A) FULL STACK JR. Local: Vila Olímpia – São Paulo/SP Regime de contratação: CLT ou PJ Modelo de trabalho: Híbrido (3 dias presenciais e 2 dias remotos) PRINCIPAIS ATIVIDADES: Desenvolver, manter e evoluir aplicações web, atuando tanto no back-end quanto no front-end; Construir e consumir APIs REST utilizando Python (FastAPI e Django) e TypeScript (React e Next.js); Desenvolver e orquestrar pipelines de dados e rotinas automatizadas com Apache Airflow, envolvendo …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "APIs REST"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Python",
+        "Django"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-21T05:00:53Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
     },
     {
       "id": "395929089a714e96ab70a2bb3d3e7996ae00683b",
@@ -6189,7 +6215,7 @@
       "id": "34068e083a44e28c167f2579a378d43a0aeb7d3e",
       "titulo": "Desenvolvedor Front End - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5971412785?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5971412785?utm_medium=api&utm_source=267e525f&v=37A641C1A7284B96AC4E426F24899FD5343AF897",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -8107,6 +8133,31 @@
       "expirada": true
     },
     {
+      "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
+      "titulo": "Programador(a) Back-end Júnior",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5973358965?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-20T22:09:53Z",
+      "descricao": "Descrição da empresa Startup em desenvolvimento. Atividades e Responsabilidades: Buscamos profissional com experiência em desenvolvimento de software utilizando tecnologia Node.js para manutenção e customização de códigos de um projeto startup. Requisitos: Requisitos Fundamentais: Experiência com desenvolvimento Node.js; TypeScript; Banco de Dados Mongo DB. Requisitos Desejáveis: Cultura DevOps; Google Cloud; Linux",
+      "score": 40,
+      "skills_match": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "MongoDB",
+        "Google Cloud",
+        "Linux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-25T23:55:39Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
       "id": "32ddcaaa20ee7cdce1b377833051d0d9474a4aa5",
       "titulo": "Java - Desenvolvedor(a) Jr de Software - Remoto",
       "empresa": "Underwriters Laboratories Inc.",
@@ -9731,31 +9782,6 @@
       "expirada": true
     },
     {
-      "id": "565800b4d07df9d9ef499c1b67a9b3848de2c8b4",
-      "titulo": "Programador(a) Back-end Júnior",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5939781958?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-23T21:58:34Z",
-      "descricao": "Descrição da empresa Startup em desenvolvimento. Atividades e Responsabilidades: Buscamos profissional com experiência em desenvolvimento de software utilizando tecnologia Node.js para manutenção e customização de códigos de um projeto startup. Requisitos: Requisitos Fundamentais: Experiência com desenvolvimento Node.js; TypeScript; Banco de Dados Mongo DB. Requisitos Desejáveis: Cultura DevOps; Google Cloud; Linux",
-      "score": 40,
-      "skills_match": [
-        "TypeScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "MongoDB",
-        "Google Cloud",
-        "Linux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-25T23:55:39Z",
-      "ultima_vista": "2026-10-25",
-      "expirada": true
-    },
-    {
       "id": "a7826ca18fe4353c2cb14c415a0ec074bee6fb77",
       "titulo": "Desenvolvedor(a) Fullstack Pleno (Go React) [Remoto - Brasil]",
       "empresa": "DBServices",
@@ -10842,6 +10868,24 @@
       "expirada": false
     },
     {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-10T10:18:30Z",
+      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -10861,24 +10905,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
-      "expirada": false
-    },
-    {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-09T13:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": 1,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-21",
       "expirada": false
     },
     {
@@ -10929,14 +10955,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador De Dobra",
-      "empresa": "NacionalRH",
-      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
-      "fonte": "infojobs",
-      "local": "Guarulhos - SP",
+      "titulo": "Operador de Dobra",
+      "empresa": "NACIONALRH",
+      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T12:14:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
+      "data_publicacao": "2026-10-26T22:09:18Z",
+      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11143,6 +11169,26 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:27Z",
+      "ultima_vista": "2026-11-21",
+      "expirada": false
+    },
+    {
+      "id": "e7e0d31c449f97ebfdc2fd5503c692a23e7fa627",
+      "titulo": "Frontend Software Engineer (React) - São Paulo (Contract)",
+      "empresa": "First Help Financial",
+      "url": "https://www.adzuna.com.br/details/5973286521?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-20T20:17:33Z",
+      "descricao": "First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30% each year over the last nine years. Here you will find hard-working colleagues who come from over 20 countries. W…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T05:00:50Z",
       "ultima_vista": "2026-11-21",
       "expirada": false
     },
@@ -12999,26 +13045,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T09:01:04Z",
-      "ultima_vista": "2026-10-10",
-      "expirada": true
-    },
-    {
-      "id": "e7e0d31c449f97ebfdc2fd5503c692a23e7fa627",
-      "titulo": "Frontend Software Engineer (React) - São Paulo (Contract)",
-      "empresa": "First Help Financial",
-      "url": "https://www.adzuna.com.br/details/5918091616?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-07T22:57:43Z",
-      "descricao": "First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30% each year over the last nine years. Here you will find hard-working colleagues who come from over 20 countries. W…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T05:00:50Z",
       "ultima_vista": "2026-10-10",
       "expirada": true
     },
