@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-22T03:02:50Z",
-  "total": 579,
+  "atualizado_em": "2026-11-22T05:02:46Z",
+  "total": 581,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -1769,6 +1769,58 @@
       "expirada": false
     },
     {
+      "id": "e361f9397200763ae29f9facfa9dc43ee7e50cb5",
+      "titulo": "Assistente de Desenvolvimento de Sistemas",
+      "empresa": "Empresa com nome confidencial",
+      "url": "https://www.adzuna.com.br/details/5974385425?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-21T14:23:46Z",
+      "descricao": "• Fazer a manutenção e/ou criar sistemas utilizando uma das seguintes linguagens: C#, .NET, Angular, React, Golang, Python; • Fazer a manutenção e/ou implementar conteinerização em Docker; • Acessar, entender e modificar dados em banco de dados não relacionais Mongo DB e Redis. • Acessar, entender e modificar dados em banco de dados relacional PostgreSQL. • Documentar processos do setor e sistemas do setor. LI-Onsite",
+      "score": 60,
+      "skills_match": [
+        "React",
+        "Angular"
+      ],
+      "lacunas": [
+        "Python",
+        "C#",
+        ".NET",
+        "Go",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-22T05:00:55Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
+    },
+    {
+      "id": "26f7baa1393106d8db7b995eef2e9f402157c556",
+      "titulo": "Desenvolvedor Fullstack (Spring Boot Angular)",
+      "empresa": "Nava",
+      "url": "https://www.adzuna.com.br/details/5974044818?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-21T09:45:05Z",
+      "descricao": "A Nava está buscando Desenvolvedor Fullstack (Spring Boot Angular) para atuar em uma oportunidade no segmento de seguros . Nesta posição, você terá o desafio de desenvolver e evoluir soluções que suportam processos estratégicos do negócio de seguros, atuando no desenvolvimento de aplicações modernas, integrações entre sistemas e entrega de novas funcionalidades. Buscamos um profissional com perfil analítico, colaborativo e orientado a resultados, que contribua ativamente para a evolução dos pr…",
+      "score": 60,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "Spring"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-15T13:00:42Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
+    },
+    {
       "id": "233587cd981f71f88edf0935109fd3957da56fcf",
       "titulo": "Desenvolvedor Front-end Angular/react",
       "empresa": "SeedTS Seed Technology Solutions",
@@ -1878,7 +1930,7 @@
       "id": "2f9140b0d46a29a66e4d1fd57bb469d190144929",
       "titulo": "Desenvolvedor FullStack PL (Springboot Angular) - SP",
       "empresa": "Union it",
-      "url": "https://www.adzuna.com.br/details/5971417255?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5971417255?utm_medium=api&utm_source=267e525f&v=C05BEF7CE4B5F440BFC9B0201A8465797A148DCA",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -2182,28 +2234,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T19:00:42Z",
       "ultima_vista": "2026-11-22",
-      "expirada": false
-    },
-    {
-      "id": "26f7baa1393106d8db7b995eef2e9f402157c556",
-      "titulo": "Desenvolvedor Fullstack (Spring Boot Angular)",
-      "empresa": "Nava",
-      "url": "https://www.adzuna.com.br/details/5966815384?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-15T09:43:20Z",
-      "descricao": "A Nava está buscando Desenvolvedor Fullstack (Spring Boot Angular) para atuar em uma oportunidade no segmento de seguros. Nesta posição, você terá o desafio de desenvolver e evoluir soluções que suportam processos estratégicos do negócio de seguros, atuando no desenvolvimento de aplicações modernas, integrações entre sistemas e entrega de novas funcionalidades. Buscamos um profissional com perfil analítico, colaborativo e orientado a resultados, que contribua ativamente para a evolução dos pro…",
-      "score": 60,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [
-        "Spring"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-15T13:00:42Z",
-      "ultima_vista": "2026-11-20",
       "expirada": false
     },
     {
@@ -2702,6 +2732,82 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "085fc3e2826c77e6df8cf1ec499722d889d28bdd",
+      "titulo": "Desenvolvedor Front End Jr",
+      "empresa": "Stefanini",
+      "url": "https://www.adzuna.com.br/details/5974539126?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-21T22:11:59Z",
+      "descricao": "Desenvolvedor Front End JR Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo. Estamos presentes em 41 países com 30k colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital. E queremos mais! (Modelo remoto) (P4844343) Essencial: - Dev Front: TypeScript - JavaScript - Angular CLI - RXJS - Roteamento - Servi…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:01:07Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
+    },
+    {
+      "id": "b738531653ed166363c43e33a2d912c824f10a1c",
+      "titulo": "Analista de Sistemas",
+      "empresa": "BuscarVagas - Empregos e Consultoria Brasil",
+      "url": "https://www.adzuna.com.br/details/5974538097?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-21T22:11:53Z",
+      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Salário a Combinar Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Carga Horária: Segunda a Sexta ás 9:00 a 18:00 Sem informação Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
+      "score": 55,
+      "skills_match": [
+        "TypeScript",
+        "Node.js",
+        "Java"
+      ],
+      "lacunas": [
+        "NestJS",
+        "Spring",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T09:01:17Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
+    },
+    {
+      "id": "257de9e587208bb9f3914b480f993a11ac61b349",
+      "titulo": "React Native Developer (Latin America, Remote Position)",
+      "empresa": "Bluelight Consulting",
+      "url": "https://www.adzuna.com.br/details/5974536244?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Recife, Pernambuco",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-21T22:11:44Z",
+      "descricao": "Job Summary: Required Skills & Qualifications: - 4 years of professional experience in React Native development - Strong proficiency in JavaScript / TypeScript - Solid understanding of React hooks, state management (Redux, Context API, etc.) - Experience with REST APIs and asynchronous programming - Familiarity with Android and iOS build processes, including Expo / EAS builds - Experience with version control systems like Git - Knowledge of mobile UI/UX best practices in both Android and iOS - …",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "APIs REST",
+        "Git",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "React Native",
+        "Redux"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:01:01Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
     },
     {
       "id": "0d31faab148f399ae8a2dbe17dc8bcf15ba2c3f9",
@@ -4076,82 +4182,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-29T05:00:52Z",
       "ultima_vista": "2026-10-28",
-      "expirada": true
-    },
-    {
-      "id": "085fc3e2826c77e6df8cf1ec499722d889d28bdd",
-      "titulo": "Desenvolvedor Front End Jr",
-      "empresa": "Stefanini",
-      "url": "https://www.adzuna.com.br/details/5940910687?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-24T21:59:10Z",
-      "descricao": "Desenvolvedor Front End JR Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo. Estamos presentes em 41 países com 30k colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital. E queremos mais! (Modelo remoto) (P4844343) Essencial: - Dev Front: TypeScript - JavaScript - Angular CLI - RXJS - Roteamento - Servi…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:01:07Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
-      "id": "b738531653ed166363c43e33a2d912c824f10a1c",
-      "titulo": "Analista de Sistemas",
-      "empresa": "BuscarVagas - Empregos e Consultoria Brasil",
-      "url": "https://www.adzuna.com.br/details/5940909688?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-24T21:59:07Z",
-      "descricao": "Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Salário a Combinar Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS Carga Horária: Segunda a Sexta ás 9:00 a 18:00 Sem informação Perfil Técnico - Java Web, Framework Spring; - NodeJs (Framework NestJs), framework typescript - Conhecimento DB - AWS",
-      "score": 55,
-      "skills_match": [
-        "TypeScript",
-        "Node.js",
-        "Java"
-      ],
-      "lacunas": [
-        "NestJS",
-        "Spring",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T09:01:17Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
-      "id": "257de9e587208bb9f3914b480f993a11ac61b349",
-      "titulo": "React Native Developer (Latin America, Remote Position)",
-      "empresa": "Bluelight Consulting",
-      "url": "https://www.adzuna.com.br/details/5940907819?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Recife, Pernambuco",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-24T21:59:00Z",
-      "descricao": "Job Summary: Required Skills & Qualifications: - 4 years of professional experience in React Native development - Strong proficiency in JavaScript / TypeScript - Solid understanding of React hooks, state management (Redux, Context API, etc.) - Experience with REST APIs and asynchronous programming - Familiarity with Android and iOS build processes, including Expo / EAS builds - Experience with version control systems like Git - Knowledge of mobile UI/UX best practices in both Android and iOS - …",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "APIs REST",
-        "Git",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "React Native",
-        "Redux"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:01:01Z",
-      "ultima_vista": "2026-10-25",
       "expirada": true
     },
     {
@@ -6231,7 +6261,7 @@
       "id": "34068e083a44e28c167f2579a378d43a0aeb7d3e",
       "titulo": "Desenvolvedor Front End - SP",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/details/5971412785?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/land/ad/5971412785?utm_medium=api&utm_source=267e525f&v=37A641C1A7284B96AC4E426F24899FD5343AF897",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -8107,9 +8137,9 @@
       "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
       "titulo": "React Developer Remote",
       "empresa": "Outlier Ai",
-      "url": "https://www.adzuna.com.br/details/5974532216?utm_medium=api&utm_source=267e525f",
+      "url": "https://www.adzuna.com.br/details/5974532165?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
-      "local": "Brasilia, Distrito Federal",
+      "local": "Belo Horizonte, Minas Gerais",
       "modalidade": "remoto",
       "data_publicacao": "2026-11-21T22:11:17Z",
       "descricao": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
@@ -10861,24 +10891,6 @@
       "expirada": false
     },
     {
-      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
-      "titulo": "Dobrador - AÇO INOX",
-      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
-      "url": "https://www.adzuna.com.br/details/5960341847?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-10T10:18:30Z",
-      "descricao": "Área e especialização profissional: Industrial, Produção, Fábrica - Operador de Dobradeira Senioridade: Operacional Local de trabalho: Guarulhos, SP Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Verificar medidas, ângulos e tolerâncias das peças produzidas. Inspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios. Manter a organização e limpeza do posto de trabalho. Auxiliar na movimentação e armazenamento de materiais quando necessário. …",
-      "score": 35,
-      "skills_match": [],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-22",
-      "expirada": false
-    },
-    {
       "id": "313c4c146003ec84a14de63f0135776303a8bf8c",
       "titulo": "Líder Técnico Iii - Diversos Benefícios",
       "empresa": "Caderno Nacional",
@@ -10898,6 +10910,24 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T23:29:36Z",
       "ultima_vista": "2026-11-11",
+      "expirada": false
+    },
+    {
+      "id": "0136fec71485c436d83262d791bf1cdbdcd5c5cc",
+      "titulo": "Dobrador - AÇO INOX",
+      "empresa": "A INOX INDUSTRIA E COMERCIO LTDA",
+      "url": "https://www.infojobs.com.br/vaga-de-dobrador-aco-inox-em-sao-paulo__12198608.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-09T13:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nVerificar medidas, ângulos e tolerâncias das peças produzidas.\r\nInspecionar a qualidade das peças produzidas, identificando e corrigindo possíveis desvios.\r\nManter a organização e limpeza do posto de trabalho.\r\nAuxiliar na movimentação e armazenamento de materiais quando necessário.\r\nInterpretar desenhos técnicos, ordens de produção e especificações de fabricação.\r\nDiferencial: Ter trabalhado com aço inox.\r\n\r\nHabilidades necessárias: Trabalho em equipe , proatividade, agilidade, atenção aos detalhes e precisão nas atividades executadas.\nNúmero de vagas:\n1\nTipo de contrato e Jornada:\nEfetivo – CLT - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Médio (2º Grau)\nValorizado\nExperiência desejada: Entre 1 e 3 anos\nPortuguês (Nativo)\nHabilidades\nagilidade\natenção aos detalhes\ncomprometimento\ndisciplina\nproatividade\ntrabalho em equipe\nBenefícios\nAssistência médica\nAssistência odontológica\nCesta básica\nParticipação nos lucros\nSeguro de Vida\nVale-transporte",
+      "score": 35,
+      "skills_match": [],
+      "lacunas": [],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-11-09T15:01:45Z",
+      "ultima_vista": "2026-11-22",
       "expirada": false
     },
     {
@@ -10948,14 +10978,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "NACIONALRH",
-      "url": "https://www.adzuna.com.br/details/5942850557?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-26T22:09:18Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. Número de vagas: 10 Local de trabalho: Guarulhos, SP Regime de contratação de tipo: Temporário Jo…",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
@@ -11099,6 +11129,50 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "8adb61f414e29518dc2a44f84724180868e448c0",
+      "titulo": "Desenvolvedor Junior Pl/SQL com (Asp Clássico E/ou",
+      "empresa": "Softtek",
+      "url": "https://www.adzuna.com.br/details/5974539113?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-21T22:11:59Z",
+      "descricao": "Junte-se a Softtek Brasil! Se procuras oportunidades como Desenvolvedor Junior PL/SQL com (Asp clássico e/ou.NET e/ou Java), na Softtek te damos essa oportunidade! Queremos contar com o seu talento, apoiá-lo no seu desenvolvimento profissional e que você faça parte da SofttekLife. O que precisamos? Atribuições Entender as necessidades do negócio, acompanhando as mesmas com os PO’s das áreas; Desenhar soluções de tecnologia para atender às necessidades levantadas; Alinhar as soluções e acompanha…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        ".NET",
+        "Oracle"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-27T01:00:55Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
+    },
+    {
+      "id": "bcb9ea59a90dc1f7c3b40e5ca24c9cfb8fcb2be2",
+      "titulo": "Desenvolvedor(a) Java Pleno - Sustentação",
+      "empresa": "Jobgether",
+      "url": "https://www.adzuna.com.br/details/5974358503?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-21T14:12:04Z",
+      "descricao": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Desenvolvedor(a) Java Pleno - Sustentação based in Brazil. Join a skilled, results-driven engineering team working on the development and ongoing support of a new technology platform for a major client in the insurance sector. As a Mid-Level Java Developer, you will contribute to dashboard-related projects while maintaining and enhancing critical backend applications…",
+      "score": 30,
+      "skills_match": [
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-22T05:01:01Z",
+      "ultima_vista": "2026-11-22",
+      "expirada": false
     },
     {
       "id": "b7cc095ad4cefc665be2220b463e46df60146ba1",
@@ -12541,30 +12615,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-27T23:44:39Z",
-      "ultima_vista": "2026-10-26",
-      "expirada": true
-    },
-    {
-      "id": "8adb61f414e29518dc2a44f84724180868e448c0",
-      "titulo": "Desenvolvedor Junior Pl/SQL com (Asp Clássico E/ou",
-      "empresa": "Softtek",
-      "url": "https://www.adzuna.com.br/details/5940910673?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-24T21:59:10Z",
-      "descricao": "Junte-se a Softtek Brasil! Se procuras oportunidades como Desenvolvedor Junior PL/SQL com (Asp clássico e/ou.NET e/ou Java), na Softtek te damos essa oportunidade! Queremos contar com o seu talento, apoiá-lo no seu desenvolvimento profissional e que você faça parte da SofttekLife. O que precisamos? Atribuições Entender as necessidades do negócio, acompanhando as mesmas com os PO’s das áreas; Desenhar soluções de tecnologia para atender às necessidades levantadas; Alinhar as soluções e acompanha…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        ".NET",
-        "Oracle"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-27T01:00:55Z",
       "ultima_vista": "2026-10-26",
       "expirada": true
     },
