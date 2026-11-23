@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-23T05:02:55Z",
-  "total": 574,
+  "atualizado_em": "2026-11-23T15:02:57Z",
+  "total": 575,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -1716,6 +1716,42 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "edcd87e1825ac0be404a24922915917a5c56db62",
+      "titulo": "Analista Desenvolvedor Júnior",
+      "empresa": "REPONTO GENTE E GESTÃO",
+      "url": "https://www.infojobs.com.br/vaga-de-analista-desenvolvedor-junior-em-sao-paulo__12240739.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-23T14:09:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nRamo da empresa: Empresa de tecnologia financeira especializada em soluções para operações de crédito e serviços financeiros.\nLocal de trabalho: Vila Olímpia/SP.\nFormato: Remoto\nJornada de trabalho: Horário comercial.\n Principais atividades:\nDesenvolver e manter aplicações e APIs utilizando Python, com orientação do time técnico. \nImplementar funcionalidades e realizar correções em sistemas existentes. \nApoiar integrações com sistemas internos, parceiros e serviços externos. \nCriar e ajustar consultas e estruturas em bancos de dados relacionais. \nSeguir boas práticas de desenvolvimento, organização de código e padrões definidos pelo time. \nCriar e manter testes automatizados, com apoio de profissionais mais experientes. \nParticipar de revisões de código, recebendo feedbacks e aplicando melhorias. \nApoiar a análise de logs e a investigação de problemas em aplicações. \nUtilizar ferramentas de versionamento e participar do fluxo de desenvolvimento e publicação de aplicações. \nParticipar de refinamentos, estimativas e discussões técnicas com Produto e QA. \nContribuir para a documentação de APIs, funcionalidades e fluxos. \n\nRequisitos:\nConhecimento em Python e fundamentos de programação. \nConhecimento básico de desenvolvimento backend utilizando frameworks como Django, FastAPI ou Flask. \nConhecimento de criação e consumo de APIs REST. \nNoções de programação orientada a objetos, estruturas de dados e boas práticas de desenvolv…",
+      "score": 60,
+      "skills_match": [
+        "Node.js",
+        "Java",
+        "APIs REST",
+        "Microsserviços",
+        "SQL",
+        "MySQL",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": 1,
+      "data_coleta": "2026-11-23T15:01:36Z",
+      "ultima_vista": "2026-11-23",
+      "expirada": false
     },
     {
       "id": "e90e083b6655c437b4cbec4516b8400511841143",
