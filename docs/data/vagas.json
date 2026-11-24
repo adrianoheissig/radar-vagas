@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-24T19:02:54Z",
-  "total": 570,
+  "atualizado_em": "2026-11-24T20:37:33Z",
+  "total": 571,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -323,6 +323,31 @@
       "expirada": true
     },
     {
+      "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
+      "titulo": "ADM.NET FSR",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5977470619?utm_medium=api&utm_source=267e525f&v=EA21988D64AD0A4BDFC5B876F9746EEDC9A99196",
+      "fonte": "adzuna",
+      "local": "Guarulhos, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-24T16:08:38Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Hibrido Guarulhos três vezes por semana Habilidades: Main Skill5 years of hands-on software development experience. Strong expertise in one or more programming languages (e.g., C#, .NET, JavaScript/Node.js). Ability to collaborate with cross-functional teams and present ideas clearly. ServiceNOW Knowledge Required Qualifications.NET / Angular Main Activities and ResponsibilitiesCollabo…",
+      "score": 75,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-17T01:01:11Z",
+      "ultima_vista": "2026-11-24",
+      "expirada": false
+    },
+    {
       "id": "e5660a9d5551e6edd38c435ae774f50d13222b09",
       "titulo": "ADM.NET FSR - SP",
       "empresa": "Decision group",
@@ -345,31 +370,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T21:01:17Z",
       "ultima_vista": "2026-11-24",
-      "expirada": false
-    },
-    {
-      "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
-      "titulo": "ADM.NET FSR",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216195?utm_medium=api&utm_source=267e525f&v=1EE6046175F5A02930E1C8A77375AFF99C3C88F8",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-11-16T18:04:14Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: Hibrido Guarulhos três vezes por semana Habilidades: Main Skill5 years of hands-on software development experience. Strong expertise in one or more programming languages (e.g., C#, .NET, JavaScript/Node.js). Ability to collaborate with cross-functional teams and present ideas clearly. ServiceNOW Knowledge Required Qualifications.NET / Angular Main Activities and ResponsibilitiesCollabo…",
-      "score": 75,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "Node.js"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-17T01:01:11Z",
-      "ultima_vista": "2026-11-19",
       "expirada": false
     },
     {
@@ -556,6 +556,40 @@
       "data_coleta": "2026-09-16T11:23:04Z",
       "ultima_vista": "2026-10-29",
       "expirada": true
+    },
+    {
+      "id": "25edb5cdf445a17fb395891f440c68d0d2e8b81f",
+      "titulo": "DESENVOLVEDOR FULL STACK JR NÍVEL II",
+      "empresa": "Empresa confidencial",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-jr-nivel-ii-em-sao-paulo__12247145.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T07:04:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nMISSÃO DO CARGO \nA missão do Desenvolvedor Fullstack Pleno Nível II é projetar, desenvolver e manter aplicações completas, atuando tanto no front-end quanto no back-end, com foco em performance, segurança e escalabilidade. Colabora com equipes multidisciplinares para entregar soluções eficazes, alinhadas aos objetivos do negócio. Buscar constantemente a melhoria contínua, boas práticas de desenvolvimento e atualização com as tendências tecnológicas do mercado. \nDESCRIÇÃO E RESPONSABILIDADES DO CARGO \n- Desenvolver e manter funcionalidades no front-end e back-end de aplicações web, sob a orientação de desenvolvedores mais experientes.\n - Implementar funcionalidades, corrigir bugs, otimizar desempenho garantindo a segurança e escalabilidade das soluções. - Colaborar com as equipes de design, produto e QA para atender às necessidades do projeto.\n - Aplicar boas práticas de revisão de código e testes. \n- Cumprir prazos e entregas estabelecidas pela equipe \n- Aperfeiçoar-se continuamente, aprendendo novas tecnologias e acompanhando tendências do mercado. \n- Seguir a metodologia como Scrum ou Kanban. \n- Executar outras tarefas relacionadas com o cargo a critério do superior. \nCONHECIMENTOS TÉCNICOS E EXPERIÊNCIAS PROFISSIONAIS \nEducação: Cursando ensino superior na área de tecnologia de informação, ciência da computação, análise e desenvolvimento de software/sistemas. \nTreinamentos: Conhecimentos intermediarios nas seguintes t…",
+      "score": 70,
+      "skills_match": [
+        "React",
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "APIs REST",
+        "SQL",
+        "Git",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Vue.js",
+        "Express",
+        "Python",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-24T20:36:05Z",
+      "ultima_vista": "2026-11-24",
+      "expirada": false
     },
     {
       "id": "5a38d903d11b4be497c5e87fc6605f58a0e0a89d",
@@ -6143,6 +6177,28 @@
       "expirada": true
     },
     {
+      "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
+      "titulo": "Desenvolvedor Front End",
+      "empresa": "Decision group",
+      "url": "https://www.adzuna.com.br/land/ad/5977470567?utm_medium=api&utm_source=267e525f&v=F01CD0ADF63AF08A8BC19178E35EB9E7000A21B2",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T16:08:37Z",
+      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Responsabilidades: Como Pessoa Desenvolvedora Front-end Associate, você será responsável por projetar, codificar e testar aplicações web utilizando Angular, colaborando em equipes ágeis e participando de reuniões diárias, revisões de código e planejamento de sprints. Atuará na integração com APIs RESTful, manutenção e otimização de código, documentação técnica e desenvolvimento de tes…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-16T23:01:08Z",
+      "ultima_vista": "2026-11-24",
+      "expirada": false
+    },
+    {
       "id": "25633debb2a39a42719a17dd5ae2f90e39db17ac",
       "titulo": "Desenvolvedor Fullstack",
       "empresa": "Innolevels",
@@ -6453,28 +6509,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:01:00Z",
       "ultima_vista": "2026-11-18",
-      "expirada": false
-    },
-    {
-      "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
-      "titulo": "Desenvolvedor Front End",
-      "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5968216081?utm_medium=api&utm_source=267e525f&v=45494F3B4519EAAD71EAC5CEC1A02D2C7AA4EF8A",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-16T18:04:14Z",
-      "descricao": "Nível Acadêmico: Ensino Superior Completo Turno/Horas Áreas de Atuação Profissional: TI - Projetos Descrição: 'Responsabilidades: Como Pessoa Desenvolvedora Front-end Associate, você será responsável por projetar, codificar e testar aplicações web utilizando Angular, colaborando em equipes ágeis e participando de reuniões diárias, revisões de código e planejamento de sprints. Atuará na integração com APIs RESTful, manutenção e otimização de código, documentação técnica e desenvolvimento de tes…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "APIs REST",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-16T23:01:08Z",
-      "ultima_vista": "2026-11-19",
       "expirada": false
     },
     {
@@ -8074,6 +8108,27 @@
       "expirada": true
     },
     {
+      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
+      "titulo": "Banco de Talentos React/Node",
+      "empresa": "Conquest one",
+      "url": "https://www.adzuna.com.br/land/ad/5977439611?utm_medium=api&utm_source=267e525f&v=090F0B7FD7F2423345D6147532C25CAFAB472EDA",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T16:04:22Z",
+      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-08T17:20:07Z",
+      "ultima_vista": "2026-11-24",
+      "expirada": false
+    },
+    {
       "id": "07e42b1305c7e955f89a1092a6e6f29ce790d882",
       "titulo": "React Developer Remote",
       "empresa": "Outlier Ai",
@@ -8699,27 +8754,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-17T01:00:55Z",
       "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "68272ab8f3fe81221e6494fa6cc9d1a6dd12deaa",
-      "titulo": "Banco de Talentos React/Node",
-      "empresa": "Conquest one",
-      "url": "https://www.adzuna.com.br/land/ad/5968180002?utm_medium=api&utm_source=267e525f&v=CFEB0EA742319DE3448B28169DF0A512F85F2AA3",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-16T17:59:10Z",
-      "descricao": "A Conquest One é uma empresa especializada em Staffing de Tecnologia da Informação, que trabalha há quase 30 anos oferecendo soluções inovadoras e sustentáveis de outsourcing e hunting aos seus clientes, ajudando cada um deles nos seus desafios de forma única e exclusiva. Os nossos valores são cuidar de nossos profissionais, fomentar seu crescimento e inspirá-los a serem os melhores profissionais que podem ser. Somos uma empresa certificada pela GPTW como uma das melhores empresas para se traba…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-08T17:20:07Z",
-      "ultima_vista": "2026-11-19",
       "expirada": false
     },
     {
