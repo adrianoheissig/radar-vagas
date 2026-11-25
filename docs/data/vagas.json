@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-25T04:05:49Z",
+  "atualizado_em": "2026-11-25T05:02:47Z",
   "total": 561,
   "vagas": [
     {
@@ -2719,6 +2719,26 @@
       "expirada": true
     },
     {
+      "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
+      "titulo": "Remote Angular Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5977683601?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-24T22:21:03Z",
+      "descricao": "Remote Angular Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to p…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:34Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "f024511a8469dac79f5dfcaff7cdae79561f05e6",
       "titulo": "Analista Desenvolvedor Java Pl",
       "empresa": "",
@@ -2922,26 +2942,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
       "ultima_vista": "2026-11-22",
-      "expirada": false
-    },
-    {
-      "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
-      "titulo": "Remote Angular Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5972267121?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-19T22:19:30Z",
-      "descricao": "Remote Angular Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passionate about programming in this language and oriented to p…",
-      "score": 55,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-24",
       "expirada": false
     },
     {
@@ -6125,6 +6125,33 @@
       "expirada": false
     },
     {
+      "id": "36f295eb4595dcfde1f150e132a901ee062fd7fa",
+      "titulo": "Desenvolvedor Front End Vtex",
+      "empresa": "DNA Comunicação",
+      "url": "https://www.adzuna.com.br/details/5977676552?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T22:12:50Z",
+      "descricao": "Estamos buscando um(a) Desenvolvedor(a) Front-End com experiência em VTEX para freelancer de projetos de implantação, migração e evolução de e-commerces, visando sempre a otimização do código e agilidade no desenvolvimento. Requisitos - Experiência com VTEX CMS e IO; - Sólidos conhecimentos em HTML, CSS e JavaScript; - Conhecimento Ajax, JQuery, Typescript, React e JSON; - Responsabilidade com prazos e entregas. Desejável Conhecimento em Git; Conhecimento em consumo de APIs; Conhecimentos em ou…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "jQuery"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T01:00:57Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Decision group",
@@ -7124,33 +7151,6 @@
       "expirada": false
     },
     {
-      "id": "36f295eb4595dcfde1f150e132a901ee062fd7fa",
-      "titulo": "Desenvolvedor Front End Vtex",
-      "empresa": "DNA Comunicação",
-      "url": "https://www.adzuna.com.br/details/5943850076?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-27T22:28:21Z",
-      "descricao": "Estamos buscando um(a) Desenvolvedor(a) Front-End com experiência em VTEX para freelancer de projetos de implantação, migração e evolução de e-commerces, visando sempre a otimização do código e agilidade no desenvolvimento. Requisitos - Experiência com VTEX CMS e IO; - Sólidos conhecimentos em HTML, CSS e JavaScript; - Conhecimento Ajax, JQuery, Typescript, React e JSON; - Responsabilidade com prazos e entregas. Desejável Conhecimento em Git; Conhecimento em consumo de APIs; Conhecimentos em ou…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "jQuery"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T01:00:57Z",
-      "ultima_vista": "2026-10-29",
-      "expirada": true
-    },
-    {
       "id": "a1ee459259d35dca5f43b689d7779b095e734a25",
       "titulo": "Angular Developer Jr",
       "empresa": "CAPCO",
@@ -7963,6 +7963,26 @@
       "expirada": false
     },
     {
+      "id": "87549725a1b43527ba124c6412ce280574360791",
+      "titulo": "Remote React Developer",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5977683569?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-24T22:21:03Z",
+      "descricao": "Remote React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for React Senior Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Participate i…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T20:32:32Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "461a3c987a459abe62389d677d025eba0e8cf3e0",
       "titulo": "Technical Lead Fullstack Java, Aws",
       "empresa": "",
@@ -8288,26 +8308,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-25T23:55:33Z",
       "ultima_vista": "2026-11-22",
-      "expirada": false
-    },
-    {
-      "id": "87549725a1b43527ba124c6412ce280574360791",
-      "titulo": "Remote React Developer",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5972266934?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-19T22:19:29Z",
-      "descricao": "Remote React Developer - Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role:We are looking for React Senior Developers to join our Development team to design and implement user interface components for web and mobile applications using the React open-source library ecosystem. Key responsibilities:- Design practical solutions to solve problems. - Participate i…",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-24",
       "expirada": false
     },
     {
@@ -10914,6 +10914,29 @@
       "expirada": false
     },
     {
+      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
+      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5977682514?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T22:20:56Z",
+      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
+      "score": 30,
+      "skills_match": [
+        "Java",
+        "SQL"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-16T11:22:25Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "9de948a7663ce91a3ee0eb1d59d3e7c17b7896aa",
       "titulo": "Desenvolvedor(A) React Jr",
       "empresa": "",
@@ -10976,6 +10999,26 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
+      "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
+      "titulo": "Desenvolvedor React Native Junior",
+      "empresa": "Mayo Company Ltda",
+      "url": "https://www.adzuna.com.br/details/5977677102?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-24T22:12:52Z",
+      "descricao": "Buscamos Desenvolvedor React Native para compor nosso time! Somos uma healthtech de Ribeirão Preto - SP. Atividades e responsabilidades: Trabalho em equipe: compartilhar experiências entre colegas de trabalho, enxergar o projeto como um todo e não só a parte específica de desenvolvimento; Gestão de tempo: entregar as atividades dentro do prazo proposto com qualidade e conseguir se organizar com as entregas; Criatividade: entender as tarefas de forma profunda e trazer soluções criativas tanto em…",
+      "score": 30,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-30T07:01:05Z",
       "ultima_vista": "2026-11-25",
       "expirada": false
     },
@@ -11147,29 +11190,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:50Z",
       "ultima_vista": "2026-11-25",
-      "expirada": false
-    },
-    {
-      "id": "bd5c8bdb4c8d5ce03f7ff7572d47834d0cef1418",
-      "titulo": "Desenvolvedor(A) Pleno (Java/Kotlin )",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5972266137?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-19T22:19:23Z",
-      "descricao": "Desenvolvedor(A) Pleno (Java/Kotlin ) - Descrição da vaga Realizar e orientar a equipe nas atividades de análise, desenvolvimento, manutenção, implantação, sustentação e documentação de software garantindo a qualidade das entregas. Responsabilidades e atribuições Desenvolvimento de sistemas; Apoiar o timede desenvolvimento júnior. Requisitos e qualificações: Superior completo em Tecnologia. Habilidades Necessárias: Experiência sólida com Kotlin e/ou Java Conhecimento em SQL; Experiência com CI/…",
-      "score": 30,
-      "skills_match": [
-        "Java",
-        "SQL"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-22",
       "expirada": false
     },
     {
@@ -12247,26 +12267,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T01:00:55Z",
       "ultima_vista": "2026-10-30",
-      "expirada": true
-    },
-    {
-      "id": "5bde0e641f3fe831cc814a0abf07b31d528193df",
-      "titulo": "Desenvolvedor React Native Junior",
-      "empresa": "Mayo Company Ltda",
-      "url": "https://www.adzuna.com.br/details/5943850381?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-27T22:28:24Z",
-      "descricao": "Buscamos Desenvolvedor React Native para compor nosso time! Somos uma healthtech de Ribeirão Preto - SP. Atividades e responsabilidades: Trabalho em equipe: compartilhar experiências entre colegas de trabalho, enxergar o projeto como um todo e não só a parte específica de desenvolvimento; Gestão de tempo: entregar as atividades dentro do prazo proposto com qualidade e conseguir se organizar com as entregas; Criatividade: entender as tarefas de forma profunda e trazer soluções criativas tanto em…",
-      "score": 30,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-30T07:01:05Z",
-      "ultima_vista": "2026-10-29",
       "expirada": true
     },
     {
