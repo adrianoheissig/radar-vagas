@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-25T11:02:56Z",
-  "total": 561,
+  "atualizado_em": "2026-11-25T13:02:52Z",
+  "total": 562,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -326,7 +326,7 @@
       "id": "4ac96db2921e76c470258981cbd048d031a7fc2d",
       "titulo": "ADM.NET FSR",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5977470619?utm_medium=api&utm_source=267e525f&v=EA21988D64AD0A4BDFC5B876F9746EEDC9A99196",
+      "url": "https://www.adzuna.com.br/details/5977470619?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "Guarulhos, Estado de São Paulo",
       "modalidade": "hibrido",
@@ -2717,6 +2717,45 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "816126641cad959d791efa738c55f6b6170f46fc",
+      "titulo": "Desenvolvedor De Sistemas",
+      "empresa": "TELEPERFORMANCE",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-sistemas-em-sao-paulo__12249028.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T12:06:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais Responsabilidades\nLevantar e detalhar requisitos funcionais e técnicos junto às áreas envolvidas, identificando regras de negócio, dependências e critérios de aceite.\nDesenvolver e integrar APIs, serviços backend e aplicações utilizando .NET/C#, Node.js/TypeScript e Python.\nDesenvolver interfaces responsivas e acessíveis com React/TypeScript e Next.js, garantindo desempenho e qualidade das aplicações.\nDefinir e orientar soluções técnicas, avaliando arquitetura, riscos, escalabilidade, desempenho e sustentabilidade.\nProjetar soluções modulares e distribuídas, utilizando conceitos como Clean Architecture, SOLID, DDD, microsserviços e arquitetura orientada a eventos.\nImplementar e otimizar bancos de dados, consultas, estruturas de dados, mecanismos de cache e mensageria.\nEstabelecer boas práticas de desenvolvimento, incluindo revisão de código, versionamento, testes automatizados, documentação e observabilidade.\nApoiar homologações, implantações e monitoramento de aplicações, incluindo estratégias de deploy, rollback e resposta a incidentes.\nInvestigar problemas complexos, identificar causas-raiz e implementar correções preventivas e definitivas.\nAutomatizar processos de entrega e infraestrutura em nuvem, utilizando containers, Kubernetes, Terraform e pipelines de CI/CD.\nAplicar práticas de desenvolvimento seguro, identificando vulnerabilidades e garantindo a proteção das aplicações e informações.\nEstimar ativida…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Microsserviços",
+        "Clean Code"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Python",
+        "C#",
+        ".NET",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD",
+        "Testes automatizados",
+        "Inglês"
+      ],
+      "experiencia_exigida": 3,
+      "data_coleta": "2026-11-25T13:01:38Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
     },
     {
       "id": "ddd458118eddd46d179468690c3b4fe2c6284af9",
@@ -6155,7 +6194,7 @@
       "id": "1e9f335680a926b6ea42465eb7359af88d2d0704",
       "titulo": "Desenvolvedor Front End",
       "empresa": "Decision group",
-      "url": "https://www.adzuna.com.br/land/ad/5977470567?utm_medium=api&utm_source=267e525f&v=F01CD0ADF63AF08A8BC19178E35EB9E7000A21B2",
+      "url": "https://www.adzuna.com.br/details/5977470567?utm_medium=api&utm_source=267e525f",
       "fonte": "adzuna",
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "indefinido",
@@ -6581,6 +6620,27 @@
       "expirada": false
     },
     {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T22:04:22Z",
+      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6600,40 +6660,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:16:57Z",
       "ultima_vista": "2026-11-20",
-      "expirada": false
-    },
-    {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T06:29:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "React Native",
-        "Next.js",
-        "Redux",
-        "Tailwind",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-25",
       "expirada": false
     },
     {
@@ -7806,21 +7832,14 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "APIs REST",
-        "Git",
-        "Clean Code"
+        "APIs REST"
       ],
       "lacunas": [
         "Redux",
         "Sass",
-        "Python",
         ".NET",
         "SQL Server",
-        "Redis",
-        "Docker",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
+        "Testes automatizados"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:30:06Z",
