@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-25T17:03:08Z",
-  "total": 562,
+  "atualizado_em": "2026-11-25T19:02:45Z",
+  "total": 567,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -2717,6 +2717,76 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "75fe666f1f174e9e13ce9a40fa4fda402fca5731",
+      "titulo": "Desenvolvedor Fullstack Junior",
+      "empresa": "Addvisor",
+      "url": "https://www.adzuna.com.br/details/5978681442?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T14:33:05Z",
+      "descricao": "Descrição Profissional com conhecimentos em desenvolvimento Fullstack, interesse em evoluir tecnicamente e disposição para trabalhar em equipe. Espera-se capacidade de desenvolver funcionalidades, realizar integrações, corrigir problemas e contribuir com a qualidade das aplicações, contando com orientação e acompanhamento técnico. Modelo de trabalho : 100% Remoto Requisitos Conhecimento em desenvolvimento Fullstack utilizando C#, .NET Core / .NET 6 e Angular. Conhecimento em TypeScript, JavaScr…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T19:01:09Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
+      "id": "15ea880b2941a399f725164bf9f9b266c620c0b9",
+      "titulo": "[Banco de Talentos] Desenvolvedor(a) Full Stack .NET & Angular",
+      "empresa": "Fmx Solucoes Em Tecnologia",
+      "url": "https://www.adzuna.com.br/details/5978661721?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Sumaré, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T14:21:33Z",
+      "descricao": "[Banco de Talentos] Desenvolvedor(a) Full Stack .NET & Angular PJ | Remoto | Pleno | Sênior Atuação no desenvolvimento e evolução de soluções corporativas, com foco em integração de sistemas, performance e escalabilidade. A FMX está estruturando seu Banco de Talentos para profissionais de desenvolvimento de software que atuem como Full Stack .NET & Angular Pleno & Sênior, visando atender demandas recorrentes de ampliação do quadro interno e alocação em clientes no modelo outsourcing. Buscamos p…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T19:01:03Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
+      "id": "a62215566fffdf595dd9b46b7312d3cea6d2e5e7",
+      "titulo": "Desenvolvedor Fullstack Pleno",
+      "empresa": "Addvisor",
+      "url": "https://www.adzuna.com.br/details/5978649313?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T14:06:15Z",
+      "descricao": "Descrição Buscamos um(a) Desenvolvedor(a) Fullstack Sênior, com sólida experiência em desenvolvimento de aplicações utilizando .NET/C# e Angular, para atuar em projetos estratégicos de tecnologia no segmento financeiro, em ambiente cloud AWS, com foco em arquitetura escalável, integração de sistemas, performance e qualidade de software. Modelo de trabalho : 100% remoto - (Profissionais de São Paulo) Requisitos Experiência em desenvolvimento Fullstack com C#, .NET Core / .NET 6 e Angular (versõe…",
+      "score": 55,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T19:01:09Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
     },
     {
       "id": "816126641cad959d791efa738c55f6b6170f46fc",
@@ -6140,6 +6210,27 @@
       "expirada": true
     },
     {
+      "id": "03b99fb31ab464f0c651894f917cb7c4b0ba6ed5",
+      "titulo": "Engenheiro de Software Pl. (Full Stack)",
+      "empresa": "PagBank",
+      "url": "https://www.adzuna.com.br/details/5978651200?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T14:07:44Z",
+      "descricao": "Description Quando você pensa em carreira, o que vem à sua mente? Propósito? Colaboração? Ser protagonista para fazer a diferença? No PagBank temos tudo isso e muito mais. Estamos em busca de pessoas que vistam a camisa com orgulho. Gente com vontade de facilitar a vida financeira das pessoas e impulsionar negócios! Tá a fim de uma carreira que rende mais? Confira essa oportunidade e VemProPags! Responsibilities Desenvolver e evoluir aplicações utilizando Java e React, atuando nas camadas Fron…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T19:00:52Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
+    },
+    {
       "id": "a91551db45deeee53791a26136102135d6979fec",
       "titulo": "Developer Fullstack .Net Angular",
       "empresa": "",
@@ -6620,27 +6711,6 @@
       "expirada": false
     },
     {
-      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
-      "titulo": "Desenvolvedor(a) Frontend - Banco de Talentos",
-      "empresa": "Smart Sky Serviços Ltda",
-      "url": "https://www.adzuna.com.br/details/5965062502?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-13T22:04:22Z",
-      "descricao": "Sobre a oportunidade Estamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile. Procuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização. Principais responsabilidades Desenvolver e evoluir apli…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-25",
-      "expirada": false
-    },
-    {
       "id": "e1799ec9e7a2cd00b5310fb98845f1c283af68be",
       "titulo": "IT Analyst II (C#, Angular)",
       "empresa": "Banco Santander",
@@ -6660,6 +6730,40 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T18:16:57Z",
       "ultima_vista": "2026-11-20",
+      "expirada": false
+    },
+    {
+      "id": "03aa21e53a7d1df708dde2a446c5a017ce465c03",
+      "titulo": "Desenvolvedor(A) Frontend - Banco De Talentos",
+      "empresa": "Smart Sky Serviços Ltda",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-frontend-banco-talentos-em-sao-paulo__12218394.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-13T06:29:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nSobre a oportunidade\nEstamos em busca de um(a) Desenvolvedor(a) Frontend para integrar nosso time de tecnologia, atuando no desenvolvimento, manutenção e evolução de aplicações web e mobile.\nProcuramos um profissional com sólida experiência em React e TypeScript, que tenha autonomia para propor soluções técnicas e interesse em trabalhar com produtos que envolvem regras de negócio complexas, integrações e diferentes contextos de utilização.\nPrincipais responsabilidades\nDesenvolver e evoluir aplicações utilizando React e TypeScript;\nCriar componentes reutilizáveis e interfaces responsivas;\nTrabalhar com gerenciamento de estado, consumo de APIs e formulários complexos;\nParticipar de decisões técnicas e da definição de soluções junto ao time;\nRealizar Code Reviews e contribuir para a qualidade e padronização do código;\nIdentificar e solucionar problemas de performance e experiência do usuário;\nDesenvolver e manter testes automatizados;\nColaborar com as equipes de Backend, Produto, QA, Design e demais áreas durante todo o ciclo de desenvolvimento.\nRequisitos e qualificações\nExperiência sólida com JavaScript e TypeScript;\nExperiência com React e seu ecossistema;\nConhecimento de componentes, Hooks e gerenciamento de estado;\nExperiência com consumo e integração de APIs REST;\nConhecimento de HTML, CSS e desenvolvimento responsivo;\nExperiência com Git, Pull Requests e Code Review;\nExperiência com testes automatizados;\nCapacidade d…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "React Native",
+        "Next.js",
+        "Redux",
+        "Tailwind",
+        "Docker",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-13T19:01:34Z",
+      "ultima_vista": "2026-11-25",
       "expirada": false
     },
     {
@@ -7973,6 +8077,27 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "eea5bbb43321b58a845c82c606b25473456cfa4e",
+      "titulo": "IT Analyst II (Node React)",
+      "empresa": "Banco Santander",
+      "url": "https://www.adzuna.com.br/details/5978651492?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T14:07:59Z",
+      "descricao": "IT Analyst II (Node React) Country: Brazil Começa Agora O Santander (www.santander.com) está evoluindo de uma marca global de grande impacto para uma organização orientada pela tecnologia, e as nossas pessoas estão no centro dessa jornada. Juntos, estamos conduzindo uma transformação centrada no cliente, que valoriza pensamento ousado, inovação e a coragem de desafiar o que é possível. Mais do que uma mudança estratégica, é uma oportunidade para quem busca aprender, crescer e fazer a diferença…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T19:00:52Z",
+      "ultima_vista": "2026-11-25",
+      "expirada": false
     },
     {
       "id": "8655cd889fa5444ed06a48a7178e55f4ed0a2095",
