@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-26T17:02:54Z",
-  "total": 565,
+  "atualizado_em": "2026-11-26T19:02:50Z",
+  "total": 566,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -2856,11 +2856,10 @@
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
       "data_publicacao": "2026-11-25T14:33:05Z",
-      "descricao": "Descrição Profissional com conhecimentos em desenvolvimento Fullstack, interesse em evoluir tecnicamente e disposição para trabalhar em equipe. Espera-se capacidade de desenvolver funcionalidades, realizar integrações, corrigir problemas e contribuir com a qualidade das aplicações, contando com orientação e acompanhamento técnico. Modelo de trabalho : 100% Remoto Requisitos Conhecimento em desenvolvimento Fullstack utilizando C#, .NET Core / .NET 6 e Angular. Conhecimento em TypeScript, JavaScr…",
+      "descricao": "Descrição Profissional com conhecimentos em desenvolvimento Fullstack, interesse em evoluir tecnicamente e disposição para trabalhar em equipe. Espera-se capacidade de desenvolver funcionalidades, realizar integrações, corrigir problemas e contribuir com a qualidade das aplicações, contando com orientação e acompanhamento técnico. Modelo de trabalho : 100% Remoto ( Profissionais de São Paulo - SP) Requisitos Conhecimento em desenvolvimento Fullstack utilizando C#, .NET Core / .NET 6 e Angular. …",
       "score": 55,
       "skills_match": [
-        "Angular",
-        "TypeScript"
+        "Angular"
       ],
       "lacunas": [
         "C#",
@@ -2902,7 +2901,7 @@
       "local": "São Paulo, Estado de São Paulo",
       "modalidade": "remoto",
       "data_publicacao": "2026-11-25T14:06:15Z",
-      "descricao": "Descrição Buscamos um(a) Desenvolvedor(a) Fullstack Sênior, com sólida experiência em desenvolvimento de aplicações utilizando .NET/C# e Angular, para atuar em projetos estratégicos de tecnologia no segmento financeiro, em ambiente cloud AWS, com foco em arquitetura escalável, integração de sistemas, performance e qualidade de software. Modelo de trabalho : 100% remoto - (Profissionais de São Paulo) Requisitos Experiência em desenvolvimento Fullstack com C#, .NET Core / .NET 6 e Angular (versõe…",
+      "descricao": "Descrição Buscamos um(a) Desenvolvedor(a) Fullstack, com sólida experiência em desenvolvimento de aplicações utilizando .NET/C# e Angular, para atuar em projetos estratégicos de tecnologia no segmento financeiro, em ambiente cloud AWS, com foco em arquitetura escalável, integração de sistemas, performance e qualidade de software. Modelo de trabalho : 100% remoto - (Profissionais de São Paulo) Requisitos Experiência em desenvolvimento Fullstack com C#, .NET Core / .NET 6 e Angular (versões recen…",
       "score": 55,
       "skills_match": [
         "Angular"
@@ -8050,6 +8049,26 @@
       "expirada": true
     },
     {
+      "id": "c743e6ff11f17bcedf0130403dc4dad404d4545d",
+      "titulo": "Desenvolvedor(a) Front-End React/GAM Pleno (Remoto)",
+      "empresa": "ICON Solutions do Brasil",
+      "url": "https://www.adzuna.com.br/details/5979918927?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-26T14:36:41Z",
+      "descricao": "Desenvolvedor(a) Front-End React/GAM Pleno (Remoto) Você conhece a Icon? Apaixonados por pessoas e especialistas em tecnologia. Nosso trabalho é encontrar talentos e soluções sob medida para os nossos clientes. Vem encontrar o seu projeto ideal conosco e participar da comunidade ICON! Sobre a Vaga Código da vaga: A6859630797 Modelo de contratação: CLT Estamos em busca de um(a) Desenvolvedor(a) Front-End Pleno com sólida experiência em React e conhecimentos avançados em Google Ad Manager (GAM) p…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-26T19:01:00Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "296ba868d85c5f5a18141cf209eb680643f9ba6a",
       "titulo": "Banco de Talentos React/Node - SP",
       "empresa": "Conquest one",
@@ -10753,14 +10772,14 @@
     },
     {
       "id": "d602c4e4b8506d7ae413a450fa84aa0ca0b4cabc",
-      "titulo": "Operador de Dobra",
-      "empresa": "Nacionalrh",
-      "url": "https://www.adzuna.com.br/details/5943587500?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Guarulhos, Estado de São Paulo",
+      "titulo": "Operador De Dobra",
+      "empresa": "NacionalRH",
+      "url": "https://www.infojobs.com.br/vaga-de-operador-dobra-em-sao-paulo__12153208.aspx",
+      "fonte": "infojobs",
+      "local": "Guarulhos - SP",
       "modalidade": "indefinido",
-      "data_publicacao": "2026-10-27T13:10:04Z",
-      "descricao": "Principais atividades: Operar máquinas dobradeiras para realizar dobras em chapas metálicas. Interpretar desenhos técnicos e ordens de produção. Realizar ajustes e regulagens na máquina conforme as especificações. Conferir medidas e ângulos das peças produzidas. Inspecionar a qualidade das peças e identificar possíveis defeitos. Seguir as normas de segurança e manter o local de trabalho organizado. LI-Onsite",
+      "data_publicacao": "2026-10-26T12:14:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais atividades:\nOperar máquinas dobradeiras para realizar dobras em chapas metálicas.\nInterpretar desenhos técnicos e ordens de produção.\nRealizar ajustes e regulagens na máquina conforme as especificações.\nConferir medidas e ângulos das peças produzidas.\nInspecionar a qualidade das peças e identificar possíveis defeitos.\nSeguir as normas de segurança e manter o local de trabalho organizado.\nNúmero de vagas:\n10\nTipo de contrato e Jornada:\nTemporário - Período Integral\nÁrea Profissional:\nOperacional em Industrial, Produção, Fábrica - Operador de Dobradeira\nExigências\nEscolaridade Mínima:  Ensino Fundamental (1º grau)\nValorizado\nExperiência desejada: Menos de 1 ano",
       "score": 35,
       "skills_match": [],
       "lacunas": [],
