@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-26T03:30:00Z",
+  "atualizado_em": "2026-11-26T05:03:01Z",
   "total": 563,
   "vagas": [
     {
@@ -2773,6 +2773,30 @@
       "expirada": false
     },
     {
+      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
+      "titulo": "Desenvolvedores Mobile",
+      "empresa": "HrSoul",
+      "url": "https://www.adzuna.com.br/details/5978940563?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T22:12:21Z",
+      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
+      "score": 55,
+      "skills_match": [
+        "Java",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "React Native",
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-22T07:00:54Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "816126641cad959d791efa738c55f6b6170f46fc",
       "titulo": "Desenvolvedor de Sistemas",
       "empresa": "Teleperformance",
@@ -3577,30 +3601,6 @@
       ],
       "lacunas": [
         "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-22T07:00:54Z",
-      "ultima_vista": "2026-11-17",
-      "expirada": false
-    },
-    {
-      "id": "c39be9fb8493e4ab408ba4be157165f371743fc7",
-      "titulo": "Desenvolvedores Mobile",
-      "empresa": "HrSoul",
-      "url": "https://www.adzuna.com.br/details/5967239578?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-15T22:05:16Z",
-      "descricao": "Escolaridade: Ensino Fundamental - Completo PCD: Não Contratação: Pessoa Jurídica Benefícios: Refeitório Descrição: Desenvolvedores Mobile - Níveis Júnior, Pleno e Sênior - 100% Remoto Experiência com desenvolvimento IOS e Android; Vivências com JAVA, Kotlin, Swift e React Native; Bons conhecimentos com Flutter e JSON; Desejável conhecimentos em IIB, Metodologias Cascade e Ágeis, especialmente SCRUM, Hard User de tecnologias smartphones; Projeto de 8 meses com grande possibilidade de extensão; …",
-      "score": 55,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "React Native",
-        "Kotlin"
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T07:00:54Z",
@@ -6198,6 +6198,29 @@
       "expirada": true
     },
     {
+      "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
+      "titulo": "Desenvolvedor Frontend React Js Junior",
+      "empresa": "unike.TECH",
+      "url": "https://www.adzuna.com.br/details/5978940897?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:12:24Z",
+      "descricao": "COMO VOCÊ VAI CONSTRUIR UM MUNDO MAIS FRICTIONLESS Seu papel como Desenvolvedor FrontEnd JS Jr na UNIKE será desenvolver FrontEnd para atuar no desenvolvimento e sustentação de aplicação React.JS O QUE VOCÊ VAI FAZER - Sustenção de aplicação instalada nos clientes. - Integração de componentes com APIs desenvolvidas em JAVA e KOTLIN. - Desenvolvimento de componentes reutilizáveis e modularizados. - Solucionar problemas, debugar e melhorar soluções existentes. O QUE BUSCAMOS - Ensino superior com…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [
+        "Kotlin"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
       "titulo": "Desenvolvedor(a) Front-end React Vtex",
       "empresa": "Visie Padrões Web",
@@ -6216,6 +6239,26 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
+      "id": "b160c1d6fd3938b8fba03e900fa1d58785c6b447",
+      "titulo": "Front End Angular",
+      "empresa": "Capgemini",
+      "url": "https://www.adzuna.com.br/details/5978936785?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:11:50Z",
+      "descricao": "Nossa Oportunidade Estamos à procura de um/ uma Desenvolvedor/Desenvolvedora Front - End Angular, responsável por implementar a lógica e as funcionalidades que rodam no servidor, garantindo que os dados sejam processados e entregues corretamente para os usuários ou para outras partes da aplicação. Responsabilidades: - Gerenciamento de obsolescência e vulnerabilidades. - Conformidade com regulamentos. - Reutilização de documentos. - Expansão da iniciativa para operações de importação e exportaçã…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T03:00:57Z",
       "ultima_vista": "2026-11-26",
       "expirada": false
     },
@@ -7173,49 +7216,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:50Z",
       "ultima_vista": "2026-11-05",
-      "expirada": true
-    },
-    {
-      "id": "4f17a7bff615b4d321385d5a2954545227d509b5",
-      "titulo": "Desenvolvedor Frontend React Js Junior",
-      "empresa": "unike.TECH",
-      "url": "https://www.adzuna.com.br/details/5945007111?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:29:34Z",
-      "descricao": "COMO VOCÊ VAI CONSTRUIR UM MUNDO MAIS FRICTIONLESS Seu papel como Desenvolvedor FrontEnd JS Jr na UNIKE será desenvolver FrontEnd para atuar no desenvolvimento e sustentação de aplicação React.JS O QUE VOCÊ VAI FAZER - Sustenção de aplicação instalada nos clientes. - Integração de componentes com APIs desenvolvidas em JAVA e KOTLIN. - Desenvolvimento de componentes reutilizáveis e modularizados. - Solucionar problemas, debugar e melhorar soluções existentes. O QUE BUSCAMOS - Ensino superior com…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [
-        "Kotlin"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:45Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": true
-    },
-    {
-      "id": "b160c1d6fd3938b8fba03e900fa1d58785c6b447",
-      "titulo": "Front End Angular",
-      "empresa": "Capgemini",
-      "url": "https://www.adzuna.com.br/details/5945003037?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:28:31Z",
-      "descricao": "Nossa Oportunidade Estamos à procura de um/ uma Desenvolvedor/Desenvolvedora Front - End Angular, responsável por implementar a lógica e as funcionalidades que rodam no servidor, garantindo que os dados sejam processados e entregues corretamente para os usuários ou para outras partes da aplicação. Responsabilidades: - Gerenciamento de obsolescência e vulnerabilidades. - Conformidade com regulamentos. - Reutilização de documentos. - Expansão da iniciativa para operações de importação e exportaçã…",
-      "score": 45,
-      "skills_match": [
-        "Angular"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T03:00:57Z",
-      "ultima_vista": "2026-10-30",
       "expirada": true
     },
     {
@@ -10928,6 +10928,39 @@
       "expirada": false
     },
     {
+      "id": "b7bd017e7e37e04084d862d975ebcebe0bf1046d",
+      "titulo": "Desenvolvedor(A) Full Stack .NET",
+      "empresa": "MONTANARI TECNOLOGIA",
+      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-net-em-sao-paulo__12198421.aspx",
+      "fonte": "infojobs",
+      "local": "São Paulo - SP",
+      "modalidade": "presencial",
+      "data_publicacao": "2026-11-25T05:45:00Z",
+      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) desenvolvedor(a) Full Stack para atuar no desenvolvimento, manutenção e evolução de nossos sistemas, trabalhando tanto no backend quanto no frontend dentro do ecossistema Microsoft .NET. Você vai participar de todo o ciclo de desenvolvimento, desde o entendimento das necessidades do negócio até a entrega de soluções em produção.\nPrincipais responsabilidades\nDesenvolver e manter aplicações web em C# e .NET, cuidando tanto das regras de negócio quanto das interfaces com o usuário.\nCriar e consumir APIs REST.\nModelar, otimizar e manter bancos de dados SQL Server (queries, procedures, views e índices).\nAtuar na correção de bugs, melhorias de performance e evolução de sistemas existentes.\nColaborar com a equipe em revisões de código, boas práticas e documentação técnica.\nRequisitos\nExperiência sólida com C# e .NET (Framework e/ou .NET Core / .NET 6+).\nExperiência com desenvolvimento frontend em ASP.NET MVC, Razor Pages ou Blazor, além de HTML, CSS e JavaScript.\nBons conhecimentos em SQL Server (T-SQL, stored procedures, modelagem de dados e tuning de consultas).\nFamiliaridade com Entity Framework ou Dapper.\nExperiência com controle de versão (Git).\nDiferenciais\nConhecimento em VB.NET, especialmente para atuar na manutenção e migração de sistemas legados.\nExperiência com frameworks JavaScript (React).\nConhecimento em Azure, CI/CD ou testes automatizados.\nInformações adicionais:\nVaga modelo presencial;…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "SQL",
+        "Git"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "SQL Server",
+        "Azure",
+        "CI/CD",
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-09T13:01:21Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
       "titulo": "Principal.Net Engineer",
       "empresa": "",
@@ -11294,39 +11327,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-08T05:00:50Z",
       "ultima_vista": "2026-11-25",
-      "expirada": false
-    },
-    {
-      "id": "b7bd017e7e37e04084d862d975ebcebe0bf1046d",
-      "titulo": "Desenvolvedor(A) Full Stack .NET",
-      "empresa": "MONTANARI TECNOLOGIA",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedora-full-stack-net-em-sao-paulo__12198421.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-11-18T13:13:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) desenvolvedor(a) Full Stack para atuar no desenvolvimento, manutenção e evolução de nossos sistemas, trabalhando tanto no backend quanto no frontend dentro do ecossistema Microsoft .NET. Você vai participar de todo o ciclo de desenvolvimento, desde o entendimento das necessidades do negócio até a entrega de soluções em produção.\nPrincipais responsabilidades\nDesenvolver e manter aplicações web em C# e .NET, cuidando tanto das regras de negócio quanto das interfaces com o usuário.\nCriar e consumir APIs REST.\nModelar, otimizar e manter bancos de dados SQL Server (queries, procedures, views e índices).\nAtuar na correção de bugs, melhorias de performance e evolução de sistemas existentes.\nColaborar com a equipe em revisões de código, boas práticas e documentação técnica.\nRequisitos\nExperiência sólida com C# e .NET (Framework e/ou .NET Core / .NET 6+).\nExperiência com desenvolvimento frontend em ASP.NET MVC, Razor Pages ou Blazor, além de HTML, CSS e JavaScript.\nBons conhecimentos em SQL Server (T-SQL, stored procedures, modelagem de dados e tuning de consultas).\nFamiliaridade com Entity Framework ou Dapper.\nExperiência com controle de versão (Git).\nDiferenciais\nConhecimento em VB.NET, especialmente para atuar na manutenção e migração de sistemas legados.\nExperiência com frameworks JavaScript (React).\nConhecimento em Azure, CI/CD ou testes automatizados.\nInformações adicionais:\nVaga modelo presencial;…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "SQL",
-        "Git"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "SQL Server",
-        "Azure",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-11-09T13:01:21Z",
-      "ultima_vista": "2026-11-26",
       "expirada": false
     },
     {
