@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-26T15:02:59Z",
-  "total": 564,
+  "atualizado_em": "2026-11-26T17:02:54Z",
+  "total": 565,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -10904,6 +10904,30 @@
       "data_coleta": "2026-09-14T20:32:46Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "e9d3c8d4da257cf5c1a65ebd628769fe4f3eee1d",
+      "titulo": "Dev Full Stack (.NET/React) - Jr",
+      "empresa": "Domvs IT",
+      "url": "https://www.adzuna.com.br/details/5979865202?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-26T13:53:22Z",
+      "descricao": "Descrição Prazer, somos a DOMVS iT! Na DOMVS iT, nossos colaboradores são protagonistas de suas carreiras, e oferecemos todo o suporte necessário para que alcancem o sucesso profissional. E adivinha? Estamos com uma oportunidade incrível para você se juntar ao nosso time! Requisitos - Experiência com desenvolvimento back-end em .NET (C#); - Conhecimentos em desenvolvimento front-end com React (nível intermediário para colaboração com o time); - Experiência com serviços da AWS (como EC2, S3, RD…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "AWS"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-26T17:00:54Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
     },
     {
       "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
