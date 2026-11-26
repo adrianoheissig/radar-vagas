@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-26T01:02:44Z",
+  "atualizado_em": "2026-11-26T03:02:53Z",
   "total": 563,
   "vagas": [
     {
@@ -2719,6 +2719,87 @@
       "expirada": true
     },
     {
+      "id": "64d5908b7f2b129ea8bede747fa0d27f6fb105e8",
+      "titulo": "Analista Desenvolvedor Jr",
+      "empresa": "Stefanini",
+      "url": "https://www.adzuna.com.br/details/5978940733?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:12:22Z",
+      "descricao": "Objetivo do Cargo: Atividades: Desenvolvimento de aplicações web Atividades: Front-End: Angular 2, HTML, CSS, JavaScript Back-End: node.js, Node-red, python Webservice Restful, Webservice Soap, API Manager, Swagger, Microserviço Banco de Dados: Oracle, SQL Server Integração continua: Docker, Sonar, Git Formação: Superior Incompleto",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [
+        "Python",
+        "Oracle",
+        "SQL Server",
+        "Docker"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T03:00:57Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
+      "id": "c8742d42809f5ef74f64820cbcdb77a081e8c408",
+      "titulo": "Desenvolvedor Frontend Jr",
+      "empresa": "SOW",
+      "url": "https://www.adzuna.com.br/details/5978940683?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T22:12:22Z",
+      "descricao": "Desenvolvedor FrontEnd - Nível Júnior Desejável conhecimentos com Angular/CSS/HTML/JavaScript/JSP Atuação 100% remota. Duração: 06 meses. Disponibilidade para início imediato. Modalidade de contratação PJ.",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:45Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
+      "id": "816126641cad959d791efa738c55f6b6170f46fc",
+      "titulo": "Desenvolvedor de Sistemas",
+      "empresa": "Teleperformance",
+      "url": "https://www.adzuna.com.br/details/5978920737?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:09:09Z",
+      "descricao": "Principais Responsabilidades Levantar e detalhar requisitos funcionais e técnicos junto às áreas envolvidas, identificando regras de negócio, dependências e critérios de aceite. Desenvolver e integrar APIs, serviços backend e aplicações utilizando .NET/C#, Node.js/TypeScript e Python. Desenvolver interfaces responsivas e acessíveis com React/TypeScript e Next.js, garantindo desempenho e qualidade das aplicações. Definir e orientar soluções técnicas, avaliando arquitetura, riscos, escalabilidade…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Node.js"
+      ],
+      "lacunas": [
+        "Next.js",
+        "Python",
+        "C#",
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-25T13:01:38Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "75fe666f1f174e9e13ce9a40fa4fda402fca5731",
       "titulo": "Desenvolvedor Fullstack Junior",
       "empresa": "Addvisor",
@@ -2785,45 +2866,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T19:01:09Z",
-      "ultima_vista": "2026-11-26",
-      "expirada": false
-    },
-    {
-      "id": "816126641cad959d791efa738c55f6b6170f46fc",
-      "titulo": "Desenvolvedor De Sistemas",
-      "empresa": "TELEPERFORMANCE",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-sistemas-em-sao-paulo__12249028.aspx",
-      "fonte": "infojobs",
-      "local": "São Paulo - SP",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-11-25T12:06:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nPrincipais Responsabilidades\nLevantar e detalhar requisitos funcionais e técnicos junto às áreas envolvidas, identificando regras de negócio, dependências e critérios de aceite.\nDesenvolver e integrar APIs, serviços backend e aplicações utilizando .NET/C#, Node.js/TypeScript e Python.\nDesenvolver interfaces responsivas e acessíveis com React/TypeScript e Next.js, garantindo desempenho e qualidade das aplicações.\nDefinir e orientar soluções técnicas, avaliando arquitetura, riscos, escalabilidade, desempenho e sustentabilidade.\nProjetar soluções modulares e distribuídas, utilizando conceitos como Clean Architecture, SOLID, DDD, microsserviços e arquitetura orientada a eventos.\nImplementar e otimizar bancos de dados, consultas, estruturas de dados, mecanismos de cache e mensageria.\nEstabelecer boas práticas de desenvolvimento, incluindo revisão de código, versionamento, testes automatizados, documentação e observabilidade.\nApoiar homologações, implantações e monitoramento de aplicações, incluindo estratégias de deploy, rollback e resposta a incidentes.\nInvestigar problemas complexos, identificar causas-raiz e implementar correções preventivas e definitivas.\nAutomatizar processos de entrega e infraestrutura em nuvem, utilizando containers, Kubernetes, Terraform e pipelines de CI/CD.\nAplicar práticas de desenvolvimento seguro, identificando vulnerabilidades e garantindo a proteção das aplicações e informações.\nEstimar ativida…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "Microsserviços",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Next.js",
-        "Python",
-        "C#",
-        ".NET",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Google Cloud",
-        "CI/CD",
-        "Testes automatizados",
-        "Inglês"
-      ],
-      "experiencia_exigida": 3,
-      "data_coleta": "2026-11-25T13:01:38Z",
       "ultima_vista": "2026-11-26",
       "expirada": false
     },
@@ -4139,60 +4181,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-29T16:50:44Z",
       "ultima_vista": "2026-11-05",
-      "expirada": true
-    },
-    {
-      "id": "64d5908b7f2b129ea8bede747fa0d27f6fb105e8",
-      "titulo": "Analista Desenvolvedor Jr",
-      "empresa": "Stefanini",
-      "url": "https://www.adzuna.com.br/details/5945006929?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:29:31Z",
-      "descricao": "Objetivo do Cargo: Atividades: Desenvolvimento de aplicações web Atividades: Front-End: Angular 2, HTML, CSS, JavaScript Back-End: node.js, Node-red, python Webservice Restful, Webservice Soap, API Manager, Swagger, Microserviço Banco de Dados: Oracle, SQL Server Integração continua: Docker, Sonar, Git Formação: Superior Incompleto",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Node.js",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [
-        "Python",
-        "Oracle",
-        "SQL Server",
-        "Docker"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T03:00:57Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": true
-    },
-    {
-      "id": "c8742d42809f5ef74f64820cbcdb77a081e8c408",
-      "titulo": "Desenvolvedor Frontend Jr",
-      "empresa": "SOW",
-      "url": "https://www.adzuna.com.br/details/5945006923?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-28T22:29:31Z",
-      "descricao": "Desenvolvedor FrontEnd - Nível Júnior Desejável conhecimentos com Angular/CSS/HTML/JavaScript/JSP Atuação 100% remota. Duração: 06 meses. Disponibilidade para início imediato. Modalidade de contratação PJ.",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:45Z",
-      "ultima_vista": "2026-10-30",
       "expirada": true
     },
     {
@@ -6210,6 +6198,28 @@
       "expirada": true
     },
     {
+      "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
+      "titulo": "Desenvolvedor(a) Front-end React Vtex",
+      "empresa": "Visie Padrões Web",
+      "url": "https://www.adzuna.com.br/details/5978936920?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:11:51Z",
+      "descricao": "Estamos em busca de um(a) desenvolvedor(a) front-end React VTEX para integrar um de nossos times de desenvolvimento. Se você tem experiência com o framework React (e Typescript), conhecimento sobre VTEX (ou abertura para conhecer), é proativo(a), tem facilidade em se comunicar, e gosta de um ambiente dinâmico e colaborativo, queremos te conhecer! Utilizamos a metodologia SCRUM para desenvolvimento (caso não a conheça, você aprende com a gente). Em sua rotina, você fará parte de um time com dese…",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "b6a2f82fba4e3663d1576fe36829165dd8e81551",
       "titulo": "Pessoa Desenvolvedora Front-end (Angular)",
       "empresa": "Mjv Innovation",
@@ -7189,28 +7199,6 @@
       "expirada": true
     },
     {
-      "id": "75da9ba2cd76313498e0bb3151060ea20cc631fc",
-      "titulo": "Desenvolvedor(a) Front-end React Vtex",
-      "empresa": "Visie Padrões Web",
-      "url": "https://www.adzuna.com.br/details/5945003132?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:28:32Z",
-      "descricao": "Estamos em busca de um(a) desenvolvedor(a) front-end React VTEX para integrar um de nossos times de desenvolvimento. Se você tem experiência com o framework React (e Typescript), conhecimento sobre VTEX (ou abertura para conhecer), é proativo(a), tem facilidade em se comunicar, e gosta de um ambiente dinâmico e colaborativo, queremos te conhecer! Utilizamos a metodologia SCRUM para desenvolvimento (caso não a conheça, você aprende com a gente). Em sua rotina, você fará parte de um time com dese…",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": true
-    },
-    {
       "id": "b160c1d6fd3938b8fba03e900fa1d58785c6b447",
       "titulo": "Front End Angular",
       "empresa": "Capgemini",
@@ -8038,6 +8026,46 @@
       "expirada": true
     },
     {
+      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
+      "titulo": "Junior/midlevel React Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5978938564?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Salvador, Bahia",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T22:12:04Z",
+      "descricao": "Who We are BairesDev is proud to be the fastest-growing company in America. With people in five continents and world-class clients, we are only as strong as the multicultural teams at the heart of our business. To consistently deliver the highest quality solutions to our clients, we only hire the Top 1% of the best talents and nurture their professional growth on exciting projects. Junior/MidLevel React Developer at BairesDev Being a Junior/MidLevel React Developer in our Development Team is li…",
+      "score": 40,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-14T23:49:20Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
+      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
+      "titulo": "Junior React Native Developer - Remote Work",
+      "empresa": "BairesDev",
+      "url": "https://www.adzuna.com.br/details/5978936006?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Joinville, Santa Catarina",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-25T22:11:43Z",
+      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
+      "score": 40,
+      "skills_match": [],
+      "lacunas": [
+        "React Native"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-17T14:50:20Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "eea5bbb43321b58a845c82c606b25473456cfa4e",
       "titulo": "IT Analyst II (Node React)",
       "empresa": "Banco Santander",
@@ -8321,26 +8349,6 @@
       "expirada": false
     },
     {
-      "id": "7fa3346baa2c8a35da705749c08cbf75a91b8190",
-      "titulo": "Junior/midlevel React Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5977653640?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Fortaleza, Ceará",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-24T22:09:21Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Being a Junior/MidLevel React Developer in our Development Team is just like being a full-time problem solver. We expect your abilities to be a combination of experience, …",
-      "score": 40,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:20Z",
-      "ultima_vista": "2026-11-26",
-      "expirada": false
-    },
-    {
       "id": "0e6864270fc6d2e998dae980bcf93002ee7ada65",
       "titulo": "React Native Developer - Remote Work",
       "empresa": "BairesDev",
@@ -8601,26 +8609,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T03:00:54Z",
-      "ultima_vista": "2026-11-19",
-      "expirada": false
-    },
-    {
-      "id": "01acac7bf620f843f2b1742f72e710ad1933e1e3",
-      "titulo": "Junior React Native Developer - Remote Work",
-      "empresa": "BairesDev",
-      "url": "https://www.adzuna.com.br/details/5969543156?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Porto Alegre, Rio Grande do Sul",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-17T22:07:48Z",
-      "descricao": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000 team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. Junior React Native Developer at BairesDev What you will do - Implement user interfaces based on design specifications, ensuring compatibility across different devices. Wh…",
-      "score": 40,
-      "skills_match": [],
-      "lacunas": [
-        "React Native"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-17T14:50:20Z",
       "ultima_vista": "2026-11-19",
       "expirada": false
     },
@@ -10894,6 +10882,52 @@
       "expirada": true
     },
     {
+      "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
+      "titulo": "Desenvolvedor Front-end React",
+      "empresa": "Norte Marketing",
+      "url": "https://www.adzuna.com.br/details/5978936661?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:11:48Z",
+      "descricao": "Buscamos um Desenvolvedor Front-End experiente em React para atuar na personalização e otimização de lojas Magento 2, garantindo experiências de usuário fluídas e de alto desempenho. Somos conteúdo em forma de experiência. Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos. Somos a maior produtora de eventos esportivos da América Latina. Tem sinergia com este ambiente, venha fazer parte! Respons…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
+      "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
+      "titulo": "Pessoa Desenvolvedora Front-end (Next.js / React)",
+      "empresa": "MJV Technology & Innovation",
+      "url": "https://www.adzuna.com.br/details/5978936039?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-25T22:11:43Z",
+      "descricao": "Atuará num squad de um dos maiores bancos de montadora, particularmente com produtos de seguros e financiamento automotivo, site e app. Responsabilidades e atribuições Desenvolvedor Front end SR com experiência mobile, Next.js e react Desejável e um diferencial experiência com UX Requisitos e qualificações \\Experiência com serviços em nuvem, como AWS, Azure ou Google Cloud. \\Conhecimento em metodologias ágeis, incluindo SCRUM, Kanban, LEAN ou SAFe. \\Experiência em Design, com habilidades em fer…",
+      "score": 30,
+      "skills_match": [
+        "React",
+        "Metodologias ágeis"
+      ],
+      "lacunas": [
+        "Next.js",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-01T01:00:55Z",
+      "ultima_vista": "2026-11-26",
+      "expirada": false
+    },
+    {
       "id": "0e21f897297c925d1a0c8f7e403b43c74a65ba3d",
       "titulo": "Principal.Net Engineer",
       "empresa": "",
@@ -12292,52 +12326,6 @@
       "data_coleta": "2026-10-30T16:38:49Z",
       "ultima_vista": "2026-11-26",
       "expirada": false
-    },
-    {
-      "id": "1cd5a0bcedb7dc3695b7a28fe49b867dca59b3b2",
-      "titulo": "Desenvolvedor Front-end React",
-      "empresa": "Norte Marketing",
-      "url": "https://www.adzuna.com.br/details/5945002942?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:28:30Z",
-      "descricao": "Buscamos um Desenvolvedor Front-End experiente em React para atuar na personalização e otimização de lojas Magento 2, garantindo experiências de usuário fluídas e de alto desempenho. Somos conteúdo em forma de experiência. Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos. Somos a maior produtora de eventos esportivos da América Latina. Tem sinergia com este ambiente, venha fazer parte! Respons…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": true
-    },
-    {
-      "id": "47ee8c32a4e88cb08288af7806be1014ac4bc7a5",
-      "titulo": "Pessoa Desenvolvedora Front-end (Next.js / React)",
-      "empresa": "MJV Technology & Innovation",
-      "url": "https://www.adzuna.com.br/details/5945002287?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-28T22:28:20Z",
-      "descricao": "Atuará num squad de um dos maiores bancos de montadora, particularmente com produtos de seguros e financiamento automotivo, site e app. Responsabilidades e atribuições Desenvolvedor Front end SR com experiência mobile, Next.js e react Desejável e um diferencial experiência com UX Requisitos e qualificações \\Experiência com serviços em nuvem, como AWS, Azure ou Google Cloud. \\Conhecimento em metodologias ágeis, incluindo SCRUM, Kanban, LEAN ou SAFe. \\Experiência em Design, com habilidades em fer…",
-      "score": 30,
-      "skills_match": [
-        "React",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Next.js",
-        "AWS",
-        "Azure",
-        "Google Cloud"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-01T01:00:55Z",
-      "ultima_vista": "2026-10-30",
-      "expirada": true
     },
     {
       "id": "26a2b8cf591f6293e5886763889b8b3602e85c36",
