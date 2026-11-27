@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-27T03:02:45Z",
+  "atualizado_em": "2026-11-27T05:02:44Z",
   "total": 565,
   "vagas": [
     {
@@ -6194,6 +6194,57 @@
       "expirada": true
     },
     {
+      "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
+      "titulo": "Jr Front End Developer",
+      "empresa": "MATH",
+      "url": "https://www.adzuna.com.br/details/5980193178?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-26T22:12:02Z",
+      "descricao": "/O dia a dia consiste em: - Desenvolver pequenos elementos em HTML, CSS e JavaScript; - Desenvolver relatórios de acompanhamento da frente de sustentação; - Desenvolver elementos em HTM, CSS e JavaScript que acelerem a atualização de conteúdo; - Desenvolver páginas web. /O que você precisa ter: - Superior completo em Tecnologia, Marketing ou áreas correlatas a atuação da MATH; - Conhecimento em CMS; - Conhecimento em linguagens de programação (HTML, Javascript, Angular, Python etc.); - Conhecim…",
+      "score": 45,
+      "skills_match": [
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T07:01:11Z",
+      "ultima_vista": "2026-11-27",
+      "expirada": false
+    },
+    {
+      "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
+      "titulo": "Desenvolvedor Front-end React.js",
+      "empresa": "Tailorit",
+      "url": "https://www.adzuna.com.br/details/5980192858?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-26T22:12:00Z",
+      "descricao": "React - Typescript - HTML, CSS, Javascript - Git Requisitos API Rest Experiência com React Hooks, Context API, entre outros",
+      "score": 45,
+      "skills_match": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "APIs REST",
+        "Git"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-02T03:01:22Z",
+      "ultima_vista": "2026-11-27",
+      "expirada": false
+    },
+    {
       "id": "c99d26ce759136e6e33c92522593da1fa1cdadb3",
       "titulo": "Desenvolvedor Fullstack - SP",
       "empresa": "innolevels",
@@ -7138,57 +7189,6 @@
       "data_coleta": "2026-10-30T16:38:49Z",
       "ultima_vista": "2026-11-25",
       "expirada": false
-    },
-    {
-      "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
-      "titulo": "Jr Front End Developer",
-      "empresa": "MATH",
-      "url": "https://www.adzuna.com.br/details/5946241276?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-29T23:06:10Z",
-      "descricao": "/O dia a dia consiste em: - Desenvolver pequenos elementos em HTML, CSS e JavaScript; - Desenvolver relatórios de acompanhamento da frente de sustentação; - Desenvolver elementos em HTM, CSS e JavaScript que acelerem a atualização de conteúdo; - Desenvolver páginas web. /O que você precisa ter: - Superior completo em Tecnologia, Marketing ou áreas correlatas a atuação da MATH; - Conhecimento em CMS; - Conhecimento em linguagens de programação (HTML, Javascript, Angular, Python etc.); - Conhecim…",
-      "score": 45,
-      "skills_match": [
-        "Angular",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [
-        "Python"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-02T07:01:11Z",
-      "ultima_vista": "2026-10-31",
-      "expirada": true
-    },
-    {
-      "id": "05f9fd97f8314c2b6ee17b1daee1a41a53e8b203",
-      "titulo": "Desenvolvedor Front-end React.js",
-      "empresa": "TailorIT",
-      "url": "https://www.adzuna.com.br/details/5946240875?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-29T23:05:59Z",
-      "descricao": "React - Typescript - HTML, CSS, Javascript - Git Requisitos API Rest Experiência com React Hooks, Context API, entre outros",
-      "score": 45,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "APIs REST",
-        "Git"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-02T03:01:22Z",
-      "ultima_vista": "2026-10-31",
-      "expirada": true
     },
     {
       "id": "c911cd2cadf0546e6217f21e4e30eb2c43d525cd",
