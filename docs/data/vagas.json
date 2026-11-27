@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-27T15:02:52Z",
-  "total": 565,
+  "atualizado_em": "2026-11-27T17:02:54Z",
+  "total": 566,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -2711,6 +2711,27 @@
       "data_coleta": "2026-09-14T20:32:44Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "4cd066f4aad262e2fdcbceed6761cb51344bfb9d",
+      "titulo": "Desenvolvedor (a) Full Stack (Java / React) - Remoto",
+      "empresa": "ICON Solutions do Brasil",
+      "url": "https://www.adzuna.com.br/details/5980906114?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-27T13:49:42Z",
+      "descricao": "Desenvolvedor (a) Full Stack (Java / React) - Remoto Você conhece a Icon? Apaixonados por pessoas e especialistas em tecnologia. Nosso trabalho é encontrar talentos e soluções sob medida para os nossos clientes. Vem encontrar o seu projeto ideal conosco e participar da comunidade ICON! Sobre a Vaga Código da vaga: A68715550391 Modelo de contratação: PJ Desenvolvedor (a) Full Stack (Java / React) - Remoto Estamos buscando um(a) profissional Desenvolvedor (a) Full Stack para atuar no desenvolvime…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-27T17:01:02Z",
+      "ultima_vista": "2026-11-27",
+      "expirada": false
     },
     {
       "id": "e5ebda8869c924427e47b3ace0561fe6966551ce",
