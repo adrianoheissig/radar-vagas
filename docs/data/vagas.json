@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-27T17:02:54Z",
-  "total": 566,
+  "atualizado_em": "2026-11-27T19:02:48Z",
+  "total": 567,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -6215,6 +6215,28 @@
       "expirada": true
     },
     {
+      "id": "c7d3d53c8b0dd74b9a5794e21c36a0e7f760bb89",
+      "titulo": "Desenvolvedor Fullstack .Net/Angular | Soluções em Tecnologia| Remoto| PJ",
+      "empresa": "Vonbz",
+      "url": "https://www.adzuna.com.br/details/5981003513?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Brasil",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-27T14:41:38Z",
+      "descricao": "Desenvolvedor Fullstack .Net/Angular | Soluções Automotivas | Híbrido | CLT Sobre a VONBZ Na VONBZ , somos arquitetos da evolução digital. Não contratamos apenas técnicos: buscamos talentos que desenham novas realidades. Nosso time é formado por profissionais no topo da curva, movidos por aprendizado contínuo , pensamento disruptivo e por uma cultura que transforma desafios complexos em marcos de inovação. Atuamos conectando pessoas excepcionais a projetos de alto impacto, onde tecnologia, est…",
+      "score": 45,
+      "skills_match": [
+        "Angular"
+      ],
+      "lacunas": [
+        ".NET"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-27T19:00:45Z",
+      "ultima_vista": "2026-11-27",
+      "expirada": false
+    },
+    {
       "id": "c561c3700ddaf990110c201d3c56afcabe3bd9d4",
       "titulo": "Jr Front End Developer",
       "empresa": "MATH",
@@ -8250,7 +8272,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-26",
+      "ultima_vista": "2026-11-27",
       "expirada": false
     },
     {
