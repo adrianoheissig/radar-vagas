@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-28T05:02:56Z",
+  "atualizado_em": "2026-11-28T09:03:00Z",
   "total": 561,
   "vagas": [
     {
@@ -2677,6 +2677,33 @@
       "expirada": true
     },
     {
+      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
+      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
+      "empresa": "",
+      "url": "https://www.adzuna.com.br/details/5981449842?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-28T03:59:58Z",
+      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "lacunas": [
+        "Testes automatizados"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-09-15T11:10:58Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
       "id": "0ffb892bfbfdd5d0ac292fca58a307b2f51b2443",
       "titulo": "Pessoa Analista Programadora .NET Core Pleno ou",
       "empresa": "NAVA - Technology for Business",
@@ -3341,33 +3368,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T21:00:47Z",
       "ultima_vista": "2026-11-20",
-      "expirada": false
-    },
-    {
-      "id": "d7bf499e2f4a1ea016b9b9c20d7f7961340fb36b",
-      "titulo": "Desenvolvedor FrontEnd - Angular - Recrutamento Aberto",
-      "empresa": "",
-      "url": "https://www.adzuna.com.br/details/5971212305?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-11-19T03:55:44Z",
-      "descricao": "ATRIBUIÇÕES: Desenvolvedor FrontEnd - Angular Nível Sênior (2 vagas) - Atuação remota Sólida experiência em desenvolvimento de software, com forte atuação em Angular 10 e versões posteriores; Experiência com gerenciamento de estado utilizando ferramentas como NgRx e/ou Akita; Experiência com versionamento de código utilizando Git e com frameworks de testes, como Jasmine, Karma, Jest e Cypress; Domínio em TypeScript, JavaScript (ES6), HTML5 e CSS3; Vivência com desenvolvimento responsivo e compa…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-15T11:10:58Z",
-      "ultima_vista": "2026-11-22",
       "expirada": false
     },
     {
