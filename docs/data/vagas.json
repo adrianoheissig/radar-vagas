@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-27T21:02:53Z",
-  "total": 567,
+  "atualizado_em": "2026-11-28T01:02:51Z",
+  "total": 561,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -119,42 +119,6 @@
       "expirada": false
     },
     {
-      "id": "20cd07ab2ae0db87807665be8e500daca584e40d",
-      "titulo": "DESENVOLVEDOR FULLSTACK JAVA PL",
-      "empresa": "Stefanini Group",
-      "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI0MTcyMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-09T11:23:29Z",
-      "descricao": "Buscamos um(a) Desenvolvedor(a) Java Full Stack Pleno para atuar na manutenção, evolução e desenvolvimento de sistemas corporativos críticos.A pessoa profissional terá atuação tanto em back-end com Java/Spring Boot quanto em front-end com React, trabalhando em um ambiente colaborativo e ágil.Requisitos obrigatóriosExperiência profissional com Java 8+.Conhecimento prático de Java EE, incluindo JSF, EJB, JPA e/ou PrimeFaces.Experiência com Spring e Spring Boot.Experiência com desenvolvimento e consumo de APIs REST.Experiência com SOAP/Web Services.Experiência com bancos de dados relacionais, como Oracle, PostgreSQL ou MySQL.Conhecimento de SQL e manipulação de dados (DML).Experiência com React.Conhecimento de JavaScript e/ou TypeScript.Domínio de Git.Experiência em ambientes com metodologias ágeis, como Scrum ou Kanban.Responsabilidades e atribuiçõesPrincipais responsabilidadesDesenvolver, manter e evoluir aplicações corporativas utilizando Java 8+ e Spring Boot.Atuar na sustentação e evolução de sistemas legados desenvolvidos em Java EE.Desenvolver e consumir APIs REST e trabalhar com integrações SOAP.Desenvolver e manter interfaces web utilizando React, JavaScript/TypeScript, HTML5 e CSS3.Trabalhar com bancos de dados relacionais e desenvolver queries eficientes.Implementar e manter testes unitários e integrados.Participar de Code Reviews, contribuindo para a qualidade e evolução do código.Aplicar boas práticas de desenvolvimento, Clean Code, SOLID e Design Patterns.Trabalha…",
-      "score": 80,
-      "skills_match": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Java",
-        "APIs REST",
-        "SQL",
-        "MySQL",
-        "Git",
-        "Metodologias ágeis",
-        "Clean Code"
-      ],
-      "lacunas": [
-        "Spring",
-        "PostgreSQL",
-        "Oracle",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-28",
-      "expirada": true
-    },
-    {
       "id": "029387289d2351024c01c752de6ee925a503b6f0",
       "titulo": "Desenvolvedor Full Stack Pleno",
       "empresa": "3corp Technology",
@@ -191,7 +155,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-25T23:01:37Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -516,7 +480,7 @@
       ],
       "experiencia_exigida": 5,
       "data_coleta": "2026-09-25T21:01:32Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -588,7 +552,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-24T20:36:05Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -742,7 +706,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T19:00:59Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -791,7 +755,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:00:39Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -820,7 +784,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-27T15:49:33Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "54445c7ebb6a4125983a3cb5bd3d680369ab4e24",
@@ -903,7 +867,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-27T15:01:29Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -1064,7 +1028,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-15T17:01:38Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -1172,7 +1136,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-10-08T15:01:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -1484,7 +1448,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-17T19:01:39Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -1714,7 +1678,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-26T17:01:23Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -1824,7 +1788,7 @@
       ],
       "experiencia_exigida": 1,
       "data_coleta": "2026-11-23T15:01:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2003,7 +1967,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-19T13:01:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2239,7 +2203,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-15T19:00:42Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2262,7 +2226,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-14T07:00:41Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2331,7 +2295,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T18:06:01Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2394,7 +2358,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T19:01:31Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2415,7 +2379,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-08T19:00:39Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2730,7 +2694,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-27T17:01:02Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2754,7 +2718,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2778,7 +2742,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2802,7 +2766,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:09Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2931,7 +2895,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T13:01:38Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -2954,7 +2918,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T19:01:09Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -3000,7 +2964,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T19:01:09Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -3020,7 +2984,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -3746,7 +3710,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-13T15:01:44Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -3769,7 +3733,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -3824,7 +3788,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:32Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "6062e0d381ad20eb1866b85373995cba5e900491",
@@ -4127,7 +4091,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-02T07:01:10Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -4356,7 +4320,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-21T21:01:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -4880,7 +4844,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -4957,7 +4921,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T14:47:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -5241,34 +5205,6 @@
       "expirada": true
     },
     {
-      "id": "d95569f9d2bf54f3b51b958b4e825b76cefcd603",
-      "titulo": "Desenvolvedor Full Stack - Angular",
-      "empresa": "Grupo Real",
-      "url": "https://gruporeal.gupy.io/job/eyJqb2JJZCI6MTIwNDA4NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Uberlândia, Minas Gerais",
-      "modalidade": "presencial",
-      "data_publicacao": "2026-08-11T16:28:49Z",
-      "descricao": "Buscamos um(a) Desenvolvedor(a) Full Stack que una conhecimento técnico, visão analítica e capacidade de transformar desafios em soluções que gerem impacto para o negócio. Se você gosta de tecnologia, integração de sistemas e de construir soluções em parceria com diferentes áreas, venha fazer parte do nosso time e contribuir para a evolução dos nossos processos. #VemSerPeçaForteResponsabilidades e atribuiçõesDesenvolver e manter aplicações Frontend em Angular, com foco em performance, responsividade e componentes reutilizáveis.Desenvolver e manter APIs REST e soluções em Backend, utilizando Node.js ou tecnologias existentes.Desenvolver e otimizar queries, procedures, functions, views e triggers em Oracle PL/SQL.Atuar na integração entre WMS, ERP/SAP e sistemas periféricos, garantindo o fluxo adequado de dados.Levantar requisitos e mapear processos junto às áreas de Supply Chain, Logística e WMS.Analisar e solucionar incidentes em produção, atuando com autonomia na identificação e correção de problemas.Desenvolver testes unitários e de integração, contribuindo para a qualidade e estabilidade das aplicações.Atuar com CI/CD, code review, documentação técnica e boas práticas de desenvolvimento.Participar das cerimônias ágeis e contribuir para a evolução dos processos e padrões técnicos do time.Requisitos e qualificaçõesObrigatóriosEnsino superior completo em Tecnologia, Computação, Engenharia de Software ou áreas correlatas.Experiência com desenvolvimento Full StackConhecimento…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "Node.js",
-        "APIs REST",
-        "SQL",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Oracle",
-        "CI/CD",
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:49Z",
-      "ultima_vista": "2026-09-28",
-      "expirada": true
-    },
-    {
       "id": "3d84e344525ac71c3518222214465b9e27c5b6d9",
       "titulo": "Desenvolvedor Full Stack #1288",
       "empresa": "RHF Valinhos /Centro-SP",
@@ -5440,7 +5376,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -5686,7 +5622,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T21:01:35Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -5712,7 +5648,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:36Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "8dd21668dbf5b5a09559db31d01311fe36daf997",
@@ -5802,7 +5738,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T17:00:59Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -5965,27 +5901,6 @@
       "expirada": true
     },
     {
-      "id": "2e3869518d4729e7ce2eefa7c3613c7488c59d6f",
-      "titulo": "Pessoa Desenvolvedora Fullstack Pleno - React/Node.js/Chatbots",
-      "empresa": "Akross",
-      "url": "https://akross.gupy.io/job/eyJqb2JJZCI6MTI0NTA4NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-16T20:06:43Z",
-      "descricao": "A Akross é uma Tech Boutique que desenvolve e monetiza soluções para diversas empresas. Aqui você pode atuar em 4 frentes diferentes:Profit Place: Nosso Service Delivery Platform realiza gestão de serviços em todo seu ciclo de vida. Garantimos que as empresas oferecem assinaturas através de integração rápida e estruturação da jornada do cliente, em que todos os serviços integrados passam pela solução e possuem estratégia de rentabilização através de dashboards e time de Negócios focado em aumento de LTV (life time value).Wifi Nomad: Maior e mais completa solução para conectar pessoas e empresas à Internet através de redes customizadas, com maior comunidade para acesso a redes wifi do Brasil.Data Ads: Solução completa para conectar oferta de publicidade através de canais próprios ou aplicativos próprios com alta segmentação e formas de exibição das campanhas.Tech Services: Times com squads altamente especializadas para entregar soluções de tecnologia com digitalização de processos e integração de soluções dentro da arquitetura das empresas. Parceiro oficial credenciado Salesforce e Mulesoft.Responsabilidades e atribuiçõesEstamos em busca de um(a) desenvolvedor(a) Fullstack para atuar em projetos de integração e automação de atendimento, unindo front-end em React, back-end em Node.js e soluções de chatbot. Você vai participar do desenvolvimento de funcionalidades de ponta a ponta, dos componentes de interface aos serviços que os sustentam, em squads multidisciplinares e com fo…",
-      "score": 50,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T23:37:10Z",
-      "ultima_vista": "2026-09-28",
-      "expirada": true
-    },
-    {
       "id": "858bd77d9c12851edf3c9acaf72d5e11499f6928",
       "titulo": "Desenvolvedor(A) Full-Stack – Plataforma Web Gamificada",
       "empresa": "Interação - Soluções Inteligentes",
@@ -6075,7 +5990,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:40Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6236,7 +6151,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-14T13:00:44Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6258,7 +6173,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-27T19:00:45Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6283,7 +6198,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T07:01:11Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6309,7 +6224,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-02T03:01:22Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6441,7 +6356,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-22T23:01:00Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6462,7 +6377,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T19:00:52Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6486,7 +6401,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6871,7 +6786,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T19:01:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -6917,7 +6832,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:38Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "97d2b2ef97d428676b690fd86dd48786bfb8707f",
@@ -7041,7 +6956,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-11-06T19:01:47Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8058,7 +7973,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-27T03:00:49Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8078,7 +7993,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-26T19:01:00Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8160,7 +8075,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-25T19:00:52Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8180,7 +8095,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8200,7 +8115,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8224,7 +8139,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:34Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8244,7 +8159,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8272,7 +8187,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8319,7 +8234,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:32Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8880,7 +8795,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-15T09:01:02Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -8975,7 +8890,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-17T23:29:32Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "99d70974dbd9c30cc3553782222ca31d7d9ff1ce",
@@ -9048,7 +8963,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T13:01:43Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -9394,7 +9309,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-31T19:01:06Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -9659,7 +9574,7 @@
       ],
       "experiencia_exigida": 3,
       "data_coleta": "2026-10-31T17:01:49Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -9705,7 +9620,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T19:01:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -10105,7 +10020,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-30T15:01:52Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "35071070e7c96e3a04fa50179d1fc1183741a15f",
@@ -10356,7 +10271,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-21T21:01:30Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -10406,32 +10321,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T14:50:16Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "874d0c235e9e8bb893d53482a2d6b37964ce147d",
-      "titulo": "Desenvolvedor(a) Fullstack - Pleno",
-      "empresa": "Confitec",
-      "url": "https://confitec.gupy.io/job/eyJqb2JJZCI6MTI0NjkyOTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "Remoto",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-09-14T21:12:00Z",
-      "descricao": "Você fará parte de um time de desenvolvedores extremamente qualificado fortemente orientado a resultados e que não tem medo de inovar.Você será parte vital no desenvolvimento da nova plataforma de um de nossos principais clientes, trabalhando com boas práticas de desenvolvimento em um ambiente dinâmico que incentiva a autonomia e o aprendizado constante.Somos especialistas em softwares voltados ao mercado segurador. Estamos ajudando a impulsionar a transformação no setor de seguros no Brasil. Estamos presentes em São Paulo e Rio de Janeiro, duas das principais capitais do país.Estamos crescendo e precisamos de pessoas que amem tecnologia e que sejam fascinadas por aprender!Responsabilidades e atribuiçõesAtuação na equipe de projetos ULTRON da Confitec.Você será responsável pelo desenvolvimento e manutenção de sistemas utilizando Java e Spring Boot.Atuará monitorando e analisando a saúde e performance dos serviços.Requisitos e qualificaçõesPara fazer parte da equipe você precisa ter atuado em projetos ou conhecer muito bem as seguintes ferramentas e práticas de desenvolvimento:Java 8.Spring boot.Familiaridade com APIs.Noções de programação backend.Python Familiaridade com APIs.Frameworks: Flask ou Django.Você se destaca caso conheça: ReactGIT. Web API’s. DDD.AWS.Conhecimento em metodologia ágil.Informações adicionaisIfood Benefícios Horário FlexívelPrograma de custeio e incentivo a cursos e certificaçõesDesconto com faculdades parceirasPlano de SaúdePlano OdontológicoSeguro d…",
-      "score": 40,
-      "skills_match": [
-        "Java",
-        "Metodologias ágeis"
-      ],
-      "lacunas": [
-        "Spring",
-        "Python",
-        "Django",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T23:49:34Z",
-      "ultima_vista": "2026-09-28",
       "expirada": true
     },
     {
@@ -10553,32 +10442,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:48Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "0c3838a03fb441c48727552dae6c32f37f828f45",
-      "titulo": "Desenvolvedor Fullstack .NET / React - Pleno",
-      "empresa": "VENHA SER #SANGUELARANJA 🧡🚀",
-      "url": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTIwNTY3ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "fonte": "gupy",
-      "local": "São Paulo, São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-08-12T16:22:29Z",
-      "descricao": "A FCamara está em busca de um(a) Desenvolvedora Fullstack .NET / React - Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.Responsabilidades e atribuiçõesResponsabilidades e atribuições: Modelar arquiteturas de software em nuvem;Ter conhecimento das tecnologias utilizadas pela equipe;Ter capacidade de medir esforços e definir prazos de implementação;Saber lidar com pressão de prazos;Solucionar problemas que surgem durante os projetos;Habilidade de gerenciar conflitos e expectativas;Proatividade.Requisitos e qualificaçõesHard Skills:Conhecimentos em Cloud (AWS)Conhecimentos em Mensageria (Fila e tópico)Orientação a objetoInjeção de dependência .NETReact e TypeScriptDesign PatternsBanco de dados relacional (PostgreSQL e SQL Server)Micro serviços RabbitMQCapacidade de escrever código robusto, testável e validado;Conhecimento em aplicações que precisem responder em alta disponibilidade e alta performance.Soft Skills:Boa comunicação Raciocínio lógico e capacidade analítica;Autonomia, resolução de problemas. Espírito de equipe e capacidade de resolução de conflitos;Criatividade e Proatividade para imaginar diferentes cenários de uso das aplicações;Organização e Protagonismo. Atua de forma efetiva para cumprir prazos.Informações adicionais",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Microsserviços"
-      ],
-      "lacunas": [
-        ".NET",
-        "PostgreSQL",
-        "SQL Server",
-        "AWS"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-14T20:32:46Z",
-      "ultima_vista": "2026-09-28",
       "expirada": true
     },
     {
@@ -10712,7 +10575,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-09T15:01:45Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -10798,7 +10661,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-26T13:02:05Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -10958,7 +10821,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-26T17:00:54Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11037,7 +10900,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-09T13:01:21Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11060,7 +10923,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:31Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11081,7 +10944,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11106,7 +10969,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11216,7 +11079,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T20:32:23Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11738,7 +11601,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-13T17:37:14Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -11834,7 +11697,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T11:02:23Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "27f95c6108ae5a027f4006476b71056cb85be321",
@@ -11857,7 +11720,7 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-10-20T19:07:35Z",
       "ultima_vista": "2026-11-13",
-      "expirada": false
+      "expirada": true
     },
     {
       "id": "cb5d9f1c097d63bfc65d7a49825cdc1062ec63d3",
@@ -11912,7 +11775,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-11T17:49:42Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -12316,7 +12179,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-01T13:01:38Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -12404,7 +12267,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-30T16:38:49Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -13614,28 +13477,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-09-18T15:01:12Z",
       "ultima_vista": "2026-09-30",
-      "expirada": true
-    },
-    {
-      "id": "c4369e5647fb6407db7a68892293c99dd2fdaed8",
-      "titulo": "Desenvolvedor Full Stack - Foco Em QA / Testes | Voluntário",
-      "empresa": "RHRecruiter",
-      "url": "https://www.infojobs.com.br/vaga-de-desenvolvedor-full-stack-foco-qa-testes-voluntario-em-paraiba__12005661.aspx",
-      "fonte": "infojobs",
-      "local": "João Pessoa - PB",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-09-11T10:56:00Z",
-      "descricao": "Sua adequação\nVisualizar\nTotal de inscritos\nVisualizar\nEstamos em busca de um(a) Desenvolvedor(a) Fullstack com foco em QA / Testes para integrar nosso time de tecnologia em uma oportunidade voluntária.\r\n\r\nA atuação será direcionada principalmente para a qualidade dos nossos produtos, apoiando a identificação de falhas, validação de funcionalidades, testes de APIs RESTful e criação e evolução de testes automatizados.\r\n\r\nBuscamos alguém com perfil investigativo, que goste de entender como as aplicações funcionam, identificar comportamentos inesperados e investigar a causa raiz dos problemas encontrados.\r\n\r\nA oportunidade também permitirá contato com projetos reais, trabalhando de forma colaborativa com desenvolvedores Frontend e Backend e participando do ciclo de desenvolvimento e validação das aplicações.\r\n\r\nPrincipais Responsabilidades\r\n\r\nRealizar testes funcionais nas aplicações desenvolvidas pelo time;\r\n\r\nValidar funcionalidades e fluxos antes das entregas;\r\n\r\nTestar APIs RESTful e seus respectivos endpoints;\r\n\r\nUtilizar Postman ou Insomnia para consumo, validação e testes de APIs;\r\n\r\nCriar e executar testes unitários utilizando PHPUnit;\r\n\r\nIdentificar, documentar e reportar bugs encontrados;\r\n\r\nReproduzir erros e investigar possíveis causas;\r\n\r\nApoiar o time de desenvolvimento na validação de correções;\r\n\r\nRealizar testes de regressão após alterações no sistema;\r\n\r\nColaborar com desenvolvedores Frontend e Backend para melhoria contínua da qualidade das aplicações;\r\n\r\nCon…",
-      "score": 15,
-      "skills_match": [
-        "APIs REST"
-      ],
-      "lacunas": [
-        "Testes automatizados"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-09-16T11:22:50Z",
-      "ultima_vista": "2026-09-28",
       "expirada": true
     },
     {
