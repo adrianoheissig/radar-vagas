@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-28T01:02:51Z",
+  "atualizado_em": "2026-11-28T03:02:51Z",
   "total": 561,
   "vagas": [
     {
@@ -2677,6 +2677,55 @@
       "expirada": true
     },
     {
+      "id": "0ffb892bfbfdd5d0ac292fca58a307b2f51b2443",
+      "titulo": "Pessoa Analista Programadora .NET Core Pleno ou",
+      "empresa": "NAVA - Technology for Business",
+      "url": "https://www.adzuna.com.br/details/5981193380?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-27T22:12:44Z",
+      "descricao": "A NAVA está em busca de uma Pessoa Analista Desenvolvedora.Net Web ou Core para fazer parte do nosso time de pessoas incríveis! E para ser do time, é importante que você tenha: - Asp.net Core / ASP.NET: Visual Basic.Net / C#/ MVC - API’s Rest, WebServices, WCF; - Angular.JS (Desejável); - Oracle PL/SQL e SQL Server; - Trabalhar com Framework da empresa; - Noções de Devops; - Inglês Intermediário - ASP Clássico. Local de trabalho: Remoto Sobre a NAVA Somos uma empresa de tecnologia apaixonada po…",
+      "score": 55,
+      "skills_match": [
+        "Angular",
+        "APIs REST",
+        "SQL"
+      ],
+      "lacunas": [
+        "C#",
+        ".NET",
+        "Oracle",
+        "SQL Server",
+        "Inglês"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:57Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
+      "id": "663c645ce3ecd89c1e45d5b6441c8c7f71bbaed3",
+      "titulo": "Programador Fullstack Java - React 100% Remoto",
+      "empresa": "SAAM Auditoria",
+      "url": "https://www.adzuna.com.br/details/5981184745?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Anápolis, Goiás",
+      "modalidade": "remoto",
+      "data_publicacao": "2026-11-27T22:11:18Z",
+      "descricao": "Sobre a empresa: Somos a SISAUDCON! Fundada em 2011 na cidade de Anápolis/GO. Somos a detentora dos direitos de desenvolvimento e inteligência do sistema SAAM Auditoria. Buscamos e oferecemos inovação em soluções tecnológicas no âmbito fiscal e contábil. Sobre a vaga: - Desenvolvimento e manutenção do sistema; - Colaboração com equipes multidisciplinares para definir requesitos e arquitetura de software; - Implementação de melhores práticas de engenharia de software; - Avaliação e implementação…",
+      "score": 55,
+      "skills_match": [
+        "React",
+        "Java"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T07:01:03Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
       "id": "4cd066f4aad262e2fdcbceed6761cb51344bfb9d",
       "titulo": "Desenvolvedor (a) Full Stack (Java / React) - Remoto",
       "empresa": "ICON Solutions do Brasil",
@@ -3005,7 +3054,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:25Z",
-      "ultima_vista": "2026-11-26",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -4112,55 +4161,6 @@
       "experiencia_exigida": null,
       "data_coleta": "2026-11-02T07:01:05Z",
       "ultima_vista": "2026-11-09",
-      "expirada": true
-    },
-    {
-      "id": "0ffb892bfbfdd5d0ac292fca58a307b2f51b2443",
-      "titulo": "Pessoa Analista Programadora .NET Core Pleno ou",
-      "empresa": "NAVA - Technology for Business",
-      "url": "https://www.adzuna.com.br/details/5947357692?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-30T22:34:46Z",
-      "descricao": "A NAVA está em busca de uma Pessoa Analista Desenvolvedora.Net Web ou Core para fazer parte do nosso time de pessoas incríveis! E para ser do time, é importante que você tenha: - Asp.net Core / ASP.NET: Visual Basic.Net / C#/ MVC - API’s Rest, WebServices, WCF; - Angular.JS (Desejável); - Oracle PL/SQL e SQL Server; - Trabalhar com Framework da empresa; - Noções de Devops; - Inglês Intermediário - ASP Clássico. Local de trabalho: Remoto Sobre a NAVA Somos uma empresa de tecnologia apaixonada po…",
-      "score": 55,
-      "skills_match": [
-        "Angular",
-        "APIs REST",
-        "SQL"
-      ],
-      "lacunas": [
-        "C#",
-        ".NET",
-        "Oracle",
-        "SQL Server",
-        "Inglês"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T01:00:57Z",
-      "ultima_vista": "2026-11-01",
-      "expirada": true
-    },
-    {
-      "id": "663c645ce3ecd89c1e45d5b6441c8c7f71bbaed3",
-      "titulo": "Programador Fullstack Java - React 100% Remoto",
-      "empresa": "SAAM Auditoria",
-      "url": "https://www.adzuna.com.br/details/5947347766?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "Anápolis, Goiás",
-      "modalidade": "remoto",
-      "data_publicacao": "2026-10-30T22:32:24Z",
-      "descricao": "Sobre a empresa: Somos a SISAUDCON! Fundada em 2011 na cidade de Anápolis/GO. Somos a detentora dos direitos de desenvolvimento e inteligência do sistema SAAM Auditoria. Buscamos e oferecemos inovação em soluções tecnológicas no âmbito fiscal e contábil. Sobre a vaga: - Desenvolvimento e manutenção do sistema; - Colaboração com equipes multidisciplinares para definir requesitos e arquitetura de software; - Implementação de melhores práticas de engenharia de software; - Avaliação e implementação…",
-      "score": 55,
-      "skills_match": [
-        "React",
-        "Java"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T07:01:03Z",
-      "ultima_vista": "2026-11-01",
       "expirada": true
     },
     {
@@ -7955,6 +7955,51 @@
       "expirada": true
     },
     {
+      "id": "9a4bc710161fc752f97d47d5150b22a2ea1e99ff",
+      "titulo": "Desenvolvedor Web/ Front- End Jr/pl",
+      "empresa": "Taking",
+      "url": "https://www.adzuna.com.br/details/5981193382?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-27T22:12:44Z",
+      "descricao": "Código: 1743 Modelo: Hibrido - Vila Mariana. Contrato: CLT Beneficios. - Desenvolverdor WEB Front End Pleno com conhecimento em HTML,CSS,JS E REACT.",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "HTML",
+        "CSS"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
+      "id": "da0fb3fc46117df06f6fcb6c486491a0a917f3d9",
+      "titulo": "Desenvolvedor Full Stack Pleno-react e Node",
+      "empresa": "KVOIP BRASIL TELECOM",
+      "url": "https://www.adzuna.com.br/details/5981177367?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-27T22:10:05Z",
+      "descricao": "Funções da vaga: - Desenvolver e aprimorar nosso ERP, integrando APIs e implementando novas funcionalidades. - Trabalhar com banco de dados PostgreSQL (modelagem, queries e manutenção). - Atuar tanto no front-end quanto no back-end da plataforma. - Corrigir eventuais falhas, garantindo a estabilidade do sistema. - Contribuir ativamente com sugestões de melhorias para o produto e para os processos da empresa. Requisitos necessários para a vaga: - Experiência sólida em desenvolvimento fullstack (…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "PostgreSQL"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
       "id": "0c31a492694ce8f0aae2942ac0de87ce299451b4",
       "titulo": "Desenvolvedor(a) Back-end AI Engineer Pleno (TypeScript / LLM / Python) - Híbrido SP",
       "empresa": "WAKE UP TREINAMENTOS LTDA",
@@ -8210,7 +8255,7 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-14T23:49:17Z",
-      "ultima_vista": "2026-11-26",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -9578,29 +9623,6 @@
       "expirada": false
     },
     {
-      "id": "da0fb3fc46117df06f6fcb6c486491a0a917f3d9",
-      "titulo": "Desenvolvedor Full Stack Pleno-react e Node",
-      "empresa": "KVOIP BRASIL TELECOM",
-      "url": "https://www.adzuna.com.br/details/5947338460?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-30T22:30:05Z",
-      "descricao": "Funções da vaga: - Desenvolver e aprimorar nosso ERP, integrando APIs e implementando novas funcionalidades. - Trabalhar com banco de dados PostgreSQL (modelagem, queries e manutenção). - Atuar tanto no front-end quanto no back-end da plataforma. - Corrigir eventuais falhas, garantindo a estabilidade do sistema. - Contribuir ativamente com sugestões de melhorias para o produto e para os processos da empresa. Requisitos necessários para a vaga: - Experiência sólida em desenvolvimento fullstack (…",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "Node.js"
-      ],
-      "lacunas": [
-        "PostgreSQL"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T01:00:48Z",
-      "ultima_vista": "2026-11-01",
-      "expirada": true
-    },
-    {
       "id": "43db2d902bddc8bd75343e05ecc3d758db809a75",
       "titulo": "Analista De Sistemas Júnior",
       "empresa": "Randstad - Matriz",
@@ -9940,28 +9962,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:11:15Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": true
-    },
-    {
-      "id": "9a4bc710161fc752f97d47d5150b22a2ea1e99ff",
-      "titulo": "Desenvolvedor Web/ Front- End Jr/pl",
-      "empresa": "Taking",
-      "url": "https://www.adzuna.com.br/details/5909039811?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "hibrido",
-      "data_publicacao": "2026-10-02T21:50:16Z",
-      "descricao": "Código: 1743 Modelo: Hibrido - Vila Mariana. Contrato: CLT Beneficios. - Desenvolverdor WEB Front End Pleno com conhecimento em HTML,CSS,JS E REACT.",
-      "score": 40,
-      "skills_match": [
-        "React",
-        "HTML",
-        "CSS"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-05",
       "expirada": true
     },
@@ -10801,6 +10801,46 @@
       "expirada": true
     },
     {
+      "id": "44b3e8de9d8d70e02e7bfc51a7fa4c8358b2e829",
+      "titulo": "Analista de Requisitos",
+      "empresa": "Accenture",
+      "url": "https://www.adzuna.com.br/details/5981192809?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-27T22:12:39Z",
+      "descricao": "Accenture Operations SynOps for Marketing Paid Media Hub está procurando engenheiros de software experientes interessados em trabalhar em aplicativos Web React.js e flexíveis para trabalhar em Full Stack. - Atividades:_ O profissional com este perfil realizará as atividades pertinentes à definição e à gestão dos requisitos para implantação de Infraestrutura de TI (plataforma de Contact Center). O profissional atuará em projeto para: - Análise do problema dos usuários e stakeholders - Definição …",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
+      "id": "8f546f0b7230a1bab048279e2f16bdabd3e6e633",
+      "titulo": "Data Science Modelling",
+      "empresa": "Mondelēz International",
+      "url": "https://www.adzuna.com.br/details/5981176123?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-27T22:09:45Z",
+      "descricao": "Descrição do emprego: Are You Ready to Make It Happen at Mondelēz International? Join our Mission to Lead the Future of Snacking. Make It With Pride. You will help our business react to changing business conditions with excellent data analysis. You will define the requirements, perform the analysis and identify patterns in large amounts of data. How you will contribute You will: - Define requirements for analysis in a given business area and perform detailed analysis and identify trends defined…",
+      "score": 30,
+      "skills_match": [
+        "React"
+      ],
+      "lacunas": [],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-03T01:00:48Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
       "id": "e9d3c8d4da257cf5c1a65ebd628769fe4f3eee1d",
       "titulo": "Dev Full Stack (.NET/React) - Jr",
       "empresa": "Domvs IT",
@@ -10990,7 +11030,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-16T11:22:36Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -12229,26 +12269,6 @@
       "expirada": true
     },
     {
-      "id": "8f546f0b7230a1bab048279e2f16bdabd3e6e633",
-      "titulo": "Data Science Modelling",
-      "empresa": "Mondelēz International",
-      "url": "https://www.adzuna.com.br/details/5947336545?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-30T22:29:20Z",
-      "descricao": "Descrição do emprego: Are You Ready to Make It Happen at Mondelēz International? Join our Mission to Lead the Future of Snacking. Make It With Pride. You will help our business react to changing business conditions with excellent data analysis. You will define the requirements, perform the analysis and identify patterns in large amounts of data. How you will contribute You will: - Define requirements for analysis in a given business area and perform detailed analysis and identify trends defined…",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T01:00:48Z",
-      "ultima_vista": "2026-10-31",
-      "expirada": true
-    },
-    {
       "id": "fc5ba576014590877d46a89c15ee7d75526888ea",
       "titulo": "Desenvolvedor Fullstack Web .Net e Java",
       "empresa": "Rock Encantech",
@@ -12907,26 +12927,6 @@
       ],
       "experiencia_exigida": null,
       "data_coleta": "2026-09-15T11:10:53Z",
-      "ultima_vista": "2026-10-05",
-      "expirada": true
-    },
-    {
-      "id": "44b3e8de9d8d70e02e7bfc51a7fa4c8358b2e829",
-      "titulo": "Analista de Requisitos",
-      "empresa": "Accenture",
-      "url": "https://www.adzuna.com.br/details/5909039214?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-02T21:50:11Z",
-      "descricao": "Accenture Operations SynOps for Marketing Paid Media Hub está procurando engenheiros de software experientes interessados em trabalhar em aplicativos Web React.js e flexíveis para trabalhar em Full Stack. - Atividades:_ O profissional com este perfil realizará as atividades pertinentes à definição e à gestão dos requisitos para implantação de Infraestrutura de TI (plataforma de Contact Center). O profissional atuará em projeto para: - Análise do problema dos usuários e stakeholders - Definição …",
-      "score": 30,
-      "skills_match": [
-        "React"
-      ],
-      "lacunas": [],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-03T01:00:48Z",
       "ultima_vista": "2026-10-05",
       "expirada": true
     },
