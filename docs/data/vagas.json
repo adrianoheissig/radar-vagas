@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-28T15:02:54Z",
-  "total": 561,
+  "atualizado_em": "2026-11-28T18:06:17Z",
+  "total": 563,
   "vagas": [
     {
       "id": "178a792c231db2dc9af805af1976427ea879419a",
@@ -6847,7 +6847,7 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-11-12T07:00:50Z",
-      "ultima_vista": "2026-11-27",
+      "ultima_vista": "2026-11-28",
       "expirada": false
     },
     {
@@ -7947,6 +7947,29 @@
       "data_coleta": "2026-09-14T20:32:49Z",
       "ultima_vista": "2026-09-30",
       "expirada": true
+    },
+    {
+      "id": "cd1e39f67263307d4a0d19bee189dbc6115f8e9c",
+      "titulo": "11422 - Desenvolvedor Fullstack Node e React",
+      "empresa": "Talent Group",
+      "url": "https://www.adzuna.com.br/details/5981997082?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-28T14:36:48Z",
+      "descricao": "Detalhes da vaga Desenvolvedor(a) Full Stack Sênior — Node.js | React | MongoDBOportunidade em uma das maiores operadoras de Saúde do Brasil!Se você busca desafios reais, ambiente colaborativo e a chance de atuar em soluções de grande impacto nacional, essa vaga é para você!Responsabilidades:Desenvolver e manter aplicações web utilizando Node.js no backend e React no frontend.Projetar, modelar e administrar bancos de dados MongoDB com foco em performance e escalabilidade.Criar, evoluir e consum…",
+      "score": 40,
+      "skills_match": [
+        "React",
+        "Node.js"
+      ],
+      "lacunas": [
+        "MongoDB"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-28T18:04:19Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
     },
     {
       "id": "e7e1abaef5430e3e351295c7bebcab34bbaae2e7",
@@ -10795,6 +10818,55 @@
       "expirada": true
     },
     {
+      "id": "4ede7a07084afe395a0a37d78027f087f4f5ee45",
+      "titulo": "Desenvolvedor(a) Back-end AI Engineer Pleno (TypeScript / LLM / Python) - Híbrido SP",
+      "empresa": "Wake Up Treinamentos",
+      "url": "https://www.adzuna.com.br/details/5981968006?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "Itaim Bibi, Zona Sul",
+      "modalidade": "hibrido",
+      "data_publicacao": "2026-11-28T14:21:13Z",
+      "descricao": "Buscamos uma pessoa Engenheira de Produto Pleno para ser dona da estabilidade e evolução contínua de uma plataforma digital de alta escala com mais de 1 milhão de usuários ativos e transações diárias! Nesta posição, sustentação não significa apenas atender chamados: significa investigar causas-raiz, entender o impacto do problema no negócio e refatorar código legado para gerar melhorias estruturais definitivas. Modelo: Híbrido (3 dias presenciais / 2 dias Home Office) — Vila Gertrudes (Zona Su…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript"
+      ],
+      "lacunas": [
+        "Python"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-11-28T18:04:31Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
+      "id": "09490cc37099f3c24565f609e1f6cdd06ed867c6",
+      "titulo": "Desenvolvedor Full Stack",
+      "empresa": "Ewave Do Brasil Informatica",
+      "url": "https://www.adzuna.com.br/details/5981959017?utm_medium=api&utm_source=267e525f",
+      "fonte": "adzuna",
+      "local": "São Paulo, Estado de São Paulo",
+      "modalidade": "indefinido",
+      "data_publicacao": "2026-11-28T14:13:35Z",
+      "descricao": "Description Sobre a empresa: Unidade de negócio do Grupo Corpay, líder global em pagamentos empresariais, que oferece o mais amplo portfólio de soluções para gestão de veículos e benefícios. Fullstack com foco em backend: Fullstack com foco em banco de dados, SQL e NoSQL, focado em performance e estrutura de dados. Requirements Fullstack com foco em backend: Typescript NEST GoLang Gitflow Bancos de dados Oracle, SQL e Elastic Search. Openshift API Rest Redis Kafka Micro serviços e sistemas dist…",
+      "score": 30,
+      "skills_match": [
+        "TypeScript",
+        "APIs REST",
+        "Microsserviços",
+        "SQL"
+      ],
+      "lacunas": [
+        "Go",
+        "Oracle",
+        "Redis"
+      ],
+      "experiencia_exigida": null,
+      "data_coleta": "2026-10-11T15:01:12Z",
+      "ultima_vista": "2026-11-28",
+      "expirada": false
+    },
+    {
       "id": "44b3e8de9d8d70e02e7bfc51a7fa4c8358b2e829",
       "titulo": "Analista de Requisitos",
       "empresa": "Accenture",
@@ -12659,33 +12731,6 @@
       "lacunas": [],
       "experiencia_exigida": null,
       "data_coleta": "2026-10-12T07:01:02Z",
-      "ultima_vista": "2026-10-16",
-      "expirada": true
-    },
-    {
-      "id": "09490cc37099f3c24565f609e1f6cdd06ed867c6",
-      "titulo": "Desenvolvedor Full Stack",
-      "empresa": "Ewave Do Brasil Informatica",
-      "url": "https://www.adzuna.com.br/details/5922291986?utm_medium=api&utm_source=267e525f",
-      "fonte": "adzuna",
-      "local": "São Paulo, Estado de São Paulo",
-      "modalidade": "indefinido",
-      "data_publicacao": "2026-10-10T12:21:39Z",
-      "descricao": "Description Sobre a empresa: Unidade de negócio do Grupo Corpay, líder global em pagamentos empresariais, que oferece o mais amplo portfólio de soluções para gestão de veículos e benefícios. Fullstack com foco em backend: Fullstack com foco em banco de dados, SQL e NoSQL, focado em performance e estrutura de dados. Requirements Fullstack com foco em backend: Typescript NEST GoLang Gitflow Bancos de dados Oracle, SQL e Elastic Search. Openshift API Rest Redis Kafka Micro serviços e sistemas dist…",
-      "score": 30,
-      "skills_match": [
-        "TypeScript",
-        "APIs REST",
-        "Microsserviços",
-        "SQL"
-      ],
-      "lacunas": [
-        "Go",
-        "Oracle",
-        "Redis"
-      ],
-      "experiencia_exigida": null,
-      "data_coleta": "2026-10-11T15:01:12Z",
       "ultima_vista": "2026-10-16",
       "expirada": true
     },
